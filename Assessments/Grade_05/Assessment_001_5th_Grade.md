@@ -10,9 +10,8 @@ D) The ending of the story
 
 ---
 
-B
 
-> Card  
+///  
 
 ## Which word is a noun?
 
@@ -28,7 +27,7 @@ D) Jump
 
 B  
 
-> Card  
+///  
 
 ## True or False: A verb is a word that shows action or being.
 
@@ -40,7 +39,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does the word "brave" mean?
 
@@ -56,7 +55,7 @@ D) Quiet
 
 B  
 
-> Card  
+///  
 
 ## Which sentence is written correctly?
 
@@ -72,7 +71,7 @@ D) The cat ran fast
 
 B  
 
-> Card  
+///  
 
 ## What is a synonym for "happy"?
 
@@ -88,7 +87,7 @@ D) Sleepy
 
 B  
 
-> Card  
+///  
 
 ## True or False: The sun is a star.
 
@@ -100,7 +99,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What do plants need to grow?
 
@@ -116,7 +115,7 @@ D) Darkness
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a continent?
 
@@ -132,7 +131,7 @@ D) Texas
 
 B  
 
-> Card  
+///  
 
 ## Who was the first president of the United States?
 
@@ -148,7 +147,7 @@ D) Benjamin Franklin
 
 B  
 
-> Card  
+///  
 
 ## What is the setting of a story?
 
@@ -164,7 +163,7 @@ D) The lesson learned
 
 B  
 
-> Card  
+///  
 
 ## Which word is an adjective?
 
@@ -180,7 +179,7 @@ D) Fast
 
 A  
 
-> Card  
+///  
 
 ## True or False: A period (.) goes at the end of a question.
 
@@ -192,7 +191,7 @@ B) False
 
 B  
 
-> Card  
+///  
 
 ## What does "predict" mean?
 
@@ -208,7 +207,7 @@ D) To ask a question
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a complete sentence?
 
@@ -224,7 +223,7 @@ D) Happy little girl
 
 B  
 
-> Card  
+///  
 
 ## What is the force that pulls objects toward the ground?
 
@@ -240,7 +239,7 @@ D) Electricity
 
 B  
 
-> Card  
+///  
 
 ## True or False: The Earth has one moon.
 
@@ -252,7 +251,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What do you call a person who studies rocks?
 
@@ -268,7 +267,7 @@ D) Chemist
 
 C  
 
-> Card  
+///  
 
 ## Which of these is a state in the United States?
 
@@ -284,7 +283,7 @@ D) England
 
 A  
 
-> Card  
+///  
 
 ## What is a map used for?
 
@@ -300,7 +299,7 @@ D) To draw pictures
 
 B  
 
-> Card  
+///  
 
 ## What is the moral of a story?
 
@@ -316,7 +315,7 @@ D) The characters
 
 B  
 
-> Card  
+///  
 
 ## Which word is a verb?
 
@@ -332,7 +331,7 @@ D) Chair
 
 B  
 
-> Card  
+///  
 
 ## True or False: Every sentence needs a subject and a verb.
 
@@ -344,7 +343,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does "enormous" mean?
 
@@ -360,7 +359,7 @@ D) Very loud
 
 B  
 
-> Card  
+///  
 
 ## Which sentence uses correct punctuation?
 
@@ -376,7 +375,7 @@ D) I like to play soccer?
 
 B  
 
-> Card  
+///  
 
 ## What is the source of energy for Earth?
 
@@ -392,7 +391,7 @@ D) The wind
 
 B  
 
-> Card  
+///  
 
 ## True or False: Animals need air to live.
 
@@ -404,7 +403,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a planet?
 
@@ -420,7 +419,7 @@ D) Star
 
 B  
 
-> Card  
+///  
 
 ## What do you call the leader of a city?
 
@@ -436,7 +435,7 @@ D) King
 
 C  
 
-> Card  
+///  
 
 ## True or False: The United States has 50 states.
 
@@ -448,7 +447,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What do you call the person a story is mostly about?
 
@@ -464,7 +463,7 @@ D) The author
 
 B  
 
-> Card  
+///  
 
 ## Which word is an adverb?
 
@@ -480,7 +479,7 @@ D) Tree
 
 A  
 
-> Card  
+///  
 
 ## True or False: A question mark (?) goes at the end of a statement.
 
@@ -492,7 +491,7 @@ B) False
 
 B  
 
-> Card  
+///  
 
 ## What does "compare" mean?
 
@@ -508,7 +507,7 @@ D) To ask a question
 
 B  
 
-> Card  
+///  
 
 ## Which sentence has a capital letter where it should?
 
@@ -524,7 +523,7 @@ D) the dog is Brown
 
 B  
 
-> Card  
+///  
 
 ## What do plants give off that humans breathe?
 
@@ -540,7 +539,7 @@ D) Sugar
 
 A  
 
-> Card  
+///  
 
 ## True or False: The Earth spins once every day.
 
@@ -552,7 +551,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a living thing?
 
@@ -568,7 +567,7 @@ D) Car
 
 B  
 
-> Card  
+///  
 
 ## What is the capital city of the United States?
 
@@ -584,7 +583,7 @@ D) Texas
 
 C  
 
-> Card  
+///  
 
 ## True or False: A desert is a very wet place.
 
@@ -596,7 +595,7 @@ B) False
 
 B  
 
-> Card  
+///  
 
 ## What is the beginning of a story called?
 
@@ -612,7 +611,7 @@ D) The middle
 
 B  
 
-> Card  
+///  
 
 ## Which word is a noun?
 
@@ -628,7 +627,7 @@ D) Sing
 
 B  
 
-> Card  
+///  
 
 ## True or False: An exclamation mark (!) shows excitement.
 
@@ -640,7 +639,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does "tiny" mean?
 
@@ -656,7 +655,7 @@ D) Very fast
 
 B  
 
-> Card  
+///  
 
 ## Which sentence is a question?
 
@@ -672,7 +671,7 @@ D) I see the bird
 
 B  
 
-> Card  
+///  
 
 ## What causes day and night?
 
@@ -688,7 +687,7 @@ D) The clouds
 
 B  
 
-> Card  
+///  
 
 ## True or False: Water can be a solid, liquid, or gas.
 
@@ -700,7 +699,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a type of weather?
 
@@ -716,7 +715,7 @@ D) Forest
 
 B  
 
-> Card  
+///  
 
 ## What do you call a large body of land surrounded by water?
 
@@ -732,7 +731,7 @@ D) A forest
 
 B  
 
-> Card  
+///  
 
 ## True or False: Christopher Columbus sailed to America in 1492.
 
@@ -744,7 +743,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What is the problem in a story called?
 
@@ -760,7 +759,7 @@ D) The theme
 
 B  
 
-> Card  
+///  
 
 ## Which word is a verb?
 
@@ -776,7 +775,7 @@ D) Chair
 
 B  
 
-> Card  
+///  
 
 ## True or False: A comma (,) is used to separate items in a list.
 
@@ -788,7 +787,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does "shout" mean?
 
@@ -804,7 +803,7 @@ D) To run fast
 
 B  
 
-> Card  
+///  
 
 ## Which sentence uses quotation marks correctly?
 
@@ -820,7 +819,7 @@ D) "Mom said, Clean your room"
 
 A  
 
-> Card  
+///  
 
 ## What is the closest star to Earth?
 
@@ -836,7 +835,7 @@ D) Jupiter
 
 B  
 
-> Card  
+///  
 
 ## True or False: Frogs are amphibians.
 
@@ -848,7 +847,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a mammal?
 
@@ -864,7 +863,7 @@ D) Lizard
 
 C  
 
-> Card  
+///  
 
 ## What is a globe?
 
@@ -880,7 +879,7 @@ D) A clock
 
 B  
 
-> Card  
+///  
 
 ## True or False: The Mississippi River is in the United States.
 
@@ -892,7 +891,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What do you call the end of a story?
 
@@ -908,7 +907,7 @@ D) The setting
 
 C  
 
-> Card  
+///  
 
 ## Which word is an adjective?
 
@@ -924,7 +923,7 @@ D) Sing
 
 B  
 
-> Card  
+///  
 
 ## True or False: A noun names a person, place, or thing.
 
@@ -936,7 +935,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does "chilly" mean?
 
@@ -952,7 +951,7 @@ D) Very bright
 
 B  
 
-> Card  
+///  
 
 ## Which sentence is written correctly?
 
@@ -968,7 +967,7 @@ D) I like to read Books
 
 B  
 
-> Card  
+///  
 
 ## What do animals need to survive?
 
@@ -984,7 +983,7 @@ D) Books
 
 A  
 
-> Card  
+///  
 
 ## True or False: The Moon makes its own light.
 
@@ -996,7 +995,7 @@ B) False
 
 B  
 
-> Card  
+///  
 
 ## Which of these is a type of rock?
 
@@ -1012,7 +1011,7 @@ D) Glass
 
 B  
 
-> Card  
+///  
 
 ## What do you call someone who studies the stars?
 
@@ -1028,7 +1027,7 @@ D) Chemist
 
 C  
 
-> Card  
+///  
 
 ## True or False: A year has 365 days.
 
@@ -1040,7 +1039,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What is the theme of a story?
 
@@ -1056,7 +1055,7 @@ D) The plot
 
 B  
 
-> Card  
+///  
 
 ## Which word is an adverb?
 
@@ -1072,7 +1071,7 @@ D) Tree
 
 B  
 
-> Card  
+///  
 
 ## True or False: A sentence always needs a period at the end.
 
@@ -1084,7 +1083,7 @@ B) False
 
 B  
 
-> Card  
+///  
 
 ## What does "glad" mean?
 
@@ -1100,7 +1099,7 @@ D) Tired
 
 B  
 
-> Card  
+///  
 
 ## Which sentence has correct grammar?
 
@@ -1116,7 +1115,7 @@ D) She runned to the park.
 
 B  
 
-> Card  
+///  
 
 ## What makes the seasons change?
 
@@ -1132,7 +1131,7 @@ D) The stars
 
 A  
 
-> Card  
+///  
 
 ## True or False: Birds have feathers.
 
@@ -1144,7 +1143,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a source of light?
 
@@ -1160,7 +1159,7 @@ D) A chair
 
 B  
 
-> Card  
+///  
 
 ## What do you call a large group of people living together?
 
@@ -1176,7 +1175,7 @@ D) A team
 
 B  
 
-> Card  
+///  
 
 ## True or False: The Declaration of Independence was signed in 1776.
 
@@ -1188,7 +1187,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What is the plot of a story?
 
@@ -1204,7 +1203,7 @@ D) The lesson
 
 A  
 
-> Card  
+///  
 
 ## Which word is a noun?
 
@@ -1220,7 +1219,7 @@ D) Jump
 
 B  
 
-> Card  
+///  
 
 ## True or False: An apostrophe (') can show possession.
 
@@ -1232,7 +1231,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does "rapid" mean?
 
@@ -1248,7 +1247,7 @@ D) Small
 
 B  
 
-> Card  
+///  
 
 ## Which sentence uses a comma correctly?
 
@@ -1264,7 +1263,7 @@ D) I, have a dog and a cat
 
 A  
 
-> Card  
+///  
 
 ## What is the largest planet in our solar system?
 
@@ -1280,7 +1279,7 @@ D) Saturn
 
 C  
 
-> Card  
+///  
 
 ## True or False: Insects have six legs.
 
@@ -1292,7 +1291,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a natural resource?
 
@@ -1308,7 +1307,7 @@ D) Glass
 
 B  
 
-> Card  
+///  
 
 ## What do you call the money used in a country?
 
@@ -1324,7 +1323,7 @@ D) Map
 
 A  
 
-> Card  
+///  
 
 ## True or False: The equator is an imaginary line around the Earth.
 
@@ -1336,7 +1335,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What is dialogue in a story?
 
@@ -1352,7 +1351,7 @@ D) The problem
 
 B  
 
-> Card  
+///  
 
 ## Which word is a verb?
 
@@ -1368,7 +1367,7 @@ D) Leaf
 
 B  
 
-> Card  
+///  
 
 ## True or False: A pronoun can replace a noun.
 
@@ -1380,7 +1379,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## What does "calm" mean?
 
@@ -1396,7 +1395,7 @@ D) Angry
 
 B  
 
-> Card  
+///  
 
 ## Which sentence is complete?
 
@@ -1412,7 +1411,7 @@ D) Happy children
 
 B  
 
-> Card  
+///  
 
 ## What do you call the path the Earth takes around the Sun?
 
@@ -1428,7 +1427,7 @@ D) Circle
 
 A  
 
-> Card  
+///  
 
 ## True or False: Rainbows are caused by sunlight and water.
 
@@ -1440,7 +1439,7 @@ B) False
 
 A  
 
-> Card  
+///  
 
 ## Which of these is a reptile?
 
@@ -1456,7 +1455,7 @@ D) Bird
 
 B  
 
-> Card  
+///  
 
 ## What is the biggest ocean on Earth?
 
@@ -1472,7 +1471,7 @@ D) Arctic
 
 B  
 
-> Card  
+///  
 
 ## True or False: Abraham Lincoln was a U.S. president.
 
@@ -1483,5 +1482,3 @@ B) False
 ---
 
 A  
-
-> Card

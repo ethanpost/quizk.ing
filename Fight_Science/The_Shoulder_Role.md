@@ -78,7 +78,7 @@
 - Inversion - Position where hips are elevated above the head
 - Shoulder Balancing - The ability to support body weight primarily on the shoulders while minimizing pressure on the neck
 
-> Card
+///
 
 ## According to the video, what is the primary purpose of the shoulder roll?
 
@@ -94,7 +94,7 @@ D) As a warm-up exercise before martial arts training
 
 B
 
-> Card
+///
 
 ## What is the first step in learning the shoulder roll?
 
@@ -110,7 +110,7 @@ D) Starting from a kneeling position
 
 C
 
-> Card
+///
 
 ## When in the inverted shoulder position, where should your toes be?
 
@@ -126,7 +126,7 @@ D) Behind your head
 
 C
 
-> Card
+///
 
 ## What should you do to assist yourself when first learning to get your toes to the mat?
 
@@ -142,7 +142,7 @@ D) Start from a kneeling position
 
 B
 
-> Card
+///
 
 ## What breathing technique is recommended during the shoulder roll?
 
@@ -158,7 +158,7 @@ D) Take rapid shallow breaths
 
 C
 
-> Card
+///
 
 ## Where should most of your weight be distributed during the shoulder roll?
 
@@ -174,7 +174,7 @@ D) Evenly across your upper back
 
 B
 
-> Card
+///
 
 ## What is the second step in learning the shoulder roll after holding the final position?
 
@@ -190,7 +190,7 @@ D) Using the wall for assistance
 
 B
 
-> Card
+///
 
 ## When doing the wall-assisted shoulder roll, how close should your hips be to the wall?
 
@@ -206,7 +206,7 @@ D) It doesn't matter
 
 C
 
-> Card
+///
 
 ## What does Patrick recommend regarding the speed of practicing the shoulder roll?
 
@@ -222,7 +222,7 @@ D) Start fast and then slow down
 
 C
 
-> Card
+///
 
 ## When transitioning from the shoulder roll position to sitting, where do you bring your hips?
 
@@ -238,7 +238,7 @@ D) Forward
 
 C
 
-> Card
+///
 
 ## What is a "guard" in the context of the video?
 
@@ -254,7 +254,7 @@ D) A striking technique
 
 B
 
-> Card
+///
 
 ## What should you do with your head during the shoulder roll?
 
@@ -270,7 +270,7 @@ D) Lift it up
 
 B
 
-> Card
+///
 
 ## From the kneeling shoulder roll, approximately how many degrees do you rotate?
 
@@ -286,7 +286,7 @@ D) Between 90-180 degrees
 
 D
 
-> Card
+///
 
 ## What is weight distribution in the context of the shoulder roll?
 
@@ -302,7 +302,7 @@ D) The pressure applied to an opponent
 
 B
 
-> Card
+///
 
 ## What part of the body should you use to elevate your hips during the roll?
 
@@ -318,7 +318,7 @@ D) Knees
 
 C
 
-> Card
+///
 
 ## What is an inversion in the context of the shoulder roll?
 
@@ -334,7 +334,7 @@ D) Rotating from left to right
 
 B
 
-> Card
+///
 
 ## True or False: The shoulder roll should only be practiced on one side of the body.
 
@@ -346,7 +346,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What is the final instruction given by Patrick regarding the use of these techniques?
 

@@ -78,7 +78,7 @@
 - Net Present Value (NPV) - Method to calculate the current value of future cash flows
 - Internal Rate of Return (IRR) - Interest rate at which the net present value of all cash flows equals zero
 
-> Card
+///
 
 ## Which of the following financial statements provides a snapshot of a company's assets, liabilities, and equity at a specific point in time?
 
@@ -94,7 +94,7 @@ D) Profit and Loss Statement
 
 C
 
-> Card
+///
 
 ## According to the transcript, profit is recognized when:
 
@@ -110,7 +110,7 @@ D) Inventory is purchased
 
 B
 
-> Card
+///
 
 ## In the inventor example, what was the cash flow generated?
 
@@ -126,7 +126,7 @@ D) -$8000
 
 D
 
-> Card
+///
 
 ## True or False: A business can be profitable yet go bankrupt.
 
@@ -138,7 +138,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Which financial statement is described as a "movie of profitability"?
 
@@ -154,7 +154,7 @@ D) Statement of Retained Earnings
 
 C
 
-> Card
+///
 
 ## What was Apple's approximate book value per share in 2019 according to the transcript?
 
@@ -170,7 +170,7 @@ D) $4.7
 
 B
 
-> Card
+///
 
 ## What was Apple's approximate market value per share in early May 2019?
 
@@ -186,7 +186,7 @@ D) $4.7
 
 C
 
-> Card
+///
 
 ## The difference between book value and market value is that book value looks:
 
@@ -202,7 +202,7 @@ D) At equityx, while market value looks at debt
 
 B
 
-> Card
+///
 
 ## Which of these is NOT mentioned as a way to drive operating income?
 
@@ -218,7 +218,7 @@ D) Productivity enhancement
 
 C
 
-> Card
+///
 
 ## What is described as a way to increase operating income by "selling the higher margin products and services in your portfolio"?
 
@@ -234,7 +234,7 @@ D) Productivity
 
 C
 
-> Card
+///
 
 ## The concept that $100 today is worth more than $100 one year from now is called:
 
@@ -250,7 +250,7 @@ D) Compounding interest
 
 B
 
-> Card
+///
 
 ## True or False: According to the transcript, the only way to drive operating income is through cost-cutting.
 
@@ -262,7 +262,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## If you have negative cash flow but positive profit, it means:
 
@@ -278,7 +278,7 @@ D) Your business model is fundamentally flawed
 
 C
 
-> Card
+///
 
 ## In the inventor example, what was the profit margin per unit?
 
@@ -294,7 +294,7 @@ D) $5000
 
 C
 
-> Card
+///
 
 ## Which of these is mentioned as a reason why money today is worth more than money in the future?
 
@@ -310,7 +310,7 @@ D) Corporate governance
 
 B
 
-> Card
+///
 
 ## What does the cash flow statement track?
 
@@ -326,7 +326,7 @@ D) Profit and loss during a period
 
 C
 
-> Card
+///
 
 ## True or False: Net Present Value (NPV) and Internal Rate of Return (IRR) are concepts related to the time value of money.
 
@@ -338,7 +338,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Which of the following is calculated by subtracting Cost of Goods Sold from Revenue?
 
@@ -354,7 +354,7 @@ D) Market value
 
 B
 
-> Card
+///
 
 ## What does COGS stand for?
 
@@ -370,7 +370,7 @@ D) Corporate Operating Gain/Shortfall
 
 B
 
-> Card
+///
 
 ## According to the transcript, what are the components shown on a balance sheet?
 

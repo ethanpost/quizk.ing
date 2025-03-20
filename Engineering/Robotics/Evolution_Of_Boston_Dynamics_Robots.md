@@ -145,7 +145,7 @@
 - Stretch: A versatile mobile robot for warehouse operations that can unload trucks and build pallets autonomously.
 - DARPA Robotics Challenge: A competition meant to accelerate robotics technology development for disaster response, for which Atlas was originally created.
 
-> Card
+///
 
 ## According to the transcript, when was Boston Dynamics founded?
 
@@ -161,7 +161,7 @@ D) 2005
 
 B
 
-> Card
+///
 
 ## What was the first robot created by Boston Dynamics?
 
@@ -177,7 +177,7 @@ D) PETMAN
 
 C
 
-> Card
+///
 
 ## What was BigDog designed to do?
 
@@ -193,7 +193,7 @@ D) Perform parkour
 
 B
 
-> Card
+///
 
 ## How tall was the original BigDog robot?
 
@@ -209,7 +209,7 @@ D) 3 feet
 
 C
 
-> Card
+///
 
 ## Why was the BigDog project discontinued in 2015?
 
@@ -225,7 +225,7 @@ D) It was replaced by Atlas
 
 C
 
-> Card
+///
 
 ## What does PETMAN stand for?
 
@@ -241,7 +241,7 @@ D) Personal Electronic Technology for Military Applications Network
 
 B
 
-> Card
+///
 
 ## What features made PETMAN more human-like?
 
@@ -257,7 +257,7 @@ D) It had realistic synthetic skin
 
 C
 
-> Card
+///
 
 ## What is the maximum height Sand Flea could jump?
 
@@ -273,7 +273,7 @@ D) Four stories
 
 B
 
-> Card
+///
 
 ## What powers Sand Flea's jumping mechanism?
 
@@ -289,7 +289,7 @@ D) Hydraulics
 
 C
 
-> Card
+///
 
 ## How fast could the Cheetah robot run at its maximum speed?
 
@@ -305,7 +305,7 @@ D) 28.3 miles per hour
 
 D
 
-> Card
+///
 
 ## How did Cheetah's top speed compare to Usain Bolt's world record?
 
@@ -321,7 +321,7 @@ D) It was faster by 5 mph
 
 C
 
-> Card
+///
 
 ## What was Atlas originally created for?
 
@@ -337,7 +337,7 @@ D) Commercial warehouse operations
 
 B
 
-> Card
+///
 
 ## What percentage success rate did Atlas achieve with its parkour tricks?
 
@@ -353,7 +353,7 @@ D) 90%
 
 C
 
-> Card
+///
 
 ## What was the price of Spot when it became commercially available in 2020?
 
@@ -369,7 +369,7 @@ D) $99,999
 
 C
 
-> Card
+///
 
 ## How long can Spot operate on a single charge?
 
@@ -385,7 +385,7 @@ D) 120 minutes
 
 C
 
-> Card
+///
 
 ## What organization did Boston Dynamics partner with to explore other planets?
 
@@ -401,7 +401,7 @@ D) Blue Origin
 
 B
 
-> Card
+///
 
 ## What is the maximum weight that Spot can carry?
 
@@ -417,7 +417,7 @@ D) 20 kilograms
 
 C
 
-> Card
+///
 
 ## Which company acquired Boston Dynamics in 2020?
 
@@ -433,7 +433,7 @@ D) Hyundai Motor Group
 
 D
 
-> Card
+///
 
 ## What is the primary purpose of the Handle robot?
 
@@ -449,7 +449,7 @@ D) Medical assistance
 
 B
 
-> Card
+///
 
 ## Which Boston Dynamics robot is specifically designed for depalletizing tasks?
 
@@ -465,7 +465,7 @@ D) Atlas
 
 B
 
-> Card
+///
 
 ## True or False: Boston Dynamics says it will partner with organizations that want to use their robots as weapons.
 
@@ -477,7 +477,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What technology does Atlas use in its head to avoid obstacles?
 
@@ -493,7 +493,7 @@ D) Radar
 
 C
 
-> Card
+///
 
 ## Which Boston Dynamics robot was known for being the quietest the company had built?
 
@@ -509,7 +509,7 @@ D) Wildcat
 
 C
 
-> Card
+///
 
 ## What was the top speed of the Wildcat robot?
 
@@ -525,7 +525,7 @@ D) 30 miles per hour
 
 B
 
-> Card
+///
 
 ## How many jumps could Sand Flea make before running out of power?
 
@@ -541,7 +541,7 @@ D) 40 jumps
 
 C
 
-> Card
+///
 
 ## What are hydraulic actuators used for in robots like PETMAN?
 

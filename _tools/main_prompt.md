@@ -18,9 +18,9 @@ Use the transcript in this file to complete this task to the best of your abilit
 - Pyramid - A large stone structure built as a tomb for a pharaoh and their consorts.
 - Pharoh - The ruler of Egypt.
 
-2. Add a "> Card" string below the outline with a blank line above and below the string.
+2. Add a "///" string below the outline with a blank line above and below the string.
 
-3. Generate a quiz.  Create a multiple choice quiz from the transcript and add it below the outline. Make sure you adhere to the following format. Do not number the questions. You can create True/False questions or multiple choice questions. A True/False question should have two possible answers, True or False. Create as many questions as needed to cover all of the content. Better to error on the side of too many questions than not enough. Make sure to include questions for each of the terms in the outline. Each questions should end with a "> Card" on a new line. See the example below:
+3. Generate a quiz.  Create a multiple choice quiz from the transcript and add it below the outline. Make sure you adhere to the following format. Do not number the questions. You can create True/False questions or multiple choice questions. A True/False question should have two possible answers, True or False. Create as many questions as needed to cover all of the content. Better to error on the side of too many questions than not enough. Make sure to include questions for each of the terms in the outline. Each questions should end with a "///" on a new line. See the example below:
 
 ## According to the video, what is the 'motor' of a sentence?
 
@@ -36,4 +36,4 @@ D) Adverb
 
 B
 
-> Card
+///

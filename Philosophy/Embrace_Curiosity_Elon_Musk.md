@@ -1,4 +1,4 @@
-I'll create a detailed outline with major and minor points, add a "> Card" string, and generate a multiple choice quiz based on the transcript about Elon Musk's philosophy of curiosity.
+I'll create a detailed outline with major and minor points, add a "///" string, and generate a multiple choice quiz based on the transcript about Elon Musk's philosophy of curiosity.
 
 # Elon Musk's Philosophy of Curiosity
 
@@ -58,7 +58,7 @@ I'll create a detailed outline with major and minor points, add a "> Card" strin
 - Obsessive Curiosity - The intense, persistent desire to understand and discover that Musk considers crucial for success
 - xAI - Musk's artificial intelligence company aimed at accelerating human scientific discovery
 
-> Card
+///
 
 ## According to the transcript, at what age did Elon Musk begin grappling with existential questions?
 
@@ -71,7 +71,7 @@ D) 20
 
 B
 
-> Card
+///
 
 ## Which of the following best describes Musk's "philosophy of curiosity"?
 
@@ -84,7 +84,7 @@ D) A religious doctrine that seeks to convert people to scientific thinking
 
 B
 
-> Card
+///
 
 ## What does Musk believe is necessary to truly satisfy our curiosity about the universe?
 
@@ -97,7 +97,7 @@ D) Focusing exclusively on Earth's problems first
 
 C
 
-> Card
+///
 
 ## According to the transcript, which of Musk's companies aims to make humanity a multiplanetary species?
 
@@ -110,7 +110,7 @@ D) SpaceX
 
 D
 
-> Card
+///
 
 ## What does Musk consider to be the most important attribute for success?
 
@@ -123,7 +123,7 @@ D) Political connections
 
 C
 
-> Card
+///
 
 ## True or False: Musk believes his philosophy of curiosity is incompatible with existing religions.
 
@@ -134,7 +134,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What conclusion did Musk reach about a worthwhile path forward after his existential questioning?
 
@@ -147,7 +147,7 @@ D) Focusing solely on Earth's environmental problems
 
 B
 
-> Card
+///
 
 ## What is a "multiplanetary species" in the context of Musk's philosophy?
 
@@ -160,7 +160,7 @@ D) Advanced AI systems distributed across planets
 
 C
 
-> Card
+///
 
 ## What does "obsessive curiosity" refer to in Musk's worldview?
 
@@ -173,7 +173,7 @@ D) A marketing strategy for his companies
 
 B
 
-> Card
+///
 
 ## What is the purpose of xAI according to the transcript?
 
@@ -186,7 +186,7 @@ D) To develop virtual reality experiences
 
 C
 
-> Card
+///
 
 ## True or False: Musk believes curiosity should primarily be directed toward profitable ventures.
 
@@ -197,7 +197,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## How does Musk's philosophy relate to his approach to learning?
 

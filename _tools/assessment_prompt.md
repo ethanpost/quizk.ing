@@ -5,7 +5,7 @@ Language Arts
 Science
 Social Studies
 
-Make sure you adhere to the following format. Do not number the questions. You can create True/False questions or multiple choice questions. A True/False question should have two possible answers, True or False. Create as many questions as needed to cover all of the content. Better to error on the side of too many questions than not enough. Make sure to include questions for each of the terms in the outline. Each questions should end with a "> Card" on a new line. See the example below:
+Make sure you adhere to the following format. Do not number the questions. You can create True/False questions or multiple choice questions. A True/False question should have two possible answers, True or False. Create as many questions as needed to cover all of the content. Better to error on the side of too many questions than not enough. Make sure to include questions for each of the terms in the outline. Each questions should end with a "///" on a new line. See the example below:
 
 ## According to the video, what is the 'motor' of a sentence?
 
@@ -21,7 +21,7 @@ D) Adverb
 
 B
 
-> Card
+///
 
 Quiz:
 

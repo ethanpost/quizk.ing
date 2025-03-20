@@ -12,7 +12,7 @@ D) Alliteration
 
 C
 
-> Card
+///
 
 ## What is the main function of a thesis statement?
 
@@ -28,7 +28,7 @@ D) To conclude the essay
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of figurative language?
 
@@ -44,7 +44,7 @@ D) The test was on Friday.
 
 C
 
-> Card
+///
 
 ## What is the difference between a simile and a metaphor?
 
@@ -60,7 +60,7 @@ D) There is no difference
 
 A
 
-> Card
+///
 
 ## Which part of speech modifies a verb?
 
@@ -76,7 +76,7 @@ D) Preposition
 
 C
 
-> Card
+///
 
 ## The central message or insight about life revealed in a literary work is called:
 
@@ -92,7 +92,7 @@ D) Conflict
 
 A
 
-> Card
+///
 
 ## Which of the following is a compound sentence?
 
@@ -108,7 +108,7 @@ D) The dog, which was large, barked loudly.
 
 B
 
-> Card
+///
 
 ## What is the purpose of foreshadowing in literature?
 
@@ -124,7 +124,7 @@ D) To develop character traits
 
 B
 
-> Card
+///
 
 ## What is the main difference between a protagonist and an antagonist?
 
@@ -140,7 +140,7 @@ D) The protagonist appears more frequently in the story
 
 C
 
-> Card
+///
 
 ## Which sentence uses the correct form of the verb?
 
@@ -156,7 +156,7 @@ D) Neither of the students be completing the assignment.
 
 B
 
-> Card
+///
 
 ## What is the primary difference between connotation and denotation?
 
@@ -172,7 +172,7 @@ D) There is no difference
 
 B
 
-> Card
+///
 
 ## What is a subordinating conjunction?
 
@@ -188,7 +188,7 @@ D) A word that joins two verbs
 
 B
 
-> Card
+///
 
 ## In the sentence "She ran quickly," what part of speech is "quickly"?
 
@@ -204,7 +204,7 @@ D) Adverb
 
 D
 
-> Card
+///
 
 ## Which of the following is written in the passive voice?
 
@@ -220,7 +220,7 @@ D) John will write the essay.
 
 B
 
-> Card
+///
 
 ## What is the function of a topic sentence in a paragraph?
 
@@ -236,7 +236,7 @@ D) To transition to the next paragraph
 
 C
 
-> Card
+///
 
 ## Which punctuation mark is used to join two independent clauses without a conjunction?
 
@@ -252,7 +252,7 @@ D) Dash
 
 B
 
-> Card
+///
 
 ## What is an appositive?
 
@@ -268,7 +268,7 @@ D) An adverb that modifies an adjective
 
 A
 
-> Card
+///
 
 ## What literary device repeats consonant sounds at the beginning of words?
 
@@ -284,7 +284,7 @@ D) Onomatopoeia
 
 C
 
-> Card
+///
 
 ## Which of the following is a concrete noun?
 
@@ -300,7 +300,7 @@ D) Happiness
 
 C
 
-> Card
+///
 
 ## What is a gerund?
 
@@ -316,7 +316,7 @@ D) A verb form ending in -s that shows present tense
 
 A
 
-> Card
+///
 
 ## Which of the following is NOT a type of irony?
 
@@ -332,7 +332,7 @@ D) Metaphorical irony
 
 D
 
-> Card
+///
 
 ## The smallest unit of sound in a word that distinguishes meaning is called:
 
@@ -348,7 +348,7 @@ D) Syntax
 
 B
 
-> Card
+///
 
 ## Which is an example of hyperbole?
 
@@ -364,7 +364,7 @@ D) The wind whispered through the trees.
 
 C
 
-> Card
+///
 
 ## What is the correct order of the steps in the scientific method?
 
@@ -380,7 +380,7 @@ D) Question, experiment, hypothesis, analysis, conclusion
 
 B
 
-> Card
+///
 
 ## Which of the following is a renewable resource?
 
@@ -396,7 +396,7 @@ D) Petroleum
 
 C
 
-> Card
+///
 
 ## What is the study of the interaction between organisms and their environment?
 
@@ -412,7 +412,7 @@ D) Meteorology
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a state of matter?
 
@@ -428,7 +428,7 @@ D) Energy
 
 D
 
-> Card
+///
 
 ## What is the process by which plants make their own food?
 
@@ -444,7 +444,7 @@ D) Digestion
 
 B
 
-> Card
+///
 
 ## Which of the following is the correct formula for water?
 
@@ -460,7 +460,7 @@ D) H₂O₂
 
 A
 
-> Card
+///
 
 ## What is the primary function of mitochondria in a cell?
 
@@ -476,7 +476,7 @@ D) Storage of genetic material
 
 B
 
-> Card
+///
 
 ## Newton's Third Law of Motion states:
 
@@ -492,7 +492,7 @@ D) Energy cannot be created or destroyed
 
 C
 
-> Card
+///
 
 ## Which of the following is NOT one of the layers of Earth?
 
@@ -508,7 +508,7 @@ D) Mesosphere
 
 D
 
-> Card
+///
 
 ## What type of rock forms from the cooling of magma or lava?
 
@@ -524,7 +524,7 @@ D) Composite
 
 C
 
-> Card
+///
 
 ## Which of the following is a characteristic of acids?
 
@@ -540,7 +540,7 @@ D) pH has no relationship to acids
 
 B
 
-> Card
+///
 
 ## What is the process by which water changes from a liquid to a gas?
 
@@ -556,7 +556,7 @@ D) Sublimation
 
 B
 
-> Card
+///
 
 ## Which of the following is a correct statement about DNA?
 
@@ -572,7 +572,7 @@ D) DNA is primarily found in the cytoplasm
 
 C
 
-> Card
+///
 
 ## What causes the seasons on Earth?
 
@@ -588,7 +588,7 @@ D) The Earth's magnetic field
 
 B
 
-> Card
+///
 
 ## Which of the following best describes kinetic energy?
 
@@ -604,7 +604,7 @@ D) Potential energy
 
 B
 
-> Card
+///
 
 ## What is the process by which one species evolves into two or more species?
 
@@ -620,7 +620,7 @@ D) Mutation
 
 C
 
-> Card
+///
 
 ## Which of the following is an example of a chemical change?
 
@@ -636,7 +636,7 @@ D) Paper being cut
 
 B
 
-> Card
+///
 
 ## What is the main function of red blood cells?
 
@@ -652,7 +652,7 @@ D) To produce antibodies
 
 B
 
-> Card
+///
 
 ## Which of the following is a correct food chain?
 
@@ -668,7 +668,7 @@ D) Grass → Sun → Deer → Wolf
 
 B
 
-> Card
+///
 
 ## What causes ocean tides?
 
@@ -684,7 +684,7 @@ D) Earth's rotation
 
 C
 
-> Card
+///
 
 ## The atomic number of an element represents:
 
@@ -700,7 +700,7 @@ D) The atomic mass
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a biome?
 
@@ -716,7 +716,7 @@ D) Plateau
 
 D
 
-> Card
+///
 
 ## Which law states that energy cannot be created or destroyed, only transformed?
 
@@ -732,23 +732,7 @@ D) Law of Thermodynamics
 
 B
 
-> Card
-
-## What is the main cause of global warming?
-
-A) Increased solar activity
-
-B) Natural climate cycles
-
-C) Greenhouse gas emissions
-
-D) Earth's orbital changes
-
----
-
-C
-
-> Card
+///
 
 ## The American Revolution ended with the signing of:
 
@@ -764,7 +748,7 @@ D) The Bill of Rights
 
 C
 
-> Card
+///
 
 ## Which document begins with "We the People of the United States"?
 
@@ -780,7 +764,7 @@ D) The Emancipation Proclamation
 
 B
 
-> Card
+///
 
 ## The policy of "Manifest Destiny" was associated with:
 
@@ -796,7 +780,7 @@ D) Progressive Era reforms
 
 A
 
-> Card
+///
 
 ## Which amendment to the U.S. Constitution abolished slavery?
 
@@ -812,7 +796,7 @@ D) 19th Amendment
 
 A
 
-> Card
+///
 
 ## What was the main cause of the U.S. Civil War?
 
@@ -828,7 +812,7 @@ D) Westward expansion
 
 C
 
-> Card
+///
 
 ## The Monroe Doctrine declared:
 
@@ -844,7 +828,7 @@ D) Equal rights for all citizens
 
 B
 
-> Card
+///
 
 ## Which of the following was NOT one of the Allied Powers during World War II?
 
@@ -860,7 +844,7 @@ D) Japan
 
 D
 
-> Card
+///
 
 ## The Civil Rights Act of 1964:
 
@@ -876,7 +860,7 @@ D) Established Medicare and Medicaid
 
 B
 
-> Card
+///
 
 ## What event directly led to U.S. entry into World War II?
 
@@ -892,7 +876,7 @@ D) Fall of France
 
 B
 
-> Card
+///
 
 ## Which economic system is characterized by private ownership of production means?
 
@@ -908,7 +892,7 @@ D) Feudalism
 
 C
 
-> Card
+///
 
 ## The Great Depression began after:
 
@@ -924,7 +908,7 @@ D) World War II
 
 B
 
-> Card
+///
 
 ## What was the Cold War?
 
@@ -940,7 +924,7 @@ D) A conflict between North and South Korea
 
 B
 
-> Card
+///
 
 ## Which of these is NOT a branch of the U.S. government?
 
@@ -956,7 +940,7 @@ D) Parliamentary
 
 D
 
-> Card
+///
 
 ## The Nile River is located primarily in which continent?
 
@@ -972,7 +956,7 @@ D) South America
 
 C
 
-> Card
+///
 
 ## Which of the following is NOT a factor of production in economics?
 
@@ -988,7 +972,7 @@ D) Inflation
 
 D
 
-> Card
+///
 
 ## The Great Wall of China was built primarily to:
 
@@ -1004,7 +988,7 @@ D) Display China's wealth and power
 
 B
 
-> Card
+///
 
 ## Which of the following best defines a democracy?
 
@@ -1020,7 +1004,7 @@ D) Rule by the military
 
 C
 
-> Card
+///
 
 ## The Industrial Revolution began in:
 
@@ -1036,7 +1020,7 @@ D) Germany
 
 C
 
-> Card
+///
 
 ## Which of the following is a major cause of deforestation?
 
@@ -1052,7 +1036,7 @@ D) All of the above
 
 D
 
-> Card
+///
 
 ## What is a primary source in history?
 
@@ -1068,7 +1052,7 @@ D) An encyclopedia article
 
 C
 
-> Card
+///
 
 ## The three main types of plate boundaries are:
 
@@ -1084,7 +1068,7 @@ D) Longitude, latitude, and elevation
 
 A
 
-> Card
+///
 
 ## The Magna Carta limited the power of:
 
@@ -1100,7 +1084,7 @@ D) The Roman Emperor
 
 B
 
-> Card
+///
 
 ## Which of the following is TRUE about supply and demand?
 
@@ -1116,7 +1100,7 @@ D) When supply decreases, prices typically decrease
 
 B
 
-> Card
+///
 
 ## The Renaissance period is best characterized by:
 
@@ -1132,7 +1116,7 @@ D) Expansion of feudalism
 
 B
 
-> Card
+///
 
 ## A major effect of the Columbian Exchange was:
 
@@ -1148,7 +1132,7 @@ D) The rise of communism
 
 B
 
-> Card
+///
 
 ## The Golden Age of Islam was marked by:
 
@@ -1164,7 +1148,7 @@ D) Decline in trade and commerce
 
 C
 
-> Card
+///
 
 ## The main purpose of the United Nations is:
 
@@ -1180,7 +1164,7 @@ D) To govern international sports competitions
 
 B
 
-> Card
+///
 
 ## The principle of "checks and balances" in the U.S. government:
 
@@ -1196,7 +1180,7 @@ D) Creates a balance between public and private sectors
 
 A
 
-> Card
+///
 
 ## What is the main purpose of a summary in a literary work?
 
@@ -1212,7 +1196,7 @@ D) To provide additional information not in the original text
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a type of point of view in literature?
 
@@ -1228,7 +1212,7 @@ D) Fourth person
 
 D
 
-> Card
+///
 
 ## What is an oxymoron?
 
@@ -1244,7 +1228,7 @@ D) A statement that is obviously true
 
 A
 
-> Card
+///
 
 ## Which sentence contains a dangling modifier?
 
@@ -1260,7 +1244,7 @@ D) Heavy as it was, I carried my backpack to school.
 
 A
 
-> Card
+///
 
 ## What type of conflict is represented by a character struggling with their own thoughts?
 
@@ -1276,7 +1260,7 @@ D) Character vs. self
 
 D
 
-> Card
+///
 
 ## In chemistry, a substance with a pH of 9 would be classified as:
 
@@ -1292,7 +1276,7 @@ D) Radioactive
 
 B
 
-> Card
+///
 
 ## Which of the following is TRUE about cellular respiration?
 
@@ -1308,7 +1292,7 @@ D) It occurs only in plant cells
 
 C
 
-> Card
+///
 
 ## What is the main difference between weather and climate?
 
@@ -1324,7 +1308,7 @@ D) Weather is measured globally; climate is measured locally
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of a fossil fuel?
 
@@ -1340,7 +1324,7 @@ D) Hydroelectric power
 
 C
 
-> Card
+///
 
 ## The theory of plate tectonics explains:
 
@@ -1356,7 +1340,7 @@ D) The origin of life
 
 B
 
-> Card
+///
 
 ## DNA replication is:
 
@@ -1372,7 +1356,7 @@ D) The transfer of DNA between organisms
 
 B
 
-> Card
+///
 
 ## A genetically modified organism (GMO) has had:
 
@@ -1388,7 +1372,7 @@ D) Its appearance altered through selective breeding
 
 C
 
-> Card
+///
 
 ## What was a significant cause of World War I?
 
@@ -1404,7 +1388,7 @@ D) The Great Depression
 
 A
 
-> Card
+///
 
 ## The Progressive Era in U.S. history was characterized by:
 
@@ -1420,7 +1404,7 @@ D) Support for laissez-faire economics
 
 B
 
-> Card
+///
 
 ## Which of the following correctly describes federalism in the United States?
 
@@ -1436,7 +1420,7 @@ D) Power is divided among three branches of government
 
 A
 
-> Card
+///
 
 ## The phrase "Taxation without representation" is associated with:
 
@@ -1452,7 +1436,7 @@ D) World War I
 
 B
 
-> Card
+///
 
 ## Which sentence demonstrates correct subject-verb agreement?
 
@@ -1468,7 +1452,7 @@ D) The team of players was celebrating its victories.
 
 B
 
-> Card
+///
 
 ## What is the law of conservation of mass?
 
@@ -1484,7 +1468,7 @@ D) Mass always increases during chemical reactions
 
 C
 
-> Card
+///
 
 ## The Great Migration refers to:
 
@@ -1500,7 +1484,7 @@ D) The westward expansion of American settlers
 
 A
 
-> Card
+///
 
 ## The correct formula for finding the area of a circle is:
 
@@ -1516,7 +1500,7 @@ D) A = πd
 
 B
 
-> Card
+///
 
 ## The branches of government established by the U.S. Constitution include all EXCEPT:
 
@@ -1532,7 +1516,7 @@ D) Administrative
 
 D
 
-> Card
+///
 
 ## What is the primary purpose of a thesis statement?
 
@@ -1548,7 +1532,7 @@ D) To introduce the conclusion of the essay
 
 B
 
-> Card
+///
 
 ## Which of the following is TRUE about cells?
 
@@ -1564,7 +1548,7 @@ D) All cells are visible to the naked eye
 
 B
 
-> Card
+///
 
 ## The First Amendment to the U.S. Constitution protects:
 
@@ -1580,7 +1564,7 @@ D) The right to a speedy trial
 
 C
 
-> Card
+///
 
 ## Climate change is primarily caused by:
 
@@ -1596,7 +1580,7 @@ D) Natural volcanic eruptions
 
 C
 
-> Card
+///
 
 ## True or False: All matter is made up of atoms.
 
@@ -1608,7 +1592,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## True or False: The American Civil War began in 1861.
 
@@ -1620,7 +1604,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## True or False: Photosynthesis releases oxygen and uses carbon dioxide.
 
@@ -1632,7 +1616,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## True or False: The U.S. Senate has 435 members.
 
@@ -1644,7 +1628,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## True or False: A simile uses "like" or "as" to make a comparison.
 
@@ -1656,7 +1640,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## True or False: Heat always flows from colder objects to warmer objects.
 
@@ -1668,7 +1652,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## True or False: The preamble is the introduction to the U.S. Constitution.
 
@@ -1680,7 +1664,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## True or False: The protagonist of a story is always the hero.
 

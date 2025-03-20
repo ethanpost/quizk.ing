@@ -113,7 +113,7 @@
 - **Ramming tactics**: Traditional naval combat technique used by Carthaginians involving striking enemy ships to damage their hull or oars.
 - **Boarding tactics**: Combat technique favored by Romans that involved capturing enemy ships through direct assault.
 
-> Card
+///
 
 ## The Battle of Ecnomus is often considered one of the largest naval battles in history because it involved approximately:
 
@@ -129,7 +129,7 @@ D) 150,000 men and 330 ships
 
 C
 
-> Card
+///
 
 ## When did the Battle of Ecnomus take place?
 
@@ -145,7 +145,7 @@ D) 241 BCE
 
 B
 
-> Card
+///
 
 ## What was the main reason Rome decided to build a fleet during the First Punic War?
 
@@ -161,7 +161,7 @@ D) To establish trade routes across the Mediterranean
 
 B
 
-> Card
+///
 
 ## What Roman innovation helped counter Carthaginian naval experience?
 
@@ -177,7 +177,7 @@ D) Catapults mounted on ships
 
 C
 
-> Card
+///
 
 ## The Roman fleet at Ecnomus was organized into how many divisions?
 
@@ -193,7 +193,7 @@ D) Five
 
 C
 
-> Card
+///
 
 ## What shape did the Roman battle formation take at Ecnomus?
 
@@ -209,7 +209,7 @@ D) Square
 
 C
 
-> Card
+///
 
 ## Which Carthaginian commander was in charge of the right flank that attacked the Roman rear?
 
@@ -225,7 +225,7 @@ D) Hasdrubal
 
 B
 
-> Card
+///
 
 ## The primary type of warship used by both sides at Ecnomus was the:
 
@@ -241,7 +241,7 @@ D) Bireme
 
 B
 
-> Card
+///
 
 ## What happened to the Roman horse transports during the battle?
 
@@ -257,7 +257,7 @@ D) They formed a defensive line along the shore
 
 C
 
-> Card
+///
 
 ## How did the Romans ultimately win the battle?
 
@@ -273,7 +273,7 @@ D) Carthaginian commanders abandoned the battle
 
 B
 
-> Card
+///
 
 ## How many Carthaginian ships were captured by the Romans?
 
@@ -289,7 +289,7 @@ D) 85
 
 C
 
-> Card
+///
 
 ## The Carthaginian battle strategy at Ecnomus was similar to which later famous battle?
 
@@ -305,7 +305,7 @@ D) Battle of Alesia
 
 B
 
-> Card
+///
 
 ## True or False: The Battle of Ecnomus resulted in the end of the First Punic War.
 
@@ -317,7 +317,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What was the primary Carthaginian naval tactic?
 
@@ -333,7 +333,7 @@ D) Long-range missile attacks
 
 C
 
-> Card
+///
 
 ## What was the "Triarii" in the context of the Battle of Ecnomus?
 
@@ -349,7 +349,7 @@ D) The Carthaginian elite guard
 
 C
 
-> Card
+///
 
 ## True or False: After the Battle of Ecnomus, the Romans successfully landed an invasion force in Africa.
 
@@ -361,7 +361,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Approximately how many casualties did the Romans suffer at Ecnomus?
 
@@ -377,7 +377,7 @@ D) 30,000
 
 B
 
-> Card
+///
 
 ## What was the ultimate reason for Rome's victory over Carthage according to the transcript?
 
@@ -393,7 +393,7 @@ D) Larger population base
 
 C
 
-> Card
+///
 
 ## What was a quinquereme?
 
@@ -409,7 +409,7 @@ D) A Roman siege weapon
 
 B
 
-> Card
+///
 
 ## How many ships did the Romans lose in the Battle of Ecnomus?
 

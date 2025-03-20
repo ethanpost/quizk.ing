@@ -28,7 +28,7 @@ This is a **work in progress**, and I continue to add new content regularly.
 ### ⚠️ Note for Importing `.md` Files into Mochi
 When importing `.md` files:
 - Make sure to specify that there is **more than one question per file**.
-- Use `> Card` as the **separator string** to properly divide each flashcard.
+- Use `///` as the **separator string** to properly divide each flashcard.
 
 This ensures that all flashcards are imported correctly and organized for easy study.
 

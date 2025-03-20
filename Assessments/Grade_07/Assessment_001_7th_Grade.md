@@ -12,7 +12,7 @@ D) Hyperbole
 
 C
 
-> Card
+///
 
 ## What is the main function of a thesis statement?
 
@@ -28,7 +28,7 @@ D) To provide transition between paragraphs
 
 B
 
-> Card
+///
 
 ## Which of the following is a compound sentence?
 
@@ -44,7 +44,7 @@ D) After the dog barked, the cat meowed.
 
 B
 
-> Card
+///
 
 ## What is the correct order of the steps in the scientific method?
 
@@ -60,7 +60,7 @@ D) Analysis, experiment, hypothesis, question, conclusion
 
 B
 
-> Card
+///
 
 ## True or False: All living organisms are made up of cells.
 
@@ -72,7 +72,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## The three branches of the United States government are:
 
@@ -88,7 +88,7 @@ D) Democratic, Republican, Independent
 
 B
 
-> Card
+///
 
 ## Which of the following is a complete sentence?
 
@@ -104,7 +104,7 @@ D) Under the big tree.
 
 C
 
-> Card
+///
 
 ## What is the difference between a physical and chemical change?
 
@@ -120,7 +120,7 @@ D) Neither creates new substances
 
 B
 
-> Card
+///
 
 ## Which of these is NOT one of the main types of rock?
 
@@ -136,7 +136,7 @@ D) Conglomerate
 
 D
 
-> Card
+///
 
 ## What do we call the main characters in a story?
 
@@ -152,7 +152,7 @@ D) Observers
 
 A
 
-> Card
+///
 
 ## What is the process by which plants make their own food using sunlight?
 
@@ -168,7 +168,7 @@ D) Transpiration
 
 B
 
-> Card
+///
 
 ## Which civilization built the Great Pyramids of Giza?
 
@@ -184,7 +184,7 @@ D) Egyptians
 
 D
 
-> Card
+///
 
 ## True or False: A noun is a person, place, thing, or idea.
 
@@ -196,7 +196,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## The imaginary line that divides Earth into Northern and Southern Hemispheres is called:
 
@@ -212,7 +212,7 @@ D) International Date Line
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of alliteration?
 
@@ -228,7 +228,7 @@ D) Time flies when you're having fun
 
 A
 
-> Card
+///
 
 ## What organelle is known as the "powerhouse of the cell"?
 
@@ -244,7 +244,7 @@ D) Golgi apparatus
 
 C
 
-> Card
+///
 
 ## What is the main cause of the seasons on Earth?
 
@@ -260,7 +260,7 @@ D) The Earth's revolution around the sun
 
 B
 
-> Card
+///
 
 ## Which war was fought between the North and South in the United States from 1861-1865?
 
@@ -276,7 +276,7 @@ D) World War I
 
 C
 
-> Card
+///
 
 ## What is the correct plural form of "child"?
 
@@ -292,7 +292,7 @@ D) Child's
 
 B
 
-> Card
+///
 
 ## Which of these is an example of a run-on sentence?
 
@@ -308,7 +308,7 @@ D) I went to the store to buy milk; then I went home.
 
 C
 
-> Card
+///
 
 ## What is the smallest unit of matter?
 
@@ -324,7 +324,7 @@ D) Electron
 
 C
 
-> Card
+///
 
 ## True or False: The Articles of Confederation was the first constitution of the United States.
 
@@ -336,7 +336,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Which part of speech describes an action or state of being?
 
@@ -352,7 +352,7 @@ D) Adverb
 
 C
 
-> Card
+///
 
 ## What is the difference between weather and climate?
 
@@ -368,7 +368,7 @@ D) Weather happens globally, climate is local
 
 B
 
-> Card
+///
 
 ## Who wrote the Declaration of Independence?
 
@@ -384,7 +384,7 @@ D) Abraham Lincoln
 
 C
 
-> Card
+///
 
 ## What is the main conflict type when a character struggles against their own emotions?
 
@@ -400,7 +400,7 @@ D) Character vs. Self
 
 D
 
-> Card
+///
 
 ## Which of the following is a prefect square?
 
@@ -416,7 +416,7 @@ D) 75
 
 B
 
-> Card
+///
 
 ## What are the three states of matter?
 
@@ -432,7 +432,7 @@ D) Solid, liquid, plasma
 
 C
 
-> Card
+///
 
 ## During which historical period did feudalism dominate European society?
 
@@ -448,7 +448,7 @@ D) Age of Exploration
 
 B
 
-> Card
+///
 
 ## Which of the following sentences uses correct punctuation?
 
@@ -464,7 +464,7 @@ D) "Let's, eat grandma."
 
 B
 
-> Card
+///
 
 ## What is the function of the skeletal system?
 
@@ -480,7 +480,7 @@ D) To digest food
 
 C
 
-> Card
+///
 
 ## On which continent would you find the Amazon Rainforest?
 
@@ -496,7 +496,7 @@ D) Australia
 
 C
 
-> Card
+///
 
 ## Which of these is NOT a type of figurative language?
 
@@ -512,7 +512,7 @@ D) Hyperbole
 
 C
 
-> Card
+///
 
 ## True or False: All mammals lay eggs.
 
@@ -524,7 +524,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## Which Amendment to the U.S. Constitution abolished slavery?
 
@@ -540,7 +540,7 @@ D) 26th Amendment
 
 B
 
-> Card
+///
 
 ## What point of view uses "I" and "we"?
 
@@ -556,7 +556,7 @@ D) Third person omniscient
 
 A
 
-> Card
+///
 
 ## Which of these is an example of potential energy?
 
@@ -572,7 +572,7 @@ D) Wind blowing through trees
 
 B
 
-> Card
+///
 
 ## Which civilization built the Great Wall of China?
 
@@ -588,7 +588,7 @@ D) Mongolian
 
 C
 
-> Card
+///
 
 ## The prefix "tri-" means:
 
@@ -604,7 +604,7 @@ D) Five
 
 B
 
-> Card
+///
 
 ## What is the process by which water vapor turns into liquid?
 
@@ -620,7 +620,7 @@ D) Precipitation
 
 B
 
-> Card
+///
 
 ## Which document begins with "We the People"?
 
@@ -636,7 +636,7 @@ D) The Bill of Rights
 
 C
 
-> Card
+///
 
 ## An antonym is:
 
@@ -652,7 +652,7 @@ D) A word that sounds the same but has a different meaning
 
 C
 
-> Card
+///
 
 ## What force keeps planets in orbit around the sun?
 
@@ -668,7 +668,7 @@ D) Electrical force
 
 B
 
-> Card
+///
 
 ## The study of ancient human history through artifacts is called:
 
@@ -684,7 +684,7 @@ D) Geology
 
 C
 
-> Card
+///
 
 ## Which sentence contains a pronoun?
 
@@ -700,7 +700,7 @@ D) Birds fly south for winter.
 
 C
 
-> Card
+///
 
 ## True or False: Photosynthesis releases oxygen into the atmosphere.
 
@@ -712,7 +712,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Who was the first President of the United States?
 
@@ -728,7 +728,7 @@ D) Abraham Lincoln
 
 C
 
-> Card
+///
 
 ## Which literary genre tells stories about imaginary future scientific or technological advances?
 
@@ -744,7 +744,7 @@ D) Mystery
 
 B
 
-> Card
+///
 
 ## What is the largest organ in the human body?
 
@@ -760,7 +760,7 @@ D) Skin
 
 D
 
-> Card
+///
 
 ## Which continents are connected by the Isthmus of Panama?
 
@@ -776,7 +776,7 @@ D) Australia and Asia
 
 A
 
-> Card
+///
 
 ## A semicolon is used to:
 
@@ -792,7 +792,7 @@ D) Show possession
 
 B
 
-> Card
+///
 
 ## What is the term for a word that imitates the sound it represents?
 
@@ -808,7 +808,7 @@ D) Homonym
 
 C
 
-> Card
+///
 
 ## Which of these is NOT a renewable resource?
 
@@ -824,7 +824,7 @@ D) Hydroelectric power
 
 C
 
-> Card
+///
 
 ## What was the main cause of World War I?
 
@@ -840,7 +840,7 @@ D) The rise of communism
 
 A
 
-> Card
+///
 
 ## Which verb tense describes an action that started in the past and continues to the present?
 
@@ -856,7 +856,7 @@ D) Past perfect
 
 B
 
-> Card
+///
 
 ## Which of these is NOT one of Newton's Laws of Motion?
 
@@ -872,7 +872,7 @@ D) For every action, there is an equal and opposite reaction
 
 C
 
-> Card
+///
 
 ## The Underground Railroad was:
 
@@ -888,7 +888,7 @@ D) A transcontinental railway
 
 C
 
-> Card
+///
 
 ## What is the definition of a preposition?
 
@@ -904,7 +904,7 @@ D) A word that names a person, place, thing, or idea
 
 B
 
-> Card
+///
 
 ## True or False: All insects have six legs.
 
@@ -916,7 +916,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Which of these ancient civilizations developed the first known writing system?
 
@@ -932,7 +932,7 @@ D) Greece
 
 C
 
-> Card
+///
 
 ## Which of the following is NOT a theme commonly found in literature?
 
@@ -948,7 +948,7 @@ D) Coming of age
 
 C
 
-> Card
+///
 
 ## What is the main function of the respiratory system?
 
@@ -964,7 +964,7 @@ D) To digest food
 
 C
 
-> Card
+///
 
 ## Which of these was NOT one of the 13 original colonies?
 
@@ -980,7 +980,7 @@ D) Georgia
 
 A
 
-> Card
+///
 
 ## A homograph is:
 
@@ -996,7 +996,7 @@ D) A word that has opposite meaning of another word
 
 B
 
-> Card
+///
 
 ## Which of these is a characteristic of mammals?
 
@@ -1012,7 +1012,7 @@ D) Produce milk for their young
 
 D
 
-> Card
+///
 
 ## The process of a solid changing directly to a gas without becoming a liquid is called:
 
@@ -1028,7 +1028,7 @@ D) Precipitation
 
 C
 
-> Card
+///
 
 ## Which document declared American independence from Great Britain?
 
@@ -1044,7 +1044,7 @@ D) The Emancipation Proclamation
 
 B
 
-> Card
+///
 
 ## What is the main purpose of topic sentences in paragraphs?
 
@@ -1060,7 +1060,7 @@ D) To summarize the essay
 
 B
 
-> Card
+///
 
 ## Which of these animals is an invertebrate?
 
@@ -1076,7 +1076,7 @@ D) Mouse
 
 C
 
-> Card
+///
 
 ## The Industrial Revolution began in which country?
 
@@ -1092,7 +1092,7 @@ D) Great Britain
 
 D
 
-> Card
+///
 
 ## An adverb typically modifies:
 
@@ -1108,7 +1108,7 @@ D) Only nouns and pronouns
 
 B
 
-> Card
+///
 
 ## True or False: The moon produces its own light.
 
@@ -1120,7 +1120,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## Which of these historical figures led the movement for Indian independence from British rule?
 
@@ -1136,7 +1136,7 @@ D) Simon Bolivar
 
 C
 
-> Card
+///
 
 ## Which literary element refers to clues that hint at events that will occur later in the story?
 
@@ -1152,7 +1152,7 @@ D) Dialogue
 
 B
 
-> Card
+///
 
 ## What is the main function of the circulatory system?
 
@@ -1168,7 +1168,7 @@ D) To digest food
 
 C
 
-> Card
+///
 
 ## Which of these is NOT a basic form of government?
 
@@ -1184,7 +1184,7 @@ D) Geography
 
 D
 
-> Card
+///
 
 ## What is the correct way to form a possessive for a singular noun?
 
@@ -1200,7 +1200,7 @@ D) Add '
 
 A
 
-> Card
+///
 
 ## Which planet is known as the "Red Planet"?
 
@@ -1216,7 +1216,7 @@ D) Saturn
 
 C
 
-> Card
+///
 
 ## The American Civil Rights Movement primarily sought to end:
 
@@ -1232,7 +1232,7 @@ D) Environmental pollution
 
 C
 
-> Card
+///
 
 ## Which of these sentence types gives a command?
 
@@ -1248,7 +1248,7 @@ D) Imperative
 
 D
 
-> Card
+///
 
 ## What is the process by which rocks are broken down into smaller pieces?
 
@@ -1264,7 +1264,7 @@ D) Sedimentation
 
 B
 
-> Card
+///
 
 ## Which document outlines the first ten amendments to the U.S. Constitution?
 
@@ -1280,7 +1280,7 @@ D) The Emancipation Proclamation
 
 C
 
-> Card
+///
 
 ## What do we call the viewpoint that allows the narrator to know the thoughts and feelings of all characters?
 
@@ -1296,7 +1296,7 @@ D) Third person omniscient
 
 D
 
-> Card
+///
 
 ## True or False: All living things need oxygen to survive.
 
@@ -1308,7 +1308,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## Who led the expedition that first circumnavigated the globe?
 
@@ -1324,7 +1324,7 @@ D) John Cabot
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a part of speech?
 
@@ -1340,7 +1340,7 @@ D) Interjection
 
 C
 
-> Card
+///
 
 ## Which of these is a non-renewable energy source?
 
@@ -1356,7 +1356,7 @@ D) Hydroelectric
 
 C
 
-> Card
+///
 
 ## What is the study of the Earth's physical features and atmosphere called?
 
@@ -1372,7 +1372,7 @@ D) Meteorology
 
 C
 
-> Card
+///
 
 ## Which transition word signals a contrast or opposite idea?
 
@@ -1388,7 +1388,7 @@ D) Similarly
 
 C
 
-> Card
+///
 
 ## What do we call an organism that cannot produce its own food and must consume other organisms?
 
@@ -1404,7 +1404,7 @@ D) Scavenger
 
 B
 
-> Card
+///
 
 ## The Magna Carta limited the power of:
 
@@ -1420,7 +1420,7 @@ D) The military
 
 B
 
-> Card
+///
 
 ## What is the term for words that sound the same but have different meanings and spellings?
 
@@ -1436,7 +1436,7 @@ D) Antonyms
 
 C
 
-> Card
+///
 
 ## What is the primary function of DNA?
 
@@ -1452,7 +1452,7 @@ D) To fight disease
 
 B
 
-> Card
+///
 
 ## Which continent is home to the most countries?
 
@@ -1468,7 +1468,7 @@ D) South America
 
 C
 
-> Card
+///
 
 ## The climax of a story is:
 

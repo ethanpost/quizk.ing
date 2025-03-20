@@ -12,7 +12,7 @@ D) Alliteration
 
 C
 
-> Card
+///
 
 ## What is the main function of a thesis statement in an essay?
 
@@ -28,7 +28,7 @@ D) To conclude the essay
 
 B
 
-> Card
+///
 
 ## The Scarlet Letter was written by:
 
@@ -44,7 +44,7 @@ D) F. Scott Fitzgerald
 
 A
 
-> Card
+///
 
 ## Which of the following is NOT one of Shakespeare's tragedies?
 
@@ -60,7 +60,7 @@ D) Othello
 
 C
 
-> Card
+///
 
 ## In The Great Gatsby, the green light symbolizes:
 
@@ -76,7 +76,7 @@ D) The American Dream
 
 C
 
-> Card
+///
 
 ## Which literary movement emphasized emotion, individualism, and the glory of nature?
 
@@ -92,7 +92,7 @@ D) Naturalism
 
 B
 
-> Card
+///
 
 ## What is the purpose of the exposition in a story?
 
@@ -108,7 +108,7 @@ D) To resolve the conflict
 
 A
 
-> Card
+///
 
 ## What technique is being used in the following sentence: "The silky, smooth, soft sand slipped through her fingers"?
 
@@ -124,7 +124,7 @@ D) Metaphor
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of a compound-complex sentence?
 
@@ -140,7 +140,7 @@ D) I went to the store after class, but when I arrived, it was closed.
 
 D
 
-> Card
+///
 
 ## The difference between a simile and a metaphor is:
 
@@ -156,7 +156,7 @@ D) Similes are figurative; metaphors are literal
 
 B
 
-> Card
+///
 
 ## What is the term for a word that imitates the sound it represents?
 
@@ -172,7 +172,7 @@ D) Consonance
 
 B
 
-> Card
+///
 
 ## What is iambic pentameter?
 
@@ -188,7 +188,7 @@ D) A type of free verse poetry
 
 B
 
-> Card
+///
 
 ## True or False: A protagonist is always a hero or morally good character.
 
@@ -200,7 +200,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## Which of these is NOT one of the Four C's of editing?
 
@@ -216,7 +216,7 @@ D) Construct
 
 D
 
-> Card
+///
 
 ## Which sentence demonstrates correct use of a semicolon?
 
@@ -232,7 +232,7 @@ D) The movie was great; because it was funny.
 
 A
 
-> Card
+///
 
 ## Which of the following is a gerund?
 
@@ -248,7 +248,7 @@ D) Swum
 
 B
 
-> Card
+///
 
 ## What is the chemical symbol for gold?
 
@@ -264,7 +264,7 @@ D) Ag
 
 C
 
-> Card
+///
 
 ## Which planet has the Great Red Spot?
 
@@ -280,7 +280,7 @@ D) Venus
 
 B
 
-> Card
+///
 
 ## What is the primary function of mitochondria in a cell?
 
@@ -296,7 +296,7 @@ D) Storage of genetic material
 
 C
 
-> Card
+///
 
 ## Which of the following is NOT a type of RNA?
 
@@ -312,7 +312,7 @@ D) Cellular RNA
 
 D
 
-> Card
+///
 
 ## Newton's Second Law of Motion states that:
 
@@ -328,7 +328,7 @@ D) Energy can neither be created nor destroyed
 
 C
 
-> Card
+///
 
 ## What is the difference between a compound and a mixture?
 
@@ -344,7 +344,7 @@ D) Both B and C
 
 D
 
-> Card
+///
 
 ## What is the pH of a neutral solution?
 
@@ -360,7 +360,7 @@ D) 14
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of potential energy?
 
@@ -376,7 +376,7 @@ D) A person running
 
 C
 
-> Card
+///
 
 ## What is the process by which plants make their own food called?
 
@@ -392,7 +392,7 @@ D) Fermentation
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a noble gas?
 
@@ -408,7 +408,7 @@ D) Argon
 
 C
 
-> Card
+///
 
 ## What is the smallest unit of an element that still retains its properties?
 
@@ -424,7 +424,7 @@ D) Molecule
 
 A
 
-> Card
+///
 
 ## Which body system is responsible for removing waste products from the blood?
 
@@ -440,7 +440,7 @@ D) Circulatory system
 
 C
 
-> Card
+///
 
 ## What is the study of heredity and variation in organisms called?
 
@@ -456,7 +456,7 @@ D) Ecology
 
 B
 
-> Card
+///
 
 ## True or False: A chemical reaction that releases heat is called endothermic.
 
@@ -468,7 +468,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What is the name for a rock formed from the cooling of lava or magma?
 
@@ -484,7 +484,7 @@ D) Composite
 
 C
 
-> Card
+///
 
 ## What law states that energy cannot be created or destroyed, only transformed?
 
@@ -500,7 +500,7 @@ D) Boyle's Law
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a fossil fuel?
 
@@ -516,7 +516,7 @@ D) Oil
 
 C
 
-> Card
+///
 
 ## What is the most abundant gas in Earth's atmosphere?
 
@@ -532,7 +532,7 @@ D) Hydrogen
 
 C
 
-> Card
+///
 
 ## Which document begins with "We the People"?
 
@@ -548,7 +548,7 @@ D) Gettysburg Address
 
 C
 
-> Card
+///
 
 ## The Cold War was primarily a conflict between:
 
@@ -564,7 +564,7 @@ D) France and Russia
 
 A
 
-> Card
+///
 
 ## Which amendment to the U.S. Constitution abolished slavery?
 
@@ -580,7 +580,7 @@ D) 19th Amendment
 
 A
 
-> Card
+///
 
 ## The Magna Carta limited the power of:
 
@@ -596,7 +596,7 @@ D) Parliament
 
 C
 
-> Card
+///
 
 ## Which of the following was NOT one of the Allied Powers during World War II?
 
@@ -612,7 +612,7 @@ D) Japan
 
 D
 
-> Card
+///
 
 ## What event directly triggered the start of World War I?
 
@@ -628,7 +628,7 @@ D) The bombing of Pearl Harbor
 
 B
 
-> Card
+///
 
 ## Which civilization built the pyramids at Giza?
 
@@ -644,7 +644,7 @@ D) Egyptians
 
 D
 
-> Card
+///
 
 ## The Renaissance began in which country?
 
@@ -660,7 +660,7 @@ D) Spain
 
 C
 
-> Card
+///
 
 ## Which of the following was NOT a cause of the Great Depression?
 
@@ -676,7 +676,7 @@ D) The New Deal policies
 
 D
 
-> Card
+///
 
 ## The Monroe Doctrine declared that:
 
@@ -692,7 +692,7 @@ D) The U.S. would pursue a policy of isolationism
 
 C
 
-> Card
+///
 
 ## What was the main purpose of the Marshall Plan?
 
@@ -708,7 +708,7 @@ D) To help Japan recover after the atomic bombings
 
 A
 
-> Card
+///
 
 ## The system of government in which power is divided between a central authority and constituent political units is called:
 
@@ -724,7 +724,7 @@ D) Totalitarianism
 
 B
 
-> Card
+///
 
 ## True or False: The U.S. Supreme Court case Brown v. Board of Education upheld the "separate but equal" doctrine.
 
@@ -736,7 +736,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## Who was the leader of the Soviet Union during most of World War II?
 
@@ -752,7 +752,7 @@ D) Leon Trotsky
 
 B
 
-> Card
+///
 
 ## What literary technique is used when the narrator has limited knowledge of events?
 
@@ -768,7 +768,7 @@ D) Second-person narration
 
 B
 
-> Card
+///
 
 ## Which of the following would be an example of dramatic irony?
 
@@ -784,7 +784,7 @@ D) An unexpected twist at the end of a story
 
 C
 
-> Card
+///
 
 ## Which of these is an example of a subordinating conjunction?
 
@@ -800,7 +800,7 @@ D) Or
 
 C
 
-> Card
+///
 
 ## What is the term for a verb that doesn't need a direct object to complete its meaning?
 
@@ -816,7 +816,7 @@ D) Auxiliary verb
 
 C
 
-> Card
+///
 
 ## In which of Shakespeare's plays does the line "To be, or not to be" appear?
 
@@ -832,7 +832,7 @@ D) King Lear
 
 C
 
-> Card
+///
 
 ## What is the main difference between dynamic and static characters?
 
@@ -848,7 +848,7 @@ D) Dynamic characters have more complex personalities, static characters are sim
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of a primary source?
 
@@ -864,7 +864,7 @@ D) A biography of Abraham Lincoln
 
 C
 
-> Card
+///
 
 ## What is the common name for sodium chloride?
 
@@ -880,7 +880,7 @@ D) Chalk
 
 B
 
-> Card
+///
 
 ## What is the process by which liquid water changes to water vapor called?
 
@@ -896,7 +896,7 @@ D) Sublimation
 
 B
 
-> Card
+///
 
 ## Which of the following is NOT a renewable resource?
 
@@ -912,7 +912,7 @@ D) Hydropower
 
 C
 
-> Card
+///
 
 ## What is the function of white blood cells in the human body?
 
@@ -928,7 +928,7 @@ D) Clot blood
 
 B
 
-> Card
+///
 
 ## Which of these animals is NOT a mammal?
 
@@ -944,7 +944,7 @@ D) Elephant
 
 C
 
-> Card
+///
 
 ## During which historical period did the Industrial Revolution begin?
 
@@ -960,7 +960,7 @@ D) 18th century
 
 D
 
-> Card
+///
 
 ## Which of these countries was NOT part of the original 13 American colonies?
 
@@ -976,7 +976,7 @@ D) North Carolina
 
 B
 
-> Card
+///
 
 ## The doctrine of "separate but equal" was established in which Supreme Court case?
 
@@ -992,7 +992,7 @@ D) Miranda v. Arizona
 
 B
 
-> Card
+///
 
 ## Which branch of government has the power to declare war according to the U.S. Constitution?
 
@@ -1008,7 +1008,7 @@ D) State
 
 B
 
-> Card
+///
 
 ## What does a periodic table organize?
 
@@ -1024,7 +1024,7 @@ D) Laboratory procedures
 
 C
 
-> Card
+///
 
 ## What is the study of the Earth's physical features and atmosphere called?
 
@@ -1040,7 +1040,7 @@ D) Astronomy
 
 B
 
-> Card
+///
 
 ## Which civilization developed hieroglyphics as a form of writing?
 
@@ -1056,7 +1056,7 @@ D) Roman
 
 C
 
-> Card
+///
 
 ## What was the main goal of the Civil Rights Movement in the United States?
 
@@ -1072,7 +1072,7 @@ D) Religious freedom
 
 B
 
-> Card
+///
 
 ## What is the formula for calculating speed?
 
@@ -1088,7 +1088,7 @@ D) Speed = Time ÷ Distance
 
 C
 
-> Card
+///
 
 ## Which of these is a proper noun?
 
@@ -1104,7 +1104,7 @@ D) Teacher
 
 B
 
-> Card
+///
 
 ## What type of figurative language is being used in this phrase: "The stars danced in the sky"?
 
@@ -1120,7 +1120,7 @@ D) Simile
 
 C
 
-> Card
+///
 
 ## In chemistry, what does the abbreviation pH stand for?
 
@@ -1136,7 +1136,7 @@ D) Percentage of Hydrogen
 
 B
 
-> Card
+///
 
 ## What was the significance of the Missouri Compromise of 1820?
 
@@ -1152,7 +1152,7 @@ D) It created the territory of Missouri
 
 B
 
-> Card
+///
 
 ## True or False: Photosynthesis releases oxygen into the atmosphere.
 
@@ -1164,7 +1164,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Which of the following literary works is an example of an epic poem?
 
@@ -1180,7 +1180,7 @@ D) Pride and Prejudice
 
 C
 
-> Card
+///
 
 ## What is the function of a topic sentence in a paragraph?
 
@@ -1196,7 +1196,7 @@ D) To transition to the next paragraph
 
 B
 
-> Card
+///
 
 ## Which of these is an example of active voice?
 
@@ -1212,7 +1212,7 @@ D) Throwing of the ball occurred.
 
 B
 
-> Card
+///
 
 ## What is a common characteristic of Gothic literature?
 
@@ -1228,7 +1228,7 @@ D) Humor and light-hearted themes
 
 C
 
-> Card
+///
 
 ## Which literary work is considered the first modern novel in English?
 
@@ -1244,7 +1244,7 @@ D) Great Expectations by Charles Dickens
 
 A
 
-> Card
+///
 
 ## What is the Geneva Convention?
 
@@ -1260,7 +1260,7 @@ D) A summit where the United Nations was formed
 
 B
 
-> Card
+///
 
 ## Which of the following is a characteristic of the Enlightenment period?
 
@@ -1276,7 +1276,7 @@ D) Rejection of scientific methods
 
 C
 
-> Card
+///
 
 ## What is the correct order of the scientific method?
 
@@ -1292,7 +1292,7 @@ D) Question, experiment, hypothesis, analysis, conclusion
 
 B
 
-> Card
+///
 
 ## Which of the following is an example of Newton's Third Law of Motion?
 
@@ -1308,7 +1308,7 @@ D) A ball rolling down a hill
 
 C
 
-> Card
+///
 
 ## The policy of extending a country's power and influence through diplomacy or military force is called:
 
@@ -1324,7 +1324,7 @@ D) Federalism
 
 B
 
-> Card
+///
 
 ## What is a theme in literature?
 
@@ -1340,7 +1340,7 @@ D) The sequence of events in a story
 
 B
 
-> Card
+///
 
 ## Which of these is NOT a component of an ecosystem?
 
@@ -1356,7 +1356,7 @@ D) Inventors
 
 D
 
-> Card
+///
 
 ## The system of checks and balances in the U.S. government is designed to:
 
@@ -1372,7 +1372,7 @@ D) Allow the Supreme Court to write laws
 
 B
 
-> Card
+///
 
 ## What does DNA stand for?
 
@@ -1388,7 +1388,7 @@ D) Dividing Nucleic Assembly
 
 A
 
-> Card
+///
 
 ## Which of the following is a correct use of a comma?
 
@@ -1404,7 +1404,7 @@ D) Mary, walked to the store and bought milk.
 
 A
 
-> Card
+///
 
 ## Who is known as the "Father of Modern Physics"?
 
@@ -1420,7 +1420,7 @@ D) Niels Bohr
 
 B
 
-> Card
+///
 
 ## What was the main purpose of the Articles of Confederation?
 
@@ -1436,7 +1436,7 @@ D) To establish the Bill of Rights
 
 C
 
-> Card
+///
 
 ## True or False: Ionic compounds typically have high melting points.
 
@@ -1448,7 +1448,7 @@ B) False
 
 A
 
-> Card
+///
 
 ## Which amendment protects against "unreasonable searches and seizures"?
 
@@ -1464,7 +1464,7 @@ D) Second Amendment
 
 B
 
-> Card
+///
 
 ## What economic system is characterized by private ownership of the means of production?
 
@@ -1480,7 +1480,7 @@ D) Feudalism
 
 C
 
-> Card
+///
 
 ## Which of the following is a characteristic of mammals?
 
@@ -1496,7 +1496,7 @@ D) Produce milk for their young
 
 D
 
-> Card
+///
 
 ## What does it mean when a character is described as "dynamic"?
 
@@ -1512,7 +1512,7 @@ D) They have many different personality traits
 
 C
 
-> Card
+///
 
 ## What is the primary function of the judicial branch of the U.S. government?
 
@@ -1528,7 +1528,7 @@ D) Vetoing laws
 
 C
 
-> Card
+///
 
 ## Which of these would be considered a fossil fuel?
 

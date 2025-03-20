@@ -99,7 +99,7 @@
 - **Battle of Carrhae** - Disastrous battle where Crassus was defeated by the Parthian Empire
 - **Battle of the Nile** - Naval battle where Caesar defeated Ptolemy XIII's forces
 
-> Card
+///
 
 ## What year was Julius Caesar born?
 
@@ -115,7 +115,7 @@ D) 95 BCE
 
 B
 
-> Card
+///
 
 ## Which position did Caesar hold that was considered the highest priest in Roman religion?
 
@@ -131,7 +131,7 @@ D) Praetor
 
 C
 
-> Card
+///
 
 ## Who was Caesar's uncle that served as a model for his military ambitions?
 
@@ -147,7 +147,7 @@ D) Marcus Brutus
 
 B
 
-> Card
+///
 
 ## What famous quote did Caesar allegedly say when crossing the Rubicon River?
 
@@ -163,7 +163,7 @@ D) "Carpe diem"
 
 C
 
-> Card
+///
 
 ## Which of these individuals was NOT part of the First Triumvirate?
 
@@ -179,7 +179,7 @@ D) Marcus Crassus
 
 C
 
-> Card
+///
 
 ## What region did Caesar famously conquer between 58-50 BCE?
 
@@ -195,7 +195,7 @@ D) Parthia
 
 B
 
-> Card
+///
 
 ## Who was the Gallic leader who united tribes against Caesar and surrendered at Alesia?
 
@@ -211,7 +211,7 @@ D) Ariovistus
 
 A
 
-> Card
+///
 
 ## After defeating Pompey at the Battle of Pharsalus, where did Pompey flee to?
 
@@ -227,7 +227,7 @@ D) Parthia
 
 C
 
-> Card
+///
 
 ## What happened to Pompey when he arrived in Egypt?
 
@@ -243,7 +243,7 @@ D) He escaped to another country
 
 C
 
-> Card
+///
 
 ## After which quick victory did Caesar famously declare "Veni, vidi, vici"?
 
@@ -259,7 +259,7 @@ D) Siege of Alexandria
 
 C
 
-> Card
+///
 
 ## Who was Caesar's last wife?
 
@@ -275,7 +275,7 @@ D) Julia
 
 C
 
-> Card
+///
 
 ## What was the name of Caesar and Cleopatra's alleged son?
 
@@ -291,7 +291,7 @@ D) Mark Antony Jr.
 
 C
 
-> Card
+///
 
 ## On what date was Julius Caesar assassinated?
 
@@ -307,7 +307,7 @@ D) December 25, 44 BCE
 
 B
 
-> Card
+///
 
 ## How many stab wounds did Caesar reportedly receive during his assassination?
 
@@ -323,7 +323,7 @@ D) 43
 
 B
 
-> Card
+///
 
 ## Who did Caesar name as his successor in his will?
 
@@ -339,7 +339,7 @@ D) Gaius Octavius (Octavian)
 
 D
 
-> Card
+///
 
 ## What happened to the conspirators Cassius and Brutus after Caesar's assassination?
 
@@ -355,7 +355,7 @@ D) They were pardoned by Mark Antony
 
 B
 
-> Card
+///
 
 ## What political position was Caesar appointed to for life in 44 BCE?
 
@@ -371,7 +371,7 @@ D) Tribune
 
 B
 
-> Card
+///
 
 ## What was the Lupercalia in relation to Caesar?
 
@@ -387,7 +387,7 @@ D) The ceremony where Caesar was named dictator for life
 
 A
 
-> Card
+///
 
 ## Which of these was a direct result of Caesar's death?
 

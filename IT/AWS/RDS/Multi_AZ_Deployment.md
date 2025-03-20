@@ -82,7 +82,7 @@
 - JVM (Java Virtual Machine) - The runtime environment for Java applications that may need configuration for proper failover handling.
 - RDS console - The web interface used to manage Amazon RDS resources.
 
-> Card
+///
 
 ## Which of the following describes a Multi-AZ DB instance deployment?
 
@@ -98,7 +98,7 @@ D) It's a single DB instance replicated across multiple regions
 
 B
 
-> Card
+///
 
 ## What technology does Amazon RDS use for Multi-AZ deployments with MariaDB, MySQL, Oracle, PostgreSQL, and RDS Custom for SQL Server?
 
@@ -114,7 +114,7 @@ D) Oracle Data Guard
 
 C
 
-> Card
+///
 
 ## In the RDS console, how can you identify a Multi-AZ DB instance deployment?
 
@@ -130,7 +130,7 @@ D) The value of Role is "Reader instance"
 
 C
 
-> Card
+///
 
 ## What is the typical failover time for a Multi-AZ DB instance?
 
@@ -146,7 +146,7 @@ D) 30-60 minutes
 
 B
 
-> Card
+///
 
 ## What is the first step Amazon RDS performs when converting a Single-AZ deployment to a Multi-AZ DB instance deployment?
 
@@ -162,7 +162,7 @@ D) Shuts down the current DB instance
 
 B
 
-> Card
+///
 
 ## What is a potential impact of converting a production DB instance directly to Multi-AZ?
 
@@ -178,7 +178,7 @@ D) Loss of all existing connections permanently
 
 B
 
-> Card
+///
 
 ## What does the failover mechanism automatically change during a failover event?
 
@@ -194,7 +194,7 @@ D) The database engine version
 
 B
 
-> Card
+///
 
 ## What is the recommended TTL value for JVM environments working with AWS resources?
 
@@ -210,7 +210,7 @@ D) 0 seconds (no caching)
 
 A
 
-> Card
+///
 
 ## Which of the following is NOT a trigger for an automatic failover in a Multi-AZ DB instance?
 
@@ -226,7 +226,7 @@ D) Storage volume failure on the primary host
 
 C
 
-> Card
+///
 
 ## What is synchronous replication in the context of Multi-AZ deployments?
 
@@ -242,7 +242,7 @@ D) A process where database schema changes are deployed to all instances
 
 B
 
-> Card
+///
 
 ## Which of the following is TRUE about standby replicas in a Multi-AZ DB instance deployment?
 
@@ -258,7 +258,7 @@ D) They use a different storage type than the primary instance
 
 C
 
-> Card
+///
 
 ## What is the best practice recommended instead of directly converting a production DB instance to Multi-AZ?
 
@@ -274,7 +274,7 @@ D) Wait for the next maintenance window to perform the conversion
 
 B
 
-> Card
+///
 
 ## What happens to existing database connections during a Multi-AZ failover?
 
@@ -290,7 +290,7 @@ D) They are redirected to a read replica until failover completes
 
 B
 
-> Card
+///
 
 ## Which command is used to convert a DB instance to Multi-AZ using the AWS CLI?
 
@@ -306,7 +306,7 @@ D) update-db-instance-deployment
 
 C
 
-> Card
+///
 
 ## What is the purpose of Multi-AZ DB cluster deployments?
 

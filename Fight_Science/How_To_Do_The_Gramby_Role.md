@@ -27,7 +27,7 @@
 - Inverting - Positioning your body upside down; placing your head lower than your hips
 - Plow Position - A yoga position where you lie on your back and lift your legs over your head, placing your feet on the floor behind your head
 
-> Card
+///
 
 ## According to the transcript, what is the Granby Roll?
 
@@ -43,7 +43,7 @@ D) A specific type of takedown
 
 B
 
-> Card
+///
 
 ## When performing the Granby Roll, where should your arms be positioned?
 
@@ -59,7 +59,7 @@ D) Tucked in close to your sides
 
 C
 
-> Card
+///
 
 ## What direction do your palms face during the Granby Roll?
 
@@ -75,7 +75,7 @@ D) Up
 
 D
 
-> Card
+///
 
 ## What position do you roll into at the beginning of the Granby Roll?
 
@@ -91,7 +91,7 @@ D) Cobra pose
 
 C
 
-> Card
+///
 
 ## After rolling into the plow position, which direction do you roll?
 
@@ -107,7 +107,7 @@ D) Straight back
 
 C
 
-> Card
+///
 
 ## How is the Granby Roll described in terms of shoulder rolls?
 
@@ -123,7 +123,7 @@ D) Two complete shoulder rolls in opposite directions
 
 B
 
-> Card
+///
 
 ## What common mistake do people make when first trying the Granby Roll?
 
@@ -139,7 +139,7 @@ D) Forgetting to breathe
 
 C
 
-> Card
+///
 
 ## What should you do after completing the roll portion of the Granby Roll?
 
@@ -155,7 +155,7 @@ D) Lie flat on your back
 
 C
 
-> Card
+///
 
 ## What is "inverting" in the context of this technique?
 
@@ -171,7 +171,7 @@ D) Twisting at the waist
 
 B
 
-> Card
+///
 
 ## What is a plow position?
 
@@ -187,7 +187,7 @@ D) A position where you balance on your hands
 
 B
 
-> Card
+///
 
 ## What is one of the main benefits of practicing the Granby Roll?
 
@@ -203,7 +203,7 @@ D) Building leg strength
 
 C
 
-> Card
+///
 
 ## True or False: When performing the Granby Roll, you should keep your back on the floor.
 

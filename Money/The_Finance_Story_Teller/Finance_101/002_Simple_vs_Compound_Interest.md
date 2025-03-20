@@ -42,7 +42,7 @@
 - Principal: The original amount of money borrowed or invested
 - Outstanding Balance: The total amount of debt owed, including the principal and any unpaid interest
 
-> Card
+///
 
 ## What is the definition of interest?
 
@@ -58,7 +58,7 @@ D) The total amount owed after multiple years
 
 B
 
-> Card
+///
 
 ## According to the video, compound interest is:
 
@@ -74,7 +74,7 @@ D) A flat fee charged annually
 
 C
 
-> Card
+///
 
 ## What advice does the presenter give about compound interest?
 
@@ -90,7 +90,7 @@ D) It's only beneficial for short-term investments
 
 B
 
-> Card
+///
 
 ## In the example, what annual interest rate is charged on the credit card?
 
@@ -106,7 +106,7 @@ D) 25%
 
 C
 
-> Card
+///
 
 ## In the simple interest example with $1000 debt at 20%, how much interest is paid over 5 years?
 
@@ -122,7 +122,7 @@ D) $1488
 
 C
 
-> Card
+///
 
 ## With simple interest, what happens to the principal amount over time?
 
@@ -138,7 +138,7 @@ D) It fluctuates based on market conditions
 
 C
 
-> Card
+///
 
 ## After 5 years of compound interest at 20%, how much would a $1000 debt grow to?
 
@@ -154,7 +154,7 @@ D) $3000
 
 C
 
-> Card
+///
 
 ## The term "to compound" in a legal context means:
 
@@ -170,7 +170,7 @@ D) To invest wisely
 
 A
 
-> Card
+///
 
 ## In the compound interest example, what is the interest charged in Year 2?
 
@@ -186,7 +186,7 @@ D) $288
 
 C
 
-> Card
+///
 
 ## How much of the Year 2 interest ($240) is "interest on interest"?
 
@@ -202,7 +202,7 @@ D) $200
 
 B
 
-> Card
+///
 
 ## True or False: With simple interest, you pay interest on previously accumulated interest.
 
@@ -214,7 +214,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What is the total interest earned after 5 years on a $1000 investment with 20% compound interest?
 
@@ -230,7 +230,7 @@ D) $2488
 
 C
 
-> Card
+///
 
 ## The principal in a loan or investment refers to:
 
@@ -246,7 +246,7 @@ D) The person who manages the account
 
 C
 
-> Card
+///
 
 ## True or False: The video recommends checking what interest rate your credit card company is charging you.
 

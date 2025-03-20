@@ -71,7 +71,7 @@
 - Proton Gradient: The difference in concentration of hydrogen ions that provides energy for the flagellar motor.
 - Type 3 Secretion System: A structure similar to the flagellar motor that acts like a hypodermic needle for cells.
 
-> Card
+///
 
 ## According to the video, what is the flagellar motor?
 
@@ -87,7 +87,7 @@ D) A theoretical model of bacterial propulsion
 
 B
 
-> Card
+///
 
 ## What provides the energy for the flagellar motor?
 
@@ -103,7 +103,7 @@ D) Bacterial metabolism
 
 C
 
-> Card
+///
 
 ## How does the flagellar motor change directions?
 
@@ -119,7 +119,7 @@ D) By generating a new flagellum on the opposite side
 
 B
 
-> Card
+///
 
 ## What is the term for bacterial movement toward food sources or away from threats?
 
@@ -135,7 +135,7 @@ D) Bacterial navigation
 
 C
 
-> Card
+///
 
 ## What is Mot-AB in the flagellar motor?
 
@@ -151,7 +151,7 @@ D) The protein that controls direction
 
 B
 
-> Card
+///
 
 ## When the flagellar motor rotates counterclockwise (viewed from outside), what happens to the bacteria?
 
@@ -167,7 +167,7 @@ D) It moves backward
 
 B
 
-> Card
+///
 
 ## When the flagellar motor rotates clockwise, what happens to the flagella bundle?
 
@@ -183,7 +183,7 @@ D) It straightens out completely
 
 A
 
-> Card
+///
 
 ## What is CHeY?
 
@@ -199,7 +199,7 @@ D) An enzyme that breaks down the flagellar motor
 
 C
 
-> Card
+///
 
 ## What are the three main steps used by researchers to study the flagellar motor?
 
@@ -215,7 +215,7 @@ D) Cultivation, Modification, Observation
 
 B
 
-> Card
+///
 
 ## What type of microscopy was used to image the flagellar motor?
 
@@ -231,7 +231,7 @@ D) Cryo-electron microscopy
 
 D
 
-> Card
+///
 
 ## How many small gears (Mot-AB) can the flagellar motor employ?
 
@@ -247,7 +247,7 @@ D) Hundreds
 
 C
 
-> Card
+///
 
 ## How is the movement pattern of bacteria described in the video?
 
@@ -263,7 +263,7 @@ D) Zigzag pattern
 
 C
 
-> Card
+///
 
 ## What structure are scientists studying as a possible evolutionary precursor to the flagellar motor?
 
@@ -279,7 +279,7 @@ D) Protein pumps
 
 B
 
-> Card
+///
 
 ## True or False: The flagellar motor can only rotate in one direction.
 
@@ -291,7 +291,7 @@ B) False
 
 B
 
-> Card
+///
 
 ## What happens when multiple flagella on a bacteria are rotating counterclockwise?
 
