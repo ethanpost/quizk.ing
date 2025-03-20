@@ -1,7 +1,3 @@
-Got it! Here's the updated README with a **Note** section explaining how to properly import `.md` files into Mochi, including the multiple-question detail and `> Card` separator string.
-
----
-
 # quizk.ing 📚✨
 
 Welcome to **quizk.ing** – a collection of learning content generated with the help of AI!
