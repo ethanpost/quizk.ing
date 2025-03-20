@@ -36,6 +36,3 @@ This ensures that all flashcards are imported correctly and organized for easy s
 
 Right now, this is a personal project, but I'm always open to ideas, improvements, or collaborations in the future.
 
----
-
-Let me know if you'd like to add a sample screenshot of the import settings or any badges for GitHub flair!
