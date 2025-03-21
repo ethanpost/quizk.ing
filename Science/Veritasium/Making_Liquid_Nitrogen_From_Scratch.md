@@ -69,7 +69,7 @@ D) 82%
 
 ---
 
-C
+78%
 
 ///
 
@@ -85,7 +85,7 @@ D) -300°C
 
 ---
 
-C
+Below -200°C
 
 ///
 
@@ -101,7 +101,7 @@ D) It is ferromagnetic
 
 ---
 
-B
+It is paramagnetic
 
 ///
 
@@ -117,7 +117,7 @@ D) 99.7%
 
 ---
 
-D
+99.7%
 
 ///
 
@@ -133,7 +133,7 @@ D) Nitrogen is warmer
 
 ---
 
-B
+Nitrogen bubbles are smaller
 
 ///
 
@@ -149,7 +149,7 @@ D) Chemical reaction with coffee
 
 ---
 
-C
+Upward center flow creating downward outside flow
 
 ///
 
@@ -161,7 +161,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -177,5 +177,4 @@ D) 45 liters of room air
 
 ---
 
-C
-
+35 liters of room air

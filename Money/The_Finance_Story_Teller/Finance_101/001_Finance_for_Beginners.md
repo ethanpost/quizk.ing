@@ -92,7 +92,7 @@ D) Profit and Loss Statement
 
 ---
 
-C
+Balance Sheet
 
 ///
 
@@ -108,7 +108,7 @@ D) Inventory is purchased
 
 ---
 
-B
+Goods are delivered to customers
 
 ///
 
@@ -124,7 +124,7 @@ D) -$8000
 
 ---
 
-D
+-$8000
 
 ///
 
@@ -136,7 +136,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -152,7 +152,7 @@ D) Statement of Retained Earnings
 
 ---
 
-C
+Income Statement
 
 ///
 
@@ -168,7 +168,7 @@ D) $4.7
 
 ---
 
-B
+$22.55
 
 ///
 
@@ -184,7 +184,7 @@ D) $4.7
 
 ---
 
-C
+$200
 
 ///
 
@@ -200,7 +200,7 @@ D) At equityx, while market value looks at debt
 
 ---
 
-B
+Backward, while market value looks forward
 
 ///
 
@@ -216,7 +216,7 @@ D) Productivity enhancement
 
 ---
 
-C
+Dividend payments
 
 ///
 
@@ -232,7 +232,7 @@ D) Productivity
 
 ---
 
-C
+Mix
 
 ///
 
@@ -248,7 +248,7 @@ D) Compounding interest
 
 ---
 
-B
+Time value of money
 
 ///
 
@@ -260,7 +260,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -276,7 +276,7 @@ D) Your business model is fundamentally flawed
 
 ---
 
-C
+Cash outflows exceed cash inflows despite profitable operations
 
 ///
 
@@ -292,7 +292,7 @@ D) $5000
 
 ---
 
-C
+$20
 
 ///
 
@@ -308,7 +308,7 @@ D) Corporate governance
 
 ---
 
-B
+Possibility of bankruptcy
 
 ///
 
@@ -324,7 +324,7 @@ D) Profit and loss during a period
 
 ---
 
-C
+Movement from initial cash balance through inflows/outflows to ending balance
 
 ///
 
@@ -336,7 +336,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -352,7 +352,7 @@ D) Market value
 
 ---
 
-B
+Profit
 
 ///
 
@@ -368,7 +368,7 @@ D) Corporate Operating Gain/Shortfall
 
 ---
 
-B
+Cost of Goods Sold
 
 ///
 
@@ -384,5 +384,5 @@ D) Profit and loss
 
 ---
 
-B
+Assets, liabilities, and equity
 

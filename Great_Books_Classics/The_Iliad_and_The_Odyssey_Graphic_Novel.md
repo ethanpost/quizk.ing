@@ -59,8 +59,6 @@
 
 ///
 
-## Multiple Choice Quiz
-
 What prophecy was given about Troy's second prince?
 
 A) He would become its greatest king
@@ -73,7 +71,7 @@ D) He would kill his father
 
 ---
 
-B
+He would bring destruction to Troy
 
 ///
 
@@ -89,7 +87,7 @@ D) Mountain nymphs
 
 ---
 
-C
+A shepherd named Agelaus
 
 ///
 
@@ -105,7 +103,7 @@ D) "To the most beloved"
 
 ---
 
-B
+"To the most beautiful"
 
 ///
 
@@ -121,7 +119,7 @@ D) The most beautiful woman in the world
 
 ---
 
-D
+The most beautiful woman in the world
 
 ///
 
@@ -137,7 +135,7 @@ D) He married Helen himself
 
 ---
 
-B
+He suggested letting Helen choose her husband
 
 ///
 
@@ -153,7 +151,7 @@ D) She would lose her voice
 
 ---
 
-C
+No one would believe her prophecies
 
 ///
 
@@ -169,7 +167,7 @@ D) By presenting the golden apple
 
 ---
 
-B
+By winning athletic games
 
 ///
 
@@ -185,7 +183,7 @@ D) Warships
 
 ---
 
-C
+Treasury wealth
 
 ///
 
@@ -197,7 +195,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -213,7 +211,7 @@ D) They had to renounce their own marriages
 
 ---
 
-C
+They had to defend her marriage if needed
 
 ///
 
@@ -226,7 +224,7 @@ D) He tried to bribe his way out
 
 ---
 
-B
+He pretended to be insane
 
 ///
 
@@ -239,7 +237,7 @@ D) He challenged him to a duel
 
 ---
 
-B
+He placed Telemachus in front of his plow
 
 ///
 
@@ -252,7 +250,7 @@ D) He could speak to the gods
 
 ---
 
-C
+He was invulnerable except for his heel
 
 ///
 
@@ -265,7 +263,7 @@ D) In the underworld
 
 ---
 
-C
+In King Lycomedes's court dressed as a woman
 
 ///
 
@@ -278,7 +276,7 @@ D) He asked each woman their name
 
 ---
 
-C
+He laid out gifts including a sword, which Achilles grabbed
 
 ///
 
@@ -291,7 +289,7 @@ D) She imprisoned them
 
 ---
 
-B
+She turned them into pigs
 
 ///
 
@@ -304,7 +302,7 @@ D) He refused to eat or drink
 
 ---
 
-C
+He used an antidote given by Hermes
 
 ///
 
@@ -317,7 +315,7 @@ D) He would find great treasure
 
 ---
 
-C
+He would return home alone on a foreign ship
 
 ///
 
@@ -330,7 +328,7 @@ D) He was happy in the afterlife
 
 ---
 
-B
+He said he'd rather be a living peasant than king of the dead
 
 ///
 
@@ -343,7 +341,7 @@ D) He sang louder than them
 
 ---
 
-B
+He had his men plug their ears with wax and tie him to the mast
 
 ///
 
@@ -356,7 +354,7 @@ D) To warn of an invasion
 
 ---
 
-C
+To demand Helen's return
 
 ///
 
@@ -369,7 +367,7 @@ D) Control of Sparta
 
 ---
 
-B
+Return of his sister Hesione
 
 ///
 
@@ -382,7 +380,7 @@ D) She was banished from Troy
 
 ---
 
-C
+She was cursed to make true prophecies that no one would believe
 
 ///
 
@@ -395,7 +393,7 @@ D) It had magical powers
 
 ---
 
-B
+It was built around an olive tree and couldn't be moved
 
 ///
 
@@ -408,7 +406,7 @@ D) 20 years
 
 ---
 
-D
+20 years
 
 ///
 
@@ -421,7 +419,7 @@ D) She killed all his enemies
 
 ---
 
-B
+She helped delay dawn to give him more time with Penelope
 
 ///
 
@@ -434,7 +432,7 @@ D) They were cousins
 
 ---
 
-C
+They were bitter rivals after Palamedes exposed his madness
 
 ///
 
@@ -447,7 +445,7 @@ D) He stayed with Circe
 
 ---
 
-B
+He fell from the roof and died
 
 ///
 
@@ -460,7 +458,7 @@ D) Knowledge of the future
 
 ---
 
-C
+Songs about his deeds in the Trojan War
 
 ///
 
@@ -473,7 +471,7 @@ D) They were invisible to enemies
 
 ---
 
-B
+They were built by the gods Apollo and Poseidon
 
 ///
 
@@ -486,7 +484,7 @@ D) Paris's son
 
 ---
 
-B
+Hector's younger brother who was prophesied to save Troy
 
 ///
 
@@ -499,7 +497,7 @@ D) Inside Troy's walls
 
 ---
 
-B
+By ambushing him at Apollo's Fountain
 
 ///
 
@@ -512,7 +510,7 @@ D) The siege tower
 
 ---
 
-B
+The dice game
 
 ///
 
@@ -525,7 +523,7 @@ D) From disease
 
 ---
 
-C
+By stoning after being framed as a traitor
 
 ///
 
@@ -538,7 +536,7 @@ D) Poisoning the water supply
 
 ---
 
-A
+Direct assault on the walls
 
 ///
 
@@ -551,7 +549,7 @@ D) The Greek army was too small
 
 ---
 
-C
+Troy had many allies providing supplies
 
 ///
 
@@ -564,7 +562,7 @@ D) He challenged Agamemnon to a duel
 
 ---
 
-B
+He took his army back to Greece
 
 ///
 
@@ -577,7 +575,7 @@ D) One of Helen's suitors
 
 ---
 
-B
+A demigod son of Poseidon who fought for Troy
 
 ///
 
@@ -590,4 +588,4 @@ D) He had supernatural strength
 
 ---
 
-B
+He was invulnerable to weapons

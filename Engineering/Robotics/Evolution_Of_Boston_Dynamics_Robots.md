@@ -159,7 +159,7 @@ D) 2005
 
 ---
 
-B
+1992
 
 ///
 
@@ -175,7 +175,7 @@ D) PETMAN
 
 ---
 
-C
+BigDog
 
 ///
 
@@ -191,7 +191,7 @@ D) Perform parkour
 
 ---
 
-B
+Carry heavy gear for soldiers in rough terrain
 
 ///
 
@@ -207,7 +207,7 @@ D) 3 feet
 
 ---
 
-C
+2.5 feet
 
 ///
 
@@ -223,7 +223,7 @@ D) It was replaced by Atlas
 
 ---
 
-C
+It was too noisy for combat use
 
 ///
 
@@ -239,7 +239,7 @@ D) Personal Electronic Technology for Military Applications Network
 
 ---
 
-B
+Protection Ensemble Test Mannequin
 
 ///
 
@@ -255,7 +255,7 @@ D) It had realistic synthetic skin
 
 ---
 
-C
+It changed skin temperature and could sweat
 
 ///
 
@@ -271,7 +271,7 @@ D) Four stories
 
 ---
 
-B
+Two stories
 
 ///
 
@@ -287,7 +287,7 @@ D) Hydraulics
 
 ---
 
-C
+CO2
 
 ///
 
@@ -303,7 +303,7 @@ D) 28.3 miles per hour
 
 ---
 
-D
+28.3 miles per hour
 
 ///
 
@@ -319,7 +319,7 @@ D) It was faster by 5 mph
 
 ---
 
-C
+It was faster by 0.5 mph
 
 ///
 
@@ -335,7 +335,7 @@ D) Commercial warehouse operations
 
 ---
 
-B
+The DARPA Robotics Challenge
 
 ///
 
@@ -351,7 +351,7 @@ D) 90%
 
 ---
 
-C
+80%
 
 ///
 
@@ -367,7 +367,7 @@ D) $99,999
 
 ---
 
-C
+$74,500
 
 ///
 
@@ -383,7 +383,7 @@ D) 120 minutes
 
 ---
 
-C
+90 minutes
 
 ///
 
@@ -399,7 +399,7 @@ D) Blue Origin
 
 ---
 
-B
+NASA
 
 ///
 
@@ -415,7 +415,7 @@ D) 20 kilograms
 
 ---
 
-C
+14 kilograms
 
 ///
 
@@ -431,7 +431,7 @@ D) Hyundai Motor Group
 
 ---
 
-D
+Hyundai Motor Group
 
 ///
 
@@ -447,7 +447,7 @@ D) Medical assistance
 
 ---
 
-B
+Logistics
 
 ///
 
@@ -463,7 +463,7 @@ D) Atlas
 
 ---
 
-B
+Pick
 
 ///
 
@@ -475,7 +475,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -491,7 +491,7 @@ D) Radar
 
 ---
 
-C
+LIDAR and stereo sensors
 
 ///
 
@@ -507,7 +507,7 @@ D) Wildcat
 
 ---
 
-C
+Spot
 
 ///
 
@@ -523,7 +523,7 @@ D) 30 miles per hour
 
 ---
 
-B
+20 miles per hour
 
 ///
 
@@ -539,7 +539,7 @@ D) 40 jumps
 
 ---
 
-C
+30 jumps
 
 ///
 
@@ -555,4 +555,4 @@ D) Sensory input
 
 ---
 
-B
+They act as muscles

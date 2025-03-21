@@ -113,7 +113,7 @@ D) 95 BCE
 
 ---
 
-B
+100 BCE
 
 ///
 
@@ -129,7 +129,7 @@ D) Praetor
 
 ---
 
-C
+Pontifex Maximus
 
 ///
 
@@ -145,7 +145,7 @@ D) Marcus Brutus
 
 ---
 
-B
+Gaius Marius
 
 ///
 
@@ -161,7 +161,7 @@ D) "Carpe diem"
 
 ---
 
-C
+"Alea iacta est"
 
 ///
 
@@ -177,7 +177,7 @@ D) Marcus Crassus
 
 ---
 
-C
+Marcus Brutus
 
 ///
 
@@ -193,7 +193,7 @@ D) Parthia
 
 ---
 
-B
+Gaul
 
 ///
 
@@ -209,7 +209,7 @@ D) Ariovistus
 
 ---
 
-A
+Vercingetorix
 
 ///
 
@@ -225,7 +225,7 @@ D) Parthia
 
 ---
 
-C
+Egypt
 
 ///
 
@@ -241,7 +241,7 @@ D) He escaped to another country
 
 ---
 
-C
+He was murdered
 
 ///
 
@@ -257,7 +257,7 @@ D) Siege of Alexandria
 
 ---
 
-C
+Victory against King Pharnaces II
 
 ///
 
@@ -273,7 +273,7 @@ D) Julia
 
 ---
 
-C
+Calpurnia
 
 ///
 
@@ -289,7 +289,7 @@ D) Mark Antony Jr.
 
 ---
 
-C
+Ptolemy Caesar (Caesarion)
 
 ///
 
@@ -305,7 +305,7 @@ D) December 25, 44 BCE
 
 ---
 
-B
+March 15, 44 BCE
 
 ///
 
@@ -321,7 +321,7 @@ D) 43
 
 ---
 
-B
+23
 
 ///
 
@@ -337,7 +337,7 @@ D) Gaius Octavius (Octavian)
 
 ---
 
-D
+Gaius Octavius (Octavian)
 
 ///
 
@@ -353,7 +353,7 @@ D) They were pardoned by Mark Antony
 
 ---
 
-B
+They fled to Greece
 
 ///
 
@@ -369,7 +369,7 @@ D) Tribune
 
 ---
 
-B
+Dictator
 
 ///
 
@@ -385,7 +385,7 @@ D) The ceremony where Caesar was named dictator for life
 
 ---
 
-A
+A festival where Mark Antony tried to crown Caesar
 
 ///
 
@@ -401,5 +401,4 @@ D) Declaration of war against Egypt
 
 ---
 
-C
-
+Public uprising against the conspirators

@@ -85,7 +85,7 @@ D) A theoretical model of bacterial propulsion
 
 ---
 
-B
+A molecular machine made of proteins that rotates the flagellum of bacteria
 
 ///
 
@@ -101,7 +101,7 @@ D) Bacterial metabolism
 
 ---
 
-C
+Proton gradient (hydrogen ions)
 
 ///
 
@@ -117,7 +117,7 @@ D) By generating a new flagellum on the opposite side
 
 ---
 
-B
+By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it
 
 ///
 
@@ -133,7 +133,7 @@ D) Bacterial navigation
 
 ---
 
-C
+Chemotaxis
 
 ///
 
@@ -149,7 +149,7 @@ D) The protein that controls direction
 
 ---
 
-B
+The small gear that harnesses proton energy
 
 ///
 
@@ -165,7 +165,7 @@ D) It moves backward
 
 ---
 
-B
+It swims straight forward
 
 ///
 
@@ -181,7 +181,7 @@ D) It straightens out completely
 
 ---
 
-A
+It opens up, causing the bacteria to tumble
 
 ///
 
@@ -197,7 +197,7 @@ D) An enzyme that breaks down the flagellar motor
 
 ---
 
-C
+A protein that binds to the motor and triggers clockwise rotation
 
 ///
 
@@ -213,7 +213,7 @@ D) Cultivation, Modification, Observation
 
 ---
 
-B
+Transformation, Expression, Purification
 
 ///
 
@@ -229,7 +229,7 @@ D) Cryo-electron microscopy
 
 ---
 
-D
+Cryo-electron microscopy
 
 ///
 
@@ -245,7 +245,7 @@ D) Hundreds
 
 ---
 
-C
+Up to 11-13
 
 ///
 
@@ -261,7 +261,7 @@ D) Zigzag pattern
 
 ---
 
-C
+Biased random walk
 
 ///
 
@@ -277,7 +277,7 @@ D) Protein pumps
 
 ---
 
-B
+Type 3 secretion system
 
 ///
 
@@ -289,7 +289,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -305,4 +305,4 @@ D) They cause the bacteria to spin in place
 
 ---
 
-B
+They form a bundle, pushing the bacteria straight forward

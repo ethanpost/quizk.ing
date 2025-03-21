@@ -50,7 +50,7 @@ D) Adverb
 
 ---
 
-B
+Verb
 
 ///
 
@@ -66,7 +66,7 @@ D) E pluribus unum
 
 ---
 
-B
+Sine qua non
 
 ///
 
@@ -78,7 +78,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -94,7 +94,7 @@ D) Qualities (like 'cowardly')
 
 ---
 
-C
+Adverbs
 
 ///
 
@@ -110,7 +110,7 @@ D) Only subjects of sentences
 
 ---
 
-C
+Intangible concepts like virtue and courage
 
 ///
 
@@ -126,7 +126,7 @@ D) Caught
 
 ---
 
-D
+Caught
 
 ///
 
@@ -142,7 +142,7 @@ D) To become an English teacher
 
 ---
 
-B
+To prepare for learning Latin
 
 ///
 
@@ -158,7 +158,7 @@ D) Soon or quickly
 
 ---
 
-B
+In the house
 
 ///
 
@@ -170,7 +170,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -186,7 +186,7 @@ D) Six
 
 ---
 
-C
+Five
 
 ///
 
@@ -202,7 +202,7 @@ D) A word that modifies another verb
 
 ---
 
-B
+The "motor" of a sentence that expresses an action, occurrence, or state of being
 
 ///
 
@@ -218,7 +218,7 @@ D) A word that connects parts of a sentence
 
 ---
 
-C
+A word that represents a person, place, thing, or abstract concept
 
 ///
 
@@ -234,7 +234,7 @@ D) To modify a verb
 
 ---
 
-A
+To describe or modify a noun
 
 ///
 
@@ -250,7 +250,7 @@ D) A verb, adjective, or other adverb
 
 ---
 
-D
+A verb, adjective, or other adverb
 
 ///
 
@@ -266,7 +266,7 @@ D) The main subject of a sentence
 
 ---
 
-B
+A word that shows the relationship between a noun and other words in a sentence
 
 ///
 
@@ -282,7 +282,7 @@ D) Two connected verbs
 
 ---
 
-C
+A group of words containing a preposition and a noun
 
 ///
 
@@ -298,7 +298,7 @@ D) "Always moving forward"
 
 ---
 
-B
+"Without which not" - referring to essential elements
 
 ///
 
@@ -314,7 +314,7 @@ D) A verb that describes how something looks
 
 ---
 
-B
+A verb that expresses existence rather than action
 
 ///
 
@@ -330,7 +330,7 @@ D) To indicate possession
 
 ---
 
-B
+To connect the subject to additional information
 
 ///
 
@@ -346,6 +346,6 @@ D) A type of verb
 
 ---
 
-C
+An abstract idea that cannot be physically touched
 
 ///

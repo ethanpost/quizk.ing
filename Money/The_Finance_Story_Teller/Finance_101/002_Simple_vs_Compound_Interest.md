@@ -56,7 +56,7 @@ D) The total amount owed after multiple years
 
 ---
 
-B
+A fee paid for the use of someone else's money
 
 ///
 
@@ -72,7 +72,7 @@ D) A flat fee charged annually
 
 ---
 
-C
+Interest on the outstanding debt balance, plus interest on interest
 
 ///
 
@@ -88,7 +88,7 @@ D) It's only beneficial for short-term investments
 
 ---
 
-B
+It's great to earn, but avoid paying it
 
 ///
 
@@ -104,7 +104,7 @@ D) 25%
 
 ---
 
-C
+20%
 
 ///
 
@@ -120,7 +120,7 @@ D) $1488
 
 ---
 
-C
+$1000
 
 ///
 
@@ -136,7 +136,7 @@ D) It fluctuates based on market conditions
 
 ---
 
-C
+It remains the same
 
 ///
 
@@ -152,7 +152,7 @@ D) $3000
 
 ---
 
-C
+$2488
 
 ///
 
@@ -168,7 +168,7 @@ D) To invest wisely
 
 ---
 
-A
+To make something bad worse
 
 ///
 
@@ -184,7 +184,7 @@ D) $288
 
 ---
 
-C
+$240
 
 ///
 
@@ -200,7 +200,7 @@ D) $200
 
 ---
 
-B
+$40
 
 ///
 
@@ -212,7 +212,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -228,7 +228,7 @@ D) $2488
 
 ---
 
-C
+$1488
 
 ///
 
@@ -244,7 +244,7 @@ D) The person who manages the account
 
 ---
 
-C
+The original amount borrowed or invested
 
 ///
 
@@ -256,5 +256,4 @@ B) False
 
 ---
 
-A
-
+True

@@ -61,7 +61,7 @@ D) The body frame
 
 ---
 
-B
+The engine/motor
 
 ///
 
@@ -77,7 +77,7 @@ D) Progressive verb
 
 ---
 
-B
+Transitive verb
 
 ///
 
@@ -93,7 +93,7 @@ D) Progressive
 
 ---
 
-C
+Intransitive
 
 ///
 
@@ -109,7 +109,7 @@ D) To show movement
 
 ---
 
-B
+To connect equivalent parts like an equals sign
 
 ///
 
@@ -121,7 +121,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -137,7 +137,7 @@ D) Find the last noun in the sentence
 
 ---
 
-C
+Ask "who or what" plus the verb
 
 ///
 
@@ -153,7 +153,7 @@ D) Wonderful
 
 ---
 
-C
+The phone
 
 ///
 
@@ -169,7 +169,7 @@ D) It links two ideas
 
 ---
 
-B
+It has a direct object
 
 ///
 
@@ -181,7 +181,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -197,4 +197,4 @@ D) Progressive
 
 ---
 
-C
+Linking

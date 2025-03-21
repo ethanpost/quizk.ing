@@ -10,7 +10,7 @@ D) Hyperbole
 
 ---
 
-C
+Personification
 
 ///
 
@@ -26,7 +26,7 @@ D) To provide transition between paragraphs
 
 ---
 
-B
+To state the main idea of an essay
 
 ///
 
@@ -42,7 +42,7 @@ D) After the dog barked, the cat meowed.
 
 ---
 
-B
+The dog barked, and the cat meowed.
 
 ///
 
@@ -58,7 +58,7 @@ D) Analysis, experiment, hypothesis, question, conclusion
 
 ---
 
-B
+Question, hypothesis, experiment, analysis, conclusion
 
 ///
 
@@ -70,7 +70,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -86,7 +86,7 @@ D) Democratic, Republican, Independent
 
 ---
 
-B
+Legislative, Executive, Judicial
 
 ///
 
@@ -102,7 +102,7 @@ D) Under the big tree.
 
 ---
 
-C
+She studied for her exam.
 
 ///
 
@@ -118,7 +118,7 @@ D) Neither creates new substances
 
 ---
 
-B
+Chemical changes create new substances, physical changes don't
 
 ///
 
@@ -134,7 +134,7 @@ D) Conglomerate
 
 ---
 
-D
+Conglomerate
 
 ///
 
@@ -150,7 +150,7 @@ D) Observers
 
 ---
 
-A
+Protagonists
 
 ///
 
@@ -166,7 +166,7 @@ D) Transpiration
 
 ---
 
-B
+Photosynthesis
 
 ///
 
@@ -182,7 +182,7 @@ D) Egyptians
 
 ---
 
-D
+Egyptians
 
 ///
 
@@ -194,7 +194,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -210,7 +210,7 @@ D) International Date Line
 
 ---
 
-B
+Equator
 
 ///
 
@@ -226,7 +226,7 @@ D) Time flies when you're having fun
 
 ---
 
-A
+The silent owl soared suddenly
 
 ///
 
@@ -242,7 +242,7 @@ D) Golgi apparatus
 
 ---
 
-C
+Mitochondria
 
 ///
 
@@ -258,7 +258,7 @@ D) The Earth's revolution around the sun
 
 ---
 
-B
+The Earth's tilt on its axis
 
 ///
 
@@ -274,7 +274,7 @@ D) World War I
 
 ---
 
-C
+Civil War
 
 ///
 
@@ -290,7 +290,7 @@ D) Child's
 
 ---
 
-B
+Children
 
 ///
 
@@ -306,7 +306,7 @@ D) I went to the store to buy milk; then I went home.
 
 ---
 
-C
+I went to the store to buy milk then I went home.
 
 ///
 
@@ -322,7 +322,7 @@ D) Electron
 
 ---
 
-C
+Atom
 
 ///
 
@@ -334,7 +334,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -350,7 +350,7 @@ D) Adverb
 
 ---
 
-C
+Verb
 
 ///
 
@@ -366,7 +366,7 @@ D) Weather happens globally, climate is local
 
 ---
 
-B
+Weather is short-term, climate is long-term
 
 ///
 
@@ -382,7 +382,7 @@ D) Abraham Lincoln
 
 ---
 
-C
+Thomas Jefferson
 
 ///
 
@@ -398,7 +398,7 @@ D) Character vs. Self
 
 ---
 
-D
+Character vs. Self
 
 ///
 
@@ -414,7 +414,7 @@ D) 75
 
 ---
 
-B
+49
 
 ///
 
@@ -430,7 +430,7 @@ D) Solid, liquid, plasma
 
 ---
 
-C
+Solid, liquid, gas
 
 ///
 
@@ -446,7 +446,7 @@ D) Age of Exploration
 
 ---
 
-B
+Middle Ages
 
 ///
 
@@ -462,7 +462,7 @@ D) "Let's, eat grandma."
 
 ---
 
-B
+"Let's eat, grandma."
 
 ///
 
@@ -478,7 +478,7 @@ D) To digest food
 
 ---
 
-C
+To support the body and protect organs
 
 ///
 
@@ -494,7 +494,7 @@ D) Australia
 
 ---
 
-C
+South America
 
 ///
 
@@ -510,7 +510,7 @@ D) Hyperbole
 
 ---
 
-C
+Exposition
 
 ///
 
@@ -522,7 +522,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -538,7 +538,7 @@ D) 26th Amendment
 
 ---
 
-B
+13th Amendment
 
 ///
 
@@ -554,7 +554,7 @@ D) Third person omniscient
 
 ---
 
-A
+First person
 
 ///
 
@@ -570,7 +570,7 @@ D) Wind blowing through trees
 
 ---
 
-B
+A book sitting on a high shelf
 
 ///
 
@@ -586,7 +586,7 @@ D) Mongolian
 
 ---
 
-C
+Chinese
 
 ///
 
@@ -602,7 +602,7 @@ D) Five
 
 ---
 
-B
+Three
 
 ///
 
@@ -618,7 +618,7 @@ D) Precipitation
 
 ---
 
-B
+Condensation
 
 ///
 
@@ -634,7 +634,7 @@ D) The Bill of Rights
 
 ---
 
-C
+The U.S. Constitution
 
 ///
 
@@ -650,7 +650,7 @@ D) A word that sounds the same but has a different meaning
 
 ---
 
-C
+A word that means the opposite of another word
 
 ///
 
@@ -666,7 +666,7 @@ D) Electrical force
 
 ---
 
-B
+Gravitational force
 
 ///
 
@@ -682,7 +682,7 @@ D) Geology
 
 ---
 
-C
+Archaeology
 
 ///
 
@@ -698,7 +698,7 @@ D) Birds fly south for winter.
 
 ---
 
-C
+He climbed the mountain.
 
 ///
 
@@ -710,7 +710,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -726,7 +726,7 @@ D) Abraham Lincoln
 
 ---
 
-C
+George Washington
 
 ///
 
@@ -742,7 +742,7 @@ D) Mystery
 
 ---
 
-B
+Science fiction
 
 ///
 
@@ -758,7 +758,7 @@ D) Skin
 
 ---
 
-D
+Skin
 
 ///
 
@@ -774,7 +774,7 @@ D) Australia and Asia
 
 ---
 
-A
+North America and South America
 
 ///
 
@@ -790,7 +790,7 @@ D) Show possession
 
 ---
 
-B
+Join two independent clauses
 
 ///
 
@@ -806,7 +806,7 @@ D) Homonym
 
 ---
 
-C
+Onomatopoeia
 
 ///
 
@@ -822,7 +822,7 @@ D) Hydroelectric power
 
 ---
 
-C
+Coal
 
 ///
 
@@ -838,7 +838,7 @@ D) The rise of communism
 
 ---
 
-A
+The assassination of Archduke Franz Ferdinand
 
 ///
 
@@ -854,7 +854,7 @@ D) Past perfect
 
 ---
 
-B
+Present perfect
 
 ///
 
@@ -870,7 +870,7 @@ D) For every action, there is an equal and opposite reaction
 
 ---
 
-C
+Energy cannot be created or destroyed
 
 ///
 
@@ -886,7 +886,7 @@ D) A transcontinental railway
 
 ---
 
-C
+A secret network helping enslaved people escape to freedom
 
 ///
 
@@ -902,7 +902,7 @@ D) A word that names a person, place, thing, or idea
 
 ---
 
-B
+A word that shows the relationship between a noun and other words
 
 ///
 
@@ -914,7 +914,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -930,7 +930,7 @@ D) Greece
 
 ---
 
-C
+Sumer
 
 ///
 
@@ -946,7 +946,7 @@ D) Coming of age
 
 ---
 
-C
+Punctuation
 
 ///
 
@@ -962,7 +962,7 @@ D) To digest food
 
 ---
 
-C
+To exchange oxygen and carbon dioxide
 
 ///
 
@@ -978,7 +978,7 @@ D) Georgia
 
 ---
 
-A
+Vermont
 
 ///
 
@@ -994,7 +994,7 @@ D) A word that has opposite meaning of another word
 
 ---
 
-B
+A word spelled the same as another word but with different meaning
 
 ///
 
@@ -1010,7 +1010,7 @@ D) Produce milk for their young
 
 ---
 
-D
+Produce milk for their young
 
 ///
 
@@ -1026,7 +1026,7 @@ D) Precipitation
 
 ---
 
-C
+Sublimation
 
 ///
 
@@ -1042,7 +1042,7 @@ D) The Emancipation Proclamation
 
 ---
 
-B
+The Declaration of Independence
 
 ///
 
@@ -1058,7 +1058,7 @@ D) To summarize the essay
 
 ---
 
-B
+To state the main idea of the paragraph
 
 ///
 
@@ -1074,7 +1074,7 @@ D) Mouse
 
 ---
 
-C
+Jellyfish
 
 ///
 
@@ -1090,7 +1090,7 @@ D) Great Britain
 
 ---
 
-D
+Great Britain
 
 ///
 
@@ -1106,7 +1106,7 @@ D) Only nouns and pronouns
 
 ---
 
-B
+A verb, adjective, or other adverb
 
 ///
 
@@ -1118,7 +1118,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -1134,7 +1134,7 @@ D) Simon Bolivar
 
 ---
 
-C
+Mahatma Gandhi
 
 ///
 
@@ -1150,7 +1150,7 @@ D) Dialogue
 
 ---
 
-B
+Foreshadowing
 
 ///
 
@@ -1166,7 +1166,7 @@ D) To digest food
 
 ---
 
-C
+To transport nutrients and oxygen throughout the body
 
 ///
 
@@ -1182,7 +1182,7 @@ D) Geography
 
 ---
 
-D
+Geography
 
 ///
 
@@ -1198,7 +1198,7 @@ D) Add '
 
 ---
 
-A
+Add 's
 
 ///
 
@@ -1214,7 +1214,7 @@ D) Saturn
 
 ---
 
-C
+Mars
 
 ///
 
@@ -1230,7 +1230,7 @@ D) Environmental pollution
 
 ---
 
-C
+Racial segregation and discrimination
 
 ///
 
@@ -1246,7 +1246,7 @@ D) Imperative
 
 ---
 
-D
+Imperative
 
 ///
 
@@ -1262,7 +1262,7 @@ D) Sedimentation
 
 ---
 
-B
+Weathering
 
 ///
 
@@ -1278,7 +1278,7 @@ D) The Emancipation Proclamation
 
 ---
 
-C
+The Bill of Rights
 
 ///
 
@@ -1294,7 +1294,7 @@ D) Third person omniscient
 
 ---
 
-D
+Third person omniscient
 
 ///
 
@@ -1306,7 +1306,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -1322,7 +1322,7 @@ D) John Cabot
 
 ---
 
-B
+Ferdinand Magellan
 
 ///
 
@@ -1338,7 +1338,7 @@ D) Interjection
 
 ---
 
-C
+Punctuation
 
 ///
 
@@ -1354,7 +1354,7 @@ D) Hydroelectric
 
 ---
 
-C
+Natural gas
 
 ///
 
@@ -1370,7 +1370,7 @@ D) Meteorology
 
 ---
 
-C
+Geography
 
 ///
 
@@ -1386,7 +1386,7 @@ D) Similarly
 
 ---
 
-C
+However
 
 ///
 
@@ -1402,7 +1402,7 @@ D) Scavenger
 
 ---
 
-B
+Consumer
 
 ///
 
@@ -1418,7 +1418,7 @@ D) The military
 
 ---
 
-B
+The King
 
 ///
 
@@ -1434,7 +1434,7 @@ D) Antonyms
 
 ---
 
-C
+Homophones
 
 ///
 
@@ -1450,7 +1450,7 @@ D) To fight disease
 
 ---
 
-B
+To store genetic information
 
 ///
 
@@ -1466,7 +1466,7 @@ D) South America
 
 ---
 
-C
+Africa
 
 ///
 
@@ -1482,4 +1482,4 @@ D) The setting of the story
 
 ---
 
-B
+The highest point of tension in the story

@@ -61,7 +61,7 @@ D) Like 'c' in "city"
 
 ---
 
-C
+Like 'k' in "cat"
 
 ///
 
@@ -77,7 +77,7 @@ D) Say-sar
 
 ---
 
-C
+Kai-sar
 
 ///
 
@@ -93,7 +93,7 @@ D) When it appears after a consonant
 
 ---
 
-C
+When it begins a word and is followed by a vowel
 
 ///
 
@@ -109,7 +109,7 @@ D) 'f' as in "father"
 
 ---
 
-B
+'w' as in "way"
 
 ///
 
@@ -125,7 +125,7 @@ D) Like 'v' as in "victory"
 
 ---
 
-B
+Like 'p' with an extra breath
 
 ///
 
@@ -137,7 +137,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -153,7 +153,7 @@ D) It becomes a consonant
 
 ---
 
-C
+It doesn't count as a vowel
 
 ///
 
@@ -169,4 +169,4 @@ D) The snake letter
 
 ---
 
-B
+The dog letter

@@ -74,7 +74,7 @@ D) Neptunium-239
 
 ---
 
-B  
+Uranium-235
 
 ///
 
@@ -90,7 +90,7 @@ D) To generate steam
 
 ---
 
-B  
+To convert non-fissile isotopes into fissile isotopes
 
 ///
 
@@ -106,7 +106,7 @@ D) To produce argon gas
 
 ---
 
-B  
+To initiate fission in U-235
 
 ///
 
@@ -122,7 +122,7 @@ D) Nuclear Alkaline Coolant
 
 ---
 
-B  
+Sodium-Potassium Alloy
 
 ///
 
@@ -138,7 +138,7 @@ D) To store nuclear waste
 
 ---
 
-B  
+To reflect neutrons back into the core
 
 ///
 
@@ -150,7 +150,7 @@ B) False
 
 ---
 
-True  
+True
 
 ///
 
@@ -166,4 +166,4 @@ D) To cool the liquid metal coolant
 
 ---
 
-C  
+To shut down the reactor in an emergency

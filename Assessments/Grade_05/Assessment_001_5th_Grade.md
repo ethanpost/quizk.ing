@@ -10,6 +10,7 @@ D) The ending of the story
 
 ---
 
+The most important point the author wants to share
 
 ///  
 
@@ -25,7 +26,7 @@ D) Jump
 
 ---
 
-B  
+Dog
 
 ///  
 
@@ -37,7 +38,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -53,7 +54,7 @@ D) Quiet
 
 ---
 
-B  
+Strong and fearless
 
 ///  
 
@@ -69,7 +70,7 @@ D) The cat ran fast
 
 ---
 
-B  
+The cat ran fast.
 
 ///  
 
@@ -85,7 +86,7 @@ D) Sleepy
 
 ---
 
-B  
+Glad
 
 ///  
 
@@ -97,7 +98,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -113,7 +114,7 @@ D) Darkness
 
 ---
 
-A  
+Water, sunlight, and air
 
 ///  
 
@@ -129,7 +130,7 @@ D) Texas
 
 ---
 
-B  
+Africa
 
 ///  
 
@@ -145,7 +146,7 @@ D) Benjamin Franklin
 
 ---
 
-B  
+George Washington
 
 ///  
 
@@ -161,7 +162,7 @@ D) The lesson learned
 
 ---
 
-B  
+The time and place where the story happens
 
 ///  
 
@@ -177,7 +178,7 @@ D) Fast
 
 ---
 
-A  
+Tall
 
 ///  
 
@@ -189,7 +190,7 @@ B) False
 
 ---
 
-B  
+False
 
 ///  
 
@@ -205,7 +206,7 @@ D) To ask a question
 
 ---
 
-A  
+To guess what will happen next
 
 ///  
 
@@ -221,7 +222,7 @@ D) Happy little girl
 
 ---
 
-B  
+The dog barks loudly.
 
 ///  
 
@@ -237,7 +238,7 @@ D) Electricity
 
 ---
 
-B  
+Gravity
 
 ///  
 
@@ -249,7 +250,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -265,7 +266,7 @@ D) Chemist
 
 ---
 
-C  
+Geologist
 
 ///  
 
@@ -281,7 +282,7 @@ D) England
 
 ---
 
-A  
+California
 
 ///  
 
@@ -297,7 +298,7 @@ D) To draw pictures
 
 ---
 
-B  
+To show where places are
 
 ///  
 
@@ -313,7 +314,7 @@ D) The characters
 
 ---
 
-B  
+The lesson or message
 
 ///  
 
@@ -329,7 +330,7 @@ D) Chair
 
 ---
 
-B  
+Sing
 
 ///  
 
@@ -341,7 +342,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -357,7 +358,7 @@ D) Very loud
 
 ---
 
-B  
+Very big
 
 ///  
 
@@ -373,7 +374,7 @@ D) I like to play soccer?
 
 ---
 
-B  
+I like to play soccer.
 
 ///  
 
@@ -389,7 +390,7 @@ D) The wind
 
 ---
 
-B  
+The Sun
 
 ///  
 
@@ -401,7 +402,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -417,7 +418,7 @@ D) Star
 
 ---
 
-B  
+Mars
 
 ///  
 
@@ -433,7 +434,7 @@ D) King
 
 ---
 
-C  
+Mayor
 
 ///  
 
@@ -445,7 +446,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -461,7 +462,7 @@ D) The author
 
 ---
 
-B  
+The main character
 
 ///  
 
@@ -477,7 +478,7 @@ D) Tree
 
 ---
 
-A  
+Slowly
 
 ///  
 
@@ -489,7 +490,7 @@ B) False
 
 ---
 
-B  
+False
 
 ///  
 
@@ -505,7 +506,7 @@ D) To ask a question
 
 ---
 
-B  
+To tell how things are alike
 
 ///  
 
@@ -521,7 +522,7 @@ D) the dog is Brown
 
 ---
 
-B  
+The dog is brown.
 
 ///  
 
@@ -537,7 +538,7 @@ D) Sugar
 
 ---
 
-A  
+Oxygen
 
 ///  
 
@@ -549,7 +550,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -565,7 +566,7 @@ D) Car
 
 ---
 
-B  
+Tree
 
 ///  
 
@@ -581,7 +582,7 @@ D) Texas
 
 ---
 
-C  
+Washington, D.C.
 
 ///  
 
@@ -593,7 +594,7 @@ B) False
 
 ---
 
-B  
+False
 
 ///  
 
@@ -609,7 +610,7 @@ D) The middle
 
 ---
 
-B  
+The introduction
 
 ///  
 
@@ -625,7 +626,7 @@ D) Sing
 
 ---
 
-B  
+Apple
 
 ///  
 
@@ -637,7 +638,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -653,7 +654,7 @@ D) Very fast
 
 ---
 
-B  
+Very small
 
 ///  
 
@@ -669,7 +670,7 @@ D) I see the bird
 
 ---
 
-B  
+Where is the bird?
 
 ///  
 
@@ -685,7 +686,7 @@ D) The clouds
 
 ---
 
-B  
+The Earth spinning
 
 ///  
 
@@ -697,7 +698,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -713,7 +714,7 @@ D) Forest
 
 ---
 
-B  
+Rain
 
 ///  
 
@@ -729,7 +730,7 @@ D) A forest
 
 ---
 
-B  
+An island
 
 ///  
 
@@ -741,7 +742,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -757,7 +758,7 @@ D) The theme
 
 ---
 
-B  
+The conflict
 
 ///  
 
@@ -773,7 +774,7 @@ D) Chair
 
 ---
 
-B  
+Sleep
 
 ///  
 
@@ -785,7 +786,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -801,7 +802,7 @@ D) To run fast
 
 ---
 
-B  
+To talk loudly
 
 ///  
 
@@ -817,7 +818,7 @@ D) "Mom said, Clean your room"
 
 ---
 
-A  
+Mom said, "Clean your room."
 
 ///  
 
@@ -833,7 +834,7 @@ D) Jupiter
 
 ---
 
-B  
+The Sun
 
 ///  
 
@@ -845,7 +846,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -861,7 +862,7 @@ D) Lizard
 
 ---
 
-C  
+Dolphin
 
 ///  
 
@@ -877,7 +878,7 @@ D) A clock
 
 ---
 
-B  
+A round model of the Earth
 
 ///  
 
@@ -889,7 +890,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -905,7 +906,7 @@ D) The setting
 
 ---
 
-C  
+The conclusion
 
 ///  
 
@@ -921,7 +922,7 @@ D) Sing
 
 ---
 
-B  
+Happy
 
 ///  
 
@@ -933,7 +934,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -949,7 +950,7 @@ D) Very bright
 
 ---
 
-B  
+Very cold
 
 ///  
 
@@ -965,7 +966,7 @@ D) I like to read Books
 
 ---
 
-B  
+I like to read books.
 
 ///  
 
@@ -981,7 +982,7 @@ D) Books
 
 ---
 
-A  
+Food, water, and air
 
 ///  
 
@@ -993,7 +994,7 @@ B) False
 
 ---
 
-B  
+False
 
 ///  
 
@@ -1009,7 +1010,7 @@ D) Glass
 
 ---
 
-B  
+Granite
 
 ///  
 
@@ -1025,7 +1026,7 @@ D) Chemist
 
 ---
 
-C  
+Astronomer
 
 ///  
 
@@ -1037,7 +1038,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1053,7 +1054,7 @@ D) The plot
 
 ---
 
-B  
+The big idea or message
 
 ///  
 
@@ -1069,7 +1070,7 @@ D) Tree
 
 ---
 
-B  
+Quickly
 
 ///  
 
@@ -1081,7 +1082,7 @@ B) False
 
 ---
 
-B  
+False
 
 ///  
 
@@ -1097,7 +1098,7 @@ D) Tired
 
 ---
 
-B  
+Happy
 
 ///  
 
@@ -1113,7 +1114,7 @@ D) She runned to the park.
 
 ---
 
-B  
+She runs to the park.
 
 ///  
 
@@ -1129,7 +1130,7 @@ D) The stars
 
 ---
 
-A  
+The Earth tilting as it goes around the Sun
 
 ///  
 
@@ -1141,7 +1142,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1157,7 +1158,7 @@ D) A chair
 
 ---
 
-B  
+A lamp
 
 ///  
 
@@ -1173,7 +1174,7 @@ D) A team
 
 ---
 
-B  
+A community
 
 ///  
 
@@ -1185,7 +1186,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1201,7 +1202,7 @@ D) The lesson
 
 ---
 
-A  
+The events that happen
 
 ///  
 
@@ -1217,7 +1218,7 @@ D) Jump
 
 ---
 
-B  
+River
 
 ///  
 
@@ -1229,7 +1230,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1245,7 +1246,7 @@ D) Small
 
 ---
 
-B  
+Fast
 
 ///  
 
@@ -1261,7 +1262,7 @@ D) I, have a dog and a cat
 
 ---
 
-A  
+I have a dog, and a cat.
 
 ///  
 
@@ -1277,7 +1278,7 @@ D) Saturn
 
 ---
 
-C  
+Jupiter
 
 ///  
 
@@ -1289,7 +1290,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1305,7 +1306,7 @@ D) Glass
 
 ---
 
-B  
+Water
 
 ///  
 
@@ -1321,7 +1322,7 @@ D) Map
 
 ---
 
-A  
+Currency
 
 ///  
 
@@ -1333,7 +1334,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1349,7 +1350,7 @@ D) The problem
 
 ---
 
-B  
+The words characters say
 
 ///  
 
@@ -1365,7 +1366,7 @@ D) Leaf
 
 ---
 
-B  
+Grow
 
 ///  
 
@@ -1377,7 +1378,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1393,7 +1394,7 @@ D) Angry
 
 ---
 
-B  
+Peaceful
 
 ///  
 
@@ -1409,7 +1410,7 @@ D) Happy children
 
 ---
 
-B  
+The bird flies.
 
 ///  
 
@@ -1425,7 +1426,7 @@ D) Circle
 
 ---
 
-A  
+Orbit
 
 ///  
 
@@ -1437,7 +1438,7 @@ B) False
 
 ---
 
-A  
+True
 
 ///  
 
@@ -1453,7 +1454,7 @@ D) Bird
 
 ---
 
-B  
+Snake
 
 ///  
 
@@ -1469,7 +1470,7 @@ D) Arctic
 
 ---
 
-B  
+Pacific
 
 ///  
 
@@ -1481,4 +1482,4 @@ B) False
 
 ---
 
-A  
+True

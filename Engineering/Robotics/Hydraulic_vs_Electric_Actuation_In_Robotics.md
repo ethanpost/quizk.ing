@@ -90,7 +90,7 @@ D) The public doesn't have any strong opinions about hydraulics
 
 ---
 
-B
+The public incorrectly views it as old-fashioned and messy
 
 ///
 
@@ -106,7 +106,7 @@ D) Low energy consumption
 
 ---
 
-C
+Strong performance in a lightweight package
 
 ///
 
@@ -122,7 +122,7 @@ D) In the 1990s
 
 ---
 
-B
+In the 1950s
 
 ///
 
@@ -138,7 +138,7 @@ D) For military vehicles
 
 ---
 
-C
+For airplanes
 
 ///
 
@@ -154,7 +154,7 @@ D) Size of a car battery
 
 ---
 
-B
+Size of a football
 
 ///
 
@@ -170,7 +170,7 @@ D) 10 kilowatts
 
 ---
 
-C
+5 kilowatts
 
 ///
 
@@ -186,7 +186,7 @@ D) Neither hardware nor software innovation is necessary
 
 ---
 
-C
+Hardware innovation remains crucial
 
 ///
 
@@ -202,7 +202,7 @@ D) Servoing is for quadrupeds, dynamic approach is for bipeds
 
 ---
 
-B
+Servoing is reactive (backward-looking), dynamic approach predicts future motion
 
 ///
 
@@ -218,7 +218,7 @@ D) Several minutes
 
 ---
 
-C
+A couple of seconds
 
 ///
 
@@ -234,7 +234,7 @@ D) Only works when the terrain is completely flat
 
 ---
 
-B
+Calculates expected motion outcomes for 1-1.5 seconds ahead and continuously recalculates
 
 ///
 
@@ -250,7 +250,7 @@ D) Because of software limitations
 
 ---
 
-B
+Because there's limited control while in the air
 
 ///
 
@@ -266,7 +266,7 @@ D) 2005-2006
 
 ---
 
-B
+1985-1986
 
 ///
 
@@ -282,7 +282,7 @@ D) A robot that moves using continuous tracks instead of legs
 
 ---
 
-B
+A robot restricted to the surface of a sphere, with limited degrees of freedom
 
 ///
 
@@ -298,7 +298,7 @@ D) Increasing the power of the hydraulic system
 
 ---
 
-B
+Tucking (withdrawing legs) to increase rotation speed
 
 ///
 
@@ -314,7 +314,7 @@ D) A professional dancer
 
 ---
 
-B
+A former champion gymnast named Rob
 
 ///
 
@@ -330,7 +330,7 @@ D) Neither looks natural
 
 ---
 
-B
+Running
 
 ///
 
@@ -346,7 +346,7 @@ D) "Building tomorrow's robots today"
 
 ---
 
-B
+"You have to run before you can walk"
 
 ///
 
@@ -362,7 +362,7 @@ D) 39 meters per hour
 
 ---
 
-B
+19 meters per hour
 
 ///
 
@@ -378,7 +378,7 @@ D) Jet engine
 
 ---
 
-C
+Racing go-kart engine
 
 ///
 
@@ -394,7 +394,7 @@ D) Meeting regulatory requirements
 
 ---
 
-C
+Springiness or flexibility in robot joints
 
 ///
 
@@ -410,4 +410,4 @@ D) A robot with wheels instead of legs
 
 ---
 
-B
+A robot with four legs

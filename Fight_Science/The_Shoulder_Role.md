@@ -92,7 +92,7 @@ D) As a warm-up exercise before martial arts training
 
 ---
 
-B
+A basic movement for ground fighting with various applications
 
 ///
 
@@ -108,7 +108,7 @@ D) Starting from a kneeling position
 
 ---
 
-C
+Being able to hold the final position upside down on shoulders
 
 ///
 
@@ -124,7 +124,7 @@ D) Behind your head
 
 ---
 
-C
+In contact with the mat
 
 ///
 
@@ -140,7 +140,7 @@ D) Start from a kneeling position
 
 ---
 
-B
+Push with your elbows or grab your ankles
 
 ///
 
@@ -156,7 +156,7 @@ D) Take rapid shallow breaths
 
 ---
 
-C
+Breathe out during the middle section
 
 ///
 
@@ -172,7 +172,7 @@ D) Evenly across your upper back
 
 ---
 
-B
+On your shoulders
 
 ///
 
@@ -188,7 +188,7 @@ D) Using the wall for assistance
 
 ---
 
-B
+Rocking from side to side on shoulders
 
 ///
 
@@ -204,7 +204,7 @@ D) It doesn't matter
 
 ---
 
-C
+Touching the wall
 
 ///
 
@@ -220,7 +220,7 @@ D) Start fast and then slow down
 
 ---
 
-C
+Start slowly and progressively increase speed
 
 ///
 
@@ -236,7 +236,7 @@ D) Forward
 
 ---
 
-C
+Down to one side
 
 ///
 
@@ -252,7 +252,7 @@ D) A striking technique
 
 ---
 
-B
+A defensive position that needs to be maintained against passing attempts
 
 ///
 
@@ -268,7 +268,7 @@ D) Lift it up
 
 ---
 
-B
+Tuck it between your knees
 
 ///
 
@@ -284,7 +284,7 @@ D) Knees
 
 ---
 
-C
+Toes
 
 ///
 
@@ -296,4 +296,4 @@ B) False
 
 ---
 
-B
+False

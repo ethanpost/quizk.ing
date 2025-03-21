@@ -127,7 +127,7 @@ D) 150,000 men and 330 ships
 
 ---
 
-C
+290,000 men and 680 ships
 
 ///
 
@@ -143,7 +143,7 @@ D) 241 BCE
 
 ---
 
-B
+256 BCE
 
 ///
 
@@ -159,7 +159,7 @@ D) To establish trade routes across the Mediterranean
 
 ---
 
-B
+To counter Carthaginian naval dominance that was hindering their supply lines
 
 ///
 
@@ -175,7 +175,7 @@ D) Catapults mounted on ships
 
 ---
 
-C
+The corvus boarding bridge
 
 ///
 
@@ -191,7 +191,7 @@ D) Five
 
 ---
 
-C
+Four
 
 ///
 
@@ -207,7 +207,7 @@ D) Square
 
 ---
 
-C
+Triangle
 
 ///
 
@@ -223,7 +223,7 @@ D) Hasdrubal
 
 ---
 
-B
+Hanno
 
 ///
 
@@ -239,7 +239,7 @@ D) Bireme
 
 ---
 
-B
+Quinquereme (Krum/Five)
 
 ///
 
@@ -255,7 +255,7 @@ D) They formed a defensive line along the shore
 
 ---
 
-C
+They were cut loose by the Romans to improve maneuverability
 
 ///
 
@@ -271,7 +271,7 @@ D) Carthaginian commanders abandoned the battle
 
 ---
 
-B
+The corvus boarding bridge proved effective against Carthaginian ramming tactics
 
 ///
 
@@ -287,7 +287,7 @@ D) 85
 
 ---
 
-C
+65
 
 ///
 
@@ -303,7 +303,7 @@ D) Battle of Alesia
 
 ---
 
-B
+Battle of Cannae
 
 ///
 
@@ -315,7 +315,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -331,7 +331,7 @@ D) Long-range missile attacks
 
 ---
 
-C
+Ramming to damage hulls or shear off oars
 
 ///
 
@@ -347,7 +347,7 @@ D) The Carthaginian elite guard
 
 ---
 
-C
+The nickname for the fourth division that protected the rear
 
 ///
 
@@ -359,7 +359,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -375,7 +375,7 @@ D) 30,000
 
 ---
 
-B
+10,000
 
 ///
 
@@ -391,7 +391,7 @@ D) Larger population base
 
 ---
 
-C
+Greater willingness to commit resources fully to the fight
 
 ///
 
@@ -407,7 +407,7 @@ D) A Roman siege weapon
 
 ---
 
-B
+A warship with approximately 300 rowers and 120 marines
 
 ///
 
@@ -423,5 +423,4 @@ D) 65
 
 ---
 
-B
-
+24

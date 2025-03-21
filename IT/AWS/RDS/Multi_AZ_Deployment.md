@@ -96,7 +96,7 @@ D) It's a single DB instance replicated across multiple regions
 
 ---
 
-B
+It has one standby DB instance that provides failover support, but doesn't serve read traffic
 
 ///
 
@@ -112,7 +112,7 @@ D) Oracle Data Guard
 
 ---
 
-C
+Amazon failover technology
 
 ///
 
@@ -128,7 +128,7 @@ D) The value of Role is "Reader instance"
 
 ---
 
-C
+There is only one row for the DB instance and the value of Multi-AZ is "Yes"
 
 ///
 
@@ -144,7 +144,7 @@ D) 30-60 minutes
 
 ---
 
-B
+60-120 seconds
 
 ///
 
@@ -160,7 +160,7 @@ D) Shuts down the current DB instance
 
 ---
 
-B
+Takes a snapshot of the primary DB instance's EBS volumes
 
 ///
 
@@ -176,7 +176,7 @@ D) Loss of all existing connections permanently
 
 ---
 
-B
+Increased I/O latency due to synchronous replication
 
 ///
 
@@ -192,7 +192,7 @@ D) The database engine version
 
 ---
 
-B
+The DNS record of the DB instance
 
 ///
 
@@ -208,7 +208,7 @@ D) 0 seconds (no caching)
 
 ---
 
-A
+No more than 60 seconds
 
 ///
 
@@ -224,7 +224,7 @@ D) Storage volume failure on the primary host
 
 ---
 
-C
+Read traffic exceeds database capacity
 
 ///
 
@@ -240,7 +240,7 @@ D) A process where database schema changes are deployed to all instances
 
 ---
 
-B
+A process where data is simultaneously written to both primary and standby instances
 
 ///
 
@@ -256,7 +256,7 @@ D) They use a different storage type than the primary instance
 
 ---
 
-C
+They cannot be accessed directly by applications
 
 ///
 
@@ -272,7 +272,7 @@ D) Wait for the next maintenance window to perform the conversion
 
 ---
 
-B
+Create a read replica, enable backups on it, convert it to Multi-AZ, and promote it
 
 ///
 
@@ -288,7 +288,7 @@ D) They are redirected to a read replica until failover completes
 
 ---
 
-B
+They are terminated and need to be re-established
 
 ///
 
@@ -304,7 +304,7 @@ D) update-db-instance-deployment
 
 ---
 
-C
+modify-db-instance (with --multi-az option)
 
 ///
 
@@ -320,4 +320,4 @@ D) To support different database engines in the same deployment
 
 ---
 
-B
+To provide both failover support and serve read traffic from standby instances

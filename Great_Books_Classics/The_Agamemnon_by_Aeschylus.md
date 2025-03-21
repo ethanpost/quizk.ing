@@ -80,7 +80,7 @@
     
 -   Key Details: The ending is unresolved, setting up the Oresteia’s next chapter. Power shifts, but the cycle of vengeance looms.
     
-
+    
 ## Final Notes
 
 The play runs about 1,673 lines in the original Greek, typically lasting 90 minutes to two hours in performance. The action is compact—spanning a single day—but layered with backstory and prophecy. Every line drips with irony, from Clytemnestra’s false welcome to Cassandra’s ignored warnings. It’s a slow, deliberate march to a brutal climax, leaving you with questions about justice, guilt, and inevitability. Want me to zoom in on any specific moment?
@@ -89,65 +89,65 @@ The play runs about 1,673 lines in the original Greek, typically lasting 90 minu
 
 ## Who murders Agamemnon upon his return from Troy?
 
-A) Clytemnestra
+A) Orestes
 
 B) Aegisthus
 
 C) Cassandra
 
-D) Orestes
+D) Clytemnestra
 
 ---
 
-A
+Clytemnestra
 
 ///
 
 ## What was Agamemnon's role in the Trojan War?
 
-A) A Trojan warrior
+A) Paris's advisor
 
 B) Commander-in-chief of the Greek forces
 
-C) Helen's husband
+C) A Trojan warrior
 
-D) Paris's advisor
+D) Helen's husband
 
 ---
 
-B
+Commander-in-chief of the Greek forces
 
 ///
 
 ## Why did Clytemnestra want revenge against Agamemnon?
 
-A) He stole her wealth
+A) He imprisoned her during the war
 
-B) He married another woman
+B) He stole her wealth
 
 C) He sacrificed their daughter Iphigenia
 
-D) He imprisoned her during the war
+D) He married another woman
 
 ---
 
-C
+He sacrificed their daughter Iphigenia
 
 ///
 
 ## Who is Cassandra?
 
-A) Agamemnon's sister
+A) Aegisthus's wife
 
 B) A Trojan princess and prophetess
 
-C) Clytemnestra's servant
+C) Agamemnon's sister
 
-D) Aegisthus's wife
+D) Clytemnestra's servant
 
 ---
 
-B
+A Trojan princess and prophetess
 
 ///
 
@@ -157,13 +157,13 @@ A) She escapes to Greece
 
 B) She marries Aegisthus
 
-C) She is murdered along with Agamemnon
+C) She becomes the new queen
 
-D) She becomes the new queen
+D) She is murdered along with Agamemnon
 
 ---
 
-C
+She is murdered along with Agamemnon
 
 ///
 
@@ -171,15 +171,15 @@ C
 
 A) They are the main antagonists
 
-B) They provide commentary and context
+B) They fight alongside Agamemnon
 
-C) They are Clytemnestra's servants
+C) They provide commentary and context
 
-D) They fight alongside Agamemnon
+D) They are Clytemnestra's servants
 
 ---
 
-B
+They provide commentary and context
 
 ///
 
@@ -195,55 +195,55 @@ D) A flock of dead birds
 
 ---
 
-C
+A signal fire announcing Troy's fall
 
 ///
 
 ## Who is Aegisthus?
 
-A) Agamemnon's brother
+A) Clytemnestra's lover and co-conspirator
 
-B) Clytemnestra's lover and co-conspirator
+B) Cassandra's brother
 
-C) Cassandra's brother
+C) The leader of the Chorus
 
-D) The leader of the Chorus
+D) Agamemnon's brother
 
 ---
 
-B
+Clytemnestra's lover and co-conspirator
 
 ///
 
 ## What is the significance of the purple tapestries?
 
-A) They are wedding gifts
+A) They represent hubris and pride
 
-B) They symbolize royal wealth
+B) They are burial shrouds
 
-C) They represent hubris and pride
+C) They symbolize royal wealth
 
-D) They are burial shrouds
+D) They are wedding gifts
 
 ---
 
-C
+They represent hubris and pride
 
 ///
 
 ## The House of Atreus is cursed because:
 
-A) Apollo was angered by Agamemnon
+A) Clytemnestra betrayed her husband
 
 B) Thyestes ate his own children
 
-C) Helen ran away to Troy
+C) Apollo was angered by Agamemnon
 
-D) Clytemnestra betrayed her husband
+D) Helen ran away to Troy
 
 ---
 
-B
+Thyestes ate his own children
 
 ///
 
@@ -255,7 +255,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -263,15 +263,15 @@ B
 
 A) The danger of sea travel
 
-B) The coming of the Trojans
+B) A natural disaster
 
 C) Her own and Agamemnon's murder
 
-D) A natural disaster
+D) The coming of the Trojans
 
 ---
 
-C
+Her own and Agamemnon's murder
 
 ///
 
@@ -279,31 +279,31 @@ C
 
 A) With a sword in battle
 
-B) With poison at dinner
+B) In his bath with a net and sword
 
-C) In his bath with a net and sword
+C) While he sleeps
 
-D) While he sleeps
+D) With poison at dinner
 
 ---
 
-C
+In his bath with a net and sword
 
 ///
 
 ## What is the main theme of the play?
 
-A) Romantic love
+A) Family loyalty
 
-B) Justice and revenge
+B) War and glory
 
-C) War and glory
+C) Justice and revenge
 
-D) Family loyalty
+D) Romantic love
 
 ---
 
-B
+Justice and revenge
 
 ///
 
@@ -311,15 +311,15 @@ B
 
 A) Aegisthus
 
-B) Clytemnestra
+B) Cassandra
 
-C) Agamemnon
+C) Clytemnestra
 
-D) Cassandra
+D) Agamemnon
 
 ---
 
-B
+Clytemnestra
 
 ///
 
@@ -327,15 +327,15 @@ B
 
 A) His crown
 
-B) His wife
+B) His daughter Iphigenia
 
-C) His daughter Iphigenia
+C) His wife
 
 D) His wealth
 
 ---
 
-C
+His daughter Iphigenia
 
 ///
 
@@ -347,7 +347,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -357,45 +357,42 @@ A) It is irrelevant to the story
 
 B) It determines all actions
 
-C) It only affects minor characters
+C) It can be overcome by human will
 
-D) It can be overcome by human will
+D) It only affects minor characters
 
 ---
 
-B
+It determines all actions
 
 ///
 
 ## What does Clytemnestra compare herself to after the murder?
 
-A) A lioness
+A) An eagle
 
-B) An eagle
+B) A snake
 
-C) A snake
+C) A lioness
 
 D) A wolf
 
 ---
 
-A
+A lioness
 
 ///
 
 ## What is the significance of Cassandra's prophetic abilities?
 
-A) They bring her happiness
+A) They save her life
 
-B) They save her life
+B) They cause her suffering because no one believes her
 
-C) They cause her suffering because no one believes her
+C) They bring her happiness
 
 D) They help her escape
 
 ---
 
-C
-
-
-
+They cause her suffering because no one believes her

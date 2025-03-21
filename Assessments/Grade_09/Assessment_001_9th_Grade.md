@@ -10,7 +10,7 @@ D) Alliteration
 
 ---
 
-C
+Personification
 
 ///
 
@@ -26,7 +26,7 @@ D) To conclude the essay
 
 ---
 
-B
+To present the author's main argument
 
 ///
 
@@ -42,7 +42,7 @@ D) The test was on Friday.
 
 ---
 
-C
+Her smile was as bright as the sun.
 
 ///
 
@@ -58,7 +58,7 @@ D) There is no difference
 
 ---
 
-A
+A simile uses "like" or "as"; a metaphor makes a direct comparison
 
 ///
 
@@ -74,7 +74,7 @@ D) Preposition
 
 ---
 
-C
+Adverb
 
 ///
 
@@ -90,7 +90,7 @@ D) Conflict
 
 ---
 
-A
+Theme
 
 ///
 
@@ -106,7 +106,7 @@ D) The dog, which was large, barked loudly.
 
 ---
 
-B
+The dog barked, and the cat meowed.
 
 ///
 
@@ -122,7 +122,7 @@ D) To develop character traits
 
 ---
 
-B
+To hint at what will happen later
 
 ///
 
@@ -138,7 +138,7 @@ D) The protagonist appears more frequently in the story
 
 ---
 
-C
+The protagonist is the main character; the antagonist opposes the protagonist
 
 ///
 
@@ -154,7 +154,7 @@ D) Neither of the students be completing the assignment.
 
 ---
 
-B
+Neither of the students has completed the assignment.
 
 ///
 
@@ -170,7 +170,7 @@ D) There is no difference
 
 ---
 
-B
+Connotation is the emotional association; denotation is the dictionary definition
 
 ///
 
@@ -186,7 +186,7 @@ D) A word that joins two verbs
 
 ---
 
-B
+A word that joins a dependent clause to an independent clause
 
 ///
 
@@ -202,7 +202,7 @@ D) Adverb
 
 ---
 
-D
+Adverb
 
 ///
 
@@ -218,7 +218,7 @@ D) John will write the essay.
 
 ---
 
-B
+The essay was written by John.
 
 ///
 
@@ -234,7 +234,7 @@ D) To transition to the next paragraph
 
 ---
 
-C
+To introduce the main idea of the paragraph
 
 ///
 
@@ -250,7 +250,7 @@ D) Dash
 
 ---
 
-B
+Semicolon
 
 ///
 
@@ -266,7 +266,7 @@ D) An adverb that modifies an adjective
 
 ---
 
-A
+A noun or noun phrase that renames another noun right beside it
 
 ///
 
@@ -282,7 +282,7 @@ D) Onomatopoeia
 
 ---
 
-C
+Alliteration
 
 ///
 
@@ -298,7 +298,7 @@ D) Happiness
 
 ---
 
-C
+Book
 
 ///
 
@@ -314,7 +314,7 @@ D) A verb form ending in -s that shows present tense
 
 ---
 
-A
+A verb form ending in -ing that functions as a noun
 
 ///
 
@@ -330,7 +330,7 @@ D) Metaphorical irony
 
 ---
 
-D
+Metaphorical irony
 
 ///
 
@@ -346,7 +346,7 @@ D) Syntax
 
 ---
 
-B
+Phoneme
 
 ///
 
@@ -362,7 +362,7 @@ D) The wind whispered through the trees.
 
 ---
 
-C
+I'm so hungry I could eat a horse.
 
 ///
 
@@ -378,7 +378,7 @@ D) Question, experiment, hypothesis, analysis, conclusion
 
 ---
 
-B
+Question, hypothesis, experiment, analysis, conclusion
 
 ///
 
@@ -394,7 +394,7 @@ D) Petroleum
 
 ---
 
-C
+Solar energy
 
 ///
 
@@ -410,7 +410,7 @@ D) Meteorology
 
 ---
 
-B
+Ecology
 
 ///
 
@@ -426,7 +426,7 @@ D) Energy
 
 ---
 
-D
+Energy
 
 ///
 
@@ -442,7 +442,7 @@ D) Digestion
 
 ---
 
-B
+Photosynthesis
 
 ///
 
@@ -458,7 +458,7 @@ D) H₂O₂
 
 ---
 
-A
+H₂O
 
 ///
 
@@ -474,7 +474,7 @@ D) Storage of genetic material
 
 ---
 
-B
+Energy production
 
 ///
 
@@ -490,7 +490,7 @@ D) Energy cannot be created or destroyed
 
 ---
 
-C
+For every action, there is an equal and opposite reaction
 
 ///
 
@@ -506,7 +506,7 @@ D) Mesosphere
 
 ---
 
-D
+Mesosphere
 
 ///
 
@@ -522,7 +522,7 @@ D) Composite
 
 ---
 
-C
+Igneous
 
 ///
 
@@ -538,7 +538,7 @@ D) pH has no relationship to acids
 
 ---
 
-B
+pH less than 7
 
 ///
 
@@ -554,7 +554,7 @@ D) Sublimation
 
 ---
 
-B
+Evaporation
 
 ///
 
@@ -570,7 +570,7 @@ D) DNA is primarily found in the cytoplasm
 
 ---
 
-C
+DNA uses the base pairs A-T and G-C
 
 ///
 
@@ -586,7 +586,7 @@ D) The Earth's magnetic field
 
 ---
 
-B
+The Earth's axial tilt
 
 ///
 
@@ -602,7 +602,7 @@ D) Potential energy
 
 ---
 
-B
+Energy of motion
 
 ///
 
@@ -618,7 +618,7 @@ D) Mutation
 
 ---
 
-C
+Speciation
 
 ///
 
@@ -634,7 +634,7 @@ D) Paper being cut
 
 ---
 
-B
+Wood burning
 
 ///
 
@@ -650,7 +650,7 @@ D) To produce antibodies
 
 ---
 
-B
+To carry oxygen
 
 ///
 
@@ -666,7 +666,7 @@ D) Grass → Sun → Deer → Wolf
 
 ---
 
-B
+Sun → Grass → Deer → Wolf
 
 ///
 
@@ -682,7 +682,7 @@ D) Earth's rotation
 
 ---
 
-C
+Gravitational pull of the moon
 
 ///
 
@@ -698,7 +698,7 @@ D) The atomic mass
 
 ---
 
-B
+The number of protons
 
 ///
 
@@ -714,7 +714,7 @@ D) Plateau
 
 ---
 
-D
+Plateau
 
 ///
 
@@ -730,7 +730,7 @@ D) Law of Thermodynamics
 
 ---
 
-B
+Law of Conservation of Energy
 
 ///
 
@@ -746,7 +746,7 @@ D) The Bill of Rights
 
 ---
 
-C
+The Treaty of Paris
 
 ///
 
@@ -762,7 +762,7 @@ D) The Emancipation Proclamation
 
 ---
 
-B
+The Constitution
 
 ///
 
@@ -778,7 +778,7 @@ D) Progressive Era reforms
 
 ---
 
-A
+Westward expansion
 
 ///
 
@@ -794,7 +794,7 @@ D) 19th Amendment
 
 ---
 
-A
+13th Amendment
 
 ///
 
@@ -810,7 +810,7 @@ D) Westward expansion
 
 ---
 
-C
+Slavery
 
 ///
 
@@ -826,7 +826,7 @@ D) Equal rights for all citizens
 
 ---
 
-B
+U.S. opposition to European colonization in the Americas
 
 ///
 
@@ -842,7 +842,7 @@ D) Japan
 
 ---
 
-D
+Japan
 
 ///
 
@@ -858,7 +858,7 @@ D) Established Medicare and Medicaid
 
 ---
 
-B
+Ended segregation in public places
 
 ///
 
@@ -874,7 +874,7 @@ D) Fall of France
 
 ---
 
-B
+Attack on Pearl Harbor
 
 ///
 
@@ -890,7 +890,7 @@ D) Feudalism
 
 ---
 
-C
+Capitalism
 
 ///
 
@@ -906,7 +906,7 @@ D) World War II
 
 ---
 
-B
+The Stock Market Crash of 1929
 
 ///
 
@@ -922,7 +922,7 @@ D) A conflict between North and South Korea
 
 ---
 
-B
+A period of tension between the U.S. and Soviet Union
 
 ///
 
@@ -938,7 +938,7 @@ D) Parliamentary
 
 ---
 
-D
+Parliamentary
 
 ///
 
@@ -954,7 +954,7 @@ D) South America
 
 ---
 
-C
+Africa
 
 ///
 
@@ -970,7 +970,7 @@ D) Inflation
 
 ---
 
-D
+Inflation
 
 ///
 
@@ -986,7 +986,7 @@ D) Display China's wealth and power
 
 ---
 
-B
+Defend against northern invaders
 
 ///
 
@@ -1002,7 +1002,7 @@ D) Rule by the military
 
 ---
 
-C
+Rule by the people
 
 ///
 
@@ -1018,7 +1018,7 @@ D) Germany
 
 ---
 
-C
+Great Britain
 
 ///
 
@@ -1034,7 +1034,7 @@ D) All of the above
 
 ---
 
-D
+All of the above
 
 ///
 
@@ -1050,7 +1050,7 @@ D) An encyclopedia article
 
 ---
 
-C
+A diary written by someone who experienced the event
 
 ///
 
@@ -1066,7 +1066,7 @@ D) Longitude, latitude, and elevation
 
 ---
 
-A
+Convergent, divergent, and transform
 
 ///
 
@@ -1082,7 +1082,7 @@ D) The Roman Emperor
 
 ---
 
-B
+The English monarch
 
 ///
 
@@ -1098,7 +1098,7 @@ D) When supply decreases, prices typically decrease
 
 ---
 
-B
+When supply increases, prices typically decrease
 
 ///
 
@@ -1114,7 +1114,7 @@ D) Expansion of feudalism
 
 ---
 
-B
+Revival of interest in classical learning
 
 ///
 
@@ -1130,7 +1130,7 @@ D) The rise of communism
 
 ---
 
-B
+The transfer of plants, animals, and diseases between hemispheres
 
 ///
 
@@ -1146,7 +1146,7 @@ D) Decline in trade and commerce
 
 ---
 
-C
+Advances in science, medicine, mathematics, and literature
 
 ///
 
@@ -1162,7 +1162,7 @@ D) To govern international sports competitions
 
 ---
 
-B
+To maintain international peace and security
 
 ///
 
@@ -1178,7 +1178,7 @@ D) Creates a balance between public and private sectors
 
 ---
 
-A
+Ensures that no branch becomes too powerful
 
 ///
 
@@ -1194,7 +1194,7 @@ D) To provide additional information not in the original text
 
 ---
 
-B
+To provide a brief overview of the main points
 
 ///
 
@@ -1210,7 +1210,7 @@ D) Fourth person
 
 ---
 
-D
+Fourth person
 
 ///
 
@@ -1226,7 +1226,7 @@ D) A statement that is obviously true
 
 ---
 
-A
+A phrase with contradictory terms
 
 ///
 
@@ -1242,7 +1242,7 @@ D) Heavy as it was, I carried my backpack to school.
 
 ---
 
-A
+Walking to school, my backpack felt heavy.
 
 ///
 
@@ -1258,7 +1258,7 @@ D) Character vs. self
 
 ---
 
-D
+Character vs. self
 
 ///
 
@@ -1274,7 +1274,7 @@ D) Radioactive
 
 ---
 
-B
+Basic
 
 ///
 
@@ -1290,7 +1290,7 @@ D) It occurs only in plant cells
 
 ---
 
-C
+It releases energy from glucose
 
 ///
 
@@ -1306,7 +1306,7 @@ D) Weather is measured globally; climate is measured locally
 
 ---
 
-B
+Weather refers to short-term conditions; climate refers to long-term patterns
 
 ///
 
@@ -1322,7 +1322,7 @@ D) Hydroelectric power
 
 ---
 
-C
+Natural gas
 
 ///
 
@@ -1338,7 +1338,7 @@ D) The origin of life
 
 ---
 
-B
+The movement of Earth's crustal plates
 
 ///
 
@@ -1354,7 +1354,7 @@ D) The transfer of DNA between organisms
 
 ---
 
-B
+The creation of exact copies of DNA
 
 ///
 
@@ -1370,7 +1370,7 @@ D) Its appearance altered through selective breeding
 
 ---
 
-C
+Its DNA altered through genetic engineering
 
 ///
 
@@ -1386,7 +1386,7 @@ D) The Great Depression
 
 ---
 
-A
+The assassination of Archduke Franz Ferdinand
 
 ///
 
@@ -1402,7 +1402,7 @@ D) Support for laissez-faire economics
 
 ---
 
-B
+Efforts to address problems caused by industrialization
 
 ///
 
@@ -1418,7 +1418,7 @@ D) Power is divided among three branches of government
 
 ---
 
-A
+Power is divided between national and state governments
 
 ///
 
@@ -1434,7 +1434,7 @@ D) World War I
 
 ---
 
-B
+The American Revolution
 
 ///
 
@@ -1450,7 +1450,7 @@ D) The team of players was celebrating its victories.
 
 ---
 
-B
+The team of players was celebrating their victory.
 
 ///
 
@@ -1466,7 +1466,7 @@ D) Mass always increases during chemical reactions
 
 ---
 
-C
+Mass cannot be created or destroyed in chemical reactions
 
 ///
 
@@ -1482,7 +1482,7 @@ D) The westward expansion of American settlers
 
 ---
 
-A
+The movement of African Americans from the South to the North
 
 ///
 
@@ -1498,7 +1498,7 @@ D) A = πd
 
 ---
 
-B
+A = πr²
 
 ///
 
@@ -1514,7 +1514,7 @@ D) Administrative
 
 ---
 
-D
+Administrative
 
 ///
 
@@ -1530,7 +1530,7 @@ D) To introduce the conclusion of the essay
 
 ---
 
-B
+To state the author's main argument or position
 
 ///
 
@@ -1546,7 +1546,7 @@ D) All cells are visible to the naked eye
 
 ---
 
-B
+All cells contain DNA
 
 ///
 
@@ -1562,7 +1562,7 @@ D) The right to a speedy trial
 
 ---
 
-C
+Freedom of speech, religion, press, assembly, and petition
 
 ///
 
@@ -1578,7 +1578,7 @@ D) Natural volcanic eruptions
 
 ---
 
-C
+Human activities releasing greenhouse gases
 
 ///
 
@@ -1590,7 +1590,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1602,7 +1602,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1614,7 +1614,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1626,7 +1626,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -1638,7 +1638,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1650,7 +1650,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -1662,7 +1662,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1674,4 +1674,4 @@ B) False
 
 ---
 
-B
+False

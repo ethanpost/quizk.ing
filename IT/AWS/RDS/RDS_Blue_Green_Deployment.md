@@ -145,7 +145,7 @@ D) Test environment
 
 ---
 
-B
+Blue environment
 
 ///
 
@@ -161,7 +161,7 @@ D) Several hours
 
 ---
 
-A
+Less than one minute
 
 ///
 
@@ -177,7 +177,7 @@ D) RDS for SQL Server, RDS for MySQL, and RDS for MariaDB
 
 ---
 
-B
+RDS for MariaDB, RDS for MySQL, and RDS for PostgreSQL
 
 ///
 
@@ -193,7 +193,7 @@ D) A monitoring tool that tracks database performance during switchover
 
 ---
 
-B
+A check that prevents switchover if environments aren't ready to avoid downtime and data loss
 
 ///
 
@@ -209,7 +209,7 @@ D) rds:ModifyBlueGreenDeployment
 
 ---
 
-C
+rds:SwitchoverBlueGreenDeployment
 
 ///
 
@@ -225,7 +225,7 @@ D) Connections are automatically redirected to the green environment
 
 ---
 
-C
+Connections are dropped and new connections aren't allowed temporarily
 
 ///
 
@@ -241,7 +241,7 @@ D) The automatic scaling of database resources based on demand
 
 ---
 
-B
+A process where data blocks are loaded only as applications request them
 
 ///
 
@@ -257,7 +257,7 @@ D) It is immediately upgraded to match the green environment
 
 ---
 
-C
+It is retained and renamed with "-oldn" suffix
 
 ///
 
@@ -273,7 +273,7 @@ D) Minimizing downtime during database updates
 
 ---
 
-A
+Reducing database storage costs
 
 ///
 
@@ -289,7 +289,7 @@ D) When the green environment has different storage settings
 
 ---
 
-B
+When requesting a major version upgrade on supported PostgreSQL versions
 
 ///
 
@@ -305,7 +305,7 @@ D) The blue environment must be at least 24 hours old
 
 ---
 
-B
+Replica lag should be close to zero
 
 ///
 
@@ -321,7 +321,7 @@ D) They must have their parent node manually updated to maintain replication
 
 ---
 
-D
+They must have their parent node manually updated to maintain replication
 
 ///
 
@@ -337,7 +337,7 @@ D) Deleting a blue/green deployment automatically creates a snapshot of both env
 
 ---
 
-B
+The blue environment is not affected when deleting a blue/green deployment
 
 ///
 
@@ -353,7 +353,7 @@ D) They can only be used with instances smaller than 8xlarge
 
 ---
 
-B
+Tables must have a primary key for UPDATE and DELETE operations
 
 ///
 
@@ -369,7 +369,7 @@ D) Temporarily duplicates all write operations to both environments
 
 ---
 
-C
+Renames the green environment endpoints to match the corresponding blue environment endpoints
 
 ///
 
@@ -385,7 +385,7 @@ D) ReadIOPS
 
 ---
 
-B
+DatabaseConnections
 
 ///
 
@@ -401,7 +401,7 @@ D) 3600 seconds
 
 ---
 
-C
+300 seconds
 
 ///
 
@@ -417,7 +417,7 @@ D) The changes are queued and applied after switchover
 
 ---
 
-B
+The deployment enters a state of "Replication degraded"
 
 ///
 
@@ -433,4 +433,4 @@ D) To create an automated backup before switchover
 
 ---
 
-B
+To proactively download all blocks from S3 for maximum volume performance

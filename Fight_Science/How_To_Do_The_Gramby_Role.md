@@ -41,7 +41,7 @@ D) A specific type of takedown
 
 ---
 
-B
+A movement that gets you used to inverting
 
 ///
 
@@ -57,7 +57,7 @@ D) Tucked in close to your sides
 
 ---
 
-C
+On the outside of your body
 
 ///
 
@@ -73,7 +73,7 @@ D) Up
 
 ---
 
-D
+Up
 
 ///
 
@@ -89,7 +89,7 @@ D) Cobra pose
 
 ---
 
-C
+Plow position
 
 ///
 
@@ -105,7 +105,7 @@ D) Straight back
 
 ---
 
-C
+Back toward your open palm
 
 ///
 
@@ -121,7 +121,7 @@ D) Two complete shoulder rolls in opposite directions
 
 ---
 
-B
+Half a shoulder roll forward with your arm on the outside and half a shoulder roll back
 
 ///
 
@@ -137,7 +137,7 @@ D) Forgetting to breathe
 
 ---
 
-C
+Letting their butt fall down to the floor
 
 ///
 
@@ -153,7 +153,7 @@ D) Lie flat on your back
 
 ---
 
-C
+Come back up to the knees
 
 ///
 
@@ -169,7 +169,7 @@ D) A position where you balance on your hands
 
 ---
 
-B
+A yoga position where you lie on your back and lift your legs over your head
 
 ///
 
@@ -185,7 +185,7 @@ D) Building leg strength
 
 ---
 
-C
+Getting used to being upside down
 
 ///
 
@@ -197,4 +197,4 @@ B) False
 
 ---
 
-B
+False

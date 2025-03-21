@@ -10,7 +10,7 @@ D) Alliteration
 
 ---
 
-C
+Personification
 
 ///
 
@@ -26,7 +26,7 @@ D) To conclude the essay
 
 ---
 
-B
+To state the author's main argument or position
 
 ///
 
@@ -42,7 +42,7 @@ D) F. Scott Fitzgerald
 
 ---
 
-A
+Nathaniel Hawthorne
 
 ///
 
@@ -58,7 +58,7 @@ D) Othello
 
 ---
 
-C
+The Tempest
 
 ///
 
@@ -74,7 +74,7 @@ D) The American Dream
 
 ---
 
-C
+Gatsby's dreams and hopes for the future
 
 ///
 
@@ -90,7 +90,7 @@ D) Naturalism
 
 ---
 
-B
+Romanticism
 
 ///
 
@@ -106,7 +106,7 @@ D) To resolve the conflict
 
 ---
 
-A
+To introduce the characters, setting, and basic situation
 
 ///
 
@@ -122,7 +122,7 @@ D) Metaphor
 
 ---
 
-B
+Alliteration
 
 ///
 
@@ -138,7 +138,7 @@ D) I went to the store after class, but when I arrived, it was closed.
 
 ---
 
-D
+I went to the store after class, but when I arrived, it was closed.
 
 ///
 
@@ -154,7 +154,7 @@ D) Similes are figurative; metaphors are literal
 
 ---
 
-B
+Similes use "like" or "as"; metaphors make a direct comparison
 
 ///
 
@@ -170,7 +170,7 @@ D) Consonance
 
 ---
 
-B
+Onomatopoeia
 
 ///
 
@@ -186,7 +186,7 @@ D) A type of free verse poetry
 
 ---
 
-B
+A metrical pattern consisting of five iambs per line
 
 ///
 
@@ -198,7 +198,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -214,7 +214,7 @@ D) Construct
 
 ---
 
-D
+Construct
 
 ///
 
@@ -230,7 +230,7 @@ D) The movie was great; because it was funny.
 
 ---
 
-A
+The movie was great; I loved it.
 
 ///
 
@@ -246,7 +246,7 @@ D) Swum
 
 ---
 
-B
+Swimming
 
 ///
 
@@ -262,7 +262,7 @@ D) Ag
 
 ---
 
-C
+Au
 
 ///
 
@@ -278,7 +278,7 @@ D) Venus
 
 ---
 
-B
+Jupiter
 
 ///
 
@@ -294,7 +294,7 @@ D) Storage of genetic material
 
 ---
 
-C
+Energy production
 
 ///
 
@@ -310,7 +310,7 @@ D) Cellular RNA
 
 ---
 
-D
+Cellular RNA
 
 ///
 
@@ -326,7 +326,7 @@ D) Energy can neither be created nor destroyed
 
 ---
 
-C
+Force equals mass times acceleration
 
 ///
 
@@ -342,7 +342,7 @@ D) Both B and C
 
 ---
 
-D
+Both B and C
 
 ///
 
@@ -358,7 +358,7 @@ D) 14
 
 ---
 
-B
+7
 
 ///
 
@@ -374,7 +374,7 @@ D) A person running
 
 ---
 
-C
+A book sitting on a high shelf
 
 ///
 
@@ -390,7 +390,7 @@ D) Fermentation
 
 ---
 
-B
+Photosynthesis
 
 ///
 
@@ -406,7 +406,7 @@ D) Argon
 
 ---
 
-C
+Oxygen
 
 ///
 
@@ -422,7 +422,7 @@ D) Molecule
 
 ---
 
-A
+Atom
 
 ///
 
@@ -438,7 +438,7 @@ D) Circulatory system
 
 ---
 
-C
+Excretory system
 
 ///
 
@@ -454,7 +454,7 @@ D) Ecology
 
 ---
 
-B
+Genetics
 
 ///
 
@@ -466,7 +466,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -482,7 +482,7 @@ D) Composite
 
 ---
 
-C
+Igneous
 
 ///
 
@@ -498,7 +498,7 @@ D) Boyle's Law
 
 ---
 
-B
+Law of Conservation of Energy
 
 ///
 
@@ -514,7 +514,7 @@ D) Oil
 
 ---
 
-C
+Uranium
 
 ///
 
@@ -530,7 +530,7 @@ D) Hydrogen
 
 ---
 
-C
+Nitrogen
 
 ///
 
@@ -546,7 +546,7 @@ D) Gettysburg Address
 
 ---
 
-C
+Constitution of the United States
 
 ///
 
@@ -562,7 +562,7 @@ D) France and Russia
 
 ---
 
-A
+The United States and the Soviet Union
 
 ///
 
@@ -578,7 +578,7 @@ D) 19th Amendment
 
 ---
 
-A
+13th Amendment
 
 ///
 
@@ -594,7 +594,7 @@ D) Parliament
 
 ---
 
-C
+The King
 
 ///
 
@@ -610,7 +610,7 @@ D) Japan
 
 ---
 
-D
+Japan
 
 ///
 
@@ -626,7 +626,7 @@ D) The bombing of Pearl Harbor
 
 ---
 
-B
+The assassination of Archduke Franz Ferdinand
 
 ///
 
@@ -642,7 +642,7 @@ D) Egyptians
 
 ---
 
-D
+Egyptians
 
 ///
 
@@ -658,7 +658,7 @@ D) Spain
 
 ---
 
-C
+Italy
 
 ///
 
@@ -674,7 +674,7 @@ D) The New Deal policies
 
 ---
 
-D
+The New Deal policies
 
 ///
 
@@ -690,7 +690,7 @@ D) The U.S. would pursue a policy of isolationism
 
 ---
 
-C
+European powers should not colonize or interfere with the Americas
 
 ///
 
@@ -706,7 +706,7 @@ D) To help Japan recover after the atomic bombings
 
 ---
 
-A
+To rebuild Western Europe after World War II
 
 ///
 
@@ -722,7 +722,7 @@ D) Totalitarianism
 
 ---
 
-B
+Federalism
 
 ///
 
@@ -734,7 +734,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -750,7 +750,7 @@ D) Leon Trotsky
 
 ---
 
-B
+Joseph Stalin
 
 ///
 
@@ -766,7 +766,7 @@ D) Second-person narration
 
 ---
 
-B
+Third-person limited narration
 
 ///
 
@@ -782,7 +782,7 @@ D) An unexpected twist at the end of a story
 
 ---
 
-C
+The audience knows something important that a character doesn't know
 
 ///
 
@@ -798,7 +798,7 @@ D) Or
 
 ---
 
-C
+Because
 
 ///
 
@@ -814,7 +814,7 @@ D) Auxiliary verb
 
 ---
 
-C
+Intransitive verb
 
 ///
 
@@ -830,7 +830,7 @@ D) King Lear
 
 ---
 
-C
+Hamlet
 
 ///
 
@@ -846,7 +846,7 @@ D) Dynamic characters have more complex personalities, static characters are sim
 
 ---
 
-B
+Dynamic characters change throughout the story, static characters remain the same
 
 ///
 
@@ -862,7 +862,7 @@ D) A biography of Abraham Lincoln
 
 ---
 
-C
+A diary written by Anne Frank
 
 ///
 
@@ -878,7 +878,7 @@ D) Chalk
 
 ---
 
-B
+Table salt
 
 ///
 
@@ -894,7 +894,7 @@ D) Sublimation
 
 ---
 
-B
+Evaporation
 
 ///
 
@@ -910,7 +910,7 @@ D) Hydropower
 
 ---
 
-C
+Coal
 
 ///
 
@@ -926,7 +926,7 @@ D) Clot blood
 
 ---
 
-B
+Fight infection
 
 ///
 
@@ -942,7 +942,7 @@ D) Elephant
 
 ---
 
-C
+Alligator
 
 ///
 
@@ -958,7 +958,7 @@ D) 18th century
 
 ---
 
-D
+18th century
 
 ///
 
@@ -974,7 +974,7 @@ D) North Carolina
 
 ---
 
-B
+Vermont
 
 ///
 
@@ -990,7 +990,7 @@ D) Miranda v. Arizona
 
 ---
 
-B
+Plessy v. Ferguson
 
 ///
 
@@ -1006,7 +1006,7 @@ D) State
 
 ---
 
-B
+Legislative
 
 ///
 
@@ -1022,7 +1022,7 @@ D) Laboratory procedures
 
 ---
 
-C
+Chemical elements
 
 ///
 
@@ -1038,7 +1038,7 @@ D) Astronomy
 
 ---
 
-B
+Geography
 
 ///
 
@@ -1054,7 +1054,7 @@ D) Roman
 
 ---
 
-C
+Egyptian
 
 ///
 
@@ -1070,7 +1070,7 @@ D) Religious freedom
 
 ---
 
-B
+Ending racial segregation and discrimination
 
 ///
 
@@ -1086,7 +1086,7 @@ D) Speed = Time ÷ Distance
 
 ---
 
-C
+Speed = Distance ÷ Time
 
 ///
 
@@ -1102,7 +1102,7 @@ D) Teacher
 
 ---
 
-B
+Paris
 
 ///
 
@@ -1118,7 +1118,7 @@ D) Simile
 
 ---
 
-C
+Personification
 
 ///
 
@@ -1134,7 +1134,7 @@ D) Percentage of Hydrogen
 
 ---
 
-B
+Power of Hydrogen
 
 ///
 
@@ -1150,7 +1150,7 @@ D) It created the territory of Missouri
 
 ---
 
-B
+It maintained the balance between slave and free states
 
 ///
 
@@ -1162,7 +1162,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1178,7 +1178,7 @@ D) Pride and Prejudice
 
 ---
 
-C
+The Odyssey
 
 ///
 
@@ -1194,7 +1194,7 @@ D) To transition to the next paragraph
 
 ---
 
-B
+To state the main idea of the paragraph
 
 ///
 
@@ -1210,7 +1210,7 @@ D) Throwing of the ball occurred.
 
 ---
 
-B
+John threw the ball.
 
 ///
 
@@ -1226,7 +1226,7 @@ D) Humor and light-hearted themes
 
 ---
 
-C
+Supernatural elements and atmospheric settings
 
 ///
 
@@ -1242,7 +1242,7 @@ D) Great Expectations by Charles Dickens
 
 ---
 
-A
+Robinson Crusoe by Daniel Defoe
 
 ///
 
@@ -1258,7 +1258,7 @@ D) A summit where the United Nations was formed
 
 ---
 
-B
+A set of international treaties concerning the treatment of prisoners of war
 
 ///
 
@@ -1274,7 +1274,7 @@ D) Rejection of scientific methods
 
 ---
 
-C
+Belief in the power of human reason
 
 ///
 
@@ -1290,7 +1290,7 @@ D) Question, experiment, hypothesis, analysis, conclusion
 
 ---
 
-B
+Question, hypothesis, experiment, analysis, conclusion
 
 ///
 
@@ -1306,7 +1306,7 @@ D) A ball rolling down a hill
 
 ---
 
-C
+A rocket propelling forward as gases are expelled backward
 
 ///
 
@@ -1322,7 +1322,7 @@ D) Federalism
 
 ---
 
-B
+Imperialism
 
 ///
 
@@ -1338,7 +1338,7 @@ D) The sequence of events in a story
 
 ---
 
-B
+The central message or idea explored in a work
 
 ///
 
@@ -1354,7 +1354,7 @@ D) Inventors
 
 ---
 
-D
+Inventors
 
 ///
 
@@ -1370,7 +1370,7 @@ D) Allow the Supreme Court to write laws
 
 ---
 
-B
+Prevent any branch from becoming too powerful
 
 ///
 
@@ -1386,7 +1386,7 @@ D) Dividing Nucleic Assembly
 
 ---
 
-A
+Deoxyribonucleic Acid
 
 ///
 
@@ -1402,7 +1402,7 @@ D) Mary, walked to the store and bought milk.
 
 ---
 
-A
+Mary walked to the store, and bought milk.
 
 ///
 
@@ -1418,7 +1418,7 @@ D) Niels Bohr
 
 ---
 
-B
+Albert Einstein
 
 ///
 
@@ -1434,7 +1434,7 @@ D) To establish the Bill of Rights
 
 ---
 
-C
+To form a loose alliance among the states
 
 ///
 
@@ -1446,7 +1446,7 @@ B) False
 
 ---
 
-A
+True
 
 ///
 
@@ -1462,7 +1462,7 @@ D) Second Amendment
 
 ---
 
-B
+Fourth Amendment
 
 ///
 
@@ -1478,7 +1478,7 @@ D) Feudalism
 
 ---
 
-C
+Capitalism
 
 ///
 
@@ -1494,7 +1494,7 @@ D) Produce milk for their young
 
 ---
 
-D
+Produce milk for their young
 
 ///
 
@@ -1510,7 +1510,7 @@ D) They have many different personality traits
 
 ---
 
-C
+They change or develop throughout the story
 
 ///
 
@@ -1526,7 +1526,7 @@ D) Vetoing laws
 
 ---
 
-C
+Interpreting laws
 
 ///
 
@@ -1542,5 +1542,4 @@ D) Hydroelectric power
 
 ---
 
-C
-
+Natural gas

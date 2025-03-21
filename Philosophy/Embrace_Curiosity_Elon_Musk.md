@@ -70,7 +70,7 @@ D) 20
 
 ---
 
-B
+12
 
 ///
 
@@ -86,7 +86,7 @@ D) A religious doctrine that seeks to convert people to scientific thinking
 
 ---
 
-B
+An active, obsessive pursuit that pushes boundaries and challenges conventional thinking
 
 ///
 
@@ -102,7 +102,7 @@ D) Focusing exclusively on Earth's problems first
 
 ---
 
-C
+Exploring beyond Earth and traveling to other planets
 
 ///
 
@@ -118,7 +118,7 @@ D) SpaceX
 
 ---
 
-D
+SpaceX
 
 ///
 
@@ -134,7 +134,7 @@ D) Political connections
 
 ---
 
-C
+Obsessive curiosity
 
 ///
 
@@ -146,7 +146,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -162,7 +162,7 @@ D) Focusing solely on Earth's environmental problems
 
 ---
 
-B
+Advancing collective understanding and expanding consciousness
 
 ///
 
@@ -178,7 +178,7 @@ D) Advanced AI systems distributed across planets
 
 ---
 
-C
+Humans living on multiple planets, a goal of SpaceX
 
 ///
 
@@ -194,7 +194,7 @@ D) A marketing strategy for his companies
 
 ---
 
-B
+The intense, persistent desire to understand and discover that he considers crucial for success
 
 ///
 
@@ -210,7 +210,7 @@ D) To develop virtual reality experiences
 
 ---
 
-C
+To accelerate human scientific discovery through artificial intelligence
 
 ///
 
@@ -222,7 +222,7 @@ B) False
 
 ---
 
-B
+False
 
 ///
 
@@ -238,4 +238,4 @@ D) Learning only from established authorities
 
 ---
 
-C
+Reading widely, learning across fields, and applying critical thinking
