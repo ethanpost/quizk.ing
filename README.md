@@ -1,13 +1,14 @@
 # quizk.ing 📚✨
 
-Welcome to **quizk.ing** – a collection of learning content generated with the help of AI!
+Welcome to **quizk.ing** – a collection of learning content for everyone!
 
-This repository stores educational material sourced primarily from YouTube video transcripts and other learning resources. The content is designed to be accessible and engaging for all ages, making it a great tool for personal study or family learning.
+This repository stores educational material sourced primarily from video transcripts and other learning documents. The content is designed to be accessible and engaging, making it a great tool for personal study or family/classroom learning.
+
+This project is currently in "beta" mode, which means I have made major design changes within that past 30 days. 
 
 ## 📄 What's Inside
 
 - `.md` files: Markdown files containing question-and-answer style content. These files are formatted for easy import into the [Mochi](https://mochi.cards/) flashcard app (free tier available!).
-- `.mochi` files: Ready-to-import Mochi flashcard decks for quick setup and use.
 
 ## 🚀 Purpose
 
