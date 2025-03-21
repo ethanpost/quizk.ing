@@ -1,4 +1,4 @@
-# [The Flagellar Motor: A Molecular Machine](https://www.youtube.com/watch?v=VPSm9gJkPxU)
+# [Nature's Incredible Rotating Motor](https://www.youtube.com/watch?v=VPSm9gJkPxU)
 
 ## Overview of the Flagellar Motor
 - A molecular motor made of proteins that propels bacteria
