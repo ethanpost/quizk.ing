@@ -46,6 +46,8 @@
 
 ## What is the definition of interest?
 
+---
+
 A) Money paid to borrow something physical
 
 B) A fee paid for the use of someone else's money
@@ -61,6 +63,8 @@ A fee paid for the use of someone else's money
 ///
 
 ## According to the video, compound interest is:
+
+---
 
 A) Interest on the principal amount only
 
@@ -78,6 +82,8 @@ Interest on the outstanding debt balance, plus interest on interest
 
 ## What advice does the presenter give about compound interest?
 
+---
+
 A) Always avoid it entirely
 
 B) It's great to earn, but avoid paying it
@@ -93,6 +99,8 @@ It's great to earn, but avoid paying it
 ///
 
 ## In the example, what annual interest rate is charged on the credit card?
+
+---
 
 A) 10%
 
@@ -110,6 +118,8 @@ D) 25%
 
 ## In the simple interest example with $1000 debt at 20%, how much interest is paid over 5 years?
 
+---
+
 A) $200
 
 B) $500
@@ -125,6 +135,8 @@ $1000
 ///
 
 ## With simple interest, what happens to the principal amount over time?
+
+---
 
 A) It increases each year
 
@@ -142,6 +154,8 @@ It remains the same
 
 ## After 5 years of compound interest at 20%, how much would a $1000 debt grow to?
 
+---
+
 A) $1500
 
 B) $2000
@@ -157,6 +171,8 @@ $2488
 ///
 
 ## The term "to compound" in a legal context means:
+
+---
 
 A) To make something bad worse
 
@@ -174,6 +190,8 @@ To make something bad worse
 
 ## In the compound interest example, what is the interest charged in Year 2?
 
+---
+
 A) $200
 
 B) $220
@@ -189,6 +207,8 @@ $240
 ///
 
 ## How much of the Year 2 interest ($240) is "interest on interest"?
+
+---
 
 A) $0
 
@@ -206,6 +226,8 @@ $40
 
 ## True or False: With simple interest, you pay interest on previously accumulated interest.
 
+---
+
 A) True
 
 B) False
@@ -217,6 +239,8 @@ False
 ///
 
 ## What is the total interest earned after 5 years on a $1000 investment with 20% compound interest?
+
+---
 
 A) $1000
 
@@ -234,6 +258,8 @@ $1488
 
 ## The principal in a loan or investment refers to:
 
+---
+
 A) The interest rate applied
 
 B) The total amount after interest is added
@@ -249,6 +275,8 @@ The original amount borrowed or invested
 ///
 
 ## True or False: The video recommends checking what interest rate your credit card company is charging you.
+
+---
 
 A) True
 

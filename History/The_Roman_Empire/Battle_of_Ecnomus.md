@@ -117,6 +117,8 @@
 
 ## The Battle of Ecnomus is often considered one of the largest naval battles in history because it involved approximately:
 
+---
+
 A) 100,000 men and 300 ships
 
 B) 200,000 men and 484 ships
@@ -132,6 +134,8 @@ D) 150,000 men and 330 ships
 ///
 
 ## When did the Battle of Ecnomus take place?
+
+---
 
 A) 264 BCE
 
@@ -149,6 +153,8 @@ D) 241 BCE
 
 ## What was the main reason Rome decided to build a fleet during the First Punic War?
 
+---
+
 A) To protect Italian coastal cities
 
 B) To counter Carthaginian naval dominance that was hindering their supply lines
@@ -164,6 +170,8 @@ To counter Carthaginian naval dominance that was hindering their supply lines
 ///
 
 ## What Roman innovation helped counter Carthaginian naval experience?
+
+---
 
 A) Improved ramming techniques
 
@@ -181,6 +189,8 @@ The corvus boarding bridge
 
 ## The Roman fleet at Ecnomus was organized into how many divisions?
 
+---
+
 A) Two
 
 B) Three
@@ -196,6 +206,8 @@ Four
 ///
 
 ## What shape did the Roman battle formation take at Ecnomus?
+
+---
 
 A) Line abreast
 
@@ -213,6 +225,8 @@ Triangle
 
 ## Which Carthaginian commander was in charge of the right flank that attacked the Roman rear?
 
+---
+
 A) Hamilcar
 
 B) Hanno
@@ -228,6 +242,8 @@ Hanno
 ///
 
 ## The primary type of warship used by both sides at Ecnomus was the:
+
+---
 
 A) Trireme
 
@@ -245,6 +261,8 @@ Quinquereme (Krum/Five)
 
 ## What happened to the Roman horse transports during the battle?
 
+---
+
 A) They were sunk by Carthaginian ships
 
 B) They successfully landed on the African coast
@@ -260,6 +278,8 @@ They were cut loose by the Romans to improve maneuverability
 ///
 
 ## How did the Romans ultimately win the battle?
+
+---
 
 A) Superior numbers overwhelmed the Carthaginians
 
@@ -277,6 +297,8 @@ The corvus boarding bridge proved effective against Carthaginian ramming tactics
 
 ## How many Carthaginian ships were captured by the Romans?
 
+---
+
 A) 30
 
 B) 45
@@ -292,6 +314,8 @@ D) 85
 ///
 
 ## The Carthaginian battle strategy at Ecnomus was similar to which later famous battle?
+
+---
 
 A) Battle of Zama
 
@@ -309,6 +333,8 @@ Battle of Cannae
 
 ## True or False: The Battle of Ecnomus resulted in the end of the First Punic War.
 
+---
+
 A) True
 
 B) False
@@ -320,6 +346,8 @@ False
 ///
 
 ## What was the primary Carthaginian naval tactic?
+
+---
 
 A) Boarding enemy ships
 
@@ -337,6 +365,8 @@ Ramming to damage hulls or shear off oars
 
 ## What was the "Triarii" in the context of the Battle of Ecnomus?
 
+---
+
 A) A type of soldier
 
 B) A naval formation
@@ -353,6 +383,8 @@ The nickname for the fourth division that protected the rear
 
 ## True or False: After the Battle of Ecnomus, the Romans successfully landed an invasion force in Africa.
 
+---
+
 A) True
 
 B) False
@@ -364,6 +396,8 @@ True
 ///
 
 ## Approximately how many casualties did the Romans suffer at Ecnomus?
+
+---
 
 A) 5,000
 
@@ -381,6 +415,8 @@ D) 30,000
 
 ## What was the ultimate reason for Rome's victory over Carthage according to the transcript?
 
+---
+
 A) Superior naval technology
 
 B) Better military commanders
@@ -397,6 +433,8 @@ Greater willingness to commit resources fully to the fight
 
 ## What was a quinquereme?
 
+---
+
 A) A land formation of 5 units
 
 B) A warship with approximately 300 rowers and 120 marines
@@ -412,6 +450,8 @@ A warship with approximately 300 rowers and 120 marines
 ///
 
 ## How many ships did the Romans lose in the Battle of Ecnomus?
+
+---
 
 A) 10
 

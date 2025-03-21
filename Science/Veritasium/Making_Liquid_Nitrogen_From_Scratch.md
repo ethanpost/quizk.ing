@@ -59,6 +59,8 @@
 
 ## What percentage of the atmosphere is nitrogen?
 
+---
+
 A) 65%
 
 B) 71%
@@ -74,6 +76,8 @@ D) 82%
 ///
 
 ## What temperature must the cryocooler reach to liquify nitrogen?
+
+---
 
 A) -100°C
 
@@ -91,6 +95,8 @@ Below -200°C
 
 ## What property of liquid oxygen allows it to be separated using magnets?
 
+---
+
 A) It is radioactive
 
 B) It is paramagnetic
@@ -106,6 +112,8 @@ It is paramagnetic
 ///
 
 ## What was the purity level of nitrogen achieved through the membrane system?
+
+---
 
 A) 95.5%
 
@@ -123,6 +131,8 @@ D) 99.7%
 
 ## Why does nitrogen create a smoother texture in cold brew compared to CO2?
 
+---
+
 A) Nitrogen bubbles are larger
 
 B) Nitrogen bubbles are smaller
@@ -138,6 +148,8 @@ Nitrogen bubbles are smaller
 ///
 
 ## What causes the cascading bubble effect in Nitro Cold Brew?
+
+---
 
 A) Magnetic properties of nitrogen
 
@@ -155,6 +167,8 @@ Upward center flow creating downward outside flow
 
 ## True or False: CO2 reacts with water to create acid in beverages.
 
+---
+
 A) True
 
 B) False
@@ -166,6 +180,8 @@ True
 ///
 
 ## What was required to convert 50ml of liquid air?
+
+---
 
 A) 15 liters of room air
 

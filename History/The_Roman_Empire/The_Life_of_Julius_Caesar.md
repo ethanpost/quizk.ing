@@ -103,6 +103,8 @@
 
 ## What year was Julius Caesar born?
 
+---
+
 A) 102 BCE
 
 B) 100 BCE
@@ -118,6 +120,8 @@ D) 95 BCE
 ///
 
 ## Which position did Caesar hold that was considered the highest priest in Roman religion?
+
+---
 
 A) Consul
 
@@ -135,6 +139,8 @@ Pontifex Maximus
 
 ## Who was Caesar's uncle that served as a model for his military ambitions?
 
+---
+
 A) Sulla
 
 B) Gaius Marius
@@ -150,6 +156,8 @@ Gaius Marius
 ///
 
 ## What famous quote did Caesar allegedly say when crossing the Rubicon River?
+
+---
 
 A) "Veni, vidi, vici"
 
@@ -167,6 +175,8 @@ D) "Carpe diem"
 
 ## Which of these individuals was NOT part of the First Triumvirate?
 
+---
+
 A) Julius Caesar
 
 B) Pompey
@@ -182,6 +192,8 @@ Marcus Brutus
 ///
 
 ## What region did Caesar famously conquer between 58-50 BCE?
+
+---
 
 A) Greece
 
@@ -199,6 +211,8 @@ Gaul
 
 ## Who was the Gallic leader who united tribes against Caesar and surrendered at Alesia?
 
+---
+
 A) Vercingetorix
 
 B) Ptolemy
@@ -214,6 +228,8 @@ Vercingetorix
 ///
 
 ## After defeating Pompey at the Battle of Pharsalus, where did Pompey flee to?
+
+---
 
 A) Spain
 
@@ -231,6 +247,8 @@ Egypt
 
 ## What happened to Pompey when he arrived in Egypt?
 
+---
+
 A) He was welcomed as an honored guest
 
 B) He was imprisoned
@@ -246,6 +264,8 @@ He was murdered
 ///
 
 ## After which quick victory did Caesar famously declare "Veni, vidi, vici"?
+
+---
 
 A) Battle of Alesia
 
@@ -263,6 +283,8 @@ Victory against King Pharnaces II
 
 ## Who was Caesar's last wife?
 
+---
+
 A) Cornelia Cinna
 
 B) Cleopatra
@@ -278,6 +300,8 @@ Calpurnia
 ///
 
 ## What was the name of Caesar and Cleopatra's alleged son?
+
+---
 
 A) Brutus
 
@@ -295,6 +319,8 @@ Ptolemy Caesar (Caesarion)
 
 ## On what date was Julius Caesar assassinated?
 
+---
+
 A) January 1, 44 BCE
 
 B) March 15, 44 BCE
@@ -310,6 +336,8 @@ March 15, 44 BCE
 ///
 
 ## How many stab wounds did Caesar reportedly receive during his assassination?
+
+---
 
 A) 13
 
@@ -327,6 +355,8 @@ D) 43
 
 ## Who did Caesar name as his successor in his will?
 
+---
+
 A) Mark Antony
 
 B) Cleopatra
@@ -342,6 +372,8 @@ Gaius Octavius (Octavian)
 ///
 
 ## What happened to the conspirators Cassius and Brutus after Caesar's assassination?
+
+---
 
 A) They were immediately executed
 
@@ -359,6 +391,8 @@ They fled to Greece
 
 ## What political position was Caesar appointed to for life in 44 BCE?
 
+---
+
 A) Consul
 
 B) Dictator
@@ -375,6 +409,8 @@ Dictator
 
 ## What was the Lupercalia in relation to Caesar?
 
+---
+
 A) A festival where Mark Antony tried to crown Caesar
 
 B) The location where Caesar was assassinated
@@ -390,6 +426,8 @@ A festival where Mark Antony tried to crown Caesar
 ///
 
 ## Which of these was a direct result of Caesar's death?
+
+---
 
 A) Immediate collapse of the Roman Republic
 

@@ -40,6 +40,8 @@
 
 ## According to the video, what is the 'motor' of a sentence?
 
+---
+
 A) Noun
 
 B) Verb
@@ -55,6 +57,8 @@ Verb
 ///
 
 ## What Latin phrase is used in the video to describe the essential elements of grammar?
+
+---
 
 A) Carpe diem
 
@@ -72,6 +76,8 @@ Sine qua non
 
 ## A grammatically correct sentence must always contain a verb.
 
+---
+
 A) True
 
 B) False
@@ -83,6 +89,8 @@ True
 ///
 
 ## Which of the following is NOT described as a type of adjective in the video?
+
+---
 
 A) Colors
 
@@ -100,6 +108,8 @@ Adverbs
 
 ## According to the video, nouns can include:
 
+---
+
 A) Only people, places, and things
 
 B) Only tangible objects
@@ -115,6 +125,8 @@ Intangible concepts like virtue and courage
 ///
 
 ## In the example sentence 'The cowardly cat caught a cold,' what is the verb?
+
+---
 
 A) The
 
@@ -132,6 +144,8 @@ Caught
 
 ## What is the primary purpose of learning about English grammar according to the video?
 
+---
+
 A) To improve writing skills
 
 B) To prepare for learning Latin
@@ -147,6 +161,8 @@ To prepare for learning Latin
 ///
 
 ## Which of the following is described as a prepositional phrase in the video?
+
+---
 
 A) Caught a cold
 
@@ -164,6 +180,8 @@ In the house
 
 ## The video states that numbers are a type of adjective.
 
+---
+
 A) True
 
 B) False
@@ -175,6 +193,8 @@ True
 ///
 
 ## How many essential topics of English grammar are identified at the end of the video?
+
+---
 
 A) Three
 
@@ -192,6 +212,8 @@ Five
 
 ## What is a verb?
 
+---
+
 A) A word that describes a noun
 
 B) The "motor" of a sentence that expresses an action, occurrence, or state of being
@@ -207,6 +229,8 @@ The "motor" of a sentence that expresses an action, occurrence, or state of bein
 ///
 
 ## Which of the following best defines a noun?
+
+---
 
 A) A word that shows action
 
@@ -224,6 +248,8 @@ A word that represents a person, place, thing, or abstract concept
 
 ## What is the function of an adjective?
 
+---
+
 A) To describe or modify a noun
 
 B) To express an action
@@ -239,6 +265,8 @@ To describe or modify a noun
 ///
 
 ## What does an adverb typically modify?
+
+---
 
 A) Only nouns
 
@@ -256,6 +284,8 @@ A verb, adjective, or other adverb
 
 ## What is a preposition?
 
+---
+
 A) A word that expresses action
 
 B) A word that shows the relationship between a noun and other words in a sentence
@@ -271,6 +301,8 @@ A word that shows the relationship between a noun and other words in a sentence
 ///
 
 ## What makes up a prepositional phrase?
+
+---
 
 A) A verb and an adverb
 
@@ -288,6 +320,8 @@ A group of words containing a preposition and a noun
 
 ## What does the Latin phrase "sine qua non" mean?
 
+---
+
 A) "To seize the day"
 
 B) "Without which not" - referring to essential elements
@@ -303,6 +337,8 @@ D) "Always moving forward"
 ///
 
 ## What is a "state of being" verb?
+
+---
 
 A) A verb that shows physical movement
 
@@ -320,6 +356,8 @@ A verb that expresses existence rather than action
 
 ## What is the function of a linking verb like "is"?
 
+---
+
 A) To show action
 
 B) To connect the subject to additional information
@@ -335,6 +373,8 @@ To connect the subject to additional information
 ///
 
 ## What is an intangible concept?
+
+---
 
 A) A physical object that can be touched
 

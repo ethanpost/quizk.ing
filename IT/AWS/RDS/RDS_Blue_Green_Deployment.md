@@ -135,6 +135,8 @@
 
 ## Which environment represents the current production database in a blue/green deployment?
 
+---
+
 A) Green environment
 
 B) Blue environment
@@ -150,6 +152,8 @@ Blue environment
 ///
 
 ## How long does a blue/green deployment switchover typically take?
+
+---
 
 A) Less than one minute
 
@@ -167,6 +171,8 @@ Less than one minute
 
 ## Which of the following database engines are supported for Amazon RDS Blue/Green Deployments?
 
+---
+
 A) RDS for Oracle, RDS for SQL Server, and RDS for DB2
 
 B) RDS for MariaDB, RDS for MySQL, and RDS for PostgreSQL
@@ -182,6 +188,8 @@ RDS for MariaDB, RDS for MySQL, and RDS for PostgreSQL
 ///
 
 ## What is a switchover guardrail?
+
+---
 
 A) A physical barrier that prevents unauthorized access to the database
 
@@ -199,6 +207,8 @@ A check that prevents switchover if environments aren't ready to avoid downtime 
 
 ## Which permission is required to switch over a blue/green deployment?
 
+---
+
 A) rds:CreateBlueGreenDeployment
 
 B) rds:DeleteBlueGreenDeployment
@@ -214,6 +224,8 @@ rds:SwitchoverBlueGreenDeployment
 ///
 
 ## What happens to database connections during a blue/green deployment switchover?
+
+---
 
 A) Connections remain active throughout the process
 
@@ -231,6 +243,8 @@ Connections are dropped and new connections aren't allowed temporarily
 
 ## What is lazy loading in the context of blue/green deployments?
 
+---
+
 A) A method to reduce database workload during peak hours
 
 B) A process where data blocks are loaded only as applications request them
@@ -246,6 +260,8 @@ A process where data blocks are loaded only as applications request them
 ///
 
 ## What happens to the blue environment after a switchover?
+
+---
 
 A) It is automatically deleted
 
@@ -263,6 +279,8 @@ It is retained and renamed with "-oldn" suffix
 
 ## Which of the following is NOT a benefit of using blue/green deployments?
 
+---
+
 A) Reducing database storage costs
 
 B) Testing database changes safely without affecting production
@@ -278,6 +296,8 @@ Reducing database storage costs
 ///
 
 ## When does Amazon RDS use logical replication instead of physical replication for PostgreSQL blue/green deployments?
+
+---
 
 A) When the source instance has read replicas
 
@@ -295,6 +315,8 @@ When requesting a major version upgrade on supported PostgreSQL versions
 
 ## What condition must be met before switching over a blue/green deployment?
 
+---
+
 A) The green environment must have more storage capacity than the blue environment
 
 B) Replica lag should be close to zero
@@ -310,6 +332,8 @@ Replica lag should be close to zero
 ///
 
 ## What happens to external replicas after switching over an RDS for MySQL blue/green deployment?
+
+---
 
 A) They are automatically updated to point to the new production environment
 
@@ -327,6 +351,8 @@ They must have their parent node manually updated to maintain replication
 
 ## Which statement about deleting a blue/green deployment is TRUE?
 
+---
+
 A) Deleting a blue/green deployment always deletes both blue and green environments
 
 B) The blue environment is not affected when deleting a blue/green deployment
@@ -342,6 +368,8 @@ The blue environment is not affected when deleting a blue/green deployment
 ///
 
 ## What is a limitation of RDS for PostgreSQL blue/green deployments that use logical replication?
+
+---
 
 A) They cannot be used for major version upgrades
 
@@ -359,6 +387,8 @@ Tables must have a primary key for UPDATE and DELETE operations
 
 ## What action does Amazon RDS take during switchover to ensure application compatibility?
 
+---
+
 A) Automatically updates application connection strings
 
 B) Creates a copy of all application code with updated database references
@@ -374,6 +404,8 @@ Renames the green environment endpoints to match the corresponding blue environm
 ///
 
 ## Which CloudWatch metric should you check before switching over a blue/green deployment?
+
+---
 
 A) CPUUtilization
 
@@ -391,6 +423,8 @@ DatabaseConnections
 
 ## What is the default timeout period for a blue/green deployment switchover?
 
+---
+
 A) 30 seconds
 
 B) 120 seconds
@@ -407,6 +441,8 @@ D) 3600 seconds
 
 ## What happens if you make DDL changes in the blue environment of a PostgreSQL blue/green deployment using logical replication?
 
+---
+
 A) The changes are automatically applied to the green environment
 
 B) The deployment enters a state of "Replication degraded"
@@ -422,6 +458,8 @@ The deployment enters a state of "Replication degraded"
 ///
 
 ## What is the purpose of storage initialization in a blue/green deployment?
+
+---
 
 A) To encrypt data stored in the green environment
 

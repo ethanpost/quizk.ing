@@ -1,5 +1,7 @@
 ## Which literary device involves giving human qualities to non-human things?
 
+---
+
 A) Metaphor
 
 B) Simile
@@ -15,6 +17,8 @@ Personification
 ///
 
 ## What is the main function of a thesis statement?
+
+---
 
 A) To summarize the entire essay
 
@@ -32,6 +36,8 @@ To present the author's main argument
 
 ## Which of the following is an example of figurative language?
 
+---
+
 A) The car is red.
 
 B) He walked to school.
@@ -47,6 +53,8 @@ Her smile was as bright as the sun.
 ///
 
 ## What is the difference between a simile and a metaphor?
+
+---
 
 A) A simile uses "like" or "as"; a metaphor makes a direct comparison
 
@@ -64,6 +72,8 @@ A simile uses "like" or "as"; a metaphor makes a direct comparison
 
 ## Which part of speech modifies a verb?
 
+---
+
 A) Noun
 
 B) Adjective
@@ -79,6 +89,8 @@ Adverb
 ///
 
 ## The central message or insight about life revealed in a literary work is called:
+
+---
 
 A) Theme
 
@@ -96,6 +108,8 @@ Theme
 
 ## Which of the following is a compound sentence?
 
+---
+
 A) The dog barked.
 
 B) The dog barked, and the cat meowed.
@@ -111,6 +125,8 @@ The dog barked, and the cat meowed.
 ///
 
 ## What is the purpose of foreshadowing in literature?
+
+---
 
 A) To confuse the reader
 
@@ -128,6 +144,8 @@ To hint at what will happen later
 
 ## What is the main difference between a protagonist and an antagonist?
 
+---
+
 A) The protagonist is human; the antagonist is not
 
 B) The protagonist is good; the antagonist is always evil
@@ -143,6 +161,8 @@ The protagonist is the main character; the antagonist opposes the protagonist
 ///
 
 ## Which sentence uses the correct form of the verb?
+
+---
 
 A) Neither of the students have completed the assignment.
 
@@ -160,6 +180,8 @@ Neither of the students has completed the assignment.
 
 ## What is the primary difference between connotation and denotation?
 
+---
+
 A) Connotation is the dictionary definition; denotation is the emotional association
 
 B) Connotation is the emotional association; denotation is the dictionary definition
@@ -175,6 +197,8 @@ Connotation is the emotional association; denotation is the dictionary definitio
 ///
 
 ## What is a subordinating conjunction?
+
+---
 
 A) A word that joins two independent clauses of equal importance
 
@@ -192,6 +216,8 @@ A word that joins a dependent clause to an independent clause
 
 ## In the sentence "She ran quickly," what part of speech is "quickly"?
 
+---
+
 A) Noun
 
 B) Verb
@@ -207,6 +233,8 @@ Adverb
 ///
 
 ## Which of the following is written in the passive voice?
+
+---
 
 A) John wrote the essay.
 
@@ -224,6 +252,8 @@ The essay was written by John.
 
 ## What is the function of a topic sentence in a paragraph?
 
+---
+
 A) To provide supporting details
 
 B) To conclude the paragraph
@@ -239,6 +269,8 @@ To introduce the main idea of the paragraph
 ///
 
 ## Which punctuation mark is used to join two independent clauses without a conjunction?
+
+---
 
 A) Comma
 
@@ -256,6 +288,8 @@ Semicolon
 
 ## What is an appositive?
 
+---
+
 A) A noun or noun phrase that renames another noun right beside it
 
 B) A verb that follows another verb
@@ -271,6 +305,8 @@ A noun or noun phrase that renames another noun right beside it
 ///
 
 ## What literary device repeats consonant sounds at the beginning of words?
+
+---
 
 A) Assonance
 
@@ -288,6 +324,8 @@ Alliteration
 
 ## Which of the following is a concrete noun?
 
+---
+
 A) Love
 
 B) Freedom
@@ -303,6 +341,8 @@ Book
 ///
 
 ## What is a gerund?
+
+---
 
 A) A verb form ending in -ing that functions as a noun
 
@@ -320,6 +360,8 @@ A verb form ending in -ing that functions as a noun
 
 ## Which of the following is NOT a type of irony?
 
+---
+
 A) Verbal irony
 
 B) Dramatic irony
@@ -335,6 +377,8 @@ Metaphorical irony
 ///
 
 ## The smallest unit of sound in a word that distinguishes meaning is called:
+
+---
 
 A) Morpheme
 
@@ -352,6 +396,8 @@ Phoneme
 
 ## Which is an example of hyperbole?
 
+---
+
 A) The cat sat on the mat.
 
 B) She is as quiet as a mouse.
@@ -367,6 +413,8 @@ I'm so hungry I could eat a horse.
 ///
 
 ## What is the correct order of the steps in the scientific method?
+
+---
 
 A) Hypothesis, question, experiment, analysis, conclusion
 
@@ -384,6 +432,8 @@ Question, hypothesis, experiment, analysis, conclusion
 
 ## Which of the following is a renewable resource?
 
+---
+
 A) Coal
 
 B) Natural gas
@@ -399,6 +449,8 @@ Solar energy
 ///
 
 ## What is the study of the interaction between organisms and their environment?
+
+---
 
 A) Biology
 
@@ -416,6 +468,8 @@ Ecology
 
 ## Which of the following is NOT a state of matter?
 
+---
+
 A) Solid
 
 B) Liquid
@@ -431,6 +485,8 @@ Energy
 ///
 
 ## What is the process by which plants make their own food?
+
+---
 
 A) Respiration
 
@@ -448,6 +504,8 @@ Photosynthesis
 
 ## Which of the following is the correct formula for water?
 
+---
+
 A) H₂O
 
 B) CO₂
@@ -463,6 +521,8 @@ H₂O
 ///
 
 ## What is the primary function of mitochondria in a cell?
+
+---
 
 A) Protein synthesis
 
@@ -480,6 +540,8 @@ Energy production
 
 ## Newton's Third Law of Motion states:
 
+---
+
 A) An object in motion stays in motion unless acted upon by an external force
 
 B) Force equals mass times acceleration
@@ -495,6 +557,8 @@ For every action, there is an equal and opposite reaction
 ///
 
 ## Which of the following is NOT one of the layers of Earth?
+
+---
 
 A) Crust
 
@@ -512,6 +576,8 @@ Mesosphere
 
 ## What type of rock forms from the cooling of magma or lava?
 
+---
+
 A) Sedimentary
 
 B) Metamorphic
@@ -527,6 +593,8 @@ Igneous
 ///
 
 ## Which of the following is a characteristic of acids?
+
+---
 
 A) pH greater than 7
 
@@ -544,6 +612,8 @@ pH less than 7
 
 ## What is the process by which water changes from a liquid to a gas?
 
+---
+
 A) Condensation
 
 B) Evaporation
@@ -559,6 +629,8 @@ Evaporation
 ///
 
 ## Which of the following is a correct statement about DNA?
+
+---
 
 A) DNA is single-stranded
 
@@ -576,6 +648,8 @@ DNA uses the base pairs A-T and G-C
 
 ## What causes the seasons on Earth?
 
+---
+
 A) The Earth's distance from the sun
 
 B) The Earth's axial tilt
@@ -591,6 +665,8 @@ The Earth's axial tilt
 ///
 
 ## Which of the following best describes kinetic energy?
+
+---
 
 A) Stored energy
 
@@ -608,6 +684,8 @@ Energy of motion
 
 ## What is the process by which one species evolves into two or more species?
 
+---
+
 A) Natural selection
 
 B) Adaptation
@@ -623,6 +701,8 @@ Speciation
 ///
 
 ## Which of the following is an example of a chemical change?
+
+---
 
 A) Ice melting
 
@@ -640,6 +720,8 @@ Wood burning
 
 ## What is the main function of red blood cells?
 
+---
+
 A) To fight infection
 
 B) To carry oxygen
@@ -655,6 +737,8 @@ To carry oxygen
 ///
 
 ## Which of the following is a correct food chain?
+
+---
 
 A) Grass → Deer → Sun → Wolf
 
@@ -672,6 +756,8 @@ Sun → Grass → Deer → Wolf
 
 ## What causes ocean tides?
 
+---
+
 A) Wind patterns
 
 B) Ocean currents
@@ -687,6 +773,8 @@ Gravitational pull of the moon
 ///
 
 ## The atomic number of an element represents:
+
+---
 
 A) The number of neutrons
 
@@ -704,6 +792,8 @@ The number of protons
 
 ## Which of the following is NOT a biome?
 
+---
+
 A) Tundra
 
 B) Desert
@@ -719,6 +809,8 @@ Plateau
 ///
 
 ## Which law states that energy cannot be created or destroyed, only transformed?
+
+---
 
 A) Newton's First Law
 
@@ -736,6 +828,8 @@ Law of Conservation of Energy
 
 ## The American Revolution ended with the signing of:
 
+---
+
 A) The Declaration of Independence
 
 B) The Constitution
@@ -751,6 +845,8 @@ The Treaty of Paris
 ///
 
 ## Which document begins with "We the People of the United States"?
+
+---
 
 A) The Declaration of Independence
 
@@ -768,6 +864,8 @@ The Constitution
 
 ## The policy of "Manifest Destiny" was associated with:
 
+---
+
 A) Westward expansion
 
 B) Civil rights movement
@@ -783,6 +881,8 @@ Westward expansion
 ///
 
 ## Which amendment to the U.S. Constitution abolished slavery?
+
+---
 
 A) 13th Amendment
 
@@ -800,6 +900,8 @@ D) 19th Amendment
 
 ## What was the main cause of the U.S. Civil War?
 
+---
+
 A) States' rights
 
 B) Economic differences
@@ -815,6 +917,8 @@ Slavery
 ///
 
 ## The Monroe Doctrine declared:
+
+---
 
 A) The end of slavery in America
 
@@ -832,6 +936,8 @@ U.S. opposition to European colonization in the Americas
 
 ## Which of the following was NOT one of the Allied Powers during World War II?
 
+---
+
 A) United States
 
 B) Soviet Union
@@ -847,6 +953,8 @@ Japan
 ///
 
 ## The Civil Rights Act of 1964:
+
+---
 
 A) Gave women the right to vote
 
@@ -864,6 +972,8 @@ Ended segregation in public places
 
 ## What event directly led to U.S. entry into World War II?
 
+---
+
 A) Sinking of the Lusitania
 
 B) Attack on Pearl Harbor
@@ -879,6 +989,8 @@ Attack on Pearl Harbor
 ///
 
 ## Which economic system is characterized by private ownership of production means?
+
+---
 
 A) Socialism
 
@@ -896,6 +1008,8 @@ Capitalism
 
 ## The Great Depression began after:
 
+---
+
 A) World War I
 
 B) The Stock Market Crash of 1929
@@ -911,6 +1025,8 @@ The Stock Market Crash of 1929
 ///
 
 ## What was the Cold War?
+
+---
 
 A) A military conflict between the U.S. and Soviet Union
 
@@ -928,6 +1044,8 @@ A period of tension between the U.S. and Soviet Union
 
 ## Which of these is NOT a branch of the U.S. government?
 
+---
+
 A) Executive
 
 B) Legislative
@@ -943,6 +1061,8 @@ Parliamentary
 ///
 
 ## The Nile River is located primarily in which continent?
+
+---
 
 A) Asia
 
@@ -960,6 +1080,8 @@ Africa
 
 ## Which of the following is NOT a factor of production in economics?
 
+---
+
 A) Land
 
 B) Labor
@@ -975,6 +1097,8 @@ Inflation
 ///
 
 ## The Great Wall of China was built primarily to:
+
+---
 
 A) Attract tourists
 
@@ -992,6 +1116,8 @@ Defend against northern invaders
 
 ## Which of the following best defines a democracy?
 
+---
+
 A) Rule by the wealthy
 
 B) Rule by religious leaders
@@ -1007,6 +1133,8 @@ Rule by the people
 ///
 
 ## The Industrial Revolution began in:
+
+---
 
 A) United States
 
@@ -1024,6 +1152,8 @@ Great Britain
 
 ## Which of the following is a major cause of deforestation?
 
+---
+
 A) Urbanization
 
 B) Agriculture expansion
@@ -1039,6 +1169,8 @@ All of the above
 ///
 
 ## What is a primary source in history?
+
+---
 
 A) A textbook written by a historian
 
@@ -1056,6 +1188,8 @@ A diary written by someone who experienced the event
 
 ## The three main types of plate boundaries are:
 
+---
+
 A) Convergent, divergent, and transform
 
 B) Mountain, valley, and plateau
@@ -1071,6 +1205,8 @@ Convergent, divergent, and transform
 ///
 
 ## The Magna Carta limited the power of:
+
+---
 
 A) The Pope
 
@@ -1088,6 +1224,8 @@ The English monarch
 
 ## Which of the following is TRUE about supply and demand?
 
+---
+
 A) When demand increases, prices typically decrease
 
 B) When supply increases, prices typically decrease
@@ -1103,6 +1241,8 @@ When supply increases, prices typically decrease
 ///
 
 ## The Renaissance period is best characterized by:
+
+---
 
 A) Increased religious authority
 
@@ -1120,6 +1260,8 @@ Revival of interest in classical learning
 
 ## A major effect of the Columbian Exchange was:
 
+---
+
 A) The spread of democracy
 
 B) The transfer of plants, animals, and diseases between hemispheres
@@ -1135,6 +1277,8 @@ The transfer of plants, animals, and diseases between hemispheres
 ///
 
 ## The Golden Age of Islam was marked by:
+
+---
 
 A) Military conquests only
 
@@ -1152,6 +1296,8 @@ Advances in science, medicine, mathematics, and literature
 
 ## The main purpose of the United Nations is:
 
+---
+
 A) To regulate international trade
 
 B) To maintain international peace and security
@@ -1167,6 +1313,8 @@ To maintain international peace and security
 ///
 
 ## The principle of "checks and balances" in the U.S. government:
+
+---
 
 A) Ensures that no branch becomes too powerful
 
@@ -1184,6 +1332,8 @@ Ensures that no branch becomes too powerful
 
 ## What is the main purpose of a summary in a literary work?
 
+---
+
 A) To analyze the author's writing style
 
 B) To provide a brief overview of the main points
@@ -1199,6 +1349,8 @@ To provide a brief overview of the main points
 ///
 
 ## Which of the following is NOT a type of point of view in literature?
+
+---
 
 A) First person
 
@@ -1216,6 +1368,8 @@ Fourth person
 
 ## What is an oxymoron?
 
+---
+
 A) A phrase with contradictory terms
 
 B) A word that imitates a sound
@@ -1231,6 +1385,8 @@ A phrase with contradictory terms
 ///
 
 ## Which sentence contains a dangling modifier?
+
+---
 
 A) Walking to school, my backpack felt heavy.
 
@@ -1248,6 +1404,8 @@ Walking to school, my backpack felt heavy.
 
 ## What type of conflict is represented by a character struggling with their own thoughts?
 
+---
+
 A) Character vs. character
 
 B) Character vs. society
@@ -1263,6 +1421,8 @@ Character vs. self
 ///
 
 ## In chemistry, a substance with a pH of 9 would be classified as:
+
+---
 
 A) Acidic
 
@@ -1280,6 +1440,8 @@ Basic
 
 ## Which of the following is TRUE about cellular respiration?
 
+---
+
 A) It produces oxygen
 
 B) It consumes carbon dioxide
@@ -1295,6 +1457,8 @@ It releases energy from glucose
 ///
 
 ## What is the main difference between weather and climate?
+
+---
 
 A) Weather refers to long-term patterns; climate refers to short-term conditions
 
@@ -1312,6 +1476,8 @@ Weather refers to short-term conditions; climate refers to long-term patterns
 
 ## Which of the following is an example of a fossil fuel?
 
+---
+
 A) Solar energy
 
 B) Wind power
@@ -1327,6 +1493,8 @@ Natural gas
 ///
 
 ## The theory of plate tectonics explains:
+
+---
 
 A) The formation of stars and planets
 
@@ -1344,6 +1512,8 @@ The movement of Earth's crustal plates
 
 ## DNA replication is:
 
+---
+
 A) The process of making proteins from DNA
 
 B) The creation of exact copies of DNA
@@ -1359,6 +1529,8 @@ The creation of exact copies of DNA
 ///
 
 ## A genetically modified organism (GMO) has had:
+
+---
 
 A) Its diet modified
 
@@ -1376,6 +1548,8 @@ Its DNA altered through genetic engineering
 
 ## What was a significant cause of World War I?
 
+---
+
 A) The assassination of Archduke Franz Ferdinand
 
 B) The bombing of Pearl Harbor
@@ -1391,6 +1565,8 @@ The assassination of Archduke Franz Ferdinand
 ///
 
 ## The Progressive Era in U.S. history was characterized by:
+
+---
 
 A) Resistance to social and political reform
 
@@ -1408,6 +1584,8 @@ Efforts to address problems caused by industrialization
 
 ## Which of the following correctly describes federalism in the United States?
 
+---
+
 A) Power is divided between national and state governments
 
 B) All power is held by the national government
@@ -1423,6 +1601,8 @@ Power is divided between national and state governments
 ///
 
 ## The phrase "Taxation without representation" is associated with:
+
+---
 
 A) The Civil War
 
@@ -1440,6 +1620,8 @@ The American Revolution
 
 ## Which sentence demonstrates correct subject-verb agreement?
 
+---
+
 A) The team of players were celebrating their victory.
 
 B) The team of players was celebrating their victory.
@@ -1455,6 +1637,8 @@ The team of players was celebrating their victory.
 ///
 
 ## What is the law of conservation of mass?
+
+---
 
 A) Mass can be created but not destroyed
 
@@ -1472,6 +1656,8 @@ Mass cannot be created or destroyed in chemical reactions
 
 ## The Great Migration refers to:
 
+---
+
 A) The movement of African Americans from the South to the North
 
 B) European immigration to America in the early 1900s
@@ -1487,6 +1673,8 @@ The movement of African Americans from the South to the North
 ///
 
 ## The correct formula for finding the area of a circle is:
+
+---
 
 A) A = πr
 
@@ -1504,6 +1692,8 @@ A = πr²
 
 ## The branches of government established by the U.S. Constitution include all EXCEPT:
 
+---
+
 A) Executive
 
 B) Legislative
@@ -1519,6 +1709,8 @@ Administrative
 ///
 
 ## What is the primary purpose of a thesis statement?
+
+---
 
 A) To list the topics that will be covered
 
@@ -1536,6 +1728,8 @@ To state the author's main argument or position
 
 ## Which of the following is TRUE about cells?
 
+---
+
 A) All cells have a nucleus
 
 B) All cells contain DNA
@@ -1551,6 +1745,8 @@ All cells contain DNA
 ///
 
 ## The First Amendment to the U.S. Constitution protects:
+
+---
 
 A) The right to bear arms
 
@@ -1568,6 +1764,8 @@ Freedom of speech, religion, press, assembly, and petition
 
 ## Climate change is primarily caused by:
 
+---
+
 A) Changes in Earth's orbit
 
 B) Increased solar activity
@@ -1584,6 +1782,8 @@ Human activities releasing greenhouse gases
 
 ## True or False: All matter is made up of atoms.
 
+---
+
 A) True
 
 B) False
@@ -1595,6 +1795,8 @@ True
 ///
 
 ## True or False: The American Civil War began in 1861.
+
+---
 
 A) True
 
@@ -1608,6 +1810,8 @@ True
 
 ## True or False: Photosynthesis releases oxygen and uses carbon dioxide.
 
+---
+
 A) True
 
 B) False
@@ -1619,6 +1823,8 @@ True
 ///
 
 ## True or False: The U.S. Senate has 435 members.
+
+---
 
 A) True
 
@@ -1632,6 +1838,8 @@ False
 
 ## True or False: A simile uses "like" or "as" to make a comparison.
 
+---
+
 A) True
 
 B) False
@@ -1643,6 +1851,8 @@ True
 ///
 
 ## True or False: Heat always flows from colder objects to warmer objects.
+
+---
 
 A) True
 
@@ -1656,6 +1866,8 @@ False
 
 ## True or False: The preamble is the introduction to the U.S. Constitution.
 
+---
+
 A) True
 
 B) False
@@ -1667,6 +1879,8 @@ True
 ///
 
 ## True or False: The protagonist of a story is always the hero.
+
+---
 
 A) True
 

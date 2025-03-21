@@ -80,6 +80,8 @@
 
 ## What is Marc Raibert's opinion about the public perception of hydraulics technology?
 
+---
+
 A) The public has an accurate understanding of its limitations
 
 B) The public incorrectly views it as old-fashioned and messy
@@ -95,6 +97,8 @@ The public incorrectly views it as old-fashioned and messy
 ///
 
 ## What is a key advantage of hydraulic systems according to the transcript?
+
+---
 
 A) They never leak or drip
 
@@ -112,6 +116,8 @@ Strong performance in a lightweight package
 
 ## When were most hydraulic control valves originally designed?
 
+---
+
 A) In the 1930s
 
 B) In the 1950s
@@ -127,6 +133,8 @@ In the 1950s
 ///
 
 ## What was the original purpose of the hydraulic control valves mentioned?
+
+---
 
 A) For industrial manufacturing
 
@@ -144,6 +152,8 @@ For airplanes
 
 ## What is the approximate size of the integrated hydraulic power supply developed by Boston Dynamics?
 
+---
+
 A) Size of a baseball
 
 B) Size of a football
@@ -159,6 +169,8 @@ Size of a football
 ///
 
 ## How much power does the integrated hydraulic power supply produce?
+
+---
 
 A) 1 kilowatt
 
@@ -176,6 +188,8 @@ D) 10 kilowatts
 
 ## What does Raibert consider important for creating natural robot movement?
 
+---
+
 A) Only software innovation matters
 
 B) Only hardware innovation matters
@@ -191,6 +205,8 @@ Hardware innovation remains crucial
 ///
 
 ## What is the difference between servoing and the dynamic approach described in the transcript?
+
+---
 
 A) Servoing looks forward in time, dynamic approach is reactive
 
@@ -208,6 +224,8 @@ Servoing is reactive (backward-looking), dynamic approach predicts future motion
 
 ## How far ahead does the planning system for Spot robot typically look?
 
+---
+
 A) A few milliseconds
 
 B) About half a second
@@ -223,6 +241,8 @@ A couple of seconds
 ///
 
 ## What does the limited horizon approach do?
+
+---
 
 A) Only focuses on obstacles directly in front of the robot
 
@@ -240,6 +260,8 @@ Calculates expected motion outcomes for 1-1.5 seconds ahead and continuously rec
 
 ## According to the transcript, why is sticking the landing difficult for a robot doing a somersault?
 
+---
+
 A) Because the robot is too heavy
 
 B) Because there's limited control while in the air
@@ -255,6 +277,8 @@ Because there's limited control while in the air
 ///
 
 ## When did Boston Dynamics first make a robot do a somersault?
+
+---
 
 A) 1975-1976
 
@@ -272,6 +296,8 @@ D) 2005-2006
 
 ## What is a "planar robot" as described in the transcript?
 
+---
+
 A) A robot that can only move in two dimensions
 
 B) A robot restricted to the surface of a sphere, with limited degrees of freedom
@@ -287,6 +313,8 @@ A robot restricted to the surface of a sphere, with limited degrees of freedom
 ///
 
 ## What special technique was required for robots to perform 3D somersaults?
+
+---
 
 A) Using additional motors
 
@@ -304,6 +332,8 @@ Tucking (withdrawing legs) to increase rotation speed
 
 ## Who collaborated on the 3D somersault robot project at MIT?
 
+---
+
 A) A former Olympic swimmer
 
 B) A former champion gymnast named Rob
@@ -319,6 +349,8 @@ A former champion gymnast named Rob
 ///
 
 ## According to the transcript, which robot movement is more natural-looking - walking or running?
+
+---
 
 A) Walking
 
@@ -336,6 +368,8 @@ Running
 
 ## What was Boston Dynamics' motto in the early days?
 
+---
+
 A) "Fast and furious"
 
 B) "You have to run before you can walk"
@@ -351,6 +385,8 @@ D) "Building tomorrow's robots today"
 ///
 
 ## How fast could the WildCat quadruped robot run?
+
+---
 
 A) 9 meters per hour
 
@@ -368,6 +404,8 @@ D) 39 meters per hour
 
 ## What engine type was used for the WildCat robot?
 
+---
+
 A) Electric motor
 
 B) Diesel engine
@@ -384,6 +422,8 @@ Racing go-kart engine
 
 ## What is "compliance" in robotics as mentioned in the transcript?
 
+---
+
 A) Following programmed instructions exactly
 
 B) The ability to navigate obstacles
@@ -399,6 +439,8 @@ Springiness or flexibility in robot joints
 ///
 
 ## What is a quadruped?
+
+---
 
 A) A robot with two legs
 

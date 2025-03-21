@@ -60,6 +60,8 @@
 
 ## According to the transcript, at what age did Elon Musk begin grappling with existential questions?
 
+---
+
 A) 10
 
 B) 12
@@ -75,6 +77,8 @@ D) 20
 ///
 
 ## Which of the following best describes Musk's "philosophy of curiosity"?
+
+---
 
 A) A passive interest in scientific topics
 
@@ -92,6 +96,8 @@ An active, obsessive pursuit that pushes boundaries and challenges conventional 
 
 ## What does Musk believe is necessary to truly satisfy our curiosity about the universe?
 
+---
+
 A) Building more powerful telescopes
 
 B) Developing advanced computer simulations
@@ -107,6 +113,8 @@ Exploring beyond Earth and traveling to other planets
 ///
 
 ## According to the transcript, which of Musk's companies aims to make humanity a multiplanetary species?
+
+---
 
 A) Tesla
 
@@ -124,6 +132,8 @@ SpaceX
 
 ## What does Musk consider to be the most important attribute for success?
 
+---
+
 A) Financial intelligence
 
 B) Technical knowledge
@@ -140,6 +150,8 @@ Obsessive curiosity
 
 ## True or False: Musk believes his philosophy of curiosity is incompatible with existing religions.
 
+---
+
 A) True
 
 B) False
@@ -151,6 +163,8 @@ False
 ///
 
 ## What conclusion did Musk reach about a worthwhile path forward after his existential questioning?
+
+---
 
 A) Maximizing personal wealth and comfort
 
@@ -168,6 +182,8 @@ Advancing collective understanding and expanding consciousness
 
 ## What is a "multiplanetary species" in the context of Musk's philosophy?
 
+---
+
 A) Animals that can survive on multiple planets
 
 B) Humans with genetic modifications to survive on other planets
@@ -183,6 +199,8 @@ Humans living on multiple planets, a goal of SpaceX
 ///
 
 ## What does "obsessive curiosity" refer to in Musk's worldview?
+
+---
 
 A) A psychological disorder that needs treatment
 
@@ -200,6 +218,8 @@ The intense, persistent desire to understand and discover that he considers cruc
 
 ## What is the purpose of xAI according to the transcript?
 
+---
+
 A) To replace human workers with robots
 
 B) To create artificial general intelligence
@@ -216,6 +236,8 @@ To accelerate human scientific discovery through artificial intelligence
 
 ## True or False: Musk believes curiosity should primarily be directed toward profitable ventures.
 
+---
+
 A) True
 
 B) False
@@ -227,6 +249,8 @@ False
 ///
 
 ## How does Musk's philosophy relate to his approach to learning?
+
+---
 
 A) Focusing only on technical subjects
 

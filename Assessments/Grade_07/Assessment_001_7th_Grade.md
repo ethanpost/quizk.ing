@@ -1,5 +1,7 @@
 ## Which literary device is being used in the sentence: "The wind whispered through the trees"?
 
+---
+
 A) Simile
 
 B) Metaphor
@@ -15,6 +17,8 @@ Personification
 ///
 
 ## What is the main function of a thesis statement?
+
+---
 
 A) To introduce characters
 
@@ -32,6 +36,8 @@ To state the main idea of an essay
 
 ## Which of the following is a compound sentence?
 
+---
+
 A) The dog barked.
 
 B) The dog barked, and the cat meowed.
@@ -47,6 +53,8 @@ The dog barked, and the cat meowed.
 ///
 
 ## What is the correct order of the steps in the scientific method?
+
+---
 
 A) Hypothesis, question, experiment, analysis, conclusion
 
@@ -64,6 +72,8 @@ Question, hypothesis, experiment, analysis, conclusion
 
 ## True or False: All living organisms are made up of cells.
 
+---
+
 A) True
 
 B) False
@@ -75,6 +85,8 @@ True
 ///
 
 ## The three branches of the United States government are:
+
+---
 
 A) Executive, Judicial, Military
 
@@ -92,6 +104,8 @@ Legislative, Executive, Judicial
 
 ## Which of the following is a complete sentence?
 
+---
+
 A) Running through the park.
 
 B) Because it was raining.
@@ -107,6 +121,8 @@ She studied for her exam.
 ///
 
 ## What is the difference between a physical and chemical change?
+
+---
 
 A) Physical changes create new substances, chemical changes don't
 
@@ -124,6 +140,8 @@ Chemical changes create new substances, physical changes don't
 
 ## Which of these is NOT one of the main types of rock?
 
+---
+
 A) Igneous
 
 B) Sedimentary
@@ -139,6 +157,8 @@ Conglomerate
 ///
 
 ## What do we call the main characters in a story?
+
+---
 
 A) Protagonists
 
@@ -156,6 +176,8 @@ Protagonists
 
 ## What is the process by which plants make their own food using sunlight?
 
+---
+
 A) Respiration
 
 B) Photosynthesis
@@ -171,6 +193,8 @@ Photosynthesis
 ///
 
 ## Which civilization built the Great Pyramids of Giza?
+
+---
 
 A) Mesopotamians
 
@@ -188,6 +212,8 @@ Egyptians
 
 ## True or False: A noun is a person, place, thing, or idea.
 
+---
+
 A) True
 
 B) False
@@ -199,6 +225,8 @@ True
 ///
 
 ## The imaginary line that divides Earth into Northern and Southern Hemispheres is called:
+
+---
 
 A) Prime Meridian
 
@@ -216,6 +244,8 @@ Equator
 
 ## Which of the following is an example of alliteration?
 
+---
+
 A) The silent owl soared suddenly
 
 B) The cake was as sweet as sugar
@@ -231,6 +261,8 @@ The silent owl soared suddenly
 ///
 
 ## What organelle is known as the "powerhouse of the cell"?
+
+---
 
 A) Nucleus
 
@@ -248,6 +280,8 @@ Mitochondria
 
 ## What is the main cause of the seasons on Earth?
 
+---
+
 A) The Earth's distance from the sun
 
 B) The Earth's tilt on its axis
@@ -263,6 +297,8 @@ The Earth's tilt on its axis
 ///
 
 ## Which war was fought between the North and South in the United States from 1861-1865?
+
+---
 
 A) Revolutionary War
 
@@ -280,6 +316,8 @@ Civil War
 
 ## What is the correct plural form of "child"?
 
+---
+
 A) Childs
 
 B) Children
@@ -295,6 +333,8 @@ Children
 ///
 
 ## Which of these is an example of a run-on sentence?
+
+---
 
 A) I went to the store to buy milk.
 
@@ -312,6 +352,8 @@ I went to the store to buy milk then I went home.
 
 ## What is the smallest unit of matter?
 
+---
+
 A) Cell
 
 B) Molecule
@@ -328,6 +370,8 @@ Atom
 
 ## True or False: The Articles of Confederation was the first constitution of the United States.
 
+---
+
 A) True
 
 B) False
@@ -339,6 +383,8 @@ True
 ///
 
 ## Which part of speech describes an action or state of being?
+
+---
 
 A) Noun
 
@@ -356,6 +402,8 @@ Verb
 
 ## What is the difference between weather and climate?
 
+---
+
 A) Weather is long-term, climate is short-term
 
 B) Weather is short-term, climate is long-term
@@ -371,6 +419,8 @@ Weather is short-term, climate is long-term
 ///
 
 ## Who wrote the Declaration of Independence?
+
+---
 
 A) George Washington
 
@@ -388,6 +438,8 @@ Thomas Jefferson
 
 ## What is the main conflict type when a character struggles against their own emotions?
 
+---
+
 A) Character vs. Character
 
 B) Character vs. Society
@@ -403,6 +455,8 @@ Character vs. Self
 ///
 
 ## Which of the following is a prefect square?
+
+---
 
 A) 24
 
@@ -420,6 +474,8 @@ D) 75
 
 ## What are the three states of matter?
 
+---
+
 A) Solid, gas, plasma
 
 B) Liquid, gas, plasma
@@ -435,6 +491,8 @@ Solid, liquid, gas
 ///
 
 ## During which historical period did feudalism dominate European society?
+
+---
 
 A) Renaissance
 
@@ -452,6 +510,8 @@ Middle Ages
 
 ## Which of the following sentences uses correct punctuation?
 
+---
+
 A) "Let's eat grandma."
 
 B) "Let's eat, grandma."
@@ -467,6 +527,8 @@ D) "Let's, eat grandma."
 ///
 
 ## What is the function of the skeletal system?
+
+---
 
 A) To produce hormones
 
@@ -484,6 +546,8 @@ To support the body and protect organs
 
 ## On which continent would you find the Amazon Rainforest?
 
+---
+
 A) Africa
 
 B) Asia
@@ -499,6 +563,8 @@ South America
 ///
 
 ## Which of these is NOT a type of figurative language?
+
+---
 
 A) Metaphor
 
@@ -516,6 +582,8 @@ Exposition
 
 ## True or False: All mammals lay eggs.
 
+---
+
 A) True
 
 B) False
@@ -527,6 +595,8 @@ False
 ///
 
 ## Which Amendment to the U.S. Constitution abolished slavery?
+
+---
 
 A) 1st Amendment
 
@@ -544,6 +614,8 @@ D) 26th Amendment
 
 ## What point of view uses "I" and "we"?
 
+---
+
 A) First person
 
 B) Second person
@@ -559,6 +631,8 @@ First person
 ///
 
 ## Which of these is an example of potential energy?
+
+---
 
 A) A car moving down the highway
 
@@ -576,6 +650,8 @@ A book sitting on a high shelf
 
 ## Which civilization built the Great Wall of China?
 
+---
+
 A) Japanese
 
 B) Korean
@@ -591,6 +667,8 @@ Chinese
 ///
 
 ## The prefix "tri-" means:
+
+---
 
 A) Two
 
@@ -608,6 +686,8 @@ Three
 
 ## What is the process by which water vapor turns into liquid?
 
+---
+
 A) Evaporation
 
 B) Condensation
@@ -623,6 +703,8 @@ Condensation
 ///
 
 ## Which document begins with "We the People"?
+
+---
 
 A) The Declaration of Independence
 
@@ -640,6 +722,8 @@ The U.S. Constitution
 
 ## An antonym is:
 
+---
+
 A) A word that means the same as another word
 
 B) A word that has multiple meanings
@@ -655,6 +739,8 @@ A word that means the opposite of another word
 ///
 
 ## What force keeps planets in orbit around the sun?
+
+---
 
 A) Magnetic force
 
@@ -672,6 +758,8 @@ Gravitational force
 
 ## The study of ancient human history through artifacts is called:
 
+---
+
 A) Anthropology
 
 B) Paleontology
@@ -687,6 +775,8 @@ Archaeology
 ///
 
 ## Which sentence contains a pronoun?
+
+---
 
 A) The dog chased the ball.
 
@@ -704,6 +794,8 @@ He climbed the mountain.
 
 ## True or False: Photosynthesis releases oxygen into the atmosphere.
 
+---
+
 A) True
 
 B) False
@@ -715,6 +807,8 @@ True
 ///
 
 ## Who was the first President of the United States?
+
+---
 
 A) Thomas Jefferson
 
@@ -732,6 +826,8 @@ George Washington
 
 ## Which literary genre tells stories about imaginary future scientific or technological advances?
 
+---
+
 A) Historical fiction
 
 B) Science fiction
@@ -747,6 +843,8 @@ Science fiction
 ///
 
 ## What is the largest organ in the human body?
+
+---
 
 A) Heart
 
@@ -764,6 +862,8 @@ Skin
 
 ## Which continents are connected by the Isthmus of Panama?
 
+---
+
 A) North America and South America
 
 B) Europe and Asia
@@ -779,6 +879,8 @@ North America and South America
 ///
 
 ## A semicolon is used to:
+
+---
 
 A) End a sentence
 
@@ -796,6 +898,8 @@ Join two independent clauses
 
 ## What is the term for a word that imitates the sound it represents?
 
+---
+
 A) Synonym
 
 B) Antonym
@@ -811,6 +915,8 @@ Onomatopoeia
 ///
 
 ## Which of these is NOT a renewable resource?
+
+---
 
 A) Solar energy
 
@@ -828,6 +934,8 @@ Coal
 
 ## What was the main cause of World War I?
 
+---
+
 A) The assassination of Archduke Franz Ferdinand
 
 B) The bombing of Pearl Harbor
@@ -843,6 +951,8 @@ The assassination of Archduke Franz Ferdinand
 ///
 
 ## Which verb tense describes an action that started in the past and continues to the present?
+
+---
 
 A) Simple past
 
@@ -860,6 +970,8 @@ Present perfect
 
 ## Which of these is NOT one of Newton's Laws of Motion?
 
+---
+
 A) An object in motion stays in motion unless acted upon by an outside force
 
 B) Force equals mass times acceleration
@@ -875,6 +987,8 @@ Energy cannot be created or destroyed
 ///
 
 ## The Underground Railroad was:
+
+---
 
 A) The first subway system in America
 
@@ -892,6 +1006,8 @@ A secret network helping enslaved people escape to freedom
 
 ## What is the definition of a preposition?
 
+---
+
 A) A word that modifies a verb
 
 B) A word that shows the relationship between a noun and other words
@@ -908,6 +1024,8 @@ A word that shows the relationship between a noun and other words
 
 ## True or False: All insects have six legs.
 
+---
+
 A) True
 
 B) False
@@ -919,6 +1037,8 @@ True
 ///
 
 ## Which of these ancient civilizations developed the first known writing system?
+
+---
 
 A) Egypt
 
@@ -936,6 +1056,8 @@ Sumer
 
 ## Which of the following is NOT a theme commonly found in literature?
 
+---
+
 A) Love
 
 B) Redemption
@@ -951,6 +1073,8 @@ Punctuation
 ///
 
 ## What is the main function of the respiratory system?
+
+---
 
 A) To pump blood throughout the body
 
@@ -968,6 +1092,8 @@ To exchange oxygen and carbon dioxide
 
 ## Which of these was NOT one of the 13 original colonies?
 
+---
+
 A) Vermont
 
 B) Massachusetts
@@ -983,6 +1109,8 @@ Vermont
 ///
 
 ## A homograph is:
+
+---
 
 A) A word that sounds like another word but has different spelling
 
@@ -1000,6 +1128,8 @@ A word spelled the same as another word but with different meaning
 
 ## Which of these is a characteristic of mammals?
 
+---
+
 A) Lay eggs
 
 B) Have scales
@@ -1015,6 +1145,8 @@ Produce milk for their young
 ///
 
 ## The process of a solid changing directly to a gas without becoming a liquid is called:
+
+---
 
 A) Condensation
 
@@ -1032,6 +1164,8 @@ Sublimation
 
 ## Which document declared American independence from Great Britain?
 
+---
+
 A) The Constitution
 
 B) The Declaration of Independence
@@ -1047,6 +1181,8 @@ The Declaration of Independence
 ///
 
 ## What is the main purpose of topic sentences in paragraphs?
+
+---
 
 A) To provide evidence
 
@@ -1064,6 +1200,8 @@ To state the main idea of the paragraph
 
 ## Which of these animals is an invertebrate?
 
+---
+
 A) Frog
 
 B) Snake
@@ -1079,6 +1217,8 @@ Jellyfish
 ///
 
 ## The Industrial Revolution began in which country?
+
+---
 
 A) United States
 
@@ -1096,6 +1236,8 @@ Great Britain
 
 ## An adverb typically modifies:
 
+---
+
 A) A noun
 
 B) A verb, adjective, or other adverb
@@ -1112,6 +1254,8 @@ A verb, adjective, or other adverb
 
 ## True or False: The moon produces its own light.
 
+---
+
 A) True
 
 B) False
@@ -1123,6 +1267,8 @@ False
 ///
 
 ## Which of these historical figures led the movement for Indian independence from British rule?
+
+---
 
 A) Nelson Mandela
 
@@ -1140,6 +1286,8 @@ Mahatma Gandhi
 
 ## Which literary element refers to clues that hint at events that will occur later in the story?
 
+---
+
 A) Flashback
 
 B) Foreshadowing
@@ -1155,6 +1303,8 @@ Foreshadowing
 ///
 
 ## What is the main function of the circulatory system?
+
+---
 
 A) To breathe in oxygen
 
@@ -1172,6 +1322,8 @@ To transport nutrients and oxygen throughout the body
 
 ## Which of these is NOT a basic form of government?
 
+---
+
 A) Democracy
 
 B) Monarchy
@@ -1187,6 +1339,8 @@ Geography
 ///
 
 ## What is the correct way to form a possessive for a singular noun?
+
+---
 
 A) Add 's
 
@@ -1204,6 +1358,8 @@ Add 's
 
 ## Which planet is known as the "Red Planet"?
 
+---
+
 A) Jupiter
 
 B) Venus
@@ -1219,6 +1375,8 @@ Mars
 ///
 
 ## The American Civil Rights Movement primarily sought to end:
+
+---
 
 A) Women's suffrage
 
@@ -1236,6 +1394,8 @@ Racial segregation and discrimination
 
 ## Which of these sentence types gives a command?
 
+---
+
 A) Declarative
 
 B) Interrogative
@@ -1251,6 +1411,8 @@ Imperative
 ///
 
 ## What is the process by which rocks are broken down into smaller pieces?
+
+---
 
 A) Erosion
 
@@ -1268,6 +1430,8 @@ Weathering
 
 ## Which document outlines the first ten amendments to the U.S. Constitution?
 
+---
+
 A) The Declaration of Independence
 
 B) The Articles of Confederation
@@ -1283,6 +1447,8 @@ The Bill of Rights
 ///
 
 ## What do we call the viewpoint that allows the narrator to know the thoughts and feelings of all characters?
+
+---
 
 A) First person
 
@@ -1300,6 +1466,8 @@ Third person omniscient
 
 ## True or False: All living things need oxygen to survive.
 
+---
+
 A) True
 
 B) False
@@ -1311,6 +1479,8 @@ False
 ///
 
 ## Who led the expedition that first circumnavigated the globe?
+
+---
 
 A) Christopher Columbus
 
@@ -1328,6 +1498,8 @@ Ferdinand Magellan
 
 ## Which of the following is NOT a part of speech?
 
+---
+
 A) Conjunction
 
 B) Preposition
@@ -1343,6 +1515,8 @@ Punctuation
 ///
 
 ## Which of these is a non-renewable energy source?
+
+---
 
 A) Solar
 
@@ -1360,6 +1534,8 @@ Natural gas
 
 ## What is the study of the Earth's physical features and atmosphere called?
 
+---
+
 A) Biology
 
 B) Geology
@@ -1375,6 +1551,8 @@ Geography
 ///
 
 ## Which transition word signals a contrast or opposite idea?
+
+---
 
 A) Furthermore
 
@@ -1392,6 +1570,8 @@ However
 
 ## What do we call an organism that cannot produce its own food and must consume other organisms?
 
+---
+
 A) Producer
 
 B) Consumer
@@ -1407,6 +1587,8 @@ Consumer
 ///
 
 ## The Magna Carta limited the power of:
+
+---
 
 A) The Pope
 
@@ -1424,6 +1606,8 @@ The King
 
 ## What is the term for words that sound the same but have different meanings and spellings?
 
+---
+
 A) Homonyms
 
 B) Synonyms
@@ -1439,6 +1623,8 @@ Homophones
 ///
 
 ## What is the primary function of DNA?
+
+---
 
 A) To produce energy
 
@@ -1456,6 +1642,8 @@ To store genetic information
 
 ## Which continent is home to the most countries?
 
+---
+
 A) Asia
 
 B) Europe
@@ -1471,6 +1659,8 @@ Africa
 ///
 
 ## The climax of a story is:
+
+---
 
 A) The introduction of the main conflict
 

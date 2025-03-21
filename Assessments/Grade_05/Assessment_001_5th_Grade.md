@@ -1,5 +1,7 @@
 ## What is the main idea of a story?
 
+---
+
 A) The setting where the story takes place
 
 B) The most important point the author wants to share
@@ -15,6 +17,8 @@ The most important point the author wants to share
 ///  
 
 ## Which word is a noun?
+
+---
 
 A) Run
 
@@ -32,6 +36,8 @@ Dog
 
 ## True or False: A verb is a word that shows action or being.
 
+---
+
 A) True
 
 B) False  
@@ -43,6 +49,8 @@ True
 ///  
 
 ## What does the word "brave" mean?
+
+---
 
 A) Scared
 
@@ -60,6 +68,8 @@ Strong and fearless
 
 ## Which sentence is written correctly?
 
+---
+
 A) the cat ran fast
 
 B) The cat ran fast.
@@ -75,6 +85,8 @@ The cat ran fast.
 ///  
 
 ## What is a synonym for "happy"?
+
+---
 
 A) Sad
 
@@ -92,6 +104,8 @@ Glad
 
 ## True or False: The sun is a star.
 
+---
+
 A) True
 
 B) False  
@@ -103,6 +117,8 @@ True
 ///  
 
 ## What do plants need to grow?
+
+---
 
 A) Water, sunlight, and air
 
@@ -120,6 +136,8 @@ Water, sunlight, and air
 
 ## Which of these is a continent?
 
+---
+
 A) Florida
 
 B) Africa
@@ -135,6 +153,8 @@ Africa
 ///  
 
 ## Who was the first president of the United States?
+
+---
 
 A) Abraham Lincoln
 
@@ -152,6 +172,8 @@ George Washington
 
 ## What is the setting of a story?
 
+---
+
 A) The problem the characters face
 
 B) The time and place where the story happens
@@ -167,6 +189,8 @@ The time and place where the story happens
 ///  
 
 ## Which word is an adjective?
+
+---
 
 A) Tall
 
@@ -184,6 +208,8 @@ Tall
 
 ## True or False: A period (.) goes at the end of a question.
 
+---
+
 A) True
 
 B) False  
@@ -195,6 +221,8 @@ False
 ///  
 
 ## What does "predict" mean?
+
+---
 
 A) To guess what will happen next
 
@@ -212,6 +240,8 @@ To guess what will happen next
 
 ## Which of these is a complete sentence?
 
+---
+
 A) The big red ball
 
 B) The dog barks loudly.
@@ -227,6 +257,8 @@ The dog barks loudly.
 ///  
 
 ## What is the force that pulls objects toward the ground?
+
+---
 
 A) Magnetism
 
@@ -244,6 +276,8 @@ Gravity
 
 ## True or False: The Earth has one moon.
 
+---
+
 A) True
 
 B) False  
@@ -255,6 +289,8 @@ True
 ///  
 
 ## What do you call a person who studies rocks?
+
+---
 
 A) Biologist
 
@@ -272,6 +308,8 @@ Geologist
 
 ## Which of these is a state in the United States?
 
+---
+
 A) California
 
 B) Canada
@@ -287,6 +325,8 @@ California
 ///  
 
 ## What is a map used for?
+
+---
 
 A) To tell time
 
@@ -304,6 +344,8 @@ To show where places are
 
 ## What is the moral of a story?
 
+---
+
 A) The beginning
 
 B) The lesson or message
@@ -319,6 +361,8 @@ The lesson or message
 ///  
 
 ## Which word is a verb?
+
+---
 
 A) Table
 
@@ -336,6 +380,8 @@ Sing
 
 ## True or False: Every sentence needs a subject and a verb.
 
+---
+
 A) True
 
 B) False  
@@ -347,6 +393,8 @@ True
 ///  
 
 ## What does "enormous" mean?
+
+---
 
 A) Very small
 
@@ -364,6 +412,8 @@ Very big
 
 ## Which sentence uses correct punctuation?
 
+---
+
 A) I like to play soccer
 
 B) I like to play soccer.
@@ -379,6 +429,8 @@ I like to play soccer.
 ///  
 
 ## What is the source of energy for Earth?
+
+---
 
 A) The Moon
 
@@ -396,6 +448,8 @@ The Sun
 
 ## True or False: Animals need air to live.
 
+---
+
 A) True
 
 B) False  
@@ -407,6 +461,8 @@ True
 ///  
 
 ## Which of these is a planet?
+
+---
 
 A) Sun
 
@@ -424,6 +480,8 @@ Mars
 
 ## What do you call the leader of a city?
 
+---
+
 A) President
 
 B) Governor
@@ -440,6 +498,8 @@ Mayor
 
 ## True or False: The United States has 50 states.
 
+---
+
 A) True
 
 B) False  
@@ -451,6 +511,8 @@ True
 ///  
 
 ## What do you call the person a story is mostly about?
+
+---
 
 A) The setting
 
@@ -468,6 +530,8 @@ The main character
 
 ## Which word is an adverb?
 
+---
+
 A) Slowly
 
 B) Dog
@@ -484,6 +548,8 @@ Slowly
 
 ## True or False: A question mark (?) goes at the end of a statement.
 
+---
+
 A) True
 
 B) False  
@@ -495,6 +561,8 @@ False
 ///  
 
 ## What does "compare" mean?
+
+---
 
 A) To tell how things are different
 
@@ -512,6 +580,8 @@ To tell how things are alike
 
 ## Which sentence has a capital letter where it should?
 
+---
+
 A) the dog is brown
 
 B) The dog is brown.
@@ -527,6 +597,8 @@ The dog is brown.
 ///  
 
 ## What do plants give off that humans breathe?
+
+---
 
 A) Oxygen
 
@@ -544,6 +616,8 @@ Oxygen
 
 ## True or False: The Earth spins once every day.
 
+---
+
 A) True
 
 B) False  
@@ -555,6 +629,8 @@ True
 ///  
 
 ## Which of these is a living thing?
+
+---
 
 A) Rock
 
@@ -572,6 +648,8 @@ Tree
 
 ## What is the capital city of the United States?
 
+---
+
 A) Florida
 
 B) New York
@@ -588,6 +666,8 @@ Washington, D.C.
 
 ## True or False: A desert is a very wet place.
 
+---
+
 A) True
 
 B) False  
@@ -599,6 +679,8 @@ False
 ///  
 
 ## What is the beginning of a story called?
+
+---
 
 A) The climax
 
@@ -616,6 +698,8 @@ The introduction
 
 ## Which word is a noun?
 
+---
+
 A) Jump
 
 B) Apple
@@ -632,6 +716,8 @@ Apple
 
 ## True or False: An exclamation mark (!) shows excitement.
 
+---
+
 A) True
 
 B) False  
@@ -643,6 +729,8 @@ True
 ///  
 
 ## What does "tiny" mean?
+
+---
 
 A) Very big
 
@@ -660,6 +748,8 @@ Very small
 
 ## Which sentence is a question?
 
+---
+
 A) The bird flies high.
 
 B) Where is the bird?
@@ -675,6 +765,8 @@ Where is the bird?
 ///  
 
 ## What causes day and night?
+
+---
 
 A) The Moon moving around the Earth
 
@@ -692,6 +784,8 @@ The Earth spinning
 
 ## True or False: Water can be a solid, liquid, or gas.
 
+---
+
 A) True
 
 B) False  
@@ -703,6 +797,8 @@ True
 ///  
 
 ## Which of these is a type of weather?
+
+---
 
 A) Mountain
 
@@ -720,6 +816,8 @@ Rain
 
 ## What do you call a large body of land surrounded by water?
 
+---
+
 A) A mountain
 
 B) An island
@@ -736,6 +834,8 @@ An island
 
 ## True or False: Christopher Columbus sailed to America in 1492.
 
+---
+
 A) True
 
 B) False  
@@ -747,6 +847,8 @@ True
 ///  
 
 ## What is the problem in a story called?
+
+---
 
 A) The solution
 
@@ -764,6 +866,8 @@ The conflict
 
 ## Which word is a verb?
 
+---
+
 A) Cat
 
 B) Sleep
@@ -780,6 +884,8 @@ Sleep
 
 ## True or False: A comma (,) is used to separate items in a list.
 
+---
+
 A) True
 
 B) False  
@@ -791,6 +897,8 @@ True
 ///  
 
 ## What does "shout" mean?
+
+---
 
 A) To whisper
 
@@ -808,6 +916,8 @@ To talk loudly
 
 ## Which sentence uses quotation marks correctly?
 
+---
+
 A) Mom said, "Clean your room."
 
 B) Mom said, Clean your room.
@@ -823,6 +933,8 @@ Mom said, "Clean your room."
 ///  
 
 ## What is the closest star to Earth?
+
+---
 
 A) The Moon
 
@@ -840,6 +952,8 @@ The Sun
 
 ## True or False: Frogs are amphibians.
 
+---
+
 A) True
 
 B) False  
@@ -851,6 +965,8 @@ True
 ///  
 
 ## Which of these is a mammal?
+
+---
 
 A) Snake
 
@@ -868,6 +984,8 @@ Dolphin
 
 ## What is a globe?
 
+---
+
 A) A flat map
 
 B) A round model of the Earth
@@ -884,6 +1002,8 @@ A round model of the Earth
 
 ## True or False: The Mississippi River is in the United States.
 
+---
+
 A) True
 
 B) False  
@@ -895,6 +1015,8 @@ True
 ///  
 
 ## What do you call the end of a story?
+
+---
 
 A) The beginning
 
@@ -912,6 +1034,8 @@ The conclusion
 
 ## Which word is an adjective?
 
+---
+
 A) Run
 
 B) Happy
@@ -928,6 +1052,8 @@ Happy
 
 ## True or False: A noun names a person, place, or thing.
 
+---
+
 A) True
 
 B) False  
@@ -939,6 +1065,8 @@ True
 ///  
 
 ## What does "chilly" mean?
+
+---
 
 A) Very hot
 
@@ -956,6 +1084,8 @@ Very cold
 
 ## Which sentence is written correctly?
 
+---
+
 A) I like to read books
 
 B) I like to read books.
@@ -971,6 +1101,8 @@ I like to read books.
 ///  
 
 ## What do animals need to survive?
+
+---
 
 A) Food, water, and air
 
@@ -988,6 +1120,8 @@ Food, water, and air
 
 ## True or False: The Moon makes its own light.
 
+---
+
 A) True
 
 B) False  
@@ -999,6 +1133,8 @@ False
 ///  
 
 ## Which of these is a type of rock?
+
+---
 
 A) Plastic
 
@@ -1016,6 +1152,8 @@ Granite
 
 ## What do you call someone who studies the stars?
 
+---
+
 A) Geologist
 
 B) Biologist
@@ -1032,6 +1170,8 @@ Astronomer
 
 ## True or False: A year has 365 days.
 
+---
+
 A) True
 
 B) False  
@@ -1043,6 +1183,8 @@ True
 ///  
 
 ## What is the theme of a story?
+
+---
 
 A) The characters
 
@@ -1060,6 +1202,8 @@ The big idea or message
 
 ## Which word is an adverb?
 
+---
+
 A) Dog
 
 B) Quickly
@@ -1076,6 +1220,8 @@ Quickly
 
 ## True or False: A sentence always needs a period at the end.
 
+---
+
 A) True
 
 B) False  
@@ -1087,6 +1233,8 @@ False
 ///  
 
 ## What does "glad" mean?
+
+---
 
 A) Sad
 
@@ -1104,6 +1252,8 @@ Happy
 
 ## Which sentence has correct grammar?
 
+---
+
 A) She run to the park.
 
 B) She runs to the park.
@@ -1119,6 +1269,8 @@ She runs to the park.
 ///  
 
 ## What makes the seasons change?
+
+---
 
 A) The Earth tilting as it goes around the Sun
 
@@ -1136,6 +1288,8 @@ The Earth tilting as it goes around the Sun
 
 ## True or False: Birds have feathers.
 
+---
+
 A) True
 
 B) False  
@@ -1147,6 +1301,8 @@ True
 ///  
 
 ## Which of these is a source of light?
+
+---
 
 A) A mirror
 
@@ -1164,6 +1320,8 @@ A lamp
 
 ## What do you call a large group of people living together?
 
+---
+
 A) A family
 
 B) A community
@@ -1180,6 +1338,8 @@ A community
 
 ## True or False: The Declaration of Independence was signed in 1776.
 
+---
+
 A) True
 
 B) False  
@@ -1191,6 +1351,8 @@ True
 ///  
 
 ## What is the plot of a story?
+
+---
 
 A) The events that happen
 
@@ -1208,6 +1370,8 @@ The events that happen
 
 ## Which word is a noun?
 
+---
+
 A) Swim
 
 B) River
@@ -1224,6 +1388,8 @@ River
 
 ## True or False: An apostrophe (') can show possession.
 
+---
+
 A) True
 
 B) False  
@@ -1235,6 +1401,8 @@ True
 ///  
 
 ## What does "rapid" mean?
+
+---
 
 A) Slow
 
@@ -1252,6 +1420,8 @@ Fast
 
 ## Which sentence uses a comma correctly?
 
+---
+
 A) I have a dog, and a cat.
 
 B) I have a dog and a cat
@@ -1267,6 +1437,8 @@ I have a dog, and a cat.
 ///  
 
 ## What is the largest planet in our solar system?
+
+---
 
 A) Earth
 
@@ -1284,6 +1456,8 @@ Jupiter
 
 ## True or False: Insects have six legs.
 
+---
+
 A) True
 
 B) False  
@@ -1295,6 +1469,8 @@ True
 ///  
 
 ## Which of these is a natural resource?
+
+---
 
 A) Plastic
 
@@ -1312,6 +1488,8 @@ Water
 
 ## What do you call the money used in a country?
 
+---
+
 A) Currency
 
 B) Trade
@@ -1328,6 +1506,8 @@ Currency
 
 ## True or False: The equator is an imaginary line around the Earth.
 
+---
+
 A) True
 
 B) False  
@@ -1339,6 +1519,8 @@ True
 ///  
 
 ## What is dialogue in a story?
+
+---
 
 A) The setting
 
@@ -1356,6 +1538,8 @@ The words characters say
 
 ## Which word is a verb?
 
+---
+
 A) Tree
 
 B) Grow
@@ -1372,6 +1556,8 @@ Grow
 
 ## True or False: A pronoun can replace a noun.
 
+---
+
 A) True
 
 B) False  
@@ -1383,6 +1569,8 @@ True
 ///  
 
 ## What does "calm" mean?
+
+---
 
 A) Loud
 
@@ -1400,6 +1588,8 @@ Peaceful
 
 ## Which sentence is complete?
 
+---
+
 A) The tall tree
 
 B) The bird flies.
@@ -1415,6 +1605,8 @@ The bird flies.
 ///  
 
 ## What do you call the path the Earth takes around the Sun?
+
+---
 
 A) Orbit
 
@@ -1432,6 +1624,8 @@ Orbit
 
 ## True or False: Rainbows are caused by sunlight and water.
 
+---
+
 A) True
 
 B) False  
@@ -1443,6 +1637,8 @@ True
 ///  
 
 ## Which of these is a reptile?
+
+---
 
 A) Frog
 
@@ -1460,6 +1656,8 @@ Snake
 
 ## What is the biggest ocean on Earth?
 
+---
+
 A) Atlantic
 
 B) Pacific
@@ -1475,6 +1673,8 @@ Pacific
 ///  
 
 ## True or False: Abraham Lincoln was a U.S. president.
+
+---
 
 A) True
 

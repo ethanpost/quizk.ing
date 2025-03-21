@@ -1,5 +1,7 @@
 ## Which literary device is used when an author gives human qualities to non-human objects?
 
+---
+
 A) Metaphor
 
 B) Simile
@@ -15,6 +17,8 @@ Personification
 ///
 
 ## What is the main function of a thesis statement in an essay?
+
+---
 
 A) To introduce the topic
 
@@ -32,6 +36,8 @@ To state the author's main argument or position
 
 ## The Scarlet Letter was written by:
 
+---
+
 A) Nathaniel Hawthorne
 
 B) Ernest Hemingway
@@ -47,6 +53,8 @@ Nathaniel Hawthorne
 ///
 
 ## Which of the following is NOT one of Shakespeare's tragedies?
+
+---
 
 A) Hamlet
 
@@ -64,6 +72,8 @@ The Tempest
 
 ## In The Great Gatsby, the green light symbolizes:
 
+---
+
 A) Money and wealth
 
 B) Jealousy
@@ -79,6 +89,8 @@ Gatsby's dreams and hopes for the future
 ///
 
 ## Which literary movement emphasized emotion, individualism, and the glory of nature?
+
+---
 
 A) Realism
 
@@ -96,6 +108,8 @@ Romanticism
 
 ## What is the purpose of the exposition in a story?
 
+---
+
 A) To introduce the characters, setting, and basic situation
 
 B) To present the main conflict
@@ -111,6 +125,8 @@ To introduce the characters, setting, and basic situation
 ///
 
 ## What technique is being used in the following sentence: "The silky, smooth, soft sand slipped through her fingers"?
+
+---
 
 A) Imagery
 
@@ -128,6 +144,8 @@ Alliteration
 
 ## Which of the following is an example of a compound-complex sentence?
 
+---
+
 A) I went to the store.
 
 B) I went to the store, and I bought milk.
@@ -143,6 +161,8 @@ I went to the store after class, but when I arrived, it was closed.
 ///
 
 ## The difference between a simile and a metaphor is:
+
+---
 
 A) Similes compare similar things; metaphors compare different things
 
@@ -160,6 +180,8 @@ Similes use "like" or "as"; metaphors make a direct comparison
 
 ## What is the term for a word that imitates the sound it represents?
 
+---
+
 A) Alliteration
 
 B) Onomatopoeia
@@ -175,6 +197,8 @@ Onomatopoeia
 ///
 
 ## What is iambic pentameter?
+
+---
 
 A) A type of poem with exactly five lines
 
@@ -192,6 +216,8 @@ A metrical pattern consisting of five iambs per line
 
 ## True or False: A protagonist is always a hero or morally good character.
 
+---
+
 A) True
 
 B) False
@@ -203,6 +229,8 @@ False
 ///
 
 ## Which of these is NOT one of the Four C's of editing?
+
+---
 
 A) Cut
 
@@ -220,6 +248,8 @@ Construct
 
 ## Which sentence demonstrates correct use of a semicolon?
 
+---
+
 A) The movie was great; I loved it.
 
 B) The movie was great, I loved it.
@@ -235,6 +265,8 @@ The movie was great; I loved it.
 ///
 
 ## Which of the following is a gerund?
+
+---
 
 A) To swim
 
@@ -252,6 +284,8 @@ Swimming
 
 ## What is the chemical symbol for gold?
 
+---
+
 A) Go
 
 B) Gl
@@ -267,6 +301,8 @@ Au
 ///
 
 ## Which planet has the Great Red Spot?
+
+---
 
 A) Mars
 
@@ -284,6 +320,8 @@ Jupiter
 
 ## What is the primary function of mitochondria in a cell?
 
+---
+
 A) Protein synthesis
 
 B) Cell division
@@ -299,6 +337,8 @@ Energy production
 ///
 
 ## Which of the following is NOT a type of RNA?
+
+---
 
 A) Messenger RNA
 
@@ -316,6 +356,8 @@ Cellular RNA
 
 ## Newton's Second Law of Motion states that:
 
+---
+
 A) An object in motion stays in motion unless acted upon by an outside force
 
 B) For every action, there is an equal and opposite reaction
@@ -331,6 +373,8 @@ Force equals mass times acceleration
 ///
 
 ## What is the difference between a compound and a mixture?
+
+---
 
 A) Compounds can be separated by physical means, mixtures cannot
 
@@ -348,6 +392,8 @@ Both B and C
 
 ## What is the pH of a neutral solution?
 
+---
+
 A) 0
 
 B) 7
@@ -363,6 +409,8 @@ D) 14
 ///
 
 ## Which of the following is an example of potential energy?
+
+---
 
 A) A ball rolling down a hill
 
@@ -380,6 +428,8 @@ A book sitting on a high shelf
 
 ## What is the process by which plants make their own food called?
 
+---
+
 A) Respiration
 
 B) Photosynthesis
@@ -395,6 +445,8 @@ Photosynthesis
 ///
 
 ## Which of the following is NOT a noble gas?
+
+---
 
 A) Helium
 
@@ -412,6 +464,8 @@ Oxygen
 
 ## What is the smallest unit of an element that still retains its properties?
 
+---
+
 A) Atom
 
 B) Proton
@@ -427,6 +481,8 @@ Atom
 ///
 
 ## Which body system is responsible for removing waste products from the blood?
+
+---
 
 A) Digestive system
 
@@ -444,6 +500,8 @@ Excretory system
 
 ## What is the study of heredity and variation in organisms called?
 
+---
+
 A) Biology
 
 B) Genetics
@@ -460,6 +518,8 @@ Genetics
 
 ## True or False: A chemical reaction that releases heat is called endothermic.
 
+---
+
 A) True
 
 B) False
@@ -471,6 +531,8 @@ False
 ///
 
 ## What is the name for a rock formed from the cooling of lava or magma?
+
+---
 
 A) Sedimentary
 
@@ -488,6 +550,8 @@ Igneous
 
 ## What law states that energy cannot be created or destroyed, only transformed?
 
+---
+
 A) Newton's First Law
 
 B) Law of Conservation of Energy
@@ -503,6 +567,8 @@ Law of Conservation of Energy
 ///
 
 ## Which of the following is NOT a fossil fuel?
+
+---
 
 A) Coal
 
@@ -520,6 +586,8 @@ Uranium
 
 ## What is the most abundant gas in Earth's atmosphere?
 
+---
+
 A) Oxygen
 
 B) Carbon dioxide
@@ -535,6 +603,8 @@ Nitrogen
 ///
 
 ## Which document begins with "We the People"?
+
+---
 
 A) Declaration of Independence
 
@@ -552,6 +622,8 @@ Constitution of the United States
 
 ## The Cold War was primarily a conflict between:
 
+---
+
 A) The United States and the Soviet Union
 
 B) The United States and China
@@ -567,6 +639,8 @@ The United States and the Soviet Union
 ///
 
 ## Which amendment to the U.S. Constitution abolished slavery?
+
+---
 
 A) 13th Amendment
 
@@ -584,6 +658,8 @@ D) 19th Amendment
 
 ## The Magna Carta limited the power of:
 
+---
+
 A) The President
 
 B) The Pope
@@ -599,6 +675,8 @@ The King
 ///
 
 ## Which of the following was NOT one of the Allied Powers during World War II?
+
+---
 
 A) United States
 
@@ -616,6 +694,8 @@ Japan
 
 ## What event directly triggered the start of World War I?
 
+---
+
 A) The sinking of the Lusitania
 
 B) The assassination of Archduke Franz Ferdinand
@@ -631,6 +711,8 @@ The assassination of Archduke Franz Ferdinand
 ///
 
 ## Which civilization built the pyramids at Giza?
+
+---
 
 A) Mesopotamians
 
@@ -648,6 +730,8 @@ Egyptians
 
 ## The Renaissance began in which country?
 
+---
+
 A) England
 
 B) France
@@ -663,6 +747,8 @@ Italy
 ///
 
 ## Which of the following was NOT a cause of the Great Depression?
+
+---
 
 A) Stock market crash of 1929
 
@@ -680,6 +766,8 @@ The New Deal policies
 
 ## The Monroe Doctrine declared that:
 
+---
+
 A) Slavery should be abolished in all U.S. territories
 
 B) The U.S. would not interfere in European affairs
@@ -695,6 +783,8 @@ European powers should not colonize or interfere with the Americas
 ///
 
 ## What was the main purpose of the Marshall Plan?
+
+---
 
 A) To rebuild Western Europe after World War II
 
@@ -712,6 +802,8 @@ To rebuild Western Europe after World War II
 
 ## The system of government in which power is divided between a central authority and constituent political units is called:
 
+---
+
 A) Autocracy
 
 B) Federalism
@@ -728,6 +820,8 @@ Federalism
 
 ## True or False: The U.S. Supreme Court case Brown v. Board of Education upheld the "separate but equal" doctrine.
 
+---
+
 A) True
 
 B) False
@@ -739,6 +833,8 @@ False
 ///
 
 ## Who was the leader of the Soviet Union during most of World War II?
+
+---
 
 A) Vladimir Lenin
 
@@ -756,6 +852,8 @@ Joseph Stalin
 
 ## What literary technique is used when the narrator has limited knowledge of events?
 
+---
+
 A) First-person narration
 
 B) Third-person limited narration
@@ -771,6 +869,8 @@ Third-person limited narration
 ///
 
 ## Which of the following would be an example of dramatic irony?
+
+---
 
 A) A character says one thing but means another
 
@@ -788,6 +888,8 @@ The audience knows something important that a character doesn't know
 
 ## Which of these is an example of a subordinating conjunction?
 
+---
+
 A) And
 
 B) But
@@ -803,6 +905,8 @@ Because
 ///
 
 ## What is the term for a verb that doesn't need a direct object to complete its meaning?
+
+---
 
 A) Linking verb
 
@@ -820,6 +924,8 @@ Intransitive verb
 
 ## In which of Shakespeare's plays does the line "To be, or not to be" appear?
 
+---
+
 A) Romeo and Juliet
 
 B) Macbeth
@@ -835,6 +941,8 @@ Hamlet
 ///
 
 ## What is the main difference between dynamic and static characters?
+
+---
 
 A) Dynamic characters speak more, static characters are quiet
 
@@ -852,6 +960,8 @@ Dynamic characters change throughout the story, static characters remain the sam
 
 ## Which of the following is an example of a primary source?
 
+---
+
 A) A textbook about World War II
 
 B) A documentary about Martin Luther King Jr.
@@ -867,6 +977,8 @@ A diary written by Anne Frank
 ///
 
 ## What is the common name for sodium chloride?
+
+---
 
 A) Baking soda
 
@@ -884,6 +996,8 @@ Table salt
 
 ## What is the process by which liquid water changes to water vapor called?
 
+---
+
 A) Condensation
 
 B) Evaporation
@@ -899,6 +1013,8 @@ Evaporation
 ///
 
 ## Which of the following is NOT a renewable resource?
+
+---
 
 A) Solar power
 
@@ -916,6 +1032,8 @@ Coal
 
 ## What is the function of white blood cells in the human body?
 
+---
+
 A) Transport oxygen
 
 B) Fight infection
@@ -931,6 +1049,8 @@ Fight infection
 ///
 
 ## Which of these animals is NOT a mammal?
+
+---
 
 A) Whale
 
@@ -948,6 +1068,8 @@ Alligator
 
 ## During which historical period did the Industrial Revolution begin?
 
+---
+
 A) Middle Ages
 
 B) Renaissance
@@ -963,6 +1085,8 @@ D) 18th century
 ///
 
 ## Which of these countries was NOT part of the original 13 American colonies?
+
+---
 
 A) Georgia
 
@@ -980,6 +1104,8 @@ Vermont
 
 ## The doctrine of "separate but equal" was established in which Supreme Court case?
 
+---
+
 A) Brown v. Board of Education
 
 B) Plessy v. Ferguson
@@ -995,6 +1121,8 @@ Plessy v. Ferguson
 ///
 
 ## Which branch of government has the power to declare war according to the U.S. Constitution?
+
+---
 
 A) Executive
 
@@ -1012,6 +1140,8 @@ Legislative
 
 ## What does a periodic table organize?
 
+---
+
 A) Chemical reactions
 
 B) Scientific theories
@@ -1027,6 +1157,8 @@ Chemical elements
 ///
 
 ## What is the study of the Earth's physical features and atmosphere called?
+
+---
 
 A) Geology
 
@@ -1044,6 +1176,8 @@ Geography
 
 ## Which civilization developed hieroglyphics as a form of writing?
 
+---
+
 A) Mesopotamian
 
 B) Greek
@@ -1059,6 +1193,8 @@ Egyptian
 ///
 
 ## What was the main goal of the Civil Rights Movement in the United States?
+
+---
 
 A) Women's suffrage
 
@@ -1076,6 +1212,8 @@ Ending racial segregation and discrimination
 
 ## What is the formula for calculating speed?
 
+---
+
 A) Speed = Distance × Time
 
 B) Speed = Distance + Time
@@ -1091,6 +1229,8 @@ Speed = Distance ÷ Time
 ///
 
 ## Which of these is a proper noun?
+
+---
 
 A) City
 
@@ -1108,6 +1248,8 @@ Paris
 
 ## What type of figurative language is being used in this phrase: "The stars danced in the sky"?
 
+---
+
 A) Hyperbole
 
 B) Metaphor
@@ -1123,6 +1265,8 @@ Personification
 ///
 
 ## In chemistry, what does the abbreviation pH stand for?
+
+---
 
 A) Potential Hydrogen
 
@@ -1140,6 +1284,8 @@ Power of Hydrogen
 
 ## What was the significance of the Missouri Compromise of 1820?
 
+---
+
 A) It admitted Missouri as a free state
 
 B) It maintained the balance between slave and free states
@@ -1156,6 +1302,8 @@ It maintained the balance between slave and free states
 
 ## True or False: Photosynthesis releases oxygen into the atmosphere.
 
+---
+
 A) True
 
 B) False
@@ -1167,6 +1315,8 @@ True
 ///
 
 ## Which of the following literary works is an example of an epic poem?
+
+---
 
 A) Romeo and Juliet
 
@@ -1184,6 +1334,8 @@ The Odyssey
 
 ## What is the function of a topic sentence in a paragraph?
 
+---
+
 A) To provide supporting details
 
 B) To state the main idea of the paragraph
@@ -1199,6 +1351,8 @@ To state the main idea of the paragraph
 ///
 
 ## Which of these is an example of active voice?
+
+---
 
 A) The ball was thrown by John.
 
@@ -1216,6 +1370,8 @@ John threw the ball.
 
 ## What is a common characteristic of Gothic literature?
 
+---
+
 A) Simplistic language and straightforward plots
 
 B) Contemporary urban settings
@@ -1231,6 +1387,8 @@ Supernatural elements and atmospheric settings
 ///
 
 ## Which literary work is considered the first modern novel in English?
+
+---
 
 A) Robinson Crusoe by Daniel Defoe
 
@@ -1248,6 +1406,8 @@ Robinson Crusoe by Daniel Defoe
 
 ## What is the Geneva Convention?
 
+---
+
 A) A trade agreement between European nations
 
 B) A set of international treaties concerning the treatment of prisoners of war
@@ -1263,6 +1423,8 @@ A set of international treaties concerning the treatment of prisoners of war
 ///
 
 ## Which of the following is a characteristic of the Enlightenment period?
+
+---
 
 A) Emphasis on religious authority
 
@@ -1280,6 +1442,8 @@ Belief in the power of human reason
 
 ## What is the correct order of the scientific method?
 
+---
+
 A) Hypothesis, question, experiment, analysis, conclusion
 
 B) Question, hypothesis, experiment, analysis, conclusion
@@ -1295,6 +1459,8 @@ Question, hypothesis, experiment, analysis, conclusion
 ///
 
 ## Which of the following is an example of Newton's Third Law of Motion?
+
+---
 
 A) A book resting on a table
 
@@ -1312,6 +1478,8 @@ A rocket propelling forward as gases are expelled backward
 
 ## The policy of extending a country's power and influence through diplomacy or military force is called:
 
+---
+
 A) Nationalism
 
 B) Imperialism
@@ -1327,6 +1495,8 @@ Imperialism
 ///
 
 ## What is a theme in literature?
+
+---
 
 A) The main character of a story
 
@@ -1344,6 +1514,8 @@ The central message or idea explored in a work
 
 ## Which of these is NOT a component of an ecosystem?
 
+---
+
 A) Producers
 
 B) Consumers
@@ -1359,6 +1531,8 @@ Inventors
 ///
 
 ## The system of checks and balances in the U.S. government is designed to:
+
+---
 
 A) Ensure one branch has ultimate authority
 
@@ -1376,6 +1550,8 @@ Prevent any branch from becoming too powerful
 
 ## What does DNA stand for?
 
+---
+
 A) Deoxyribonucleic Acid
 
 B) Diatomic Nuclear Arrangement
@@ -1391,6 +1567,8 @@ Deoxyribonucleic Acid
 ///
 
 ## Which of the following is a correct use of a comma?
+
+---
 
 A) Mary walked to the store, and bought milk.
 
@@ -1408,6 +1586,8 @@ Mary walked to the store, and bought milk.
 
 ## Who is known as the "Father of Modern Physics"?
 
+---
+
 A) Isaac Newton
 
 B) Albert Einstein
@@ -1423,6 +1603,8 @@ Albert Einstein
 ///
 
 ## What was the main purpose of the Articles of Confederation?
+
+---
 
 A) To establish the first U.S. Constitution
 
@@ -1440,6 +1622,8 @@ To form a loose alliance among the states
 
 ## True or False: Ionic compounds typically have high melting points.
 
+---
+
 A) True
 
 B) False
@@ -1451,6 +1635,8 @@ True
 ///
 
 ## Which amendment protects against "unreasonable searches and seizures"?
+
+---
 
 A) First Amendment
 
@@ -1468,6 +1654,8 @@ Fourth Amendment
 
 ## What economic system is characterized by private ownership of the means of production?
 
+---
+
 A) Communism
 
 B) Socialism
@@ -1483,6 +1671,8 @@ Capitalism
 ///
 
 ## Which of the following is a characteristic of mammals?
+
+---
 
 A) Cold-blooded
 
@@ -1500,6 +1690,8 @@ Produce milk for their young
 
 ## What does it mean when a character is described as "dynamic"?
 
+---
+
 A) They are energetic and active
 
 B) They are the main character
@@ -1516,6 +1708,8 @@ They change or develop throughout the story
 
 ## What is the primary function of the judicial branch of the U.S. government?
 
+---
+
 A) Making laws
 
 B) Enforcing laws
@@ -1531,6 +1725,8 @@ Interpreting laws
 ///
 
 ## Which of these would be considered a fossil fuel?
+
+---
 
 A) Solar energy
 

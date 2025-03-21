@@ -82,6 +82,8 @@
 
 ## Which of the following financial statements provides a snapshot of a company's assets, liabilities, and equity at a specific point in time?
 
+---
+
 A) Income Statement
 
 B) Cash Flow Statement
@@ -97,6 +99,8 @@ Balance Sheet
 ///
 
 ## According to the transcript, profit is recognized when:
+
+---
 
 A) Cash is received from customers
 
@@ -114,6 +118,8 @@ Goods are delivered to customers
 
 ## In the inventor example, what was the cash flow generated?
 
+---
+
 A) $1000
 
 B) $5000
@@ -130,6 +136,8 @@ D) -$8000
 
 ## True or False: A business can be profitable yet go bankrupt.
 
+---
+
 A) True
 
 B) False
@@ -141,6 +149,8 @@ True
 ///
 
 ## Which financial statement is described as a "movie of profitability"?
+
+---
 
 A) Balance Sheet
 
@@ -158,6 +168,8 @@ Income Statement
 
 ## What was Apple's approximate book value per share in 2019 according to the transcript?
 
+---
+
 A) $106
 
 B) $22.55
@@ -173,6 +185,8 @@ $22.55
 ///
 
 ## What was Apple's approximate market value per share in early May 2019?
+
+---
 
 A) $106
 
@@ -190,6 +204,8 @@ $200
 
 ## The difference between book value and market value is that book value looks:
 
+---
+
 A) Forward, while market value looks backward
 
 B) Backward, while market value looks forward
@@ -205,6 +221,8 @@ Backward, while market value looks forward
 ///
 
 ## Which of these is NOT mentioned as a way to drive operating income?
+
+---
 
 A) Price optimization
 
@@ -222,6 +240,8 @@ Dividend payments
 
 ## What is described as a way to increase operating income by "selling the higher margin products and services in your portfolio"?
 
+---
+
 A) Price
 
 B) Volume
@@ -237,6 +257,8 @@ Mix
 ///
 
 ## The concept that $100 today is worth more than $100 one year from now is called:
+
+---
 
 A) Inflation
 
@@ -254,6 +276,8 @@ Time value of money
 
 ## True or False: According to the transcript, the only way to drive operating income is through cost-cutting.
 
+---
+
 A) True
 
 B) False
@@ -265,6 +289,8 @@ False
 ///
 
 ## If you have negative cash flow but positive profit, it means:
+
+---
 
 A) You have more liabilities than assets
 
@@ -282,6 +308,8 @@ Cash outflows exceed cash inflows despite profitable operations
 
 ## In the inventor example, what was the profit margin per unit?
 
+---
+
 A) $80
 
 B) $100
@@ -297,6 +325,8 @@ $20
 ///
 
 ## Which of these is mentioned as a reason why money today is worth more than money in the future?
+
+---
 
 A) Tax advantages
 
@@ -314,6 +344,8 @@ Possibility of bankruptcy
 
 ## What does the cash flow statement track?
 
+---
+
 A) Total sales during a period
 
 B) Assets and liabilities at a point in time
@@ -330,6 +362,8 @@ Movement from initial cash balance through inflows/outflows to ending balance
 
 ## True or False: Net Present Value (NPV) and Internal Rate of Return (IRR) are concepts related to the time value of money.
 
+---
+
 A) True
 
 B) False
@@ -341,6 +375,8 @@ True
 ///
 
 ## Which of the following is calculated by subtracting Cost of Goods Sold from Revenue?
+
+---
 
 A) Cash flow
 
@@ -358,6 +394,8 @@ Profit
 
 ## What does COGS stand for?
 
+---
+
 A) Company Originated Gross Sales
 
 B) Cost of Goods Sold
@@ -374,6 +412,8 @@ Cost of Goods Sold
 
 ## According to the transcript, what are the components shown on a balance sheet?
 
+---
+
 A) Revenue and expenses
 
 B) Assets, liabilities, and equity
@@ -385,4 +425,3 @@ D) Profit and loss
 ---
 
 Assets, liabilities, and equity
-

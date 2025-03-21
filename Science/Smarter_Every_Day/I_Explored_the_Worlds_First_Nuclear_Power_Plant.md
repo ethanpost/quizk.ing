@@ -64,6 +64,8 @@
 
 ### What is the primary fuel used in EBR-1?
 
+---
+
 A) Uranium-238  
 
 B) Uranium-235  
@@ -79,6 +81,8 @@ Uranium-235
 ///
 
 ### What is the purpose of a breeder reactor?  
+
+---
 
 A) To produce electricity only  
 
@@ -96,6 +100,8 @@ To convert non-fissile isotopes into fissile isotopes
 
 ### What is the role of fast neutrons in EBR-1?  
 
+---
+
 A) To cool the reactor  
 
 B) To initiate fission in U-235  
@@ -111,6 +117,8 @@ To initiate fission in U-235
 ///
 
 ### What does NAK stand for?  
+
+---
 
 A) Nitrogen-Argon-Krypton  
 
@@ -128,6 +136,8 @@ Sodium-Potassium Alloy
 
 ### What is the function of the breeding blanket in EBR-1?  
 
+---
+
 A) To cool the reactor  
 
 B) To reflect neutrons back into the core  
@@ -144,6 +154,8 @@ To reflect neutrons back into the core
 
 ### True or False: EBR-1 was the first nuclear reactor to generate electricity.  
 
+---
+
 A) True  
 
 B) False  
@@ -155,6 +167,8 @@ True
 ///
 
 ### What is the purpose of the scram system in EBR-1?  
+
+---
 
 A) To increase the reactor's power output  
 

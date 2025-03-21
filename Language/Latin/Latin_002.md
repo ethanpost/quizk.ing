@@ -51,6 +51,8 @@
 
 What is the verb compared to in the car analogy?
 
+---
+
 A) The wheels
 
 B) The engine/motor
@@ -66,6 +68,8 @@ The engine/motor
 ///
 
 Which type of verb carries action across to another noun?
+
+---
 
 A) Linking verb
 
@@ -83,6 +87,8 @@ Transitive verb
 
 In the sentence "The phone rings," what type of verb is "rings"?
 
+---
+
 A) Transitive
 
 B) Linking
@@ -98,6 +104,8 @@ Intransitive
 ///
 
 What is the function of a linking verb?
+
+---
 
 A) To show action
 
@@ -115,6 +123,8 @@ To connect equivalent parts like an equals sign
 
 True or False: Adding prepositional phrases to a sentence can change an intransitive verb into a transitive verb.
 
+---
+
 A) True
 
 B) False
@@ -126,6 +136,8 @@ False
 ///
 
 How can you identify the subject in a sentence?
+
+---
 
 A) Ask "whom or what" after the verb
 
@@ -143,6 +155,8 @@ Ask "who or what" plus the verb
 
 In the sentence "The wonderful Latin student answers the phone," what is the direct object?
 
+---
+
 A) The wonderful Latin student
 
 B) Answers
@@ -158,6 +172,8 @@ The phone
 ///
 
 What makes a verb transitive?
+
+---
 
 A) It has a subject
 
@@ -175,6 +191,8 @@ It has a direct object
 
 True or False: A sentence can function properly without a verb.
 
+---
+
 A) True
 
 B) False
@@ -186,6 +204,8 @@ False
 ///
 
 In "Julia Caesar is her friend," what type of verb is "is"?
+
+---
 
 A) Transitive
 

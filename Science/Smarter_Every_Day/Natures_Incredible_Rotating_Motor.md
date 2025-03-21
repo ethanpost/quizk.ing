@@ -75,6 +75,8 @@
 
 ## According to the video, what is the flagellar motor?
 
+---
+
 A) A motor found in human cells
 
 B) A molecular machine made of proteins that rotates the flagellum of bacteria
@@ -90,6 +92,8 @@ A molecular machine made of proteins that rotates the flagellum of bacteria
 ///
 
 ## What provides the energy for the flagellar motor?
+
+---
 
 A) ATP molecules
 
@@ -107,6 +111,8 @@ Proton gradient (hydrogen ions)
 
 ## How does the flagellar motor change directions?
 
+---
+
 A) By completely disassembling and reassembling in reverse
 
 B) By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it
@@ -122,6 +128,8 @@ By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it
 ///
 
 ## What is the term for bacterial movement toward food sources or away from threats?
+
+---
 
 A) Locomotaxis
 
@@ -139,6 +147,8 @@ Chemotaxis
 
 ## What is Mot-AB in the flagellar motor?
 
+---
+
 A) The main shaft
 
 B) The small gear that harnesses proton energy
@@ -154,6 +164,8 @@ The small gear that harnesses proton energy
 ///
 
 ## When the flagellar motor rotates counterclockwise (viewed from outside), what happens to the bacteria?
+
+---
 
 A) It tumbles randomly
 
@@ -171,6 +183,8 @@ It swims straight forward
 
 ## When the flagellar motor rotates clockwise, what happens to the flagella bundle?
 
+---
+
 A) It opens up, causing the bacteria to tumble
 
 B) It tightens, causing faster forward movement
@@ -186,6 +200,8 @@ It opens up, causing the bacteria to tumble
 ///
 
 ## What is CHeY?
+
+---
 
 A) A proton pump in the bacterial membrane
 
@@ -203,6 +219,8 @@ A protein that binds to the motor and triggers clockwise rotation
 
 ## What are the three main steps used by researchers to study the flagellar motor?
 
+---
+
 A) Extraction, Purification, Analysis
 
 B) Transformation, Expression, Purification
@@ -218,6 +236,8 @@ Transformation, Expression, Purification
 ///
 
 ## What type of microscopy was used to image the flagellar motor?
+
+---
 
 A) Light microscopy
 
@@ -235,6 +255,8 @@ Cryo-electron microscopy
 
 ## How many small gears (Mot-AB) can the flagellar motor employ?
 
+---
+
 A) Only 1
 
 B) Up to 5
@@ -250,6 +272,8 @@ Up to 11-13
 ///
 
 ## How is the movement pattern of bacteria described in the video?
+
+---
 
 A) Straight-line movement
 
@@ -267,6 +291,8 @@ Biased random walk
 
 ## What structure are scientists studying as a possible evolutionary precursor to the flagellar motor?
 
+---
+
 A) Mitochondria
 
 B) Type 3 secretion system
@@ -283,6 +309,8 @@ Type 3 secretion system
 
 ## True or False: The flagellar motor can only rotate in one direction.
 
+---
+
 A) True
 
 B) False
@@ -294,6 +322,8 @@ False
 ///
 
 ## What happens when multiple flagella on a bacteria are rotating counterclockwise?
+
+---
 
 A) They cancel each other out, stopping movement
 

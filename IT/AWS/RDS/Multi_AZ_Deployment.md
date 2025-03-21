@@ -86,6 +86,8 @@
 
 ## Which of the following describes a Multi-AZ DB instance deployment?
 
+---
+
 A) It has two standby DB instances that provide failover support and can serve read traffic
 
 B) It has one standby DB instance that provides failover support, but doesn't serve read traffic
@@ -101,6 +103,8 @@ It has one standby DB instance that provides failover support, but doesn't serve
 ///
 
 ## What technology does Amazon RDS use for Multi-AZ deployments with MariaDB, MySQL, Oracle, PostgreSQL, and RDS Custom for SQL Server?
+
+---
 
 A) SQL Server Database Mirroring
 
@@ -118,6 +122,8 @@ Amazon failover technology
 
 ## In the RDS console, how can you identify a Multi-AZ DB instance deployment?
 
+---
+
 A) The value of Role is "Multi-AZ DB cluster"
 
 B) The value of Multi-AZ is "3 Zones"
@@ -133,6 +139,8 @@ There is only one row for the DB instance and the value of Multi-AZ is "Yes"
 ///
 
 ## What is the typical failover time for a Multi-AZ DB instance?
+
+---
 
 A) 15-30 seconds
 
@@ -150,6 +158,8 @@ D) 30-60 minutes
 
 ## What is the first step Amazon RDS performs when converting a Single-AZ deployment to a Multi-AZ DB instance deployment?
 
+---
+
 A) Initializes synchronous block-level replication
 
 B) Takes a snapshot of the primary DB instance's EBS volumes
@@ -165,6 +175,8 @@ Takes a snapshot of the primary DB instance's EBS volumes
 ///
 
 ## What is a potential impact of converting a production DB instance directly to Multi-AZ?
+
+---
 
 A) No performance impact as the process is done during maintenance windows
 
@@ -182,6 +194,8 @@ Increased I/O latency due to synchronous replication
 
 ## What does the failover mechanism automatically change during a failover event?
 
+---
+
 A) The IP address of the standby database
 
 B) The DNS record of the DB instance
@@ -197,6 +211,8 @@ The DNS record of the DB instance
 ///
 
 ## What is the recommended TTL value for JVM environments working with AWS resources?
+
+---
 
 A) No more than 60 seconds
 
@@ -214,6 +230,8 @@ No more than 60 seconds
 
 ## Which of the following is NOT a trigger for an automatic failover in a Multi-AZ DB instance?
 
+---
+
 A) The primary host is unhealthy
 
 B) Network connectivity loss to the primary
@@ -229,6 +247,8 @@ Read traffic exceeds database capacity
 ///
 
 ## What is synchronous replication in the context of Multi-AZ deployments?
+
+---
 
 A) A process where backups are created at regular intervals
 
@@ -246,6 +266,8 @@ A process where data is simultaneously written to both primary and standby insta
 
 ## Which of the following is TRUE about standby replicas in a Multi-AZ DB instance deployment?
 
+---
+
 A) They can be used for read scaling to offload queries from the primary
 
 B) They are located in a different AWS Region from the primary
@@ -261,6 +283,8 @@ They cannot be accessed directly by applications
 ///
 
 ## What is the best practice recommended instead of directly converting a production DB instance to Multi-AZ?
+
+---
 
 A) Take the production database offline during non-business hours for conversion
 
@@ -278,6 +302,8 @@ Create a read replica, enable backups on it, convert it to Multi-AZ, and promote
 
 ## What happens to existing database connections during a Multi-AZ failover?
 
+---
+
 A) They continue to function without interruption
 
 B) They are terminated and need to be re-established
@@ -294,6 +320,8 @@ They are terminated and need to be re-established
 
 ## Which command is used to convert a DB instance to Multi-AZ using the AWS CLI?
 
+---
+
 A) create-multi-az-instance
 
 B) convert-to-multi-az
@@ -309,6 +337,8 @@ modify-db-instance (with --multi-az option)
 ///
 
 ## What is the purpose of Multi-AZ DB cluster deployments?
+
+---
 
 A) To span database instances across multiple AWS Regions
 

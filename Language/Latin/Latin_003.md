@@ -51,6 +51,8 @@
 
 What is the correct pronunciation of the Latin letter 'C'?
 
+---
+
 A) Like 's' in "cinch"
 
 B) Like 'ch' in "church"
@@ -66,6 +68,8 @@ Like 'k' in "cat"
 ///
 
 How is the Latin name "Caesar" correctly pronounced in Classical Latin?
+
+---
 
 A) See-zer
 
@@ -83,6 +87,8 @@ Kai-sar
 
 When does the letter 'I' function as a consonant in Latin?
 
+---
+
 A) When it appears at the end of a word
 
 B) When it appears between two consonants
@@ -98,6 +104,8 @@ When it begins a word and is followed by a vowel
 ///
 
 The Latin letter 'V' is pronounced like which English sound?
+
+---
 
 A) 'v' as in "very"
 
@@ -115,6 +123,8 @@ D) 'f' as in "father"
 
 What is the correct pronunciation of 'PH' in Classical Latin?
 
+---
+
 A) Like 'f' as in "phone"
 
 B) Like 'p' with an extra breath
@@ -131,6 +141,8 @@ Like 'p' with an extra breath
 
 True or False: The Latin letter 'S' can sometimes be pronounced like a 'z' sound.
 
+---
+
 A) True
 
 B) False
@@ -142,6 +154,8 @@ False
 ///
 
 What happens to the 'u' that follows the letter 'Q' in Latin?
+
+---
 
 A) It becomes a long vowel
 
@@ -158,6 +172,8 @@ It doesn't count as a vowel
 ///
 
 The Latin letter 'R' was nicknamed what by the Romans?
+
+---
 
 A) The cat letter
 

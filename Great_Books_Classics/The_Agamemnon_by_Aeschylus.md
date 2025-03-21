@@ -89,6 +89,8 @@ The play runs about 1,673 lines in the original Greek, typically lasting 90 minu
 
 ## Who murders Agamemnon upon his return from Troy?
 
+---
+
 A) Orestes
 
 B) Aegisthus
@@ -104,6 +106,8 @@ Clytemnestra
 ///
 
 ## What was Agamemnon's role in the Trojan War?
+
+---
 
 A) Paris's advisor
 
@@ -121,6 +125,8 @@ Commander-in-chief of the Greek forces
 
 ## Why did Clytemnestra want revenge against Agamemnon?
 
+---
+
 A) He imprisoned her during the war
 
 B) He stole her wealth
@@ -136,6 +142,8 @@ He sacrificed their daughter Iphigenia
 ///
 
 ## Who is Cassandra?
+
+---
 
 A) Aegisthus's wife
 
@@ -153,6 +161,8 @@ A Trojan princess and prophetess
 
 ## What happens to Cassandra in the play?
 
+---
+
 A) She escapes to Greece
 
 B) She marries Aegisthus
@@ -168,6 +178,8 @@ She is murdered along with Agamemnon
 ///
 
 ## What role does the Chorus play in the tragedy?
+
+---
 
 A) They are the main antagonists
 
@@ -185,6 +197,8 @@ They provide commentary and context
 
 ## What ominous sign appears at the beginning of the play?
 
+---
+
 A) A solar eclipse
 
 B) A burning city
@@ -200,6 +214,8 @@ A signal fire announcing Troy's fall
 ///
 
 ## Who is Aegisthus?
+
+---
 
 A) Clytemnestra's lover and co-conspirator
 
@@ -217,6 +233,8 @@ Clytemnestra's lover and co-conspirator
 
 ## What is the significance of the purple tapestries?
 
+---
+
 A) They represent hubris and pride
 
 B) They are burial shrouds
@@ -232,6 +250,8 @@ They represent hubris and pride
 ///
 
 ## The House of Atreus is cursed because:
+
+---
 
 A) Clytemnestra betrayed her husband
 
@@ -249,6 +269,8 @@ Thyestes ate his own children
 
 ## True or False: Agamemnon expresses remorse for sacrificing Iphigenia.
 
+---
+
 A) True
 
 B) False
@@ -260,6 +282,8 @@ False
 ///
 
 ## What warning does Cassandra give that goes unheeded?
+
+---
 
 A) The danger of sea travel
 
@@ -277,6 +301,8 @@ Her own and Agamemnon's murder
 
 ## How does Clytemnestra kill Agamemnon?
 
+---
+
 A) With a sword in battle
 
 B) In his bath with a net and sword
@@ -292,6 +318,8 @@ In his bath with a net and sword
 ///
 
 ## What is the main theme of the play?
+
+---
 
 A) Family loyalty
 
@@ -309,6 +337,8 @@ Justice and revenge
 
 ## Who does the Watchman serve at the beginning of the play?
 
+---
+
 A) Aegisthus
 
 B) Cassandra
@@ -324,6 +354,8 @@ Clytemnestra
 ///
 
 ## What sacrifice did Agamemnon make to allow his fleet to sail to Troy?
+
+---
 
 A) His crown
 
@@ -341,6 +373,8 @@ His daughter Iphigenia
 
 ## True or False: The Chorus supports Clytemnestra's actions.
 
+---
+
 A) True
 
 B) False
@@ -352,6 +386,8 @@ False
 ///
 
 ## What role does fate play in the tragedy?
+
+---
 
 A) It is irrelevant to the story
 
@@ -369,6 +405,8 @@ It determines all actions
 
 ## What does Clytemnestra compare herself to after the murder?
 
+---
+
 A) An eagle
 
 B) A snake
@@ -384,6 +422,8 @@ A lioness
 ///
 
 ## What is the significance of Cassandra's prophetic abilities?
+
+---
 
 A) They save her life
 

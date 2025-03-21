@@ -82,6 +82,8 @@
 
 ## According to the video, what is the primary purpose of the shoulder roll?
 
+---
+
 A) To attack opponents from the ground
 
 B) A basic movement for ground fighting with various applications
@@ -97,6 +99,8 @@ A basic movement for ground fighting with various applications
 ///
 
 ## What is the first step in learning the shoulder roll?
+
+---
 
 A) Rocking from side to side
 
@@ -114,6 +118,8 @@ Being able to hold the final position upside down on shoulders
 
 ## When in the inverted shoulder position, where should your toes be?
 
+---
+
 A) In the air
 
 B) On your shoulders
@@ -129,6 +135,8 @@ In contact with the mat
 ///
 
 ## What should you do to assist yourself when first learning to get your toes to the mat?
+
+---
 
 A) Have a partner help you
 
@@ -146,6 +154,8 @@ Push with your elbows or grab your ankles
 
 ## What breathing technique is recommended during the shoulder roll?
 
+---
+
 A) Hold your breath throughout the roll
 
 B) Breathe in during the middle section
@@ -161,6 +171,8 @@ Breathe out during the middle section
 ///
 
 ## Where should most of your weight be distributed during the shoulder roll?
+
+---
 
 A) On your neck
 
@@ -178,6 +190,8 @@ On your shoulders
 
 ## What is the second step in learning the shoulder roll after holding the final position?
 
+---
+
 A) Transitioning to a sitting position
 
 B) Rocking from side to side on shoulders
@@ -193,6 +207,8 @@ Rocking from side to side on shoulders
 ///
 
 ## When doing the wall-assisted shoulder roll, how close should your hips be to the wall?
+
+---
 
 A) 1-2 feet away
 
@@ -210,6 +226,8 @@ Touching the wall
 
 ## What does Patrick recommend regarding the speed of practicing the shoulder roll?
 
+---
+
 A) Always do it quickly
 
 B) Always do it slowly
@@ -225,6 +243,8 @@ Start slowly and progressively increase speed
 ///
 
 ## When transitioning from the shoulder roll position to sitting, where do you bring your hips?
+
+---
 
 A) Straight down
 
@@ -242,6 +262,8 @@ Down to one side
 
 ## What is a "guard" in the context of the video?
 
+---
+
 A) A protective piece of equipment
 
 B) A defensive position that needs to be maintained against passing attempts
@@ -257,6 +279,8 @@ A defensive position that needs to be maintained against passing attempts
 ///
 
 ## What should you do with your head during the shoulder roll?
+
+---
 
 A) Keep it straight
 
@@ -274,6 +298,8 @@ Tuck it between your knees
 
 ## What part of the body should you use to elevate your hips during the roll?
 
+---
+
 A) Arms
 
 B) Shoulders
@@ -289,6 +315,8 @@ Toes
 ///
 
 ## True or False: The shoulder roll should only be practiced on one side of the body.
+
+---
 
 A) True
 

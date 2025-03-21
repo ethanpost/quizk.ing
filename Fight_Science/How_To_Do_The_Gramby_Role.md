@@ -31,6 +31,8 @@
 
 ## According to the transcript, what is the Granby Roll?
 
+---
+
 A) A standing striking technique
 
 B) A movement that gets you used to inverting
@@ -46,6 +48,8 @@ A movement that gets you used to inverting
 ///
 
 ## When performing the Granby Roll, where should your arms be positioned?
+
+---
 
 A) Crossed in front of your chest
 
@@ -63,6 +67,8 @@ On the outside of your body
 
 ## What direction do your palms face during the Granby Roll?
 
+---
+
 A) Down
 
 B) Forward
@@ -78,6 +84,8 @@ Up
 ///
 
 ## What position do you roll into at the beginning of the Granby Roll?
+
+---
 
 A) Child's pose
 
@@ -95,6 +103,8 @@ Plow position
 
 ## After rolling into the plow position, which direction do you roll?
 
+---
+
 A) Forward away from your palms
 
 B) Sideways
@@ -110,6 +120,8 @@ Back toward your open palm
 ///
 
 ## How is the Granby Roll described in terms of shoulder rolls?
+
+---
 
 A) A full shoulder roll forward
 
@@ -127,6 +139,8 @@ Half a shoulder roll forward with your arm on the outside and half a shoulder ro
 
 ## What common mistake do people make when first trying the Granby Roll?
 
+---
+
 A) Rolling too quickly
 
 B) Keeping their arms inside
@@ -142,6 +156,8 @@ Letting their butt fall down to the floor
 ///
 
 ## What should you do after completing the roll portion of the Granby Roll?
+
+---
 
 A) Stand up immediately
 
@@ -159,6 +175,8 @@ Come back up to the knees
 
 ## What is a plow position?
 
+---
+
 A) A standing position with arms extended
 
 B) A yoga position where you lie on your back and lift your legs over your head
@@ -175,6 +193,8 @@ A yoga position where you lie on your back and lift your legs over your head
 
 ## What is one of the main benefits of practicing the Granby Roll?
 
+---
+
 A) Increasing striking power
 
 B) Improving flexibility
@@ -190,6 +210,8 @@ Getting used to being upside down
 ///
 
 ## True or False: When performing the Granby Roll, you should keep your back on the floor.
+
+---
 
 A) True
 
