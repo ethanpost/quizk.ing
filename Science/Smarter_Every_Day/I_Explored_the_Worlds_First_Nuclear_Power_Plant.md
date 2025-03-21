@@ -1,0 +1,169 @@
+## [I Explored the World's First Nuclear Power Plant](https://www.youtube.com/watch?v=JVROsxtjoCw)
+
+### Introduction to Nuclear Power
+- Nuclear power as a source of electricity
+- EBR-1: The world's first nuclear power plant
+- Purpose of the Smarter Every Day Deep Dive series into nuclear power
+
+### EBR-1: Experimental Breeder Reactor 1
+- Location: Idaho National Laboratory
+- Built in the 1950s
+- Key features:
+  - First breeder reactor
+  - Produced both heat and plutonium
+
+### How EBR-1 Works
+#### Nuclear Fission
+- Uranium-235 (U-235) as the primary fuel
+- Fast neutrons initiate fission
+- Process:
+  - Fast neutron hits U-235, creating U-236
+  - U-236 splits into two new atoms (e.g., krypton and barium)
+  - Releases heat and additional fast neutrons
+- Chain reaction sustains the process
+
+#### Breeder Reactor Concept
+- Uranium-238 (U-238) as the breeding material
+- Fast neutrons convert U-238 into plutonium-239 (Pu-239)
+- Breeding process:
+  - Fast neutron hits U-238, creating U-239
+  - Beta decay converts U-239 into neptunium-239
+  - Second beta decay converts neptunium-239 into Pu-239
+
+#### Heat Exchange and Electricity Generation
+- Liquid metal coolant (NAK: sodium and potassium) transfers heat from the reactor
+- Three-loop system:
+  - Primary loop: NAK coolant
+  - Secondary loop: NAK coolant
+  - Tertiary loop: Water heated to produce steam
+- Steam drives a turbine connected to a generator, producing electricity
+
+### Safety Features of EBR-1
+- Isolation of radioactive materials in the primary loop
+- Use of argon gas to prevent coolant explosions
+- Scram systems:
+  - Control rods to slow the reaction
+  - Emergency shutdown by dropping the breeding blanket
+
+### Historical Significance
+- First electricity generated from nuclear power on December 20, 1951
+- Symbolism of nuclear power as a peaceful energy source
+- Legacy of the Manhattan Project and the transition to civilian applications
+
+### Terms
+- **Nuclear Fission**: The process of splitting an atomic nucleus into smaller nuclei, releasing energy.
+- **Breeder Reactor**: A nuclear reactor that produces more fissile material than it consumes by converting non-fissile isotopes (e.g., U-238) into fissile isotopes (e.g., Pu-239).
+- **Fast Neutron**: A high-energy neutron that initiates fission in reactors like EBR-1.
+- **NAK (Sodium-Potassium Alloy)**: A liquid metal coolant used in EBR-1 to transfer heat and maintain fast neutron speeds.
+- **Scram**: An emergency shutdown of a nuclear reactor, typically by inserting control rods or dropping the breeding blanket.
+- **Heat Exchanger**: A device that transfers heat from one fluid to another without mixing them.
+- **Beta Decay**: A radioactive decay process where a neutron transforms into a proton, emitting an electron (beta particle).
+- **Plutonium-239 (Pu-239)**: A fissile isotope produced in breeder reactors, used as nuclear fuel.
+
+///
+
+### What is the primary fuel used in EBR-1?
+
+A) Uranium-238  
+
+B) Uranium-235  
+
+C) Plutonium-239  
+
+D) Neptunium-239  
+
+---
+
+B  
+
+///
+
+### What is the purpose of a breeder reactor?  
+
+A) To produce electricity only  
+
+B) To convert non-fissile isotopes into fissile isotopes  
+
+C) To slow down neutrons  
+
+D) To generate steam  
+
+---
+
+B  
+
+///
+
+### What is the role of fast neutrons in EBR-1?  
+
+A) To cool the reactor  
+
+B) To initiate fission in U-235  
+
+C) To slow down the reaction  
+
+D) To produce argon gas  
+
+---
+
+B  
+
+///
+
+### What does NAK stand for?  
+
+A) Nitrogen-Argon-Krypton  
+
+B) Sodium-Potassium Alloy  
+
+C) Neutron-Activated Kinetics  
+
+D) Nuclear Alkaline Coolant  
+
+---
+
+B  
+
+///
+
+### What is the function of the breeding blanket in EBR-1?  
+
+A) To cool the reactor  
+
+B) To reflect neutrons back into the core  
+
+C) To produce steam  
+
+D) To store nuclear waste  
+
+---
+
+B  
+
+///
+
+### True or False: EBR-1 was the first nuclear reactor to generate electricity.  
+
+A) True  
+
+B) False  
+
+---
+
+True  
+
+///
+
+### What is the purpose of the scram system in EBR-1?  
+
+A) To increase the reactor's power output  
+
+B) To initiate the breeding process  
+
+C) To shut down the reactor in an emergency  
+
+D) To cool the liquid metal coolant  
+
+---
+
+C  

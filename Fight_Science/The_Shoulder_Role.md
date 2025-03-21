@@ -1,4 +1,4 @@
-# The Shoulder Roll in Martial Arts
+# [The Shoulder Roll (aka Granby Roll) Tutorial](https://www.youtube.com/watch?v=exkwjkM0P7U)
 
 ## Introduction
 - Presented by Patrick Fulop of Effective Martial Arts
@@ -272,38 +272,6 @@ B
 
 ///
 
-## From the kneeling shoulder roll, approximately how many degrees do you rotate?
-
-A) 45 degrees
-
-B) 90 degrees
-
-C) 180 degrees
-
-D) Between 90-180 degrees
-
----
-
-D
-
-///
-
-## What is weight distribution in the context of the shoulder roll?
-
-A) How heavy you are
-
-B) How body weight is balanced during movements to maintain control
-
-C) The amount of weight you can lift
-
-D) The pressure applied to an opponent
-
----
-
-B
-
-///
-
 ## What part of the body should you use to elevate your hips during the roll?
 
 A) Arms
@@ -320,43 +288,11 @@ C
 
 ///
 
-## What is an inversion in the context of the shoulder roll?
-
-A) Doing the roll backward
-
-B) Position where hips are elevated above the head
-
-C) A mistake in technique
-
-D) Rotating from left to right
-
----
-
-B
-
-///
-
 ## True or False: The shoulder roll should only be practiced on one side of the body.
 
 A) True
 
 B) False
-
----
-
-B
-
-///
-
-## What is the final instruction given by Patrick regarding the use of these techniques?
-
-A) Use them competitively
-
-B) Use them only for self-defense
-
-C) Use them only with a partner
-
-D) Use them in tournaments
 
 ---
 

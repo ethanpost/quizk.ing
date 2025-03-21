@@ -157,22 +157,6 @@ C
 
 ///
 
-## What is "inverting" in the context of this technique?
-
-A) Turning your head to the side
-
-B) Positioning your body upside down
-
-C) Rotating your shoulders
-
-D) Twisting at the waist
-
----
-
-B
-
-///
-
 ## What is a plow position?
 
 A) A standing position with arms extended
