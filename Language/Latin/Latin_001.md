@@ -1,5 +1,7 @@
 ## Latin 001 - [Basic English Grammar For Learning Latin Part I](https://www.youtube.com/watch?v=dKG68y2VC0Y)
-  
+
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ### Introduction to Language Learning
   - Learning a new language helps understand your native language better
   - Understanding English grammar is essential before learning Latin

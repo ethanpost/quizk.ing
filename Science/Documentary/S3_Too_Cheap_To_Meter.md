@@ -1,6 +1,7 @@
 ## [The Dawn of Energy Abundance | Too Cheap to Meter](https://www.youtube.com/watch?v=YfApATdLnoI)
 
 > Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and "///" as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ### Energy Fundamentals
 - Energy is not matter (E=mc²)
 - Fundamental cost of the universe

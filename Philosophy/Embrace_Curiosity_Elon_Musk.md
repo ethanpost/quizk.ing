@@ -1,5 +1,7 @@
 # Elon Musk's Philosophy of Curiosity
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ## Core Concept
 - Curiosity as a driving force for human progress and understanding
 - Not just asking questions but pursuing answers actively

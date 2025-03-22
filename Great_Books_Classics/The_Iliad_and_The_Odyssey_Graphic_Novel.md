@@ -1,5 +1,7 @@
 ## [The Iliad and The Odyssey: Origins of the Trojan War](https://www.youtube.com/watch?v=NY4W6JusSB0&pp=0gcJCb0Ag7Wk3p_U)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ### Troy and Its Prophecy
 - Magnificent city in Asia Minor
 - Walls built by gods

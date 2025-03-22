@@ -1,5 +1,7 @@
 ## Latin 003 - [The Latin Alphabet - Consonant Pronunciation](https://www.youtube.com/watch?v=0oWWOJW3948)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ### Alphabet Overview
 - Latin alphabet is the basis for English alphabet
 - Not all English letters exist in Latin

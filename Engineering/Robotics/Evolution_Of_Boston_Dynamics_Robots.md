@@ -1,5 +1,7 @@
 # [Evolution of Boston Dynamics Robots](https://www.youtube.com/watch?v=Rdm2ggtFvmQ)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ## Company History
 - Founded in 1992
 - Initially created realistic 3D computer simulations for Navy aircraft operations

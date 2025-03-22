@@ -1,5 +1,7 @@
 ## [Simple vs Compound Interest](https://www.youtube.com/watch?v=aeekQAP5yDY)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ### Introduction to Interest
 - Interest is a fee paid for the use of someone else's money
 - Compound interest is great to earn but should be avoided when paying

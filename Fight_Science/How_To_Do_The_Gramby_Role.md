@@ -1,5 +1,7 @@
 # [How to Do the Granby Roll](https://www.youtube.com/watch?v=kU813Z7oH5g)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ### Description
 - A movement that gets you used to inverting
 - Described as "half a shoulder roll forward with your arm on the outside and half a shoulder roll back"
