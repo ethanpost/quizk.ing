@@ -1,5 +1,7 @@
 ## [The Dawn of Energy Abundance | Too Cheap to Meter](https://www.youtube.com/watch?v=YfApATdLnoI)
 
+> Import this file into [Mochi](https://mochi.cards/) or add this file to your favorite AI tool and have it proxy a quiz for you.
+
 ### Energy Fundamentals
 - Energy is not matter (E=mc²)
 - Fundamental cost of the universe
@@ -32,6 +34,24 @@
   - Recent breakthroughs at NIF
   - Multiple competing approaches (tokamak, inertial confinement)
   - Commercial viability challenges
+- Battery Storage and Grid Integration
+  - Grid infrastructure challenges
+    - Built in 1960s-70s
+    - 50% of electricity cost is transmission
+    - Under 50% grid line utilization
+  - Battery technology advances
+    - Cost reductions below $100/kWh
+    - Multiple chemistries (lithium, sodium)
+    - Enables renewable energy storage
+  - Grid modernization
+    - Two-way power flow capability
+    - Distributed storage with generation
+    - Home battery backup systems
+  - Benefits
+    - Load balancing
+    - Grid reliability improvement
+    - Emergency power backup
+    - Renewable energy integration
 
 ### Future Energy Landscape
 - Energy Abundance vs Conservation
@@ -225,3 +245,108 @@ D) Neither is important for the future
 ---
 
 Energy abundance can help solve environmental problems
+
+///
+
+## What percentage of electricity cost comes from transmission according to the video?
+
+---
+
+A) 25%
+
+B) 35%
+
+C) 50%
+
+D) 75%
+
+---
+
+50%
+
+///
+
+## What was considered an impossible battery cost target that has now been achieved?
+
+---
+
+A) Under $200 per kilowatt hour
+
+B) Under $150 per kilowatt hour
+
+C) Under $100 per kilowatt hour
+
+D) Under $50 per kilowatt hour
+
+---
+
+Under $100 per kilowatt hour
+
+///
+
+## How are batteries changing the traditional power grid model?
+
+---
+
+A) By making the grid obsolete
+
+B) By enabling two-way power flow
+
+C) By reducing total power consumption
+
+D) By eliminating the need for transmission lines
+
+---
+
+By enabling two-way power flow
+
+///
+
+## What is the current utilization rate of most power lines on the grid?
+
+---
+
+A) Over 90%
+
+B) Around 75%
+
+C) Under 50%
+
+D) Around 25%
+
+---
+
+Under 50%
+
+///
+
+## What is the primary benefit of collocating battery storage with power generation?
+
+---
+
+A) It reduces construction costs
+
+B) It eliminates the need for maintenance
+
+C) It circumvents transmission congestion
+
+D) It increases power output
+
+---
+
+It circumvents transmission congestion
+
+///
+
+## True or False: According to the video, battery storage is considered the key unlock for the energy transition.
+
+---
+
+True
+
+False
+
+---
+
+True
+
