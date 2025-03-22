@@ -105,13 +105,13 @@
 
 ---
 
-A) 102 BCE
+A) 95 BCE
 
-B) 100 BCE
+B) 98 BCE
 
-C) 98 BCE
+C) 102 BCE
 
-D) 95 BCE
+D) 100 BCE
 
 ---
 
@@ -123,13 +123,13 @@ D) 95 BCE
 
 ---
 
-A) Consul
+A) Praetor
 
 B) Tribune
 
-C) Pontifex Maximus
+C) Consul
 
-D) Praetor
+D) Pontifex Maximus
 
 ---
 
@@ -141,13 +141,13 @@ Pontifex Maximus
 
 ---
 
-A) Sulla
+A) Marcus Brutus
 
-B) Gaius Marius
+B) Sulla
 
-C) Pompey
+C) Gaius Marius
 
-D) Marcus Brutus
+D) Pompey
 
 ---
 
@@ -159,13 +159,13 @@ Gaius Marius
 
 ---
 
-A) "Veni, vidi, vici"
+A) "Et tu, Brute?"
 
-B) "Et tu, Brute?"
+B) "Carpe diem"
 
-C) "Alea iacta est"
+C) "Veni, vidi, vici"
 
-D) "Carpe diem"
+D) "Alea iacta est"
 
 ---
 
@@ -177,13 +177,13 @@ D) "Carpe diem"
 
 ---
 
-A) Julius Caesar
+A) Pompey
 
-B) Pompey
+B) Marcus Crassus
 
-C) Marcus Brutus
+C) Julius Caesar
 
-D) Marcus Crassus
+D) Marcus Brutus
 
 ---
 
@@ -195,13 +195,13 @@ Marcus Brutus
 
 ---
 
-A) Greece
+A) Egypt
 
-B) Gaul
+B) Parthia
 
-C) Egypt
+C) Greece
 
-D) Parthia
+D) Gaul
 
 ---
 
@@ -213,13 +213,13 @@ Gaul
 
 ---
 
-A) Vercingetorix
+A) Ptolemy
 
-B) Ptolemy
+B) Ariovistus
 
 C) Pharnaces
 
-D) Ariovistus
+D) Vercingetorix
 
 ---
 
@@ -231,13 +231,13 @@ Vercingetorix
 
 ---
 
-A) Spain
+A) Parthia
 
-B) Greece
+B) Spain
 
 C) Egypt
 
-D) Parthia
+D) Greece
 
 ---
 
@@ -249,13 +249,13 @@ Egypt
 
 ---
 
-A) He was welcomed as an honored guest
+A) He escaped to another country
 
-B) He was imprisoned
+B) He was murdered
 
-C) He was murdered
+C) He was welcomed as an honored guest
 
-D) He escaped to another country
+D) He was imprisoned
 
 ---
 
@@ -267,13 +267,13 @@ He was murdered
 
 ---
 
-A) Battle of Alesia
+A) Siege of Alexandria
 
 B) Battle of Pharsalus
 
-C) Victory against King Pharnaces II
+C) Battle of Alesia
 
-D) Siege of Alexandria
+D) Victory against King Pharnaces II
 
 ---
 
@@ -285,13 +285,13 @@ Victory against King Pharnaces II
 
 ---
 
-A) Cornelia Cinna
+A) Julia
 
-B) Cleopatra
+B) Cornelia Cinna
 
-C) Calpurnia
+C) Cleopatra
 
-D) Julia
+D) Calpurnia
 
 ---
 
@@ -303,13 +303,13 @@ Calpurnia
 
 ---
 
-A) Brutus
+A) Mark Antony Jr.
 
 B) Octavian
 
-C) Ptolemy Caesar (Caesarion)
+C) Brutus
 
-D) Mark Antony Jr.
+D) Ptolemy Caesar (Caesarion)
 
 ---
 
@@ -321,13 +321,13 @@ Ptolemy Caesar (Caesarion)
 
 ---
 
-A) January 1, 44 BCE
+A) December 25, 44 BCE
 
-B) March 15, 44 BCE
+B) July 13, 44 BCE
 
-C) July 13, 44 BCE
+C) January 1, 44 BCE
 
-D) December 25, 44 BCE
+D) March 15, 44 BCE
 
 ---
 
@@ -339,13 +339,13 @@ March 15, 44 BCE
 
 ---
 
-A) 13
+A) 43
 
-B) 23
+B) 33
 
-C) 33
+C) 23
 
-D) 43
+D) 13
 
 ---
 
@@ -357,11 +357,11 @@ D) 43
 
 ---
 
-A) Mark Antony
+A) Marcus Brutus
 
-B) Cleopatra
+B) Mark Antony
 
-C) Marcus Brutus
+C) Cleopatra
 
 D) Gaius Octavius (Octavian)
 
@@ -375,13 +375,13 @@ Gaius Octavius (Octavian)
 
 ---
 
-A) They were immediately executed
+A) They were pardoned by Mark Antony
 
-B) They fled to Greece
+B) They became the new rulers of Rome
 
-C) They became the new rulers of Rome
+C) They were immediately executed
 
-D) They were pardoned by Mark Antony
+D) They fled to Greece
 
 ---
 
@@ -393,13 +393,13 @@ They fled to Greece
 
 ---
 
-A) Consul
+A) Tribune
 
-B) Dictator
+B) Emperor
 
-C) Emperor
+C) Consul
 
-D) Tribune
+D) Dictator
 
 ---
 
@@ -411,13 +411,13 @@ Dictator
 
 ---
 
-A) A festival where Mark Antony tried to crown Caesar
+A) The ceremony where Caesar was named dictator for life
 
 B) The location where Caesar was assassinated
 
 C) Caesar's victory celebration after conquering Gaul
 
-D) The ceremony where Caesar was named dictator for life
+D) A festival where Mark Antony tried to crown Caesar
 
 ---
 
@@ -429,13 +429,13 @@ A festival where Mark Antony tried to crown Caesar
 
 ---
 
-A) Immediate collapse of the Roman Republic
+A) Declaration of war against Egypt
 
 B) Peaceful transition of power to the Senate
 
-C) Public uprising against the conspirators
+C) Immediate collapse of the Roman Republic
 
-D) Declaration of war against Egypt
+D) Public uprising against the conspirators
 
 ---
 

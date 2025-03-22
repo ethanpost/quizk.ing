@@ -62,13 +62,13 @@
 
 ---
 
-A) 10
+A) 12
 
-B) 12
+B) 20
 
 C) 16
 
-D) 20
+D) 10
 
 ---
 
@@ -80,13 +80,13 @@ D) 20
 
 ---
 
-A) A passive interest in scientific topics
+A) A theoretical framework with no practical applications
 
-B) An active, obsessive pursuit that pushes boundaries and challenges conventional thinking
+B) A religious doctrine that seeks to convert people to scientific thinking
 
-C) A theoretical framework with no practical applications
+C) A passive interest in scientific topics
 
-D) A religious doctrine that seeks to convert people to scientific thinking
+D) An active, obsessive pursuit that pushes boundaries and challenges conventional thinking
 
 ---
 
@@ -98,13 +98,13 @@ An active, obsessive pursuit that pushes boundaries and challenges conventional 
 
 ---
 
-A) Building more powerful telescopes
+A) Focusing exclusively on Earth's problems first
 
-B) Developing advanced computer simulations
+B) Building more powerful telescopes
 
 C) Exploring beyond Earth and traveling to other planets
 
-D) Focusing exclusively on Earth's problems first
+D) Developing advanced computer simulations
 
 ---
 
@@ -116,11 +116,11 @@ Exploring beyond Earth and traveling to other planets
 
 ---
 
-A) Tesla
+A) xAI
 
-B) Neuralink
+B) Tesla
 
-C) xAI
+C) Neuralink
 
 D) SpaceX
 
@@ -134,13 +134,13 @@ SpaceX
 
 ---
 
-A) Financial intelligence
+A) Technical knowledge
 
-B) Technical knowledge
+B) Political connections
 
-C) Obsessive curiosity
+C) Financial intelligence
 
-D) Political connections
+D) Obsessive curiosity
 
 ---
 
@@ -152,9 +152,9 @@ Obsessive curiosity
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -166,13 +166,13 @@ False
 
 ---
 
-A) Maximizing personal wealth and comfort
+A) Focusing solely on Earth's environmental problems
 
-B) Advancing collective understanding and expanding consciousness
+B) Isolating humanity from potential cosmic threats
 
-C) Isolating humanity from potential cosmic threats
+C) Maximizing personal wealth and comfort
 
-D) Focusing solely on Earth's environmental problems
+D) Advancing collective understanding and expanding consciousness
 
 ---
 
@@ -184,13 +184,13 @@ Advancing collective understanding and expanding consciousness
 
 ---
 
-A) Animals that can survive on multiple planets
+A) Advanced AI systems distributed across planets
 
-B) Humans with genetic modifications to survive on other planets
+B) Animals that can survive on multiple planets
 
 C) Humans living on multiple planets, a goal of SpaceX
 
-D) Advanced AI systems distributed across planets
+D) Humans with genetic modifications to survive on other planets
 
 ---
 
@@ -202,13 +202,13 @@ Humans living on multiple planets, a goal of SpaceX
 
 ---
 
-A) A psychological disorder that needs treatment
+A) A marketing strategy for his companies
 
-B) The intense, persistent desire to understand and discover that he considers crucial for success
+B) A psychological disorder that needs treatment
 
 C) A temporary phase in childhood development
 
-D) A marketing strategy for his companies
+D) The intense, persistent desire to understand and discover that he considers crucial for success
 
 ---
 
@@ -220,13 +220,13 @@ The intense, persistent desire to understand and discover that he considers cruc
 
 ---
 
-A) To replace human workers with robots
+A) To develop virtual reality experiences
 
-B) To create artificial general intelligence
+B) To replace human workers with robots
 
-C) To accelerate human scientific discovery through artificial intelligence
+C) To create artificial general intelligence
 
-D) To develop virtual reality experiences
+D) To accelerate human scientific discovery through artificial intelligence
 
 ---
 
@@ -238,9 +238,9 @@ To accelerate human scientific discovery through artificial intelligence
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -252,13 +252,13 @@ False
 
 ---
 
-A) Focusing only on technical subjects
+A) Learning only from established authorities
 
 B) Memorizing facts without questioning them
 
-C) Reading widely, learning across fields, and applying critical thinking
+C) Focusing only on technical subjects
 
-D) Learning only from established authorities
+D) Reading widely, learning across fields, and applying critical thinking
 
 ---
 

@@ -33,9 +33,9 @@
 
 ---
 
-A) A standing striking technique
+A) A movement that gets you used to inverting
 
-B) A movement that gets you used to inverting
+B) A standing striking technique
 
 C) A type of yoga pose
 
@@ -51,13 +51,13 @@ A movement that gets you used to inverting
 
 ---
 
-A) Crossed in front of your chest
+A) Behind your back
 
-B) Behind your back
+B) Tucked in close to your sides
 
-C) On the outside of your body
+C) Crossed in front of your chest
 
-D) Tucked in close to your sides
+D) On the outside of your body
 
 ---
 
@@ -69,13 +69,13 @@ On the outside of your body
 
 ---
 
-A) Down
+A) Backward
 
-B) Forward
+B) Down
 
-C) Backward
+C) Up
 
-D) Up
+D) Forward
 
 ---
 
@@ -87,13 +87,13 @@ Up
 
 ---
 
-A) Child's pose
+A) Cobra pose
 
 B) Downward dog
 
-C) Plow position
+C) Child's pose
 
-D) Cobra pose
+D) Plow position
 
 ---
 
@@ -105,13 +105,13 @@ Plow position
 
 ---
 
-A) Forward away from your palms
+A) Straight back
 
 B) Sideways
 
-C) Back toward your open palm
+C) Forward away from your palms
 
-D) Straight back
+D) Back toward your open palm
 
 ---
 
@@ -123,13 +123,13 @@ Back toward your open palm
 
 ---
 
-A) A full shoulder roll forward
+A) Two complete shoulder rolls in opposite directions
 
-B) Half a shoulder roll forward with your arm on the outside and half a shoulder roll back
+B) A full shoulder roll backward
 
-C) A full shoulder roll backward
+C) A full shoulder roll forward
 
-D) Two complete shoulder rolls in opposite directions
+D) Half a shoulder roll forward with your arm on the outside and half a shoulder roll back
 
 ---
 
@@ -143,11 +143,11 @@ Half a shoulder roll forward with your arm on the outside and half a shoulder ro
 
 A) Rolling too quickly
 
-B) Keeping their arms inside
+B) Forgetting to breathe
 
-C) Letting their butt fall down to the floor
+C) Keeping their arms inside
 
-D) Forgetting to breathe
+D) Letting their butt fall down to the floor
 
 ---
 
@@ -159,13 +159,13 @@ Letting their butt fall down to the floor
 
 ---
 
-A) Stand up immediately
+A) Roll to your side
 
-B) Roll to your side
+B) Stand up immediately
 
-C) Come back up to the knees
+C) Lie flat on your back
 
-D) Lie flat on your back
+D) Come back up to the knees
 
 ---
 
@@ -177,13 +177,13 @@ Come back up to the knees
 
 ---
 
-A) A standing position with arms extended
+A) A defensive wrestling stance
 
-B) A yoga position where you lie on your back and lift your legs over your head
+B) A position where you balance on your hands
 
-C) A defensive wrestling stance
+C) A standing position with arms extended
 
-D) A position where you balance on your hands
+D) A yoga position where you lie on your back and lift your legs over your head
 
 ---
 
@@ -195,13 +195,13 @@ A yoga position where you lie on your back and lift your legs over your head
 
 ---
 
-A) Increasing striking power
+A) Building leg strength
 
 B) Improving flexibility
 
-C) Getting used to being upside down
+C) Increasing striking power
 
-D) Building leg strength
+D) Getting used to being upside down
 
 ---
 
@@ -213,9 +213,9 @@ Getting used to being upside down
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 

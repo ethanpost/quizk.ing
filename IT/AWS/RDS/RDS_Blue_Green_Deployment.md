@@ -137,9 +137,9 @@
 
 ---
 
-A) Green environment
+A) Blue environment
 
-B) Blue environment
+B) Green environment
 
 C) Staging environment
 
@@ -155,13 +155,13 @@ Blue environment
 
 ---
 
-A) Less than one minute
+A) Several hours
 
-B) 5-10 minutes
+B) 30-60 minutes
 
-C) 30-60 minutes
+C) Less than one minute
 
-D) Several hours
+D) 5-10 minutes
 
 ---
 
@@ -173,13 +173,13 @@ Less than one minute
 
 ---
 
-A) RDS for Oracle, RDS for SQL Server, and RDS for DB2
+A) Aurora MySQL, Aurora PostgreSQL, and RDS for Oracle
 
-B) RDS for MariaDB, RDS for MySQL, and RDS for PostgreSQL
+B) RDS for SQL Server, RDS for MySQL, and RDS for MariaDB
 
-C) Aurora MySQL, Aurora PostgreSQL, and RDS for Oracle
+C) RDS for Oracle, RDS for SQL Server, and RDS for DB2
 
-D) RDS for SQL Server, RDS for MySQL, and RDS for MariaDB
+D) RDS for MariaDB, RDS for MySQL, and RDS for PostgreSQL
 
 ---
 
@@ -191,13 +191,13 @@ RDS for MariaDB, RDS for MySQL, and RDS for PostgreSQL
 
 ---
 
-A) A physical barrier that prevents unauthorized access to the database
+A) A monitoring tool that tracks database performance during switchover
 
-B) A check that prevents switchover if environments aren't ready to avoid downtime and data loss
+B) A physical barrier that prevents unauthorized access to the database
 
 C) A backup system that activates if the switchover fails
 
-D) A monitoring tool that tracks database performance during switchover
+D) A check that prevents switchover if environments aren't ready to avoid downtime and data loss
 
 ---
 
@@ -209,13 +209,13 @@ A check that prevents switchover if environments aren't ready to avoid downtime 
 
 ---
 
-A) rds:CreateBlueGreenDeployment
+A) rds:ModifyBlueGreenDeployment
 
 B) rds:DeleteBlueGreenDeployment
 
-C) rds:SwitchoverBlueGreenDeployment
+C) rds:CreateBlueGreenDeployment
 
-D) rds:ModifyBlueGreenDeployment
+D) rds:SwitchoverBlueGreenDeployment
 
 ---
 
@@ -227,13 +227,13 @@ rds:SwitchoverBlueGreenDeployment
 
 ---
 
-A) Connections remain active throughout the process
+A) Only read connections remain active, write connections are dropped
 
-B) Only read connections remain active, write connections are dropped
+B) Connections are automatically redirected to the green environment
 
-C) Connections are dropped and new connections aren't allowed temporarily
+C) Connections remain active throughout the process
 
-D) Connections are automatically redirected to the green environment
+D) Connections are dropped and new connections aren't allowed temporarily
 
 ---
 
@@ -245,13 +245,13 @@ Connections are dropped and new connections aren't allowed temporarily
 
 ---
 
-A) A method to reduce database workload during peak hours
+A) The automatic scaling of database resources based on demand
 
-B) A process where data blocks are loaded only as applications request them
+B) A technique to optimize database query performance
 
-C) A technique to optimize database query performance
+C) A method to reduce database workload during peak hours
 
-D) The automatic scaling of database resources based on demand
+D) A process where data blocks are loaded only as applications request them
 
 ---
 
@@ -263,13 +263,13 @@ A process where data blocks are loaded only as applications request them
 
 ---
 
-A) It is automatically deleted
+A) It becomes the new staging environment
 
-B) It becomes the new staging environment
+B) It is immediately upgraded to match the green environment
 
-C) It is retained and renamed with "-oldn" suffix
+C) It is automatically deleted
 
-D) It is immediately upgraded to match the green environment
+D) It is retained and renamed with "-oldn" suffix
 
 ---
 
@@ -281,13 +281,13 @@ It is retained and renamed with "-oldn" suffix
 
 ---
 
-A) Reducing database storage costs
+A) Testing database changes safely without affecting production
 
-B) Testing database changes safely without affecting production
+B) Minimizing downtime during database updates
 
-C) Implementing and testing newer database features
+C) Reducing database storage costs
 
-D) Minimizing downtime during database updates
+D) Implementing and testing newer database features
 
 ---
 
@@ -299,13 +299,13 @@ Reducing database storage costs
 
 ---
 
-A) When the source instance has read replicas
+A) When the source instance uses Multi-AZ deployment
 
-B) When requesting a major version upgrade on supported PostgreSQL versions
+B) When the source instance has read replicas
 
-C) When the source instance uses Multi-AZ deployment
+C) When the green environment has different storage settings
 
-D) When the green environment has different storage settings
+D) When requesting a major version upgrade on supported PostgreSQL versions
 
 ---
 
@@ -317,13 +317,13 @@ When requesting a major version upgrade on supported PostgreSQL versions
 
 ---
 
-A) The green environment must have more storage capacity than the blue environment
+A) The blue environment must be at least 24 hours old
 
-B) Replica lag should be close to zero
+B) All applications must be reconfigured to point to the green environment
 
-C) All applications must be reconfigured to point to the green environment
+C) The green environment must have more storage capacity than the blue environment
 
-D) The blue environment must be at least 24 hours old
+D) Replica lag should be close to zero
 
 ---
 
@@ -335,11 +335,11 @@ Replica lag should be close to zero
 
 ---
 
-A) They are automatically updated to point to the new production environment
+A) They continue replicating from the old blue environment
 
-B) They are deleted and must be recreated
+B) They are automatically updated to point to the new production environment
 
-C) They continue replicating from the old blue environment
+C) They are deleted and must be recreated
 
 D) They must have their parent node manually updated to maintain replication
 
@@ -353,13 +353,13 @@ They must have their parent node manually updated to maintain replication
 
 ---
 
-A) Deleting a blue/green deployment always deletes both blue and green environments
+A) You cannot delete a blue/green deployment after switchover
 
-B) The blue environment is not affected when deleting a blue/green deployment
+B) Deleting a blue/green deployment automatically creates a snapshot of both environments
 
-C) You cannot delete a blue/green deployment after switchover
+C) The blue environment is not affected when deleting a blue/green deployment
 
-D) Deleting a blue/green deployment automatically creates a snapshot of both environments
+D) Deleting a blue/green deployment always deletes both blue and green environments
 
 ---
 
@@ -371,13 +371,13 @@ The blue environment is not affected when deleting a blue/green deployment
 
 ---
 
-A) They cannot be used for major version upgrades
+A) They can only be used with instances smaller than 8xlarge
 
-B) Tables must have a primary key for UPDATE and DELETE operations
+B) They cannot be used for major version upgrades
 
 C) They require manual intervention every hour to maintain synchronization
 
-D) They can only be used with instances smaller than 8xlarge
+D) Tables must have a primary key for UPDATE and DELETE operations
 
 ---
 
@@ -389,13 +389,13 @@ Tables must have a primary key for UPDATE and DELETE operations
 
 ---
 
-A) Automatically updates application connection strings
+A) Creates a copy of all application code with updated database references
 
-B) Creates a copy of all application code with updated database references
+B) Temporarily duplicates all write operations to both environments
 
-C) Renames the green environment endpoints to match the corresponding blue environment endpoints
+C) Automatically updates application connection strings
 
-D) Temporarily duplicates all write operations to both environments
+D) Renames the green environment endpoints to match the corresponding blue environment endpoints
 
 ---
 
@@ -407,13 +407,13 @@ Renames the green environment endpoints to match the corresponding blue environm
 
 ---
 
-A) CPUUtilization
+A) ReadIOPS
 
-B) DatabaseConnections
+B) FreeStorageSpace
 
-C) FreeStorageSpace
+C) CPUUtilization
 
-D) ReadIOPS
+D) DatabaseConnections
 
 ---
 
@@ -425,13 +425,13 @@ DatabaseConnections
 
 ---
 
-A) 30 seconds
+A) 120 seconds
 
-B) 120 seconds
+B) 3600 seconds
 
-C) 300 seconds
+C) 30 seconds
 
-D) 3600 seconds
+D) 300 seconds
 
 ---
 
@@ -443,13 +443,13 @@ D) 3600 seconds
 
 ---
 
-A) The changes are automatically applied to the green environment
+A) The changes are queued and applied after switchover
 
-B) The deployment enters a state of "Replication degraded"
+B) The changes are automatically applied to the green environment
 
 C) The switchover is automatically triggered
 
-D) The changes are queued and applied after switchover
+D) The deployment enters a state of "Replication degraded"
 
 ---
 
@@ -461,13 +461,13 @@ The deployment enters a state of "Replication degraded"
 
 ---
 
-A) To encrypt data stored in the green environment
+A) To minimize the storage footprint of the green environment
 
-B) To proactively download all blocks from S3 for maximum volume performance
+B) To create an automated backup before switchover
 
-C) To minimize the storage footprint of the green environment
+C) To encrypt data stored in the green environment
 
-D) To create an automated backup before switchover
+D) To proactively download all blocks from S3 for maximum volume performance
 
 ---
 

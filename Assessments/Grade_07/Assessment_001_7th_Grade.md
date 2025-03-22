@@ -2,13 +2,13 @@
 
 ---
 
-A) Simile
+A) Personification
 
-B) Metaphor
+B) Hyperbole
 
-C) Personification
+C) Metaphor
 
-D) Hyperbole
+D) Simile
 
 ---
 
@@ -20,13 +20,13 @@ Personification
 
 ---
 
-A) To introduce characters
+A) To conclude a paragraph
 
-B) To state the main idea of an essay
+B) To provide transition between paragraphs
 
-C) To conclude a paragraph
+C) To introduce characters
 
-D) To provide transition between paragraphs
+D) To state the main idea of an essay
 
 ---
 
@@ -38,13 +38,13 @@ To state the main idea of an essay
 
 ---
 
-A) The dog barked.
+A) After the dog barked, the cat meowed.
 
-B) The dog barked, and the cat meowed.
+B) The dog barked loudly.
 
-C) The dog barked loudly.
+C) The dog barked, and the cat meowed.
 
-D) After the dog barked, the cat meowed.
+D) The dog barked.
 
 ---
 
@@ -56,13 +56,13 @@ The dog barked, and the cat meowed.
 
 ---
 
-A) Hypothesis, question, experiment, analysis, conclusion
+A) Analysis, experiment, hypothesis, question, conclusion
 
-B) Question, hypothesis, experiment, analysis, conclusion
+B) Experiment, question, hypothesis, conclusion, analysis
 
-C) Experiment, question, hypothesis, conclusion, analysis
+C) Hypothesis, question, experiment, analysis, conclusion
 
-D) Analysis, experiment, hypothesis, question, conclusion
+D) Question, hypothesis, experiment, analysis, conclusion
 
 ---
 
@@ -74,9 +74,9 @@ Question, hypothesis, experiment, analysis, conclusion
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -88,13 +88,13 @@ True
 
 ---
 
-A) Executive, Judicial, Military
+A) Federal, State, Local
 
-B) Legislative, Executive, Judicial
+B) Democratic, Republican, Independent
 
-C) Federal, State, Local
+C) Executive, Judicial, Military
 
-D) Democratic, Republican, Independent
+D) Legislative, Executive, Judicial
 
 ---
 
@@ -106,13 +106,13 @@ Legislative, Executive, Judicial
 
 ---
 
-A) Running through the park.
+A) Under the big tree.
 
-B) Because it was raining.
+B) Running through the park.
 
-C) She studied for her exam.
+C) Because it was raining.
 
-D) Under the big tree.
+D) She studied for her exam.
 
 ---
 
@@ -124,13 +124,13 @@ She studied for her exam.
 
 ---
 
-A) Physical changes create new substances, chemical changes don't
+A) Neither creates new substances
 
 B) Chemical changes create new substances, physical changes don't
 
 C) Both create new substances
 
-D) Neither creates new substances
+D) Physical changes create new substances, chemical changes don't
 
 ---
 
@@ -142,13 +142,13 @@ Chemical changes create new substances, physical changes don't
 
 ---
 
-A) Igneous
+A) Metamorphic
 
-B) Sedimentary
+B) Conglomerate
 
-C) Metamorphic
+C) Sedimentary
 
-D) Conglomerate
+D) Igneous
 
 ---
 
@@ -160,13 +160,13 @@ Conglomerate
 
 ---
 
-A) Protagonists
+A) Observers
 
-B) Antagonists
+B) Narrators
 
-C) Narrators
+C) Antagonists
 
-D) Observers
+D) Protagonists
 
 ---
 
@@ -178,13 +178,13 @@ Protagonists
 
 ---
 
-A) Respiration
+A) Transpiration
 
-B) Photosynthesis
+B) Digestion
 
-C) Digestion
+C) Photosynthesis
 
-D) Transpiration
+D) Respiration
 
 ---
 
@@ -196,13 +196,13 @@ Photosynthesis
 
 ---
 
-A) Mesopotamians
+A) Greeks
 
 B) Romans
 
-C) Greeks
+C) Egyptians
 
-D) Egyptians
+D) Mesopotamians
 
 ---
 
@@ -214,9 +214,9 @@ Egyptians
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -228,13 +228,13 @@ True
 
 ---
 
-A) Prime Meridian
+A) International Date Line
 
-B) Equator
+B) Tropic of Cancer
 
-C) Tropic of Cancer
+C) Prime Meridian
 
-D) International Date Line
+D) Equator
 
 ---
 
@@ -246,11 +246,11 @@ Equator
 
 ---
 
-A) The silent owl soared suddenly
+A) The cake was as sweet as sugar
 
-B) The cake was as sweet as sugar
+B) The thunder boomed like drums
 
-C) The thunder boomed like drums
+C) The silent owl soared suddenly
 
 D) Time flies when you're having fun
 
@@ -264,13 +264,13 @@ The silent owl soared suddenly
 
 ---
 
-A) Nucleus
+A) Golgi apparatus
 
-B) Ribosome
+B) Nucleus
 
 C) Mitochondria
 
-D) Golgi apparatus
+D) Ribosome
 
 ---
 
@@ -282,13 +282,13 @@ Mitochondria
 
 ---
 
-A) The Earth's distance from the sun
+A) The Earth's revolution around the sun
 
-B) The Earth's tilt on its axis
+B) The Earth's rotation
 
-C) The Earth's rotation
+C) The Earth's distance from the sun
 
-D) The Earth's revolution around the sun
+D) The Earth's tilt on its axis
 
 ---
 
@@ -300,13 +300,13 @@ The Earth's tilt on its axis
 
 ---
 
-A) Revolutionary War
+A) World War I
 
-B) War of 1812
+B) Civil War
 
-C) Civil War
+C) Revolutionary War
 
-D) World War I
+D) War of 1812
 
 ---
 
@@ -318,13 +318,13 @@ Civil War
 
 ---
 
-A) Childs
+A) Children
 
-B) Children
+B) Child's
 
-C) Childes
+C) Childs
 
-D) Child's
+D) Childes
 
 ---
 
@@ -336,13 +336,13 @@ Children
 
 ---
 
-A) I went to the store to buy milk.
+A) I went to the store to buy milk; then I went home.
 
-B) I went to the store to buy milk, and then I went home.
+B) I went to the store to buy milk then I went home.
 
-C) I went to the store to buy milk then I went home.
+C) I went to the store to buy milk.
 
-D) I went to the store to buy milk; then I went home.
+D) I went to the store to buy milk, and then I went home.
 
 ---
 
@@ -354,13 +354,13 @@ I went to the store to buy milk then I went home.
 
 ---
 
-A) Cell
+A) Electron
 
-B) Molecule
+B) Cell
 
 C) Atom
 
-D) Electron
+D) Molecule
 
 ---
 
@@ -386,13 +386,13 @@ True
 
 ---
 
-A) Noun
+A) Adverb
 
-B) Adjective
+B) Noun
 
-C) Verb
+C) Adjective
 
-D) Adverb
+D) Verb
 
 ---
 
@@ -404,13 +404,13 @@ Verb
 
 ---
 
-A) Weather is long-term, climate is short-term
+A) They are the same thing
 
-B) Weather is short-term, climate is long-term
+B) Weather happens globally, climate is local
 
-C) They are the same thing
+C) Weather is short-term, climate is long-term
 
-D) Weather happens globally, climate is local
+D) Weather is long-term, climate is short-term
 
 ---
 
@@ -422,13 +422,13 @@ Weather is short-term, climate is long-term
 
 ---
 
-A) George Washington
+A) Abraham Lincoln
 
 B) Benjamin Franklin
 
-C) Thomas Jefferson
+C) George Washington
 
-D) Abraham Lincoln
+D) Thomas Jefferson
 
 ---
 
@@ -440,13 +440,13 @@ Thomas Jefferson
 
 ---
 
-A) Character vs. Character
+A) Character vs. Nature
 
 B) Character vs. Society
 
-C) Character vs. Nature
+C) Character vs. Self
 
-D) Character vs. Self
+D) Character vs. Character
 
 ---
 
@@ -458,13 +458,13 @@ Character vs. Self
 
 ---
 
-A) 24
+A) 75
 
-B) 49
+B) 65
 
-C) 65
+C) 24
 
-D) 75
+D) 49
 
 ---
 
@@ -476,13 +476,13 @@ D) 75
 
 ---
 
-A) Solid, gas, plasma
+A) Liquid, gas, plasma
 
-B) Liquid, gas, plasma
+B) Solid, gas, plasma
 
-C) Solid, liquid, gas
+C) Solid, liquid, plasma
 
-D) Solid, liquid, plasma
+D) Solid, liquid, gas
 
 ---
 
@@ -494,13 +494,13 @@ Solid, liquid, gas
 
 ---
 
-A) Renaissance
+A) Age of Exploration
 
-B) Middle Ages
+B) Renaissance
 
 C) Industrial Revolution
 
-D) Age of Exploration
+D) Middle Ages
 
 ---
 
@@ -512,13 +512,13 @@ Middle Ages
 
 ---
 
-A) "Let's eat grandma."
+A) "Let's, eat grandma."
 
 B) "Let's eat, grandma."
 
 C) "Let's eat. Grandma."
 
-D) "Let's, eat grandma."
+D) "Let's eat grandma."
 
 ---
 
@@ -530,13 +530,13 @@ D) "Let's, eat grandma."
 
 ---
 
-A) To produce hormones
+A) To digest food
 
 B) To circulate blood
 
 C) To support the body and protect organs
 
-D) To digest food
+D) To produce hormones
 
 ---
 
@@ -548,13 +548,13 @@ To support the body and protect organs
 
 ---
 
-A) Africa
+A) Australia
 
-B) Asia
+B) Africa
 
 C) South America
 
-D) Australia
+D) Asia
 
 ---
 
@@ -566,9 +566,9 @@ South America
 
 ---
 
-A) Metaphor
+A) Simile
 
-B) Simile
+B) Metaphor
 
 C) Exposition
 
@@ -584,9 +584,9 @@ Exposition
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -598,13 +598,13 @@ False
 
 ---
 
-A) 1st Amendment
+A) 19th Amendment
 
-B) 13th Amendment
+B) 26th Amendment
 
-C) 19th Amendment
+C) 13th Amendment
 
-D) 26th Amendment
+D) 1st Amendment
 
 ---
 
@@ -616,11 +616,11 @@ D) 26th Amendment
 
 ---
 
-A) First person
+A) Third person limited
 
 B) Second person
 
-C) Third person limited
+C) First person
 
 D) Third person omniscient
 
@@ -634,13 +634,13 @@ First person
 
 ---
 
-A) A car moving down the highway
+A) Wind blowing through trees
 
 B) A book sitting on a high shelf
 
 C) A baseball being thrown
 
-D) Wind blowing through trees
+D) A car moving down the highway
 
 ---
 
@@ -652,13 +652,13 @@ A book sitting on a high shelf
 
 ---
 
-A) Japanese
+A) Korean
 
-B) Korean
+B) Japanese
 
-C) Chinese
+C) Mongolian
 
-D) Mongolian
+D) Chinese
 
 ---
 
@@ -670,13 +670,13 @@ Chinese
 
 ---
 
-A) Two
+A) Five
 
-B) Three
+B) Four
 
-C) Four
+C) Three
 
-D) Five
+D) Two
 
 ---
 
@@ -688,13 +688,13 @@ Three
 
 ---
 
-A) Evaporation
+A) Sublimation
 
-B) Condensation
+B) Precipitation
 
-C) Sublimation
+C) Evaporation
 
-D) Precipitation
+D) Condensation
 
 ---
 
@@ -706,13 +706,13 @@ Condensation
 
 ---
 
-A) The Declaration of Independence
+A) The Bill of Rights
 
-B) The Emancipation Proclamation
+B) The Declaration of Independence
 
 C) The U.S. Constitution
 
-D) The Bill of Rights
+D) The Emancipation Proclamation
 
 ---
 
@@ -724,13 +724,13 @@ The U.S. Constitution
 
 ---
 
-A) A word that means the same as another word
+A) A word that has multiple meanings
 
-B) A word that has multiple meanings
+B) A word that means the same as another word
 
-C) A word that means the opposite of another word
+C) A word that sounds the same but has a different meaning
 
-D) A word that sounds the same but has a different meaning
+D) A word that means the opposite of another word
 
 ---
 
@@ -742,13 +742,13 @@ A word that means the opposite of another word
 
 ---
 
-A) Magnetic force
+A) Nuclear force
 
-B) Gravitational force
+B) Electrical force
 
-C) Nuclear force
+C) Gravitational force
 
-D) Electrical force
+D) Magnetic force
 
 ---
 
@@ -760,13 +760,13 @@ Gravitational force
 
 ---
 
-A) Anthropology
+A) Geology
 
-B) Paleontology
+B) Archaeology
 
-C) Archaeology
+C) Paleontology
 
-D) Geology
+D) Anthropology
 
 ---
 
@@ -778,13 +778,13 @@ Archaeology
 
 ---
 
-A) The dog chased the ball.
+A) Birds fly south for winter.
 
-B) Sarah walked to school.
+B) The dog chased the ball.
 
 C) He climbed the mountain.
 
-D) Birds fly south for winter.
+D) Sarah walked to school.
 
 ---
 
@@ -810,13 +810,13 @@ True
 
 ---
 
-A) Thomas Jefferson
+A) Abraham Lincoln
 
-B) John Adams
+B) Thomas Jefferson
 
-C) George Washington
+C) John Adams
 
-D) Abraham Lincoln
+D) George Washington
 
 ---
 
@@ -828,13 +828,13 @@ George Washington
 
 ---
 
-A) Historical fiction
+A) Mystery
 
-B) Science fiction
+B) Fantasy
 
-C) Fantasy
+C) Historical fiction
 
-D) Mystery
+D) Science fiction
 
 ---
 
@@ -846,13 +846,13 @@ Science fiction
 
 ---
 
-A) Heart
+A) Brain
 
-B) Brain
+B) Skin
 
-C) Liver
+C) Heart
 
-D) Skin
+D) Liver
 
 ---
 
@@ -864,11 +864,11 @@ Skin
 
 ---
 
-A) North America and South America
+A) Europe and Asia
 
-B) Europe and Asia
+B) Africa and Asia
 
-C) Africa and Asia
+C) North America and South America
 
 D) Australia and Asia
 
@@ -882,13 +882,13 @@ North America and South America
 
 ---
 
-A) End a sentence
+A) Show possession
 
-B) Join two independent clauses
+B) End a sentence
 
-C) Introduce a list
+C) Join two independent clauses
 
-D) Show possession
+D) Introduce a list
 
 ---
 
@@ -900,13 +900,13 @@ Join two independent clauses
 
 ---
 
-A) Synonym
+A) Homonym
 
 B) Antonym
 
 C) Onomatopoeia
 
-D) Homonym
+D) Synonym
 
 ---
 
@@ -918,13 +918,13 @@ Onomatopoeia
 
 ---
 
-A) Solar energy
+A) Wind power
 
-B) Wind power
+B) Solar energy
 
-C) Coal
+C) Hydroelectric power
 
-D) Hydroelectric power
+D) Coal
 
 ---
 
@@ -936,13 +936,13 @@ Coal
 
 ---
 
-A) The assassination of Archduke Franz Ferdinand
+A) The Great Depression
 
-B) The bombing of Pearl Harbor
+B) The rise of communism
 
-C) The Great Depression
+C) The bombing of Pearl Harbor
 
-D) The rise of communism
+D) The assassination of Archduke Franz Ferdinand
 
 ---
 
@@ -954,13 +954,13 @@ The assassination of Archduke Franz Ferdinand
 
 ---
 
-A) Simple past
+A) Future perfect
 
-B) Present perfect
+B) Simple past
 
-C) Future perfect
+C) Past perfect
 
-D) Past perfect
+D) Present perfect
 
 ---
 
@@ -972,13 +972,13 @@ Present perfect
 
 ---
 
-A) An object in motion stays in motion unless acted upon by an outside force
+A) For every action, there is an equal and opposite reaction
 
 B) Force equals mass times acceleration
 
 C) Energy cannot be created or destroyed
 
-D) For every action, there is an equal and opposite reaction
+D) An object in motion stays in motion unless acted upon by an outside force
 
 ---
 
@@ -990,13 +990,13 @@ Energy cannot be created or destroyed
 
 ---
 
-A) The first subway system in America
+A) A transcontinental railway
 
-B) A coal mining operation
+B) The first subway system in America
 
 C) A secret network helping enslaved people escape to freedom
 
-D) A transcontinental railway
+D) A coal mining operation
 
 ---
 
@@ -1008,13 +1008,13 @@ A secret network helping enslaved people escape to freedom
 
 ---
 
-A) A word that modifies a verb
+A) A word that joins clauses or sentences
 
 B) A word that shows the relationship between a noun and other words
 
-C) A word that joins clauses or sentences
+C) A word that names a person, place, thing, or idea
 
-D) A word that names a person, place, thing, or idea
+D) A word that modifies a verb
 
 ---
 
@@ -1026,9 +1026,9 @@ A word that shows the relationship between a noun and other words
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -1040,13 +1040,13 @@ True
 
 ---
 
-A) Egypt
+A) Greece
 
 B) China
 
-C) Sumer
+C) Egypt
 
-D) Greece
+D) Sumer
 
 ---
 
@@ -1058,13 +1058,13 @@ Sumer
 
 ---
 
-A) Love
+A) Coming of age
 
 B) Redemption
 
-C) Punctuation
+C) Love
 
-D) Coming of age
+D) Punctuation
 
 ---
 
@@ -1076,11 +1076,11 @@ Punctuation
 
 ---
 
-A) To pump blood throughout the body
+A) To filter waste from the blood
 
-B) To filter waste from the blood
+B) To exchange oxygen and carbon dioxide
 
-C) To exchange oxygen and carbon dioxide
+C) To pump blood throughout the body
 
 D) To digest food
 
@@ -1094,13 +1094,13 @@ To exchange oxygen and carbon dioxide
 
 ---
 
-A) Vermont
+A) Georgia
 
-B) Massachusetts
+B) Vermont
 
 C) Virginia
 
-D) Georgia
+D) Massachusetts
 
 ---
 
@@ -1112,13 +1112,13 @@ Vermont
 
 ---
 
-A) A word that sounds like another word but has different spelling
+A) A word that has opposite meaning of another word
 
-B) A word spelled the same as another word but with different meaning
+B) A word that has the same meaning as another word
 
-C) A word that has the same meaning as another word
+C) A word spelled the same as another word but with different meaning
 
-D) A word that has opposite meaning of another word
+D) A word that sounds like another word but has different spelling
 
 ---
 
@@ -1130,13 +1130,13 @@ A word spelled the same as another word but with different meaning
 
 ---
 
-A) Lay eggs
+A) Have scales
 
-B) Have scales
+B) Are cold-blooded
 
-C) Are cold-blooded
+C) Produce milk for their young
 
-D) Produce milk for their young
+D) Lay eggs
 
 ---
 
@@ -1148,13 +1148,13 @@ Produce milk for their young
 
 ---
 
-A) Condensation
+A) Precipitation
 
 B) Evaporation
 
 C) Sublimation
 
-D) Precipitation
+D) Condensation
 
 ---
 
@@ -1166,13 +1166,13 @@ Sublimation
 
 ---
 
-A) The Constitution
+A) The Bill of Rights
 
-B) The Declaration of Independence
+B) The Constitution
 
-C) The Bill of Rights
+C) The Emancipation Proclamation
 
-D) The Emancipation Proclamation
+D) The Declaration of Independence
 
 ---
 
@@ -1184,13 +1184,13 @@ The Declaration of Independence
 
 ---
 
-A) To provide evidence
+A) To transition to the next paragraph
 
-B) To state the main idea of the paragraph
+B) To provide evidence
 
-C) To transition to the next paragraph
+C) To summarize the essay
 
-D) To summarize the essay
+D) To state the main idea of the paragraph
 
 ---
 
@@ -1202,13 +1202,13 @@ To state the main idea of the paragraph
 
 ---
 
-A) Frog
+A) Mouse
 
 B) Snake
 
 C) Jellyfish
 
-D) Mouse
+D) Frog
 
 ---
 
@@ -1220,13 +1220,13 @@ Jellyfish
 
 ---
 
-A) United States
+A) France
 
-B) France
+B) United States
 
-C) Germany
+C) Great Britain
 
-D) Great Britain
+D) Germany
 
 ---
 
@@ -1238,13 +1238,13 @@ Great Britain
 
 ---
 
-A) A noun
+A) Only nouns and pronouns
 
-B) A verb, adjective, or other adverb
+B) Only verbs
 
-C) Only verbs
+C) A noun
 
-D) Only nouns and pronouns
+D) A verb, adjective, or other adverb
 
 ---
 
@@ -1256,9 +1256,9 @@ A verb, adjective, or other adverb
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -1270,13 +1270,13 @@ False
 
 ---
 
-A) Nelson Mandela
+A) Simon Bolivar
 
-B) Mao Zedong
+B) Nelson Mandela
 
 C) Mahatma Gandhi
 
-D) Simon Bolivar
+D) Mao Zedong
 
 ---
 
@@ -1288,13 +1288,13 @@ Mahatma Gandhi
 
 ---
 
-A) Flashback
+A) Dialogue
 
-B) Foreshadowing
+B) Imagery
 
-C) Imagery
+C) Foreshadowing
 
-D) Dialogue
+D) Flashback
 
 ---
 
@@ -1306,11 +1306,11 @@ Foreshadowing
 
 ---
 
-A) To breathe in oxygen
+A) To filter waste from the body
 
-B) To filter waste from the body
+B) To transport nutrients and oxygen throughout the body
 
-C) To transport nutrients and oxygen throughout the body
+C) To breathe in oxygen
 
 D) To digest food
 
@@ -1324,13 +1324,13 @@ To transport nutrients and oxygen throughout the body
 
 ---
 
-A) Democracy
+A) Monarchy
 
-B) Monarchy
+B) Geography
 
-C) Autocracy
+C) Democracy
 
-D) Geography
+D) Autocracy
 
 ---
 
@@ -1342,11 +1342,11 @@ Geography
 
 ---
 
-A) Add 's
+A) Add s
 
 B) Add s'
 
-C) Add s
+C) Add 's
 
 D) Add '
 
@@ -1360,13 +1360,13 @@ Add 's
 
 ---
 
-A) Jupiter
+A) Saturn
 
 B) Venus
 
-C) Mars
+C) Jupiter
 
-D) Saturn
+D) Mars
 
 ---
 
@@ -1378,13 +1378,13 @@ Mars
 
 ---
 
-A) Women's suffrage
+A) Environmental pollution
 
-B) Child labor
+B) Women's suffrage
 
-C) Racial segregation and discrimination
+C) Child labor
 
-D) Environmental pollution
+D) Racial segregation and discrimination
 
 ---
 
@@ -1396,13 +1396,13 @@ Racial segregation and discrimination
 
 ---
 
-A) Declarative
+A) Exclamatory
 
-B) Interrogative
+B) Declarative
 
-C) Exclamatory
+C) Imperative
 
-D) Imperative
+D) Interrogative
 
 ---
 
@@ -1414,13 +1414,13 @@ Imperative
 
 ---
 
-A) Erosion
+A) Deposition
 
 B) Weathering
 
-C) Deposition
+C) Sedimentation
 
-D) Sedimentation
+D) Erosion
 
 ---
 
@@ -1432,13 +1432,13 @@ Weathering
 
 ---
 
-A) The Declaration of Independence
+A) The Emancipation Proclamation
 
 B) The Articles of Confederation
 
 C) The Bill of Rights
 
-D) The Emancipation Proclamation
+D) The Declaration of Independence
 
 ---
 
@@ -1450,13 +1450,13 @@ The Bill of Rights
 
 ---
 
-A) First person
+A) Second person
 
-B) Second person
+B) First person
 
-C) Third person limited
+C) Third person omniscient
 
-D) Third person omniscient
+D) Third person limited
 
 ---
 
@@ -1482,13 +1482,13 @@ False
 
 ---
 
-A) Christopher Columbus
+A) John Cabot
 
 B) Ferdinand Magellan
 
-C) Vasco da Gama
+C) Christopher Columbus
 
-D) John Cabot
+D) Vasco da Gama
 
 ---
 
@@ -1500,13 +1500,13 @@ Ferdinand Magellan
 
 ---
 
-A) Conjunction
+A) Interjection
 
-B) Preposition
+B) Punctuation
 
-C) Punctuation
+C) Preposition
 
-D) Interjection
+D) Conjunction
 
 ---
 
@@ -1518,13 +1518,13 @@ Punctuation
 
 ---
 
-A) Solar
+A) Wind
 
-B) Wind
+B) Hydroelectric
 
 C) Natural gas
 
-D) Hydroelectric
+D) Solar
 
 ---
 
@@ -1536,13 +1536,13 @@ Natural gas
 
 ---
 
-A) Biology
+A) Meteorology
 
-B) Geology
+B) Biology
 
 C) Geography
 
-D) Meteorology
+D) Geology
 
 ---
 
@@ -1554,13 +1554,13 @@ Geography
 
 ---
 
-A) Furthermore
+A) Similarly
 
-B) Consequently
+B) Furthermore
 
 C) However
 
-D) Similarly
+D) Consequently
 
 ---
 
@@ -1572,13 +1572,13 @@ However
 
 ---
 
-A) Producer
+A) Decomposer
 
-B) Consumer
+B) Producer
 
-C) Decomposer
+C) Scavenger
 
-D) Scavenger
+D) Consumer
 
 ---
 
@@ -1590,13 +1590,13 @@ Consumer
 
 ---
 
-A) The Pope
+A) Parliament
 
-B) The King
+B) The military
 
-C) Parliament
+C) The King
 
-D) The military
+D) The Pope
 
 ---
 
@@ -1608,13 +1608,13 @@ The King
 
 ---
 
-A) Homonyms
+A) Antonyms
 
-B) Synonyms
+B) Homophones
 
-C) Homophones
+C) Homonyms
 
-D) Antonyms
+D) Synonyms
 
 ---
 
@@ -1626,13 +1626,13 @@ Homophones
 
 ---
 
-A) To produce energy
+A) To fight disease
 
-B) To store genetic information
+B) To produce energy
 
-C) To digest food
+C) To store genetic information
 
-D) To fight disease
+D) To digest food
 
 ---
 
@@ -1644,13 +1644,13 @@ To store genetic information
 
 ---
 
-A) Asia
+A) Europe
 
-B) Europe
+B) South America
 
 C) Africa
 
-D) South America
+D) Asia
 
 ---
 
@@ -1662,13 +1662,13 @@ Africa
 
 ---
 
-A) The introduction of the main conflict
+A) The setting of the story
 
 B) The highest point of tension in the story
 
 C) The resolution of the story
 
-D) The setting of the story
+D) The introduction of the main conflict
 
 ---
 

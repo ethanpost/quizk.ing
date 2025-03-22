@@ -119,13 +119,13 @@
 
 ---
 
-A) 100,000 men and 300 ships
+A) 290,000 men and 680 ships
 
-B) 200,000 men and 484 ships
+B) 150,000 men and 330 ships
 
-C) 290,000 men and 680 ships
+C) 100,000 men and 300 ships
 
-D) 150,000 men and 330 ships
+D) 200,000 men and 484 ships
 
 ---
 
@@ -137,13 +137,13 @@ D) 150,000 men and 330 ships
 
 ---
 
-A) 264 BCE
+A) 241 BCE
 
-B) 256 BCE
+B) 264 BCE
 
 C) 216 BCE
 
-D) 241 BCE
+D) 256 BCE
 
 ---
 
@@ -155,13 +155,13 @@ D) 241 BCE
 
 ---
 
-A) To protect Italian coastal cities
+A) To establish trade routes across the Mediterranean
 
-B) To counter Carthaginian naval dominance that was hindering their supply lines
+B) To protect Italian coastal cities
 
 C) To transport troops to Spain
 
-D) To establish trade routes across the Mediterranean
+D) To counter Carthaginian naval dominance that was hindering their supply lines
 
 ---
 
@@ -173,13 +173,13 @@ To counter Carthaginian naval dominance that was hindering their supply lines
 
 ---
 
-A) Improved ramming techniques
+A) Catapults mounted on ships
 
 B) Faster ships
 
 C) The corvus boarding bridge
 
-D) Catapults mounted on ships
+D) Improved ramming techniques
 
 ---
 
@@ -191,13 +191,13 @@ The corvus boarding bridge
 
 ---
 
-A) Two
+A) Five
 
-B) Three
+B) Two
 
-C) Four
+C) Three
 
-D) Five
+D) Four
 
 ---
 
@@ -209,13 +209,13 @@ Four
 
 ---
 
-A) Line abreast
+A) Square
 
 B) Crescent
 
-C) Triangle
+C) Line abreast
 
-D) Square
+D) Triangle
 
 ---
 
@@ -227,13 +227,13 @@ Triangle
 
 ---
 
-A) Hamilcar
+A) Hasdrubal
 
-B) Hanno
+B) Hannibal
 
-C) Hannibal
+C) Hanno
 
-D) Hasdrubal
+D) Hamilcar
 
 ---
 
@@ -245,13 +245,13 @@ Hanno
 
 ---
 
-A) Trireme
+A) Hexareme
 
-B) Quinquereme (Krum/Five)
+B) Trireme
 
-C) Hexareme
+C) Bireme
 
-D) Bireme
+D) Quinquereme (Krum/Five)
 
 ---
 
@@ -263,13 +263,13 @@ Quinquereme (Krum/Five)
 
 ---
 
-A) They were sunk by Carthaginian ships
+A) They formed a defensive line along the shore
 
 B) They successfully landed on the African coast
 
 C) They were cut loose by the Romans to improve maneuverability
 
-D) They formed a defensive line along the shore
+D) They were sunk by Carthaginian ships
 
 ---
 
@@ -281,13 +281,13 @@ They were cut loose by the Romans to improve maneuverability
 
 ---
 
-A) Superior numbers overwhelmed the Carthaginians
+A) Weather conditions turned in their favor
 
-B) The corvus boarding bridge proved effective against Carthaginian ramming tactics
+B) Superior numbers overwhelmed the Carthaginians
 
-C) Weather conditions turned in their favor
+C) Carthaginian commanders abandoned the battle
 
-D) Carthaginian commanders abandoned the battle
+D) The corvus boarding bridge proved effective against Carthaginian ramming tactics
 
 ---
 
@@ -299,13 +299,13 @@ The corvus boarding bridge proved effective against Carthaginian ramming tactics
 
 ---
 
-A) 30
+A) 85
 
-B) 45
+B) 30
 
-C) 65
+C) 45
 
-D) 85
+D) 65
 
 ---
 
@@ -317,13 +317,13 @@ D) 85
 
 ---
 
-A) Battle of Zama
+A) Battle of Cannae
 
-B) Battle of Cannae
+B) Battle of Actium
 
-C) Battle of Actium
+C) Battle of Alesia
 
-D) Battle of Alesia
+D) Battle of Zama
 
 ---
 
@@ -335,9 +335,9 @@ Battle of Cannae
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -349,13 +349,13 @@ False
 
 ---
 
-A) Boarding enemy ships
+A) Long-range missile attacks
 
 B) Surrounding and isolating enemy vessels
 
-C) Ramming to damage hulls or shear off oars
+C) Boarding enemy ships
 
-D) Long-range missile attacks
+D) Ramming to damage hulls or shear off oars
 
 ---
 
@@ -367,13 +367,13 @@ Ramming to damage hulls or shear off oars
 
 ---
 
-A) A type of soldier
+A) The Carthaginian elite guard
 
 B) A naval formation
 
-C) The nickname for the fourth division that protected the rear
+C) A type of soldier
 
-D) The Carthaginian elite guard
+D) The nickname for the fourth division that protected the rear
 
 ---
 
@@ -385,9 +385,9 @@ The nickname for the fourth division that protected the rear
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -399,13 +399,13 @@ True
 
 ---
 
-A) 5,000
+A) 30,000
 
-B) 10,000
+B) 20,000
 
-C) 20,000
+C) 5,000
 
-D) 30,000
+D) 10,000
 
 ---
 
@@ -417,13 +417,13 @@ D) 30,000
 
 ---
 
-A) Superior naval technology
+A) Better military commanders
 
-B) Better military commanders
+B) Superior naval technology
 
-C) Greater willingness to commit resources fully to the fight
+C) Larger population base
 
-D) Larger population base
+D) Greater willingness to commit resources fully to the fight
 
 ---
 
@@ -435,13 +435,13 @@ Greater willingness to commit resources fully to the fight
 
 ---
 
-A) A land formation of 5 units
+A) A Roman siege weapon
 
-B) A warship with approximately 300 rowers and 120 marines
+B) A Carthaginian battle tactic
 
-C) A Carthaginian battle tactic
+C) A warship with approximately 300 rowers and 120 marines
 
-D) A Roman siege weapon
+D) A land formation of 5 units
 
 ---
 
@@ -453,13 +453,13 @@ A warship with approximately 300 rowers and 120 marines
 
 ---
 
-A) 10
+A) 65
 
-B) 24
+B) 30
 
-C) 30
+C) 24
 
-D) 65
+D) 10
 
 ---
 

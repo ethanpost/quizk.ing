@@ -66,13 +66,13 @@
 
 ---
 
-A) Uranium-238  
+A) Plutonium-239
 
-B) Uranium-235  
+B) Neptunium-239
 
-C) Plutonium-239  
+C) Uranium-238
 
-D) Neptunium-239  
+D) Uranium-235
 
 ---
 
@@ -84,13 +84,13 @@ Uranium-235
 
 ---
 
-A) To produce electricity only  
+A) To slow down neutrons
 
-B) To convert non-fissile isotopes into fissile isotopes  
+B) To generate steam
 
-C) To slow down neutrons  
+C) To produce electricity only
 
-D) To generate steam  
+D) To convert non-fissile isotopes into fissile isotopes
 
 ---
 
@@ -102,13 +102,13 @@ To convert non-fissile isotopes into fissile isotopes
 
 ---
 
-A) To cool the reactor  
+A) To slow down the reaction
 
-B) To initiate fission in U-235  
+B) To produce argon gas
 
-C) To slow down the reaction  
+C) To initiate fission in U-235
 
-D) To produce argon gas  
+D) To cool the reactor
 
 ---
 
@@ -120,13 +120,13 @@ To initiate fission in U-235
 
 ---
 
-A) Nitrogen-Argon-Krypton  
+A) Nuclear Alkaline Coolant
 
-B) Sodium-Potassium Alloy  
+B) Neutron-Activated Kinetics
 
-C) Neutron-Activated Kinetics  
+C) Sodium-Potassium Alloy
 
-D) Nuclear Alkaline Coolant  
+D) Nitrogen-Argon-Krypton
 
 ---
 
@@ -138,13 +138,13 @@ Sodium-Potassium Alloy
 
 ---
 
-A) To cool the reactor  
+A) To store nuclear waste
 
-B) To reflect neutrons back into the core  
+B) To produce steam
 
-C) To produce steam  
+C) To cool the reactor
 
-D) To store nuclear waste  
+D) To reflect neutrons back into the core
 
 ---
 
@@ -156,9 +156,9 @@ To reflect neutrons back into the core
 
 ---
 
-A) True  
+B) False
 
-B) False  
+A) True
 
 ---
 
@@ -170,13 +170,13 @@ True
 
 ---
 
-A) To increase the reactor's power output  
+A) To cool the liquid metal coolant
 
-B) To initiate the breeding process  
+B) To increase the reactor's power output
 
-C) To shut down the reactor in an emergency  
+C) To initiate the breeding process
 
-D) To cool the liquid metal coolant  
+D) To shut down the reactor in an emergency
 
 ---
 

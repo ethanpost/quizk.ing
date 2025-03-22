@@ -63,11 +63,11 @@ What prophecy was given about Troy's second prince?
 
 ---
 
-A) He would become its greatest king
+A) He would bring destruction to Troy
 
-B) He would bring destruction to Troy
+B) He would unite Greece and Troy
 
-C) He would unite Greece and Troy
+C) He would become its greatest king
 
 D) He would kill his father
 
@@ -81,13 +81,13 @@ Who raised Paris after he was abandoned?
 
 ---
 
-A) A wolf pack
+A) Mountain nymphs
 
 B) The goddess Aphrodite
 
-C) A shepherd named Agelaus
+C) A wolf pack
 
-D) Mountain nymphs
+D) A shepherd named Agelaus
 
 ---
 
@@ -99,13 +99,13 @@ What was inscribed on the golden apple thrown by Eris?
 
 ---
 
-A) "To the most powerful"
+A) "To the most worthy"
 
-B) "To the most beautiful"
+B) "To the most beloved"
 
-C) "To the most worthy"
+C) "To the most powerful"
 
-D) "To the most beloved"
+D) "To the most beautiful"
 
 ---
 
@@ -117,13 +117,13 @@ What gift did Aphrodite offer Paris in the divine beauty contest?
 
 ---
 
-A) Immortality
+A) Military prowess
 
 B) Unlimited wealth
 
-C) Military prowess
+C) The most beautiful woman in the world
 
-D) The most beautiful woman in the world
+D) Immortality
 
 ---
 
@@ -135,13 +135,13 @@ How did Odysseus solve the crisis of Helen's many suitors?
 
 ---
 
-A) He fought them all in combat
+A) He married Helen himself
 
-B) He suggested letting Helen choose her husband
+B) He divided Greece among the suitors
 
-C) He divided Greece among the suitors
+C) He fought them all in combat
 
-D) He married Helen himself
+D) He suggested letting Helen choose her husband
 
 ---
 
@@ -153,13 +153,13 @@ What curse did Apollo place on Cassandra?
 
 ---
 
-A) She would never find love
+A) She would lose her voice
 
 B) She would die young
 
-C) No one would believe her prophecies
+C) She would never find love
 
-D) She would lose her voice
+D) No one would believe her prophecies
 
 ---
 
@@ -171,13 +171,13 @@ How did Paris prove his identity when he returned to Troy?
 
 ---
 
-A) By showing a royal birthmark
+A) By presenting the golden apple
 
-B) By winning athletic games
+B) By showing a royal birthmark
 
 C) By reciting secret family history
 
-D) By presenting the golden apple
+D) By winning athletic games
 
 ---
 
@@ -189,13 +189,13 @@ What did Paris steal from Sparta besides Helen?
 
 ---
 
-A) Military secrets
+A) Sacred relics
 
-B) Sacred relics
+B) Treasury wealth
 
-C) Treasury wealth
+C) Warships
 
-D) Warships
+D) Military secrets
 
 ---
 
@@ -207,9 +207,9 @@ True or False: Cassandra's twin brother Helenus also received the gift of prophe
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -221,13 +221,13 @@ What was the consequence of Helen's suitors' oath?
 
 ---
 
-A) They had to pay tribute to Sparta
+A) They had to renounce their own marriages
 
 B) They had to serve in Menelaus's army
 
-C) They had to defend her marriage if needed
+C) They had to pay tribute to Sparta
 
-D) They had to renounce their own marriages
+D) They had to defend her marriage if needed
 
 ---
 
@@ -239,10 +239,13 @@ What was Odysseus's initial reaction to being called to war?
 
 ---
 
-A) He eagerly volunteered
-B) He pretended to be insane
-C) He refused outright
-D) He tried to bribe his way out
+A) He tried to bribe his way out
+
+B) He refused outright
+
+C) He eagerly volunteered
+
+D) He pretended to be insane
 
 ---
 
@@ -254,10 +257,13 @@ How did Palamedes expose Odysseus's fake insanity?
 
 ---
 
-A) He gave him a truth potion
-B) He placed Telemachus in front of his plow
-C) He threatened his wife
-D) He challenged him to a duel
+A) He challenged him to a duel
+
+B) He threatened his wife
+
+C) He gave him a truth potion
+
+D) He placed Telemachus in front of his plow
 
 ---
 
@@ -269,10 +275,13 @@ What was special about Achilles according to myth?
 
 ---
 
-A) He could fly
-B) He was immortal
+A) He could speak to the gods
+
+B) He could fly
+
 C) He was invulnerable except for his heel
-D) He could speak to the gods
+
+D) He was immortal
 
 ---
 
@@ -284,10 +293,13 @@ Where did Thetis hide Achilles to prevent him from going to war?
 
 ---
 
-A) In a cave
-B) On Mount Olympus
-C) In King Lycomedes's court dressed as a woman
-D) In the underworld
+A) On Mount Olympus
+
+B) In the underworld
+
+C) In a cave
+
+D) In King Lycomedes's court dressed as a woman
 
 ---
 
@@ -299,10 +311,13 @@ How did Odysseus discover Achilles among the women?
 
 ---
 
-A) He recognized his face
+A) He asked each woman their name
+
 B) He followed Thetis there
-C) He laid out gifts including a sword, which Achilles grabbed
-D) He asked each woman their name
+
+C) He recognized his face
+
+D) He laid out gifts including a sword, which Achilles grabbed
 
 ---
 
@@ -314,10 +329,13 @@ What was Circe's initial treatment of Odysseus's men?
 
 ---
 
-A) She welcomed them warmly
-B) She turned them into pigs
-C) She killed them
-D) She imprisoned them
+A) She imprisoned them
+
+B) She killed them
+
+C) She welcomed them warmly
+
+D) She turned them into pigs
 
 ---
 
@@ -329,10 +347,13 @@ How did Odysseus avoid Circe's magic?
 
 ---
 
-A) He was naturally immune
-B) He wore magical armor
+A) He wore magical armor
+
+B) He refused to eat or drink
+
 C) He used an antidote given by Hermes
-D) He refused to eat or drink
+
+D) He was naturally immune
 
 ---
 
@@ -344,10 +365,13 @@ What did Tiresias prophesy in the Underworld?
 
 ---
 
-A) Odysseus would never return home
+A) He would find great treasure
+
 B) All his men would survive
-C) He would return home alone on a foreign ship
-D) He would find great treasure
+
+C) Odysseus would never return home
+
+D) He would return home alone on a foreign ship
 
 ---
 
@@ -359,10 +383,13 @@ What was Achilles's response when Odysseus found him in the Underworld?
 
 ---
 
-A) He was proud of his heroic death
-B) He said he'd rather be a living peasant than king of the dead
-C) He wanted revenge on the Trojans
-D) He was happy in the afterlife
+A) He was happy in the afterlife
+
+B) He wanted revenge on the Trojans
+
+C) He was proud of his heroic death
+
+D) He said he'd rather be a living peasant than king of the dead
 
 ---
 
@@ -374,10 +401,13 @@ How did Odysseus deal with the Sirens?
 
 ---
 
-A) He fought them in battle
-B) He had his men plug their ears with wax and tie him to the mast
-C) He sailed around their island
-D) He sang louder than them
+A) He sang louder than them
+
+B) He sailed around their island
+
+C) He had his men plug their ears with wax and tie him to the mast
+
+D) He fought them in battle
 
 ---
 
@@ -389,10 +419,13 @@ What was the diplomatic mission to Troy about before the war?
 
 ---
 
-A) To form an alliance
-B) To trade goods
-C) To demand Helen's return
-D) To warn of an invasion
+A) To warn of an invasion
+
+B) To form an alliance
+
+C) To trade goods
+
+D) To demand Helen's return
 
 ---
 
@@ -404,10 +437,13 @@ What was King Priam's counter-demand to the Greeks?
 
 ---
 
-A) Payment for Paris's expenses
+A) Control of Sparta
+
 B) Return of his sister Hesione
-C) A marriage alliance
-D) Control of Sparta
+
+C) Payment for Paris's expenses
+
+D) A marriage alliance
 
 ---
 
@@ -419,10 +455,13 @@ What happened to Cassandra when she rejected Apollo?
 
 ---
 
-A) She was turned to stone
-B) She was killed
-C) She was cursed to make true prophecies that no one would believe
-D) She was banished from Troy
+A) She was banished from Troy
+
+B) She was turned to stone
+
+C) She was killed
+
+D) She was cursed to make true prophecies that no one would believe
 
 ---
 
@@ -434,10 +473,13 @@ What was the significance of Odysseus's bed according to Penelope?
 
 ---
 
-A) It was made of gold
-B) It was built around an olive tree and couldn't be moved
-C) It was a wedding gift from the gods
-D) It had magical powers
+A) It had magical powers
+
+B) It was a wedding gift from the gods
+
+C) It was made of gold
+
+D) It was built around an olive tree and couldn't be moved
 
 ---
 
@@ -449,10 +491,13 @@ How long was Odysseus away from home?
 
 ---
 
-A) 5 years
-B) 10 years
-C) 15 years
-D) 20 years
+A) 15 years
+
+B) 5 years
+
+C) 20 years
+
+D) 10 years
 
 ---
 
@@ -464,10 +509,13 @@ What role did the goddess Athena play in Odysseus's return?
 
 ---
 
-A) She tried to prevent it
+A) She killed all his enemies
+
 B) She helped delay dawn to give him more time with Penelope
+
 C) She turned him into a bird
-D) She killed all his enemies
+
+D) She tried to prevent it
 
 ---
 
@@ -479,10 +527,13 @@ What was the relationship between Palamedes and Odysseus?
 
 ---
 
-A) They were best friends
+A) They were cousins
+
 B) They were brothers
-C) They were bitter rivals after Palamedes exposed his madness
-D) They were cousins
+
+C) They were best friends
+
+D) They were bitter rivals after Palamedes exposed his madness
 
 ---
 
@@ -494,10 +545,13 @@ What happened to Elpenor at Circe's palace?
 
 ---
 
-A) He was turned into a pig
-B) He fell from the roof and died
-C) He was poisoned
-D) He stayed with Circe
+A) He stayed with Circe
+
+B) He was poisoned
+
+C) He fell from the roof and died
+
+D) He was turned into a pig
 
 ---
 
@@ -509,10 +563,13 @@ What did the Sirens offer Odysseus specifically?
 
 ---
 
-A) Immortality
-B) Wealth and power
-C) Songs about his deeds in the Trojan War
-D) Knowledge of the future
+A) Knowledge of the future
+
+B) Songs about his deeds in the Trojan War
+
+C) Immortality
+
+D) Wealth and power
 
 ---
 
@@ -524,10 +581,13 @@ What was significant about the walls of Troy?
 
 ---
 
-A) They were made of gold
-B) They were built by the gods Apollo and Poseidon
-C) They could repair themselves
-D) They were invisible to enemies
+A) They could repair themselves
+
+B) They were invisible to enemies
+
+C) They were made of gold
+
+D) They were built by the gods Apollo and Poseidon
 
 ---
 
@@ -539,10 +599,13 @@ Who was Troilus?
 
 ---
 
-A) A Greek spy
-B) Hector's younger brother who was prophesied to save Troy
+A) Paris's son
+
+B) A Greek spy
+
 C) A Trojan general
-D) Paris's son
+
+D) Hector's younger brother who was prophesied to save Troy
 
 ---
 
@@ -554,10 +617,13 @@ How did Achilles kill Troilus?
 
 ---
 
-A) In open battle
-B) By ambushing him at Apollo's Fountain
-C) During a peace negotiation
-D) Inside Troy's walls
+A) During a peace negotiation
+
+B) Inside Troy's walls
+
+C) By ambushing him at Apollo's Fountain
+
+D) In open battle
 
 ---
 
@@ -569,10 +635,13 @@ What invention is credited to Palamedes during the siege?
 
 ---
 
-A) The catapult
-B) The dice game
-C) The bow and arrow
-D) The siege tower
+A) The siege tower
+
+B) The bow and arrow
+
+C) The catapult
+
+D) The dice game
 
 ---
 
@@ -584,10 +653,13 @@ How did Palamedes die?
 
 ---
 
-A) In battle
-B) By suicide
-C) By stoning after being framed as a traitor
-D) From disease
+A) From disease
+
+B) In battle
+
+C) By suicide
+
+D) By stoning after being framed as a traitor
 
 ---
 
@@ -599,10 +671,13 @@ What was the Greeks' initial strategy against Troy?
 
 ---
 
-A) Direct assault on the walls
-B) Building a wooden horse
+A) Building a wooden horse
+
+B) Poisoning the water supply
+
 C) Diplomatic negotiations
-D) Poisoning the water supply
+
+D) Direct assault on the walls
 
 ---
 
@@ -614,10 +689,13 @@ Why did the Greek siege of Troy initially fail?
 
 ---
 
-A) The Trojans had better weapons
+A) The Greek army was too small
+
 B) The gods protected the city
-C) Troy had many allies providing supplies
-D) The Greek army was too small
+
+C) The Trojans had better weapons
+
+D) Troy had many allies providing supplies
 
 ---
 
@@ -629,10 +707,13 @@ What happened to Palamedes's father after his son's death?
 
 ---
 
-A) He joined the Trojans
-B) He took his army back to Greece
-C) He committed suicide
-D) He challenged Agamemnon to a duel
+A) He challenged Agamemnon to a duel
+
+B) He committed suicide
+
+C) He joined the Trojans
+
+D) He took his army back to Greece
 
 ---
 
@@ -644,10 +725,13 @@ Who was Cycnus?
 
 ---
 
-A) A Greek hero
-B) A demigod son of Poseidon who fought for Troy
-C) A Trojan prince
-D) One of Helen's suitors
+A) A Trojan prince
+
+B) One of Helen's suitors
+
+C) A Greek hero
+
+D) A demigod son of Poseidon who fought for Troy
 
 ---
 
@@ -659,10 +743,13 @@ What made Cycnus special in battle?
 
 ---
 
-A) He could fly
-B) He was invulnerable to weapons
-C) He could transform into a swan
-D) He had supernatural strength
+A) He could transform into a swan
+
+B) He had supernatural strength
+
+C) He could fly
+
+D) He was invulnerable to weapons
 
 ---
 

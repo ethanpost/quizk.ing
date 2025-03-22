@@ -53,11 +53,11 @@ What is the correct pronunciation of the Latin letter 'C'?
 
 ---
 
-A) Like 's' in "cinch"
+A) Like 'k' in "cat"
 
 B) Like 'ch' in "church"
 
-C) Like 'k' in "cat"
+C) Like 's' in "cinch"
 
 D) Like 'c' in "city"
 
@@ -71,13 +71,13 @@ How is the Latin name "Caesar" correctly pronounced in Classical Latin?
 
 ---
 
-A) See-zer
+A) Say-sar
 
-B) Chai-sar
+B) See-zer
 
-C) Kai-sar
+C) Chai-sar
 
-D) Say-sar
+D) Kai-sar
 
 ---
 
@@ -89,13 +89,13 @@ When does the letter 'I' function as a consonant in Latin?
 
 ---
 
-A) When it appears at the end of a word
+A) When it appears after a consonant
 
 B) When it appears between two consonants
 
-C) When it begins a word and is followed by a vowel
+C) When it appears at the end of a word
 
-D) When it appears after a consonant
+D) When it begins a word and is followed by a vowel
 
 ---
 
@@ -107,13 +107,13 @@ The Latin letter 'V' is pronounced like which English sound?
 
 ---
 
-A) 'v' as in "very"
+A) 'u' as in "under"
 
-B) 'w' as in "way"
+B) 'f' as in "father"
 
-C) 'u' as in "under"
+C) 'w' as in "way"
 
-D) 'f' as in "father"
+D) 'v' as in "very"
 
 ---
 
@@ -125,13 +125,13 @@ What is the correct pronunciation of 'PH' in Classical Latin?
 
 ---
 
-A) Like 'f' as in "phone"
+A) Like 'ph' as in "shepherd"
 
-B) Like 'p' with an extra breath
+B) Like 'v' as in "victory"
 
-C) Like 'ph' as in "shepherd"
+C) Like 'f' as in "phone"
 
-D) Like 'v' as in "victory"
+D) Like 'p' with an extra breath
 
 ---
 
@@ -143,9 +143,9 @@ True or False: The Latin letter 'S' can sometimes be pronounced like a 'z' sound
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -157,13 +157,13 @@ What happens to the 'u' that follows the letter 'Q' in Latin?
 
 ---
 
-A) It becomes a long vowel
+A) It becomes a consonant
 
 B) It becomes a short vowel
 
-C) It doesn't count as a vowel
+C) It becomes a long vowel
 
-D) It becomes a consonant
+D) It doesn't count as a vowel
 
 ---
 
@@ -175,13 +175,13 @@ The Latin letter 'R' was nicknamed what by the Romans?
 
 ---
 
-A) The cat letter
+A) The snake letter
 
-B) The dog letter
+B) The bird letter
 
-C) The bird letter
+C) The cat letter
 
-D) The snake letter
+D) The dog letter
 
 ---
 

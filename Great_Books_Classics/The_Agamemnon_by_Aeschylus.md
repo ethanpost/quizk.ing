@@ -91,13 +91,13 @@ The play runs about 1,673 lines in the original Greek, typically lasting 90 minu
 
 ---
 
-A) Orestes
+A) Clytemnestra
 
-B) Aegisthus
+B) Cassandra
 
-C) Cassandra
+C) Orestes
 
-D) Clytemnestra
+D) Aegisthus
 
 ---
 
@@ -109,13 +109,13 @@ Clytemnestra
 
 ---
 
-A) Paris's advisor
+A) Helen's husband
 
-B) Commander-in-chief of the Greek forces
+B) A Trojan warrior
 
-C) A Trojan warrior
+C) Paris's advisor
 
-D) Helen's husband
+D) Commander-in-chief of the Greek forces
 
 ---
 
@@ -127,13 +127,13 @@ Commander-in-chief of the Greek forces
 
 ---
 
-A) He imprisoned her during the war
+A) He married another woman
 
 B) He stole her wealth
 
-C) He sacrificed their daughter Iphigenia
+C) He imprisoned her during the war
 
-D) He married another woman
+D) He sacrificed their daughter Iphigenia
 
 ---
 
@@ -145,13 +145,13 @@ He sacrificed their daughter Iphigenia
 
 ---
 
-A) Aegisthus's wife
+A) Clytemnestra's servant
 
-B) A Trojan princess and prophetess
+B) Agamemnon's sister
 
-C) Agamemnon's sister
+C) A Trojan princess and prophetess
 
-D) Clytemnestra's servant
+D) Aegisthus's wife
 
 ---
 
@@ -163,11 +163,11 @@ A Trojan princess and prophetess
 
 ---
 
-A) She escapes to Greece
+A) She becomes the new queen
 
 B) She marries Aegisthus
 
-C) She becomes the new queen
+C) She escapes to Greece
 
 D) She is murdered along with Agamemnon
 
@@ -181,13 +181,13 @@ She is murdered along with Agamemnon
 
 ---
 
-A) They are the main antagonists
+A) They are Clytemnestra's servants
 
 B) They fight alongside Agamemnon
 
-C) They provide commentary and context
+C) They are the main antagonists
 
-D) They are Clytemnestra's servants
+D) They provide commentary and context
 
 ---
 
@@ -199,13 +199,13 @@ They provide commentary and context
 
 ---
 
-A) A solar eclipse
+A) A flock of dead birds
 
 B) A burning city
 
-C) A signal fire announcing Troy's fall
+C) A solar eclipse
 
-D) A flock of dead birds
+D) A signal fire announcing Troy's fall
 
 ---
 
@@ -217,13 +217,13 @@ A signal fire announcing Troy's fall
 
 ---
 
-A) Clytemnestra's lover and co-conspirator
+A) Agamemnon's brother
 
-B) Cassandra's brother
+B) The leader of the Chorus
 
-C) The leader of the Chorus
+C) Clytemnestra's lover and co-conspirator
 
-D) Agamemnon's brother
+D) Cassandra's brother
 
 ---
 
@@ -235,13 +235,13 @@ Clytemnestra's lover and co-conspirator
 
 ---
 
-A) They represent hubris and pride
+A) They are wedding gifts
 
-B) They are burial shrouds
+B) They symbolize royal wealth
 
-C) They symbolize royal wealth
+C) They are burial shrouds
 
-D) They are wedding gifts
+D) They represent hubris and pride
 
 ---
 
@@ -253,13 +253,13 @@ They represent hubris and pride
 
 ---
 
-A) Clytemnestra betrayed her husband
+A) Apollo was angered by Agamemnon
 
-B) Thyestes ate his own children
+B) Helen ran away to Troy
 
-C) Apollo was angered by Agamemnon
+C) Clytemnestra betrayed her husband
 
-D) Helen ran away to Troy
+D) Thyestes ate his own children
 
 ---
 
@@ -271,9 +271,9 @@ Thyestes ate his own children
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -285,13 +285,13 @@ False
 
 ---
 
-A) The danger of sea travel
+A) The coming of the Trojans
 
 B) A natural disaster
 
-C) Her own and Agamemnon's murder
+C) The danger of sea travel
 
-D) The coming of the Trojans
+D) Her own and Agamemnon's murder
 
 ---
 
@@ -303,13 +303,13 @@ Her own and Agamemnon's murder
 
 ---
 
-A) With a sword in battle
+A) With poison at dinner
 
-B) In his bath with a net and sword
+B) While he sleeps
 
-C) While he sleeps
+C) With a sword in battle
 
-D) With poison at dinner
+D) In his bath with a net and sword
 
 ---
 
@@ -321,13 +321,13 @@ In his bath with a net and sword
 
 ---
 
-A) Family loyalty
+A) War and glory
 
-B) War and glory
+B) Romantic love
 
 C) Justice and revenge
 
-D) Romantic love
+D) Family loyalty
 
 ---
 
@@ -339,13 +339,13 @@ Justice and revenge
 
 ---
 
-A) Aegisthus
+A) Agamemnon
 
-B) Cassandra
+B) Aegisthus
 
 C) Clytemnestra
 
-D) Agamemnon
+D) Cassandra
 
 ---
 
@@ -357,13 +357,13 @@ Clytemnestra
 
 ---
 
-A) His crown
+A) His wealth
 
-B) His daughter Iphigenia
+B) His crown
 
 C) His wife
 
-D) His wealth
+D) His daughter Iphigenia
 
 ---
 
@@ -389,13 +389,13 @@ False
 
 ---
 
-A) It is irrelevant to the story
+A) It only affects minor characters
 
-B) It determines all actions
+B) It can be overcome by human will
 
-C) It can be overcome by human will
+C) It is irrelevant to the story
 
-D) It only affects minor characters
+D) It determines all actions
 
 ---
 
@@ -407,13 +407,13 @@ It determines all actions
 
 ---
 
-A) An eagle
+A) A wolf
 
 B) A snake
 
 C) A lioness
 
-D) A wolf
+D) An eagle
 
 ---
 
@@ -425,13 +425,13 @@ A lioness
 
 ---
 
-A) They save her life
+A) They help her escape
 
 B) They cause her suffering because no one believes her
 
 C) They bring her happiness
 
-D) They help her escape
+D) They save her life
 
 ---
 

@@ -2,11 +2,11 @@
 
 ---
 
-A) The setting where the story takes place
+A) The most important point the author wants to share
 
-B) The most important point the author wants to share
+B) The characters in the story
 
-C) The characters in the story
+C) The setting where the story takes place
 
 D) The ending of the story
 
@@ -20,13 +20,13 @@ The most important point the author wants to share
 
 ---
 
-A) Run
+A) Quickly
 
-B) Dog
+B) Jump
 
-C) Quickly
+C) Run
 
-D) Jump  
+D) Dog
 
 ---
 
@@ -38,9 +38,9 @@ Dog
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -52,13 +52,13 @@ True
 
 ---
 
-A) Scared
+A) Quiet
 
-B) Strong and fearless
+B) Tired
 
-C) Tired
+C) Strong and fearless
 
-D) Quiet  
+D) Scared
 
 ---
 
@@ -70,13 +70,13 @@ Strong and fearless
 
 ---
 
-A) the cat ran fast
+A) The cat ran fast.
 
-B) The cat ran fast.
+B) the Cat Ran Fast
 
-C) the Cat Ran Fast
+C) the cat ran fast
 
-D) The cat ran fast  
+D) The cat ran fast
 
 ---
 
@@ -88,13 +88,13 @@ The cat ran fast.
 
 ---
 
-A) Sad
+A) Angry
 
-B) Glad
+B) Sleepy
 
-C) Angry
+C) Glad
 
-D) Sleepy  
+D) Sad
 
 ---
 
@@ -106,9 +106,9 @@ Glad
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -120,13 +120,13 @@ True
 
 ---
 
-A) Water, sunlight, and air
+A) Darkness
 
-B) Rocks and sand
+B) Only water
 
-C) Only water
+C) Water, sunlight, and air
 
-D) Darkness  
+D) Rocks and sand
 
 ---
 
@@ -138,13 +138,13 @@ Water, sunlight, and air
 
 ---
 
-A) Florida
+A) Texas
 
-B) Africa
+B) New York
 
-C) New York
+C) Africa
 
-D) Texas  
+D) Florida
 
 ---
 
@@ -156,13 +156,13 @@ Africa
 
 ---
 
-A) Abraham Lincoln
+A) Thomas Jefferson
 
-B) George Washington
+B) Benjamin Franklin
 
-C) Thomas Jefferson
+C) Abraham Lincoln
 
-D) Benjamin Franklin  
+D) George Washington
 
 ---
 
@@ -174,13 +174,13 @@ George Washington
 
 ---
 
-A) The problem the characters face
+A) The lesson learned
 
-B) The time and place where the story happens
+B) The main character
 
-C) The main character
+C) The problem the characters face
 
-D) The lesson learned  
+D) The time and place where the story happens
 
 ---
 
@@ -192,13 +192,13 @@ The time and place where the story happens
 
 ---
 
-A) Tall
+A) Fast
 
-B) Run
+B) Dog
 
-C) Dog
+C) Tall
 
-D) Fast  
+D) Run
 
 ---
 
@@ -210,9 +210,9 @@ Tall
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -224,13 +224,13 @@ False
 
 ---
 
-A) To guess what will happen next
+A) To draw a picture
 
-B) To tell a story
+B) To ask a question
 
-C) To draw a picture
+C) To tell a story
 
-D) To ask a question  
+D) To guess what will happen next
 
 ---
 
@@ -242,13 +242,13 @@ To guess what will happen next
 
 ---
 
-A) The big red ball
+A) Running in the park
 
-B) The dog barks loudly.
+B) The big red ball
 
-C) Running in the park
+C) The dog barks loudly.
 
-D) Happy little girl  
+D) Happy little girl
 
 ---
 
@@ -260,13 +260,13 @@ The dog barks loudly.
 
 ---
 
-A) Magnetism
+A) Wind
 
-B) Gravity
+B) Electricity
 
-C) Wind
+C) Magnetism
 
-D) Electricity  
+D) Gravity
 
 ---
 
@@ -280,7 +280,7 @@ Gravity
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -292,13 +292,13 @@ True
 
 ---
 
-A) Biologist
+A) Chemist
 
 B) Astronomer
 
 C) Geologist
 
-D) Chemist  
+D) Biologist
 
 ---
 
@@ -310,13 +310,13 @@ Geologist
 
 ---
 
-A) California
+A) Mexico
 
-B) Canada
+B) England
 
-C) Mexico
+C) Canada
 
-D) England  
+D) California
 
 ---
 
@@ -328,13 +328,13 @@ California
 
 ---
 
-A) To tell time
+A) To draw pictures
 
 B) To show where places are
 
 C) To write a story
 
-D) To draw pictures  
+D) To tell time
 
 ---
 
@@ -346,13 +346,13 @@ To show where places are
 
 ---
 
-A) The beginning
+A) The characters
 
-B) The lesson or message
+B) The title
 
-C) The title
+C) The beginning
 
-D) The characters  
+D) The lesson or message
 
 ---
 
@@ -364,13 +364,13 @@ The lesson or message
 
 ---
 
-A) Table
+A) Chair
 
-B) Sing
+B) Blue
 
-C) Blue
+C) Sing
 
-D) Chair  
+D) Table
 
 ---
 
@@ -382,9 +382,9 @@ Sing
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -396,13 +396,13 @@ True
 
 ---
 
-A) Very small
+A) Very loud
 
-B) Very big
+B) Very fast
 
-C) Very fast
+C) Very big
 
-D) Very loud  
+D) Very small
 
 ---
 
@@ -414,13 +414,13 @@ Very big
 
 ---
 
-A) I like to play soccer
+A) I like to play soccer?
 
-B) I like to play soccer.
+B) i like to play soccer
 
-C) i like to play soccer
+C) I like to play soccer.
 
-D) I like to play soccer?  
+D) I like to play soccer
 
 ---
 
@@ -432,13 +432,13 @@ I like to play soccer.
 
 ---
 
-A) The Moon
+A) The stars
 
-B) The Sun
+B) The wind
 
-C) The stars
+C) The Moon
 
-D) The wind  
+D) The Sun
 
 ---
 
@@ -452,7 +452,7 @@ The Sun
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -464,13 +464,13 @@ True
 
 ---
 
-A) Sun
+A) Star
 
-B) Mars
+B) Moon
 
-C) Moon
+C) Mars
 
-D) Star  
+D) Sun
 
 ---
 
@@ -482,13 +482,13 @@ Mars
 
 ---
 
-A) President
+A) King
 
 B) Governor
 
 C) Mayor
 
-D) King  
+D) President
 
 ---
 
@@ -500,9 +500,9 @@ Mayor
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -514,13 +514,13 @@ True
 
 ---
 
-A) The setting
+A) The plot
 
-B) The main character
+B) The author
 
-C) The plot
+C) The setting
 
-D) The author  
+D) The main character
 
 ---
 
@@ -532,13 +532,13 @@ The main character
 
 ---
 
-A) Slowly
+A) Tree
 
-B) Dog
+B) Tall
 
-C) Tall
+C) Dog
 
-D) Tree  
+D) Slowly
 
 ---
 
@@ -552,7 +552,7 @@ Slowly
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -564,13 +564,13 @@ False
 
 ---
 
-A) To tell how things are different
+A) To draw a picture
 
 B) To tell how things are alike
 
-C) To draw a picture
+C) To ask a question
 
-D) To ask a question  
+D) To tell how things are different
 
 ---
 
@@ -582,13 +582,13 @@ To tell how things are alike
 
 ---
 
-A) the dog is brown
+A) the dog is Brown
 
 B) The dog is brown.
 
 C) the Dog is brown
 
-D) the dog is Brown  
+D) the dog is brown
 
 ---
 
@@ -600,13 +600,13 @@ The dog is brown.
 
 ---
 
-A) Oxygen
+A) Sugar
 
 B) Carbon dioxide
 
 C) Water
 
-D) Sugar  
+D) Oxygen
 
 ---
 
@@ -618,9 +618,9 @@ Oxygen
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -632,13 +632,13 @@ True
 
 ---
 
-A) Rock
+A) Car
 
-B) Tree
+B) Cloud
 
-C) Cloud
+C) Tree
 
-D) Car  
+D) Rock
 
 ---
 
@@ -650,13 +650,13 @@ Tree
 
 ---
 
-A) Florida
+A) Texas
 
-B) New York
+B) Florida
 
 C) Washington, D.C.
 
-D) Texas  
+D) New York
 
 ---
 
@@ -670,7 +670,7 @@ Washington, D.C.
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -682,13 +682,13 @@ False
 
 ---
 
-A) The climax
+A) The ending
 
-B) The introduction
+B) The middle
 
-C) The ending
+C) The introduction
 
-D) The middle  
+D) The climax
 
 ---
 
@@ -700,13 +700,13 @@ The introduction
 
 ---
 
-A) Jump
+A) Fast
 
-B) Apple
+B) Jump
 
-C) Fast
+C) Sing
 
-D) Sing  
+D) Apple
 
 ---
 
@@ -718,9 +718,9 @@ Apple
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -732,13 +732,13 @@ True
 
 ---
 
-A) Very big
+A) Very fast
 
-B) Very small
+B) Very loud
 
-C) Very loud
+C) Very small
 
-D) Very fast  
+D) Very big
 
 ---
 
@@ -750,13 +750,13 @@ Very small
 
 ---
 
-A) The bird flies high.
+A) The bird is red
 
 B) Where is the bird?
 
-C) The bird is red
+C) I see the bird
 
-D) I see the bird  
+D) The bird flies high.
 
 ---
 
@@ -768,13 +768,13 @@ Where is the bird?
 
 ---
 
-A) The Moon moving around the Earth
+A) The clouds
 
-B) The Earth spinning
+B) The Sun moving
 
-C) The Sun moving
+C) The Earth spinning
 
-D) The clouds  
+D) The Moon moving around the Earth
 
 ---
 
@@ -786,9 +786,9 @@ The Earth spinning
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -800,13 +800,13 @@ True
 
 ---
 
-A) Mountain
+A) Forest
 
-B) Rain
+B) Mountain
 
-C) River
+C) Rain
 
-D) Forest  
+D) River
 
 ---
 
@@ -818,13 +818,13 @@ Rain
 
 ---
 
-A) A mountain
+A) A forest
 
-B) An island
+B) A mountain
 
 C) A desert
 
-D) A forest  
+D) An island
 
 ---
 
@@ -836,9 +836,9 @@ An island
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -850,13 +850,13 @@ True
 
 ---
 
-A) The solution
+A) The theme
 
-B) The conflict
+B) The setting
 
-C) The setting
+C) The solution
 
-D) The theme  
+D) The conflict
 
 ---
 
@@ -868,13 +868,13 @@ The conflict
 
 ---
 
-A) Cat
+A) Soft
 
-B) Sleep
+B) Cat
 
-C) Soft
+C) Sleep
 
-D) Chair  
+D) Chair
 
 ---
 
@@ -888,7 +888,7 @@ Sleep
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -900,13 +900,13 @@ True
 
 ---
 
-A) To whisper
+A) To run fast
 
-B) To talk loudly
+B) To whisper
 
 C) To sit quietly
 
-D) To run fast  
+D) To talk loudly
 
 ---
 
@@ -918,13 +918,13 @@ To talk loudly
 
 ---
 
-A) Mom said, "Clean your room."
+A) "Mom said, Clean your room"
 
-B) Mom said, Clean your room.
+B) Mom said "Clean your room"
 
-C) Mom said "Clean your room"
+C) Mom said, Clean your room.
 
-D) "Mom said, Clean your room"  
+D) Mom said, "Clean your room."
 
 ---
 
@@ -936,13 +936,13 @@ Mom said, "Clean your room."
 
 ---
 
-A) The Moon
+A) Mars
 
-B) The Sun
+B) Jupiter
 
-C) Mars
+C) The Sun
 
-D) Jupiter  
+D) The Moon
 
 ---
 
@@ -954,9 +954,9 @@ The Sun
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -970,11 +970,11 @@ True
 
 A) Snake
 
-B) Crocodile
+B) Dolphin
 
-C) Dolphin
+C) Lizard
 
-D) Lizard  
+D) Crocodile
 
 ---
 
@@ -986,13 +986,13 @@ Dolphin
 
 ---
 
-A) A flat map
+A) A clock
 
-B) A round model of the Earth
+B) A book
 
-C) A book
+C) A round model of the Earth
 
-D) A clock  
+D) A flat map
 
 ---
 
@@ -1006,7 +1006,7 @@ A round model of the Earth
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1018,13 +1018,13 @@ True
 
 ---
 
-A) The beginning
+A) The setting
 
-B) The climax
+B) The beginning
 
-C) The conclusion
+C) The climax
 
-D) The setting  
+D) The conclusion
 
 ---
 
@@ -1036,13 +1036,13 @@ The conclusion
 
 ---
 
-A) Run
+A) Dog
 
-B) Happy
+B) Run
 
-C) Dog
+C) Happy
 
-D) Sing  
+D) Sing
 
 ---
 
@@ -1054,9 +1054,9 @@ Happy
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -1068,13 +1068,13 @@ True
 
 ---
 
-A) Very hot
+A) Very bright
 
 B) Very cold
 
-C) Very loud
+C) Very hot
 
-D) Very bright  
+D) Very loud
 
 ---
 
@@ -1086,13 +1086,13 @@ Very cold
 
 ---
 
-A) I like to read books
+A) i like to read books
 
 B) I like to read books.
 
-C) i like to read books
+C) I like to read Books
 
-D) I like to read Books  
+D) I like to read books
 
 ---
 
@@ -1104,13 +1104,13 @@ I like to read books.
 
 ---
 
-A) Food, water, and air
+A) Books
 
-B) Rocks and sand
+B) Only sunlight
 
-C) Only sunlight
+C) Food, water, and air
 
-D) Books  
+D) Rocks and sand
 
 ---
 
@@ -1124,7 +1124,7 @@ Food, water, and air
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1136,13 +1136,13 @@ False
 
 ---
 
-A) Plastic
+A) Glass
 
-B) Granite
+B) Paper
 
-C) Paper
+C) Plastic
 
-D) Glass  
+D) Granite
 
 ---
 
@@ -1154,13 +1154,13 @@ Granite
 
 ---
 
-A) Geologist
+A) Chemist
 
-B) Biologist
+B) Astronomer
 
-C) Astronomer
+C) Biologist
 
-D) Chemist  
+D) Geologist
 
 ---
 
@@ -1172,9 +1172,9 @@ Astronomer
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -1186,13 +1186,13 @@ True
 
 ---
 
-A) The characters
+A) The plot
 
-B) The big idea or message
+B) The setting
 
-C) The setting
+C) The big idea or message
 
-D) The plot  
+D) The characters
 
 ---
 
@@ -1204,13 +1204,13 @@ The big idea or message
 
 ---
 
-A) Dog
+A) Tree
 
-B) Quickly
+B) Dog
 
-C) Tall
+C) Quickly
 
-D) Tree  
+D) Tall
 
 ---
 
@@ -1224,7 +1224,7 @@ Quickly
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1236,13 +1236,13 @@ False
 
 ---
 
-A) Sad
+A) Tired
 
-B) Happy
+B) Angry
 
-C) Angry
+C) Happy
 
-D) Tired  
+D) Sad
 
 ---
 
@@ -1254,13 +1254,13 @@ Happy
 
 ---
 
-A) She run to the park.
+A) She running to the park.
 
-B) She runs to the park.
+B) She runned to the park.
 
-C) She running to the park.
+C) She run to the park.
 
-D) She runned to the park.  
+D) She runs to the park.
 
 ---
 
@@ -1272,13 +1272,13 @@ She runs to the park.
 
 ---
 
-A) The Earth tilting as it goes around the Sun
+A) The stars
 
 B) The Moon moving
 
 C) The Sun getting hotter
 
-D) The stars  
+D) The Earth tilting as it goes around the Sun
 
 ---
 
@@ -1290,9 +1290,9 @@ The Earth tilting as it goes around the Sun
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -1304,13 +1304,13 @@ True
 
 ---
 
-A) A mirror
+A) A chair
 
-B) A lamp
+B) A book
 
-C) A book
+C) A lamp
 
-D) A chair  
+D) A mirror
 
 ---
 
@@ -1322,13 +1322,13 @@ A lamp
 
 ---
 
-A) A family
+A) A team
 
-B) A community
+B) A school
 
-C) A school
+C) A community
 
-D) A team  
+D) A family
 
 ---
 
@@ -1342,7 +1342,7 @@ A community
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1354,13 +1354,13 @@ True
 
 ---
 
-A) The events that happen
+A) The lesson
 
-B) The setting
+B) The events that happen
 
-C) The characters
+C) The setting
 
-D) The lesson  
+D) The characters
 
 ---
 
@@ -1372,13 +1372,13 @@ The events that happen
 
 ---
 
-A) Swim
+A) Fast
 
-B) River
+B) Jump
 
-C) Fast
+C) River
 
-D) Jump  
+D) Swim
 
 ---
 
@@ -1392,7 +1392,7 @@ River
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1404,13 +1404,13 @@ True
 
 ---
 
-A) Slow
+A) Small
 
 B) Fast
 
 C) Quiet
 
-D) Small  
+D) Slow
 
 ---
 
@@ -1422,13 +1422,13 @@ Fast
 
 ---
 
-A) I have a dog, and a cat.
+A) I, have a dog and a cat
 
-B) I have a dog and a cat
+B) I have a dog and, a cat
 
-C) I have a dog and, a cat
+C) I have a dog, and a cat.
 
-D) I, have a dog and a cat  
+D) I have a dog and a cat
 
 ---
 
@@ -1440,13 +1440,13 @@ I have a dog, and a cat.
 
 ---
 
-A) Earth
+A) Saturn
 
 B) Mars
 
-C) Jupiter
+C) Earth
 
-D) Saturn  
+D) Jupiter
 
 ---
 
@@ -1458,9 +1458,9 @@ Jupiter
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -1472,13 +1472,13 @@ True
 
 ---
 
-A) Plastic
+A) Glass
 
-B) Water
+B) Concrete
 
-C) Concrete
+C) Water
 
-D) Glass  
+D) Plastic
 
 ---
 
@@ -1490,13 +1490,13 @@ Water
 
 ---
 
-A) Currency
+A) Trade
 
-B) Trade
+B) Currency
 
-C) Goods
+C) Map
 
-D) Map  
+D) Goods
 
 ---
 
@@ -1510,7 +1510,7 @@ Currency
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1522,13 +1522,13 @@ True
 
 ---
 
-A) The setting
+A) The ending
 
-B) The words characters say
+B) The problem
 
-C) The ending
+C) The words characters say
 
-D) The problem  
+D) The setting
 
 ---
 
@@ -1540,13 +1540,13 @@ The words characters say
 
 ---
 
-A) Tree
+A) Green
 
-B) Grow
+B) Tree
 
-C) Green
+C) Leaf
 
-D) Leaf  
+D) Grow
 
 ---
 
@@ -1558,9 +1558,9 @@ Grow
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 
@@ -1572,13 +1572,13 @@ True
 
 ---
 
-A) Loud
+A) Fast
 
-B) Peaceful
+B) Angry
 
-C) Fast
+C) Peaceful
 
-D) Angry  
+D) Loud
 
 ---
 
@@ -1590,13 +1590,13 @@ Peaceful
 
 ---
 
-A) The tall tree
+A) Running fast
 
 B) The bird flies.
 
-C) Running fast
+C) Happy children
 
-D) Happy children  
+D) The tall tree
 
 ---
 
@@ -1608,13 +1608,13 @@ The bird flies.
 
 ---
 
-A) Orbit
+A) Circle
 
-B) Spin
+B) Tilt
 
-C) Tilt
+C) Orbit
 
-D) Circle  
+D) Spin
 
 ---
 
@@ -1628,7 +1628,7 @@ Orbit
 
 A) True
 
-B) False  
+B) False
 
 ---
 
@@ -1640,13 +1640,13 @@ True
 
 ---
 
-A) Frog
+A) Mouse
 
-B) Snake
+B) Bird
 
-C) Mouse
+C) Snake
 
-D) Bird  
+D) Frog
 
 ---
 
@@ -1658,13 +1658,13 @@ Snake
 
 ---
 
-A) Atlantic
+A) Arctic
 
-B) Pacific
+B) Indian
 
-C) Indian
+C) Atlantic
 
-D) Arctic  
+D) Pacific
 
 ---
 
@@ -1676,9 +1676,9 @@ Pacific
 
 ---
 
-A) True
+A) False
 
-B) False  
+B) True
 
 ---
 

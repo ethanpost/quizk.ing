@@ -1,76 +1,94 @@
-## Which literary device involves giving human qualities to non-human things?
+## The American Revolution took place during which century?
 
 ---
 
-A) Metaphor
+A) 17th century
 
-B) Simile
+B) 18th century
 
-C) Personification
+C) 19th century
 
-D) Alliteration
+D) 20th century
 
 ---
 
-Personification
+18th century
 
 ///
 
-## What is the main function of a thesis statement?
+## Which gas makes up the largest percentage of Earth's atmosphere?
 
 ---
 
-A) To summarize the entire essay
+A) Oxygen
 
-B) To present the author's main argument
+B) Carbon dioxide
 
-C) To introduce a counterargument
+C) Nitrogen
 
-D) To conclude the essay
+D) Hydrogen
 
 ---
 
-To present the author's main argument
+Nitrogen
 
 ///
 
-## Which of the following is an example of figurative language?
+## Who wrote "Romeo and Juliet"?
 
 ---
 
-A) The car is red.
+A) Charles Dickens
 
-B) He walked to school.
+B) William Shakespeare
 
-C) Her smile was as bright as the sun.
+C) Jane Austen
 
-D) The test was on Friday.
+D) Mark Twain
 
 ---
 
-Her smile was as bright as the sun.
+William Shakespeare
 
 ///
 
-## What is the difference between a simile and a metaphor?
+## The smallest unit of an element that maintains its chemical properties is called a(n):
 
 ---
 
-A) A simile uses "like" or "as"; a metaphor makes a direct comparison
+A) Atom
 
-B) A simile is always longer than a metaphor
+B) Molecule
 
-C) A metaphor uses "like" or "as"; a simile makes a direct comparison
+C) Cell
 
-D) There is no difference
+D) Enzyme
 
 ---
 
-A simile uses "like" or "as"; a metaphor makes a direct comparison
+Atom
 
 ///
 
-## Which part of speech modifies a verb?
+## The U.S. Constitution was written in what year?
+
+---
+
+A) 1776
+
+B) 1787
+
+C) 1800
+
+D) 1812
+
+---
+
+1787
+
+///
+
+## Which grammatical term describes a word that modifies a verb?
 
 ---
 
@@ -88,233 +106,791 @@ Adverb
 
 ///
 
-## The central message or insight about life revealed in a literary work is called:
+## The process by which plants make their own food using sunlight is called:
 
 ---
 
-A) Theme
+A) Respiration
 
-B) Plot
+B) Photosynthesis
 
-C) Setting
+C) Digestion
 
-D) Conflict
+D) Fermentation
 
 ---
 
-Theme
+Photosynthesis
 
 ///
 
-## Which of the following is a compound sentence?
+## The novel "To Kill a Mockingbird" was written by:
 
 ---
 
-A) The dog barked.
+A) Ernest Hemingway
 
-B) The dog barked, and the cat meowed.
+B) F. Scott Fitzgerald
 
-C) Because the dog barked, the cat meowed.
+C) Harper Lee
 
-D) The dog, which was large, barked loudly.
+D) John Steinbeck
 
 ---
 
-The dog barked, and the cat meowed.
+Harper Lee
 
 ///
 
-## What is the purpose of foreshadowing in literature?
+## Which branch of the U.S. government is responsible for interpreting laws?
 
 ---
 
-A) To confuse the reader
+A) Executive
 
-B) To hint at what will happen later
+B) Legislative
 
-C) To describe the setting
+C) Judicial
 
-D) To develop character traits
+D) Parliamentary
 
 ---
 
-To hint at what will happen later
+Judicial
 
 ///
 
-## What is the main difference between a protagonist and an antagonist?
+## The powerhouse of the cell is the:
 
 ---
 
-A) The protagonist is human; the antagonist is not
+A) Nucleus
 
-B) The protagonist is good; the antagonist is always evil
+B) Mitochondria
 
-C) The protagonist is the main character; the antagonist opposes the protagonist
+C) Ribosome
 
-D) The protagonist appears more frequently in the story
+D) Golgi apparatus
 
 ---
 
-The protagonist is the main character; the antagonist opposes the protagonist
+Mitochondria
 
 ///
 
-## Which sentence uses the correct form of the verb?
+## A simile is a figure of speech that:
 
 ---
 
-A) Neither of the students have completed the assignment.
+A) Directly compares two unlike things
 
-B) Neither of the students has completed the assignment.
+B) Uses "like" or "as" to compare two unlike things
 
-C) Neither of the student has completed the assignment.
+C) Uses exaggeration for emphasis
 
-D) Neither of the students be completing the assignment.
+D) Gives human characteristics to nonhuman things
 
 ---
 
-Neither of the students has completed the assignment.
+Uses "like" or "as" to compare two unlike things
 
 ///
 
-## What is the primary difference between connotation and denotation?
+## Which of these countries was NOT one of the Allied Powers during World War II?
 
 ---
 
-A) Connotation is the dictionary definition; denotation is the emotional association
+A) United States
 
-B) Connotation is the emotional association; denotation is the dictionary definition
+B) Soviet Union
 
-C) Connotation is for verbs; denotation is for nouns
+C) Japan
 
-D) There is no difference
+D) Great Britain
 
 ---
 
-Connotation is the emotional association; denotation is the dictionary definition
+Japan
 
 ///
 
-## What is a subordinating conjunction?
+## The periodic table organizes elements by:
 
 ---
 
-A) A word that joins two independent clauses of equal importance
+A) Size
 
-B) A word that joins a dependent clause to an independent clause
+B) Atomic number
 
-C) A word that joins two nouns
+C) Discovery date
 
-D) A word that joins two verbs
+D) Color
 
 ---
 
-A word that joins a dependent clause to an independent clause
+Atomic number
 
 ///
 
-## In the sentence "She ran quickly," what part of speech is "quickly"?
+## In grammar, a clause that cannot stand alone as a complete sentence is called:
 
 ---
 
-A) Noun
+A) Independent clause
 
-B) Verb
+B) Dependent clause
 
-C) Adjective
+C) Fragment
 
-D) Adverb
+D) Run-on
 
 ---
 
-Adverb
+Dependent clause
 
 ///
 
-## Which of the following is written in the passive voice?
+## The Louisiana Purchase was made during which president's administration?
 
 ---
 
-A) John wrote the essay.
+A) George Washington
 
-B) The essay was written by John.
+B) Thomas Jefferson
 
-C) John is writing the essay.
+C) Abraham Lincoln
 
-D) John will write the essay.
+D) Andrew Jackson
 
 ---
 
-The essay was written by John.
+Thomas Jefferson
 
 ///
 
-## What is the function of a topic sentence in a paragraph?
+## The main function of red blood cells is to:
 
 ---
 
-A) To provide supporting details
+A) Fight infection
 
-B) To conclude the paragraph
+B) Carry oxygen
 
-C) To introduce the main idea of the paragraph
+C) Produce antibodies
 
-D) To transition to the next paragraph
+D) Clot blood
 
 ---
 
-To introduce the main idea of the paragraph
+Carry oxygen
 
 ///
 
-## Which punctuation mark is used to join two independent clauses without a conjunction?
+## Which of the following is NOT a theme in the novel "Lord of the Flies"?
 
 ---
 
-A) Comma
+A) Civilization vs. savagery
 
-B) Semicolon
+B) Loss of innocence
 
-C) Colon
+C) Romantic love
 
-D) Dash
+D) Power and leadership
 
 ---
 
-Semicolon
+Romantic love
 
 ///
 
-## What is an appositive?
+## The Industrial Revolution began in which country?
 
 ---
 
-A) A noun or noun phrase that renames another noun right beside it
+A) United States
 
-B) A verb that follows another verb
+B) France
 
-C) An adjective that modifies a pronoun
+C) Germany
 
-D) An adverb that modifies an adjective
+D) Great Britain
 
 ---
 
-A noun or noun phrase that renames another noun right beside it
+Great Britain
 
 ///
 
-## What literary device repeats consonant sounds at the beginning of words?
+## The part of speech that shows the relationship between a noun or pronoun and other words in a sentence is a:
+
+---
+
+A) Conjunction
+
+B) Preposition
+
+C) Interjection
+
+D) Pronoun
+
+---
+
+Preposition
+
+///
+
+## Which scientist is credited with developing the theory of evolution by natural selection?
+
+---
+
+A) Albert Einstein
+
+B) Isaac Newton
+
+C) Charles Darwin
+
+D) Gregor Mendel
+
+---
+
+Charles Darwin
+
+///
+
+## The Bill of Rights consists of how many amendments to the U.S. Constitution?
+
+---
+
+A) 5
+
+B) 10
+
+C) 15
+
+D) 27
+
+---
+
+10
+
+///
+
+## A metaphor is a figure of speech that:
+
+---
+
+A) Directly compares two unlike things
+
+B) Uses "like" or "as" to compare two unlike things
+
+C) Uses exaggeration for emphasis
+
+D) Gives human characteristics to nonhuman things
+
+---
+
+Directly compares two unlike things
+
+///
+
+## Which war was fought between the North and South regions of the United States?
+
+---
+
+A) Revolutionary War
+
+B) Civil War
+
+C) World War I
+
+D) Vietnam War
+
+---
+
+Civil War
+
+///
+
+## Newton's Second Law of Motion states that force equals:
+
+---
+
+A) Mass times acceleration
+
+B) Mass times velocity
+
+C) Energy times time
+
+D) Momentum times distance
+
+---
+
+Mass times acceleration
+
+///
+
+## The protagonist of a story is:
+
+---
+
+A) The main character
+
+B) The villain
+
+C) The setting
+
+D) The conflict
+
+---
+
+The main character
+
+///
+
+## Which of these is NOT one of the three branches of the U.S. government?
+
+---
+
+A) Executive
+
+B) Legislative
+
+C) Judicial
+
+D) Parliamentary
+
+---
+
+Parliamentary
+
+///
+
+## The primary function of the mitochondria in a cell is:
+
+---
+
+A) Protein synthesis
+
+B) Energy production
+
+C) Cell division
+
+D) Waste removal
+
+---
+
+Energy production
+
+///
+
+## Who was the first woman to fly solo across the Atlantic Ocean?
+
+---
+
+A) Amelia Earhart
+
+B) Sally Ride
+
+C) Harriet Tubman
+
+D) Eleanor Roosevelt
+
+---
+
+Amelia Earhart
+
+///
+
+## A verb tense that expresses action that occurred before another past action is:
+
+---
+
+A) Present perfect
+
+B) Past perfect
+
+C) Future perfect
+
+D) Present continuous
+
+---
+
+Past perfect
+
+///
+
+## The Vietnam War ended in what year?
+
+---
+
+A) 1965
+
+B) 1970
+
+C) 1975
+
+D) 1980
+
+---
+
+1975
+
+///
+
+## The Big Bang theory explains:
+
+---
+
+A) How stars die
+
+B) How the universe began
+
+C) How planets form
+
+D) How black holes work
+
+---
+
+How the universe began
+
+///
+
+## The author of "The Great Gatsby" is:
+
+---
+
+A) Ernest Hemingway
+
+B) F. Scott Fitzgerald
+
+C) John Steinbeck
+
+D) Mark Twain
+
+---
+
+F. Scott Fitzgerald
+
+///
+
+## The 19th Amendment to the U.S. Constitution granted women the right to:
+
+---
+
+A) Vote
+
+B) Own property
+
+C) Equal pay
+
+D) Education
+
+---
+
+Vote
+
+///
+
+## Which of the following is NOT a state of matter?
+
+---
+
+A) Solid
+
+B) Liquid
+
+C) Gas
+
+D) Element
+
+---
+
+Element
+
+///
+
+## Personification is a figure of speech that:
+
+---
+
+A) Directly compares two unlike things
+
+B) Uses "like" or "as" to compare two unlike things
+
+C) Uses exaggeration for emphasis
+
+D) Gives human characteristics to nonhuman things
+
+---
+
+Gives human characteristics to nonhuman things
+
+///
+
+## The Civil Rights Act of 1964 primarily addressed:
+
+---
+
+A) Voting rights
+
+B) Racial segregation
+
+C) Gender equality
+
+D) Immigration reform
+
+---
+
+Racial segregation
+
+///
+
+## The main source of energy for Earth's ecosystems is:
+
+---
+
+A) Wind
+
+B) The sun
+
+C) Water
+
+D) Geothermal heat
+
+---
+
+The sun
+
+///
+
+## A story told from "first person" perspective uses which pronouns?
+
+---
+
+A) He, she, they
+
+B) You, your
+
+C) I, me, we, us
+
+D) It, that, those
+
+---
+
+I, me, we, us
+
+///
+
+## The Declaration of Independence was primarily written by:
+
+---
+
+A) George Washington
+
+B) Thomas Jefferson
+
+C) Benjamin Franklin
+
+D) John Adams
+
+---
+
+Thomas Jefferson
+
+///
+
+## Which of these is NOT a law of thermodynamics?
+
+---
+
+A) Energy cannot be created or destroyed
+
+B) Heat flows from hot to cold
+
+C) All motion eventually stops
+
+D) Force equals mass times acceleration
+
+---
+
+Force equals mass times acceleration
+
+///
+
+## The climax of a story is:
+
+---
+
+A) The beginning
+
+B) The most intense point
+
+C) The end
+
+D) The backstory
+
+---
+
+The most intense point
+
+///
+
+## The Cold War was primarily a conflict between:
+
+---
+
+A) The United States and Great Britain
+
+B) The United States and the Soviet Union
+
+C) France and Germany
+
+D) Japan and China
+
+---
+
+The United States and the Soviet Union
+
+///
+
+## Which of the following is NOT one of the four fundamental forces in physics?
+
+---
+
+A) Gravity
+
+B) Electromagnetic force
+
+C) Strong nuclear force
+
+D) Centrifugal force
+
+---
+
+Centrifugal force
+
+///
+
+## In grammar, a complete sentence must have at least:
+
+---
+
+A) A subject and a verb
+
+B) A noun and an adjective
+
+C) A verb and an adverb
+
+D) A preposition and a noun
+
+---
+
+A subject and a verb
+
+///
+
+## Which civilization built the pyramids at Giza?
+
+---
+
+A) Greek
+
+B) Roman
+
+C) Egyptian
+
+D) Mesopotamian
+
+---
+
+Egyptian
+
+///
+
+## DNA stands for:
+
+---
+
+A) Deoxyribose Nucleic Acid
+
+B) Deoxyribonucleic Acid
+
+C) Diribonucleic Acid
+
+D) Dioxyribonucleic Acid
+
+---
+
+Deoxyribonucleic Acid
+
+///
+
+## "The Hunger Games" was written by:
+
+---
+
+A) J.K. Rowling
+
+B) Suzanne Collins
+
+C) Stephenie Meyer
+
+D) Veronica Roth
+
+---
+
+Suzanne Collins
+
+///
+
+## The system of checks and balances in the U.S. government ensures that:
+
+---
+
+A) All citizens have equal rights
+
+B) No branch becomes too powerful
+
+C) The economy remains stable
+
+D) Foreign policy is consistent
+
+---
+
+No branch becomes too powerful
+
+///
+
+## Acids have a pH:
+
+---
+
+A) Above 7
+
+B) Equal to 7
+
+C) Below 7
+
+D) Equal to 0
+
+---
+
+Below 7
+
+///
+
+## Which literary device involves the repetition of consonant sounds at the beginning of words?
 
 ---
 
 A) Assonance
 
-B) Consonance
+B) Alliteration
 
-C) Alliteration
+C) Onomatopoeia
 
-D) Onomatopoeia
+D) Rhyme
 
 ---
 
@@ -322,111 +898,183 @@ Alliteration
 
 ///
 
-## Which of the following is a concrete noun?
+## The Great Depression in the United States began after:
 
 ---
 
-A) Love
+A) World War I
 
-B) Freedom
+B) The stock market crash of 1929
 
-C) Book
+C) The Civil War
 
-D) Happiness
+D) World War II
 
 ---
 
-Book
+The stock market crash of 1929
 
 ///
 
-## What is a gerund?
+## Which of the following is NOT a type of rock?
 
 ---
 
-A) A verb form ending in -ing that functions as a noun
+A) Igneous
 
-B) A verb form ending in -ed that functions as an adjective
+B) Sedimentary
 
-C) A verb form ending in -ly that functions as an adverb
+C) Metamorphic
 
-D) A verb form ending in -s that shows present tense
+D) Biotic
 
 ---
 
-A verb form ending in -ing that functions as a noun
+Biotic
 
 ///
 
-## Which of the following is NOT a type of irony?
+## The tone of a piece of writing refers to:
 
 ---
 
-A) Verbal irony
+A) The author's attitude toward the subject
 
-B) Dramatic irony
+B) The length of the sentences
 
-C) Situational irony
+C) The main character's personality
 
-D) Metaphorical irony
+D) The setting of the story
 
 ---
 
-Metaphorical irony
+The author's attitude toward the subject
 
 ///
 
-## The smallest unit of sound in a word that distinguishes meaning is called:
+## The abolition movement sought to end:
 
 ---
 
-A) Morpheme
+A) Poverty
 
-B) Phoneme
+B) Slavery
 
-C) Grapheme
+C) Child labor
 
-D) Syntax
+D) Women's suffrage
 
 ---
 
-Phoneme
+Slavery
 
 ///
 
-## Which is an example of hyperbole?
+## The process of converting a liquid to a gas is called:
 
 ---
 
-A) The cat sat on the mat.
+A) Condensation
 
-B) She is as quiet as a mouse.
+B) Evaporation
 
-C) I'm so hungry I could eat a horse.
+C) Sublimation
 
-D) The wind whispered through the trees.
+D) Precipitation
 
 ---
 
-I'm so hungry I could eat a horse.
+Evaporation
 
 ///
 
-## What is the correct order of the steps in the scientific method?
+## Which of these is NOT a literary genre?
 
 ---
 
-A) Hypothesis, question, experiment, analysis, conclusion
+A) Mystery
 
-B) Question, hypothesis, experiment, analysis, conclusion
+B) Science fiction
 
-C) Experiment, question, hypothesis, conclusion, analysis
+C) Biography
 
-D) Question, experiment, hypothesis, analysis, conclusion
+D) Personification
 
 ---
 
-Question, hypothesis, experiment, analysis, conclusion
+Personification
+
+///
+
+## The first successful American colonies were established in:
+
+---
+
+A) Florida
+
+B) Massachusetts
+
+C) Virginia
+
+D) California
+
+---
+
+Virginia
+
+///
+
+## The smallest unit of life is a:
+
+---
+
+A) Cell
+
+B) Atom
+
+C) Molecule
+
+D) Tissue
+
+---
+
+Cell
+
+///
+
+## The part of speech that replaces a noun is a:
+
+---
+
+A) Verb
+
+B) Adjective
+
+C) Pronoun
+
+D) Adverb
+
+---
+
+Pronoun
+
+///
+
+## The system of government where citizens rule through elected representatives is:
+
+---
+
+A) Monarchy
+
+B) Democracy
+
+C) Dictatorship
+
+D) Oligarchy
+
+---
+
+Democracy
 
 ///
 
@@ -448,25 +1096,367 @@ Solar energy
 
 ///
 
-## What is the study of the interaction between organisms and their environment?
+## The antagonist in a story is:
 
 ---
 
-A) Biology
+A) The main character
 
-B) Ecology
+B) The character who opposes the protagonist
 
-C) Geology
+C) The setting
 
-D) Meteorology
+D) The narrator
 
 ---
 
-Ecology
+The character who opposes the protagonist
 
 ///
 
-## Which of the following is NOT a state of matter?
+## The Articles of Confederation served as America's first:
+
+---
+
+A) Declaration of independence
+
+B) Constitution
+
+C) Tax code
+
+D) Military document
+
+---
+
+Constitution
+
+///
+
+## The scientific method begins with:
+
+---
+
+A) Experimentation
+
+B) Data analysis
+
+C) Asking a question
+
+D) Forming a conclusion
+
+---
+
+Asking a question
+
+///
+
+## The use of words whose sounds suggest their meaning is called:
+
+---
+
+A) Onomatopoeia
+
+B) Alliteration
+
+C) Metaphor
+
+D) Hyperbole
+
+---
+
+Onomatopoeia
+
+///
+
+## The Berlin Wall fell in:
+
+---
+
+A) 1979
+
+B) 1989
+
+C) 1999
+
+D) 2001
+
+---
+
+1989
+
+///
+
+## Which of the following is TRUE regarding cellular respiration?
+
+---
+
+A) It releases oxygen
+
+B) It converts energy into glucose
+
+C) It uses oxygen to break down glucose for energy
+
+D) It only occurs in plant cells
+
+---
+
+It uses oxygen to break down glucose for energy
+
+///
+
+## In grammar, the tense of a verb indicates:
+
+---
+
+A) Its person
+
+B) Its time
+
+C) Its mood
+
+D) Its voice
+
+---
+
+Its time
+
+///
+
+## The term "manifest destiny" refers to the belief that:
+
+---
+
+A) All men are created equal
+
+B) America should expand across the continent
+
+C) America should avoid foreign alliances
+
+D) Slavery should be abolished
+
+---
+
+America should expand across the continent
+
+///
+
+## Which of the following is NOT a part of the cell theory?
+
+---
+
+A) All living things are made of cells
+
+B) Cells are the basic unit of structure and function
+
+C) All cells come from pre-existing cells
+
+D) Cells contain exactly one nucleus
+
+---
+
+Cells contain exactly one nucleus
+
+///
+
+## The author of "1984" is:
+
+---
+
+A) Aldous Huxley
+
+B) Ray Bradbury
+
+C) George Orwell
+
+D) Kurt Vonnegut
+
+---
+
+George Orwell
+
+///
+
+## The right to a fair and speedy trial is guaranteed in which amendment to the U.S. Constitution?
+
+---
+
+A) Fourth Amendment
+
+B) Fifth Amendment
+
+C) Sixth Amendment
+
+D) Eighth Amendment
+
+---
+
+Sixth Amendment
+
+///
+
+## The movement of water molecules through a semi-permeable membrane is called:
+
+---
+
+A) Diffusion
+
+B) Osmosis
+
+C) Active transport
+
+D) Transpiration
+
+---
+
+Osmosis
+
+///
+
+## A story's setting includes:
+
+---
+
+A) The main characters
+
+B) The time and place
+
+C) The conflict
+
+D) The theme
+
+---
+
+The time and place
+
+///
+
+## Which president delivered the Gettysburg Address?
+
+---
+
+A) George Washington
+
+B) Thomas Jefferson
+
+C) Abraham Lincoln
+
+D) Andrew Jackson
+
+---
+
+Abraham Lincoln
+
+///
+
+## The process by which rocks are broken down into smaller pieces is called:
+
+---
+
+A) Erosion
+
+B) Weathering
+
+C) Deposition
+
+D) Sedimentation
+
+---
+
+Weathering
+
+///
+
+## The coordinating conjunction that indicates contrast is:
+
+---
+
+A) And
+
+B) Or
+
+C) But
+
+D) So
+
+---
+
+But
+
+///
+
+## The first ten amendments to the U.S. Constitution are known as:
+
+---
+
+A) The Articles of Confederation
+
+B) The Bill of Rights
+
+C) The Federalist Papers
+
+D) The Declaration of Independence
+
+---
+
+The Bill of Rights
+
+///
+
+## Which organelle is responsible for protein synthesis in a cell?
+
+---
+
+A) Nucleus
+
+B) Mitochondria
+
+C) Ribosome
+
+D) Lysosome
+
+---
+
+Ribosome
+
+///
+
+## "The Catcher in the Rye" was written by:
+
+---
+
+A) F. Scott Fitzgerald
+
+B) J.D. Salinger
+
+C) Ernest Hemingway
+
+D) John Steinbeck
+
+---
+
+J.D. Salinger
+
+///
+
+## The electoral college is used to elect:
+
+---
+
+A) Senators
+
+B) Representatives
+
+C) The President
+
+D) Supreme Court Justices
+
+---
+
+The President
+
+///
+
+## Which of the following is NOT a state of matter at room temperature and normal atmospheric pressure?
 
 ---
 
@@ -476,879 +1466,285 @@ B) Liquid
 
 C) Gas
 
-D) Energy
+D) Plasma
 
 ---
 
-Energy
-
-///
-
-## What is the process by which plants make their own food?
-
----
-
-A) Respiration
-
-B) Photosynthesis
-
-C) Fermentation
-
-D) Digestion
-
----
-
-Photosynthesis
+Plasma
 
 ///
 
-## Which of the following is the correct formula for water?
+## Dramatic irony occurs when:
 
 ---
 
-A) H₂O
+A) Two characters misunderstand each other
 
-B) CO₂
+B) The audience knows something the characters do not
 
-C) O₂
+C) A character says one thing but means another
 
-D) H₂O₂
-
----
-
-H₂O
-
-///
-
-## What is the primary function of mitochondria in a cell?
+D) The outcome of the story is unexpected
 
 ---
 
-A) Protein synthesis
-
-B) Energy production
-
-C) Cell division
-
-D) Storage of genetic material
-
----
-
-Energy production
+The audience knows something the characters do not
 
 ///
 
-## Newton's Third Law of Motion states:
+## The Emancipation Proclamation was issued during which war?
 
 ---
 
-A) An object in motion stays in motion unless acted upon by an external force
+A) Revolutionary War
 
-B) Force equals mass times acceleration
+B) War of 1812
 
-C) For every action, there is an equal and opposite reaction
+C) Civil War
 
-D) Energy cannot be created or destroyed
-
----
-
-For every action, there is an equal and opposite reaction
-
-///
-
-## Which of the following is NOT one of the layers of Earth?
+D) World War I
 
 ---
 
-A) Crust
-
-B) Mantle
-
-C) Outer core
-
-D) Mesosphere
-
----
-
-Mesosphere
+Civil War
 
 ///
 
-## What type of rock forms from the cooling of magma or lava?
+## The study of the interactions between organisms and their environment is called:
 
 ---
 
-A) Sedimentary
+A) Biology
 
-B) Metamorphic
+B) Botany
 
-C) Igneous
+C) Ecology
 
-D) Composite
-
----
-
-Igneous
-
-///
-
-## Which of the following is a characteristic of acids?
+D) Geology
 
 ---
 
-A) pH greater than 7
-
-B) pH less than 7
-
-C) pH equal to 7
-
-D) pH has no relationship to acids
-
----
-
-pH less than 7
+Ecology
 
 ///
 
-## What is the process by which water changes from a liquid to a gas?
+## Which of the following is an example of a compound sentence?
 
 ---
 
-A) Condensation
+A) John ran to the store.
 
-B) Evaporation
+B) John ran to the store, and Mary went to school.
 
-C) Precipitation
+C) Because it was raining, John took an umbrella.
 
-D) Sublimation
-
----
-
-Evaporation
-
-///
-
-## Which of the following is a correct statement about DNA?
+D) John, who lives next door, went to the store.
 
 ---
 
-A) DNA is single-stranded
-
-B) DNA contains the sugar ribose
-
-C) DNA uses the base pairs A-T and G-C
-
-D) DNA is primarily found in the cytoplasm
-
----
-
-DNA uses the base pairs A-T and G-C
+John ran to the store, and Mary went to school.
 
 ///
 
-## What causes the seasons on Earth?
+## The Monroe Doctrine declared that:
 
 ---
 
-A) The Earth's distance from the sun
+A) Slavery should be abolished
 
-B) The Earth's axial tilt
+B) Women should have the right to vote
 
-C) The Earth's rotation
+C) European powers should not colonize the Americas
 
-D) The Earth's magnetic field
-
----
-
-The Earth's axial tilt
-
-///
-
-## Which of the following best describes kinetic energy?
+D) The United States should stay neutral in European affairs
 
 ---
 
-A) Stored energy
-
-B) Energy of motion
-
-C) Nuclear energy
-
-D) Potential energy
-
----
-
-Energy of motion
+European powers should not colonize the Americas
 
 ///
 
-## What is the process by which one species evolves into two or more species?
+## Which of the following organelles contains the cell's DNA?
 
 ---
 
-A) Natural selection
+A) Mitochondria
 
-B) Adaptation
+B) Ribosome
 
-C) Speciation
+C) Nucleus
 
-D) Mutation
-
----
-
-Speciation
-
-///
-
-## Which of the following is an example of a chemical change?
+D) Golgi apparatus
 
 ---
 
-A) Ice melting
-
-B) Wood burning
-
-C) Water evaporating
-
-D) Paper being cut
-
----
-
-Wood burning
+Nucleus
 
 ///
 
-## What is the main function of red blood cells?
+## The author of "Pride and Prejudice" is:
 
 ---
 
-A) To fight infection
+A) Jane Austen
 
-B) To carry oxygen
+B) Charlotte Brontë
 
-C) To clot blood
+C) Emily Brontë
 
-D) To produce antibodies
-
----
-
-To carry oxygen
-
-///
-
-## Which of the following is a correct food chain?
+D) George Eliot
 
 ---
 
-A) Grass → Deer → Sun → Wolf
-
-B) Sun → Grass → Deer → Wolf
-
-C) Wolf → Deer → Grass → Sun
-
-D) Grass → Sun → Deer → Wolf
-
----
-
-Sun → Grass → Deer → Wolf
+Jane Austen
 
 ///
 
-## What causes ocean tides?
+## The system of government where power is divided between a central authority and constituent political units is called:
 
 ---
 
-A) Wind patterns
+A) Confederation
 
-B) Ocean currents
+B) Federalism
 
-C) Gravitational pull of the moon
+C) Unitary system
 
-D) Earth's rotation
-
----
-
-Gravitational pull of the moon
-
-///
-
-## The atomic number of an element represents:
+D) Parliamentary system
 
 ---
 
-A) The number of neutrons
-
-B) The number of protons
-
-C) The number of electrons and protons
-
-D) The atomic mass
-
----
-
-The number of protons
+Federalism
 
 ///
 
-## Which of the following is NOT a biome?
+## Forces that act on objects are measured in:
 
 ---
 
-A) Tundra
+A) Watts
 
-B) Desert
+B) Joules
 
-C) Mountain
+C) Newtons
 
-D) Plateau
+D) Volts
 
 ---
 
-Plateau
+Newtons
 
 ///
 
-## Which law states that energy cannot be created or destroyed, only transformed?
+## A theme in literature refers to:
 
 ---
 
-A) Newton's First Law
+A) The main character
 
-B) Law of Conservation of Energy
+B) The central message or idea
 
-C) Law of Entropy
+C) The time and place
 
-D) Law of Thermodynamics
+D) The sequence of events
 
 ---
 
-Law of Conservation of Energy
+The central message or idea
 
 ///
 
-## The American Revolution ended with the signing of:
+## The Supreme Court case Brown v. Board of Education dealt with:
 
 ---
 
-A) The Declaration of Independence
+A) Prayer in schools
 
-B) The Constitution
+B) Abortion rights
 
-C) The Treaty of Paris
+C) School segregation
 
-D) The Bill of Rights
+D) Freedom of speech
 
 ---
 
-The Treaty of Paris
+School segregation
 
 ///
 
-## Which document begins with "We the People of the United States"?
+## The chemical process where electrons are lost or gained is called:
 
 ---
 
-A) The Declaration of Independence
+A) Combustion
 
-B) The Constitution
+B) Fusion
 
-C) The Gettysburg Address
+C) Oxidation-reduction
 
-D) The Emancipation Proclamation
+D) Hydrolysis
 
 ---
 
-The Constitution
+Oxidation-reduction
 
 ///
 
-## The policy of "Manifest Destiny" was associated with:
+## Words that sound the same but have different meanings and spellings are called:
 
 ---
 
-A) Westward expansion
+A) Synonyms
 
-B) Civil rights movement
+B) Antonyms
 
-C) Industrial revolution
+C) Homonyms
 
-D) Progressive Era reforms
+D) Homophones
 
 ---
 
-Westward expansion
+Homophones
 
 ///
 
-## Which amendment to the U.S. Constitution abolished slavery?
+## The Cuban Missile Crisis occurred during which president's administration?
 
 ---
 
-A) 13th Amendment
+A) Harry Truman
 
-B) 14th Amendment
+B) Dwight Eisenhower
 
-C) 15th Amendment
+C) John F. Kennedy
 
-D) 19th Amendment
+D) Lyndon B. Johnson
 
 ---
 
-13th Amendment
+John F. Kennedy
 
 ///
 
-## What was the main cause of the U.S. Civil War?
+## The atomic number of an element represents the number of:
 
 ---
 
-A) States' rights
+A) Protons
 
-B) Economic differences
+B) Neutrons
 
-C) Slavery
+C) Electrons
 
-D) Westward expansion
+D) Protons plus neutrons
 
 ---
 
-Slavery
+Protons
 
 ///
 
-## The Monroe Doctrine declared:
-
----
-
-A) The end of slavery in America
-
-B) U.S. opposition to European colonization in the Americas
-
-C) U.S. entry into World War I
-
-D) Equal rights for all citizens
-
----
-
-U.S. opposition to European colonization in the Americas
-
-///
-
-## Which of the following was NOT one of the Allied Powers during World War II?
-
----
-
-A) United States
-
-B) Soviet Union
-
-C) Great Britain
-
-D) Japan
-
----
-
-Japan
-
-///
-
-## The Civil Rights Act of 1964:
-
----
-
-A) Gave women the right to vote
-
-B) Ended segregation in public places
-
-C) Prohibited alcohol consumption
-
-D) Established Medicare and Medicaid
-
----
-
-Ended segregation in public places
-
-///
-
-## What event directly led to U.S. entry into World War II?
-
----
-
-A) Sinking of the Lusitania
-
-B) Attack on Pearl Harbor
-
-C) Assassination of Archduke Franz Ferdinand
-
-D) Fall of France
-
----
-
-Attack on Pearl Harbor
-
-///
-
-## Which economic system is characterized by private ownership of production means?
-
----
-
-A) Socialism
-
-B) Communism
-
-C) Capitalism
-
-D) Feudalism
-
----
-
-Capitalism
-
-///
-
-## The Great Depression began after:
-
----
-
-A) World War I
-
-B) The Stock Market Crash of 1929
-
-C) The Civil War
-
-D) World War II
-
----
-
-The Stock Market Crash of 1929
-
-///
-
-## What was the Cold War?
-
----
-
-A) A military conflict between the U.S. and Soviet Union
-
-B) A period of tension between the U.S. and Soviet Union
-
-C) A war fought in Antarctica
-
-D) A conflict between North and South Korea
-
----
-
-A period of tension between the U.S. and Soviet Union
-
-///
-
-## Which of these is NOT a branch of the U.S. government?
-
----
-
-A) Executive
-
-B) Legislative
-
-C) Judicial
-
-D) Parliamentary
-
----
-
-Parliamentary
-
-///
-
-## The Nile River is located primarily in which continent?
-
----
-
-A) Asia
-
-B) Europe
-
-C) Africa
-
-D) South America
-
----
-
-Africa
-
-///
-
-## Which of the following is NOT a factor of production in economics?
-
----
-
-A) Land
-
-B) Labor
-
-C) Capital
-
-D) Inflation
-
----
-
-Inflation
-
-///
-
-## The Great Wall of China was built primarily to:
-
----
-
-A) Attract tourists
-
-B) Defend against northern invaders
-
-C) Control flooding
-
-D) Display China's wealth and power
-
----
-
-Defend against northern invaders
-
-///
-
-## Which of the following best defines a democracy?
-
----
-
-A) Rule by the wealthy
-
-B) Rule by religious leaders
-
-C) Rule by the people
-
-D) Rule by the military
-
----
-
-Rule by the people
-
-///
-
-## The Industrial Revolution began in:
-
----
-
-A) United States
-
-B) France
-
-C) Great Britain
-
-D) Germany
-
----
-
-Great Britain
-
-///
-
-## Which of the following is a major cause of deforestation?
-
----
-
-A) Urbanization
-
-B) Agriculture expansion
-
-C) Logging
-
-D) All of the above
-
----
-
-All of the above
-
-///
-
-## What is a primary source in history?
-
----
-
-A) A textbook written by a historian
-
-B) A documentary film about an event
-
-C) A diary written by someone who experienced the event
-
-D) An encyclopedia article
-
----
-
-A diary written by someone who experienced the event
-
-///
-
-## The three main types of plate boundaries are:
-
----
-
-A) Convergent, divergent, and transform
-
-B) Mountain, valley, and plateau
-
-C) Igneous, sedimentary, and metamorphic
-
-D) Longitude, latitude, and elevation
-
----
-
-Convergent, divergent, and transform
-
-///
-
-## The Magna Carta limited the power of:
-
----
-
-A) The Pope
-
-B) The English monarch
-
-C) The French king
-
-D) The Roman Emperor
-
----
-
-The English monarch
-
-///
-
-## Which of the following is TRUE about supply and demand?
-
----
-
-A) When demand increases, prices typically decrease
-
-B) When supply increases, prices typically decrease
-
-C) When demand decreases, prices typically increase
-
-D) When supply decreases, prices typically decrease
-
----
-
-When supply increases, prices typically decrease
-
-///
-
-## The Renaissance period is best characterized by:
-
----
-
-A) Increased religious authority
-
-B) Revival of interest in classical learning
-
-C) Major advancements in industrial technology
-
-D) Expansion of feudalism
-
----
-
-Revival of interest in classical learning
-
-///
-
-## A major effect of the Columbian Exchange was:
-
----
-
-A) The spread of democracy
-
-B) The transfer of plants, animals, and diseases between hemispheres
-
-C) The invention of the steam engine
-
-D) The rise of communism
-
----
-
-The transfer of plants, animals, and diseases between hemispheres
-
-///
-
-## The Golden Age of Islam was marked by:
-
----
-
-A) Military conquests only
-
-B) Religious reforms only
-
-C) Advances in science, medicine, mathematics, and literature
-
-D) Decline in trade and commerce
-
----
-
-Advances in science, medicine, mathematics, and literature
-
-///
-
-## The main purpose of the United Nations is:
-
----
-
-A) To regulate international trade
-
-B) To maintain international peace and security
-
-C) To control world currencies
-
-D) To govern international sports competitions
-
----
-
-To maintain international peace and security
-
-///
-
-## The principle of "checks and balances" in the U.S. government:
-
----
-
-A) Ensures that no branch becomes too powerful
-
-B) Guarantees states' rights over federal authority
-
-C) Establishes the separation of church and state
-
-D) Creates a balance between public and private sectors
-
----
-
-Ensures that no branch becomes too powerful
-
-///
-
-## What is the main purpose of a summary in a literary work?
-
----
-
-A) To analyze the author's writing style
-
-B) To provide a brief overview of the main points
-
-C) To critique the author's argument
-
-D) To provide additional information not in the original text
-
----
-
-To provide a brief overview of the main points
-
-///
-
-## Which of the following is NOT a type of point of view in literature?
+## In a work of fiction, the point of view told from an all-knowing perspective is called:
 
 ---
 
@@ -1358,534 +1754,135 @@ B) Second person
 
 C) Third person limited
 
-D) Fourth person
+D) Third person omniscient
 
 ---
 
-Fourth person
+Third person omniscient
 
 ///
 
-## What is an oxymoron?
+## The Battle of Gettysburg was fought in which state?
 
 ---
 
-A) A phrase with contradictory terms
+A) Virginia
 
-B) A word that imitates a sound
+B) Maryland
 
-C) An extended metaphor
+C) Pennsylvania
 
-D) A statement that is obviously true
+D) New York
 
 ---
 
-A phrase with contradictory terms
+Pennsylvania
 
 ///
 
-## Which sentence contains a dangling modifier?
+## The process by which water vapor changes directly to ice without passing through the liquid state is called:
 
 ---
 
-A) Walking to school, my backpack felt heavy.
+A) Condensation
 
-B) My backpack felt heavy while I was walking to school.
+B) Deposition
 
-C) While walking to school, I felt my heavy backpack.
+C) Sublimation
 
-D) Heavy as it was, I carried my backpack to school.
+D) Precipitation
 
 ---
 
-Walking to school, my backpack felt heavy.
+Deposition
 
 ///
 
-## What type of conflict is represented by a character struggling with their own thoughts?
+## Which of the following is NOT a literary conflict?
 
 ---
 
-A) Character vs. character
+A) Person vs. Person
 
-B) Character vs. society
+B) Person vs. Self
 
-C) Character vs. nature
+C) Person vs. Society
 
-D) Character vs. self
+D) Person vs. Author
 
 ---
 
-Character vs. self
+Person vs. Author
 
 ///
 
-## In chemistry, a substance with a pH of 9 would be classified as:
+## The "Iron Curtain" was a term used to describe the division between:
 
 ---
 
-A) Acidic
+A) The Union and Confederate states
 
-B) Basic
+B) Western Europe and Soviet-controlled Eastern Europe
 
-C) Neutral
+C) The United States and Mexico
 
-D) Radioactive
+D) North and South Korea
 
 ---
 
-Basic
+Western Europe and Soviet-controlled Eastern Europe
 
 ///
 
-## Which of the following is TRUE about cellular respiration?
+## The law of conservation of energy states that:
 
 ---
 
-A) It produces oxygen
+A) Energy can be created but not destroyed
 
-B) It consumes carbon dioxide
+B) Energy can be destroyed but not created
 
-C) It releases energy from glucose
+C) Energy cannot be created or destroyed
 
-D) It occurs only in plant cells
+D) Energy must always increase in a system
 
 ---
 
-It releases energy from glucose
+Energy cannot be created or destroyed
 
 ///
 
-## What is the main difference between weather and climate?
+## A comma splice occurs when:
 
 ---
 
-A) Weather refers to long-term patterns; climate refers to short-term conditions
+A) Two independent clauses are joined by a comma
 
-B) Weather refers to short-term conditions; climate refers to long-term patterns
+B) A comma is used before a coordinating conjunction
 
-C) Weather affects the atmosphere; climate affects the ground
+C) A comma is used to separate items in a list
 
-D) Weather is measured globally; climate is measured locally
+D) A comma is used after an introductory phrase
 
 ---
 
-Weather refers to short-term conditions; climate refers to long-term patterns
+Two independent clauses are joined by a comma
 
 ///
 
-## Which of the following is an example of a fossil fuel?
+## Which war is often called "The Forgotten War"?
 
 ---
 
-A) Solar energy
+A) Vietnam War
 
-B) Wind power
+B) Korean War
 
-C) Natural gas
+C) Spanish-American War
 
-D) Hydroelectric power
-
----
-
-Natural gas
-
-///
-
-## The theory of plate tectonics explains:
+D) Gulf War
 
 ---
 
-A) The formation of stars and planets
+Korean War
 
-B) The movement of Earth's crustal plates
-
-C) The water cycle
-
-D) The origin of life
-
----
-
-The movement of Earth's crustal plates
-
-///
-
-## DNA replication is:
-
----
-
-A) The process of making proteins from DNA
-
-B) The creation of exact copies of DNA
-
-C) The repair of damaged DNA
-
-D) The transfer of DNA between organisms
-
----
-
-The creation of exact copies of DNA
-
-///
-
-## A genetically modified organism (GMO) has had:
-
----
-
-A) Its diet modified
-
-B) Its behavior modified through training
-
-C) Its DNA altered through genetic engineering
-
-D) Its appearance altered through selective breeding
-
----
-
-Its DNA altered through genetic engineering
-
-///
-
-## What was a significant cause of World War I?
-
----
-
-A) The assassination of Archduke Franz Ferdinand
-
-B) The bombing of Pearl Harbor
-
-C) The Russian Revolution
-
-D) The Great Depression
-
----
-
-The assassination of Archduke Franz Ferdinand
-
-///
-
-## The Progressive Era in U.S. history was characterized by:
-
----
-
-A) Resistance to social and political reform
-
-B) Efforts to address problems caused by industrialization
-
-C) Opposition to women's suffrage
-
-D) Support for laissez-faire economics
-
----
-
-Efforts to address problems caused by industrialization
-
-///
-
-## Which of the following correctly describes federalism in the United States?
-
----
-
-A) Power is divided between national and state governments
-
-B) All power is held by the national government
-
-C) All power is held by the state governments
-
-D) Power is divided among three branches of government
-
----
-
-Power is divided between national and state governments
-
-///
-
-## The phrase "Taxation without representation" is associated with:
-
----
-
-A) The Civil War
-
-B) The American Revolution
-
-C) The Great Depression
-
-D) World War I
-
----
-
-The American Revolution
-
-///
-
-## Which sentence demonstrates correct subject-verb agreement?
-
----
-
-A) The team of players were celebrating their victory.
-
-B) The team of players was celebrating their victory.
-
-C) The team of players were celebrating its victory.
-
-D) The team of players was celebrating its victories.
-
----
-
-The team of players was celebrating their victory.
-
-///
-
-## What is the law of conservation of mass?
-
----
-
-A) Mass can be created but not destroyed
-
-B) Mass can be destroyed but not created
-
-C) Mass cannot be created or destroyed in chemical reactions
-
-D) Mass always increases during chemical reactions
-
----
-
-Mass cannot be created or destroyed in chemical reactions
-
-///
-
-## The Great Migration refers to:
-
----
-
-A) The movement of African Americans from the South to the North
-
-B) European immigration to America in the early 1900s
-
-C) The forced relocation of Native Americans
-
-D) The westward expansion of American settlers
-
----
-
-The movement of African Americans from the South to the North
-
-///
-
-## The correct formula for finding the area of a circle is:
-
----
-
-A) A = πr
-
-B) A = πr²
-
-C) A = 2πr
-
-D) A = πd
-
----
-
-A = πr²
-
-///
-
-## The branches of government established by the U.S. Constitution include all EXCEPT:
-
----
-
-A) Executive
-
-B) Legislative
-
-C) Judicial
-
-D) Administrative
-
----
-
-Administrative
-
-///
-
-## What is the primary purpose of a thesis statement?
-
----
-
-A) To list the topics that will be covered
-
-B) To state the author's main argument or position
-
-C) To provide background information
-
-D) To introduce the conclusion of the essay
-
----
-
-To state the author's main argument or position
-
-///
-
-## Which of the following is TRUE about cells?
-
----
-
-A) All cells have a nucleus
-
-B) All cells contain DNA
-
-C) All cells can photosynthesize
-
-D) All cells are visible to the naked eye
-
----
-
-All cells contain DNA
-
-///
-
-## The First Amendment to the U.S. Constitution protects:
-
----
-
-A) The right to bear arms
-
-B) Freedom from unreasonable searches
-
-C) Freedom of speech, religion, press, assembly, and petition
-
-D) The right to a speedy trial
-
----
-
-Freedom of speech, religion, press, assembly, and petition
-
-///
-
-## Climate change is primarily caused by:
-
----
-
-A) Changes in Earth's orbit
-
-B) Increased solar activity
-
-C) Human activities releasing greenhouse gases
-
-D) Natural volcanic eruptions
-
----
-
-Human activities releasing greenhouse gases
-
-///
-
-## True or False: All matter is made up of atoms.
-
----
-
-A) True
-
-B) False
-
----
-
-True
-
-///
-
-## True or False: The American Civil War began in 1861.
-
----
-
-A) True
-
-B) False
-
----
-
-True
-
-///
-
-## True or False: Photosynthesis releases oxygen and uses carbon dioxide.
-
----
-
-A) True
-
-B) False
-
----
-
-True
-
-///
-
-## True or False: The U.S. Senate has 435 members.
-
----
-
-A) True
-
-B) False
-
----
-
-False
-
-///
-
-## True or False: A simile uses "like" or "as" to make a comparison.
-
----
-
-A) True
-
-B) False
-
----
-
-True
-
-///
-
-## True or False: Heat always flows from colder objects to warmer objects.
-
----
-
-A) True
-
-B) False
-
----
-
-False
-
-///
-
-## True or False: The preamble is the introduction to the U.S. Constitution.
-
----
-
-A) True
-
-B) False
-
----
-
-True
-
-///
-
-## True or False: The protagonist of a story is always the hero.
-
----
-
-A) True
-
-B) False
-
----
-
-False

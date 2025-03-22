@@ -84,13 +84,13 @@
 
 ---
 
-A) Income Statement
+A) Cash Flow Statement
 
-B) Cash Flow Statement
+B) Income Statement 
 
-C) Balance Sheet
+C) Profit and Loss Statement
 
-D) Profit and Loss Statement
+D) Balance Sheet
 
 ---
 
@@ -102,13 +102,13 @@ Balance Sheet
 
 ---
 
-A) Cash is received from customers
+A) Products are manufactured
 
-B) Goods are delivered to customers
+B) Cash is received from customers
 
-C) Products are manufactured
+C) Inventory is purchased
 
-D) Inventory is purchased
+D) Goods are delivered to customers
 
 ---
 
@@ -120,13 +120,13 @@ Goods are delivered to customers
 
 ---
 
-A) $1000
+A) -$8000
 
 B) $5000
 
 C) -$4000
 
-D) -$8000
+D) $1000
 
 ---
 
@@ -138,9 +138,9 @@ D) -$8000
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -152,13 +152,13 @@ True
 
 ---
 
-A) Balance Sheet
+A) Statement of Retained Earnings
 
-B) Cash Flow Statement
+B) Balance Sheet
 
 C) Income Statement
 
-D) Statement of Retained Earnings
+D) Cash Flow Statement
 
 ---
 
@@ -170,13 +170,13 @@ Income Statement
 
 ---
 
-A) $106
+A) $200
 
-B) $22.55
+B) $4.7
 
-C) $200
+C) $22.55
 
-D) $4.7
+D) $106
 
 ---
 
@@ -188,13 +188,13 @@ $22.55
 
 ---
 
-A) $106
+A) $4.7
 
 B) $22.55
 
 C) $200
 
-D) $4.7
+D) $106
 
 ---
 
@@ -206,13 +206,13 @@ $200
 
 ---
 
-A) Forward, while market value looks backward
+A) At equityx, while market value looks at debt
 
-B) Backward, while market value looks forward
+B) Forward, while market value looks backward
 
 C) At assets, while market value looks at liabilities
 
-D) At equityx, while market value looks at debt
+D) Backward, while market value looks forward
 
 ---
 
@@ -224,13 +224,13 @@ Backward, while market value looks forward
 
 ---
 
-A) Price optimization
+A) Volume increase
 
-B) Volume increase
+B) Productivity enhancement
 
-C) Dividend payments
+C) Price optimization
 
-D) Productivity enhancement
+D) Dividend payments
 
 ---
 
@@ -242,13 +242,13 @@ Dividend payments
 
 ---
 
-A) Price
+A) Volume
 
-B) Volume
+B) Mix
 
-C) Mix
+C) Productivity
 
-D) Productivity
+D) Price
 
 ---
 
@@ -260,13 +260,13 @@ Mix
 
 ---
 
-A) Inflation
+A) Compounding interest
 
-B) Time value of money
+B) Depreciation
 
-C) Depreciation
+C) Time value of money
 
-D) Compounding interest
+D) Inflation
 
 ---
 
@@ -292,13 +292,13 @@ False
 
 ---
 
-A) You have more liabilities than assets
+A) Your business model is fundamentally flawed
 
 B) Your expenses exceed your revenue
 
-C) Cash outflows exceed cash inflows despite profitable operations
+C) You have more liabilities than assets
 
-D) Your business model is fundamentally flawed
+D) Cash outflows exceed cash inflows despite profitable operations
 
 ---
 
@@ -310,13 +310,13 @@ Cash outflows exceed cash inflows despite profitable operations
 
 ---
 
-A) $80
+A) $5000
 
 B) $100
 
-C) $20
+C) $80
 
-D) $5000
+D) $20
 
 ---
 
@@ -328,13 +328,13 @@ $20
 
 ---
 
-A) Tax advantages
+A) Corporate governance
 
-B) Possibility of bankruptcy
+B) Accounting regulations
 
-C) Accounting regulations
+C) Possibility of bankruptcy
 
-D) Corporate governance
+D) Tax advantages
 
 ---
 
@@ -346,13 +346,13 @@ Possibility of bankruptcy
 
 ---
 
-A) Total sales during a period
+A) Profit and loss during a period
 
-B) Assets and liabilities at a point in time
+B) Movement from initial cash balance through inflows/outflows to ending balance
 
-C) Movement from initial cash balance through inflows/outflows to ending balance
+C) Total sales during a period
 
-D) Profit and loss during a period
+D) Assets and liabilities at a point in time
 
 ---
 
@@ -364,9 +364,9 @@ Movement from initial cash balance through inflows/outflows to ending balance
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -378,13 +378,13 @@ True
 
 ---
 
-A) Cash flow
+A) Market value
 
-B) Profit
+B) Cash flow
 
 C) Book value
 
-D) Market value
+D) Profit
 
 ---
 
@@ -396,13 +396,13 @@ Profit
 
 ---
 
-A) Company Originated Gross Sales
+A) Corporate Operating Gain/Shortfall
 
-B) Cost of Goods Sold
+B) Cash Outgoing Gross Sum
 
-C) Cash Outgoing Gross Sum
+C) Cost of Goods Sold
 
-D) Corporate Operating Gain/Shortfall
+D) Company Originated Gross Sales
 
 ---
 
@@ -414,13 +414,13 @@ Cost of Goods Sold
 
 ---
 
-A) Revenue and expenses
+A) Cash inflows and outflows
 
-B) Assets, liabilities, and equity
+B) Profit and loss
 
-C) Cash inflows and outflows
+C) Revenue and expenses
 
-D) Profit and loss
+D) Assets, liabilities, and equity
 
 ---
 

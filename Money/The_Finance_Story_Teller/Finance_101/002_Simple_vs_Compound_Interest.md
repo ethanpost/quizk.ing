@@ -48,13 +48,13 @@
 
 ---
 
-A) Money paid to borrow something physical
+A) The original amount invested
 
-B) A fee paid for the use of someone else's money
+B) The total amount owed after multiple years
 
-C) The original amount invested
+C) A fee paid for the use of someone else's money
 
-D) The total amount owed after multiple years
+D) Money paid to borrow something physical
 
 ---
 
@@ -66,13 +66,13 @@ A fee paid for the use of someone else's money
 
 ---
 
-A) Interest on the principal amount only
+A) A flat fee charged annually
 
 B) Interest on the original investment minus fees
 
-C) Interest on the outstanding debt balance, plus interest on interest
+C) A flat fee charged annually
 
-D) A flat fee charged annually
+D) Interest on the outstanding debt balance, plus interest on interest
 
 ---
 
@@ -84,13 +84,13 @@ Interest on the outstanding debt balance, plus interest on interest
 
 ---
 
-A) Always avoid it entirely
+A) It's only beneficial for short-term investments
 
-B) It's great to earn, but avoid paying it
+B) It's better than simple interest in all cases
 
-C) It's better than simple interest in all cases
+C) Always avoid it entirely
 
-D) It's only beneficial for short-term investments
+D) It's great to earn, but avoid paying it
 
 ---
 
@@ -102,13 +102,13 @@ It's great to earn, but avoid paying it
 
 ---
 
-A) 10%
+A) 25%
 
-B) 15% 
+B) 15%
 
-C) 20%
+C) 10%
 
-D) 25%
+D) 20%
 
 ---
 
@@ -120,13 +120,13 @@ D) 25%
 
 ---
 
-A) $200
+A) $1488
 
 B) $500
 
-C) $1000
+C) $200
 
-D) $1488
+D) $1000
 
 ---
 
@@ -138,13 +138,13 @@ $1000
 
 ---
 
-A) It increases each year
+A) It fluctuates based on market conditions
 
 B) It decreases each year
 
 C) It remains the same
 
-D) It fluctuates based on market conditions
+D) It increases each year
 
 ---
 
@@ -156,13 +156,13 @@ It remains the same
 
 ---
 
-A) $1500
+A) $2488
 
-B) $2000
+B) $3000
 
-C) $2488
+C) $1500
 
-D) $3000
+D) $2000
 
 ---
 
@@ -174,13 +174,13 @@ $2488
 
 ---
 
-A) To make something bad worse
+A) To reduce debt over time
 
-B) To add interest to principal
+B) To invest wisely
 
-C) To reduce debt over time
+C) To add interest to principal
 
-D) To invest wisely
+D) To make something bad worse
 
 ---
 
@@ -192,13 +192,13 @@ To make something bad worse
 
 ---
 
-A) $200
+A) $288
 
 B) $220
 
 C) $240
 
-D) $288
+D) $200
 
 ---
 
@@ -210,13 +210,13 @@ $240
 
 ---
 
-A) $0
+A) $200
 
-B) $40
+B) $80
 
-C) $80
+C) $0
 
-D) $200
+D) $40
 
 ---
 
@@ -228,9 +228,9 @@ $40
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -242,13 +242,13 @@ False
 
 ---
 
-A) $1000
+A) $2488
 
-B) $1200
+B) $1000
 
-C) $1488
+C) $1200
 
-D) $2488
+D) $1488
 
 ---
 
@@ -260,13 +260,13 @@ $1488
 
 ---
 
-A) The interest rate applied
+A) The total amount after interest is added
 
-B) The total amount after interest is added
+B) The person who manages the account
 
 C) The original amount borrowed or invested
 
-D) The person who manages the account
+D) The interest rate applied
 
 ---
 
@@ -278,9 +278,9 @@ The original amount borrowed or invested
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 

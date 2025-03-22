@@ -77,13 +77,13 @@
 
 ---
 
-A) A motor found in human cells
+A) A theoretical model of bacterial propulsion
 
-B) A molecular machine made of proteins that rotates the flagellum of bacteria
+B) A man-made microscopic motor for medical applications
 
-C) A man-made microscopic motor for medical applications
+C) A motor found in human cells
 
-D) A theoretical model of bacterial propulsion
+D) A molecular machine made of proteins that rotates the flagellum of bacteria
 
 ---
 
@@ -95,13 +95,13 @@ A molecular machine made of proteins that rotates the flagellum of bacteria
 
 ---
 
-A) ATP molecules
+A) Bacterial metabolism
 
 B) Solar energy
 
-C) Proton gradient (hydrogen ions)
+C) ATP molecules
 
-D) Bacterial metabolism
+D) Proton gradient (hydrogen ions)
 
 ---
 
@@ -113,13 +113,13 @@ Proton gradient (hydrogen ions)
 
 ---
 
-A) By completely disassembling and reassembling in reverse
+A) By changing the rotation speed of all components
 
-B) By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it
+B) By generating a new flagellum on the opposite side
 
-C) By changing the rotation speed of all components
+C) By completely disassembling and reassembling in reverse
 
-D) By generating a new flagellum on the opposite side
+D) By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it
 
 ---
 
@@ -131,13 +131,13 @@ By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it
 
 ---
 
-A) Locomotaxis
+A) Bacterial navigation
 
 B) Flagellar migration
 
-C) Chemotaxis
+C) Locomotaxis
 
-D) Bacterial navigation
+D) Chemotaxis
 
 ---
 
@@ -149,13 +149,13 @@ Chemotaxis
 
 ---
 
-A) The main shaft
+A) The protein that controls direction
 
-B) The small gear that harnesses proton energy
+B) The sensor that detects chemicals
 
-C) The sensor that detects chemicals
+C) The small gear that harnesses proton energy
 
-D) The protein that controls direction
+D) The main shaft
 
 ---
 
@@ -167,13 +167,13 @@ The small gear that harnesses proton energy
 
 ---
 
-A) It tumbles randomly
+A) It moves backward
 
-B) It swims straight forward
+B) It stops moving completely
 
-C) It stops moving completely
+C) It tumbles randomly
 
-D) It moves backward
+D) It swims straight forward
 
 ---
 
@@ -185,13 +185,13 @@ It swims straight forward
 
 ---
 
-A) It opens up, causing the bacteria to tumble
+A) It straightens out completely
 
 B) It tightens, causing faster forward movement
 
 C) It detaches from the bacteria
 
-D) It straightens out completely
+D) It opens up, causing the bacteria to tumble
 
 ---
 
@@ -203,13 +203,13 @@ It opens up, causing the bacteria to tumble
 
 ---
 
-A) A proton pump in the bacterial membrane
+A) The main structural component of flagella
 
-B) The main structural component of flagella
+B) An enzyme that breaks down the flagellar motor
 
-C) A protein that binds to the motor and triggers clockwise rotation
+C) A proton pump in the bacterial membrane
 
-D) An enzyme that breaks down the flagellar motor
+D) A protein that binds to the motor and triggers clockwise rotation
 
 ---
 
@@ -221,13 +221,13 @@ A protein that binds to the motor and triggers clockwise rotation
 
 ---
 
-A) Extraction, Purification, Analysis
+A) Collection, Isolation, Microscopy
 
-B) Transformation, Expression, Purification
+B) Cultivation, Modification, Observation
 
-C) Collection, Isolation, Microscopy
+C) Transformation, Expression, Purification
 
-D) Cultivation, Modification, Observation
+D) Extraction, Purification, Analysis
 
 ---
 
@@ -239,13 +239,13 @@ Transformation, Expression, Purification
 
 ---
 
-A) Light microscopy
+A) Cryo-electron microscopy
 
-B) Scanning electron microscopy
+B) Atomic force microscopy
 
-C) Atomic force microscopy
+C) Light microscopy
 
-D) Cryo-electron microscopy
+D) Scanning electron microscopy
 
 ---
 
@@ -257,13 +257,13 @@ Cryo-electron microscopy
 
 ---
 
-A) Only 1
+A) Hundreds
 
-B) Up to 5
+B) Only 1
 
-C) Up to 11-13
+C) Up to 5
 
-D) Hundreds
+D) Up to 11-13
 
 ---
 
@@ -275,13 +275,13 @@ Up to 11-13
 
 ---
 
-A) Straight-line movement
+A) Zigzag pattern
 
-B) Circular movement
+B) Straight-line movement
 
-C) Biased random walk
+C) Circular movement
 
-D) Zigzag pattern
+D) Biased random walk
 
 ---
 
@@ -293,13 +293,13 @@ Biased random walk
 
 ---
 
-A) Mitochondria
+A) Bacterial ribosomes
 
-B) Type 3 secretion system
+B) Protein pumps
 
-C) Bacterial ribosomes
+C) Type 3 secretion system
 
-D) Protein pumps
+D) Mitochondria
 
 ---
 
@@ -311,9 +311,9 @@ Type 3 secretion system
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -325,13 +325,13 @@ False
 
 ---
 
-A) They cancel each other out, stopping movement
+A) They work independently, causing jerky movement
 
-B) They form a bundle, pushing the bacteria straight forward
+B) They cause the bacteria to spin in place
 
-C) They work independently, causing jerky movement
+C) They cancel each other out, stopping movement
 
-D) They cause the bacteria to spin in place
+D) They form a bundle, pushing the bacteria straight forward
 
 ---
 

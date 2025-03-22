@@ -61,13 +61,13 @@
 
 ---
 
-A) 65%
+A) 78%
 
-B) 71%
+B) 82%
 
-C) 78%
+C) 65%
 
-D) 82%
+D) 71%
 
 ---
 
@@ -79,13 +79,13 @@ D) 82%
 
 ---
 
-A) -100°C
+A) -300°C
 
-B) -150°C
+B) -100°C
 
-C) Below -200°C
+C) -150°C
 
-D) -300°C
+D) Below -200°C
 
 ---
 
@@ -97,13 +97,13 @@ Below -200°C
 
 ---
 
-A) It is radioactive
+A) It is diamagnetic
 
-B) It is paramagnetic
+B) It is ferromagnetic
 
-C) It is diamagnetic
+C) It is radioactive
 
-D) It is ferromagnetic
+D) It is paramagnetic
 
 ---
 
@@ -115,13 +115,13 @@ It is paramagnetic
 
 ---
 
-A) 95.5%
+A) 98.9%
 
-B) 97.8%
+B) 95.5%
 
-C) 98.9%
+C) 99.7%
 
-D) 99.7%
+D) 97.8%
 
 ---
 
@@ -133,13 +133,13 @@ D) 99.7%
 
 ---
 
-A) Nitrogen bubbles are larger
+A) Nitrogen is warmer
 
-B) Nitrogen bubbles are smaller
+B) Nitrogen is heavier
 
-C) Nitrogen is heavier
+C) Nitrogen bubbles are larger
 
-D) Nitrogen is warmer
+D) Nitrogen bubbles are smaller
 
 ---
 
@@ -151,13 +151,13 @@ Nitrogen bubbles are smaller
 
 ---
 
-A) Magnetic properties of nitrogen
+A) Chemical reaction with coffee
 
 B) Temperature differences
 
-C) Upward center flow creating downward outside flow
+C) Magnetic properties of nitrogen
 
-D) Chemical reaction with coffee
+D) Upward center flow creating downward outside flow
 
 ---
 
@@ -169,9 +169,9 @@ Upward center flow creating downward outside flow
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -183,13 +183,13 @@ True
 
 ---
 
-A) 15 liters of room air
+A) 45 liters of room air
 
 B) 25 liters of room air
 
-C) 35 liters of room air
+C) 15 liters of room air
 
-D) 45 liters of room air
+D) 35 liters of room air
 
 ---
 

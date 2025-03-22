@@ -2,13 +2,13 @@
 
 ---
 
-A) Metaphor
+A) Personification
 
-B) Simile
+B) Metaphor
 
-C) Personification
+C) Alliteration
 
-D) Alliteration
+D) Simile
 
 ---
 
@@ -20,13 +20,13 @@ Personification
 
 ---
 
-A) To introduce the topic
+A) To conclude the essay
 
-B) To state the author's main argument or position
+B) To summarize research findings
 
-C) To summarize research findings
+C) To introduce the topic
 
-D) To conclude the essay
+D) To state the author's main argument or position
 
 ---
 
@@ -38,13 +38,13 @@ To state the author's main argument or position
 
 ---
 
-A) Nathaniel Hawthorne
+A) F. Scott Fitzgerald
 
 B) Ernest Hemingway
 
 C) Mark Twain
 
-D) F. Scott Fitzgerald
+D) Nathaniel Hawthorne
 
 ---
 
@@ -56,13 +56,13 @@ Nathaniel Hawthorne
 
 ---
 
-A) Hamlet
+A) The Tempest
 
-B) Macbeth
+B) Othello
 
-C) The Tempest
+C) Hamlet
 
-D) Othello
+D) Macbeth
 
 ---
 
@@ -74,13 +74,13 @@ The Tempest
 
 ---
 
-A) Money and wealth
+A) The American Dream
 
-B) Jealousy
+B) Money and wealth
 
-C) Gatsby's dreams and hopes for the future
+C) Jealousy
 
-D) The American Dream
+D) Gatsby's dreams and hopes for the future
 
 ---
 
@@ -92,13 +92,13 @@ Gatsby's dreams and hopes for the future
 
 ---
 
-A) Realism
+A) Modernism
 
-B) Romanticism
+B) Naturalism
 
-C) Modernism
+C) Realism
 
-D) Naturalism
+D) Romanticism
 
 ---
 
@@ -110,13 +110,13 @@ Romanticism
 
 ---
 
-A) To introduce the characters, setting, and basic situation
+A) To resolve the conflict
 
-B) To present the main conflict
+B) To build to the climax
 
-C) To build to the climax
+C) To present the main conflict
 
-D) To resolve the conflict
+D) To introduce the characters, setting, and basic situation
 
 ---
 
@@ -128,13 +128,13 @@ To introduce the characters, setting, and basic situation
 
 ---
 
-A) Imagery
+A) Metaphor
 
-B) Alliteration
+B) Personification
 
-C) Personification
+C) Alliteration
 
-D) Metaphor
+D) Imagery
 
 ---
 
@@ -146,11 +146,11 @@ Alliteration
 
 ---
 
-A) I went to the store.
+A) Because I was thirsty, I went to the store.
 
-B) I went to the store, and I bought milk.
+B) I went to the store.
 
-C) Because I was thirsty, I went to the store.
+C) I went to the store, and I bought milk.
 
 D) I went to the store after class, but when I arrived, it was closed.
 
@@ -164,13 +164,13 @@ I went to the store after class, but when I arrived, it was closed.
 
 ---
 
-A) Similes compare similar things; metaphors compare different things
+A) Similes are only used in poetry; metaphors are used in prose
 
-B) Similes use "like" or "as"; metaphors make a direct comparison
+B) Similes are figurative; metaphors are literal
 
-C) Similes are only used in poetry; metaphors are used in prose
+C) Similes use "like" or "as"; metaphors make a direct comparison
 
-D) Similes are figurative; metaphors are literal
+D) Similes compare similar things; metaphors compare different things
 
 ---
 
@@ -182,13 +182,13 @@ Similes use "like" or "as"; metaphors make a direct comparison
 
 ---
 
-A) Alliteration
+A) Consonance
 
-B) Onomatopoeia
+B) Assonance
 
-C) Assonance
+C) Alliteration
 
-D) Consonance
+D) Onomatopoeia
 
 ---
 
@@ -200,13 +200,13 @@ Onomatopoeia
 
 ---
 
-A) A type of poem with exactly five lines
+A) A rhyme scheme in which every fifth line rhymes
 
-B) A metrical pattern consisting of five iambs per line
+B) A type of free verse poetry
 
-C) A rhyme scheme in which every fifth line rhymes
+C) A type of poem with exactly five lines
 
-D) A type of free verse poetry
+D) A metrical pattern consisting of five iambs per line
 
 ---
 
@@ -218,9 +218,9 @@ A metrical pattern consisting of five iambs per line
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -232,13 +232,13 @@ False
 
 ---
 
-A) Cut
+A) Connect
 
-B) Clarify
+B) Cut
 
-C) Connect
+C) Construct
 
-D) Construct
+D) Clarify
 
 ---
 
@@ -250,13 +250,13 @@ Construct
 
 ---
 
-A) The movie was great; I loved it.
+A) The movie was great; and I loved it.
 
-B) The movie was great, I loved it.
+B) The movie was great; because it was funny.
 
-C) The movie was great; and I loved it.
+C) The movie was great; I loved it.
 
-D) The movie was great; because it was funny.
+D) The movie was great, I loved it.
 
 ---
 
@@ -268,13 +268,13 @@ The movie was great; I loved it.
 
 ---
 
-A) To swim
+A) Swum
 
-B) Swimming
+B) To swim
 
-C) Swam
+C) Swimming
 
-D) Swum
+D) Swam
 
 ---
 
@@ -286,13 +286,13 @@ Swimming
 
 ---
 
-A) Go
+A) Au
 
-B) Gl
+B) Ag
 
-C) Au
+C) Go
 
-D) Ag
+D) Gl
 
 ---
 
@@ -304,13 +304,13 @@ Au
 
 ---
 
-A) Mars
+A) Venus
 
-B) Jupiter
+B) Neptune
 
-C) Neptune
+C) Jupiter
 
-D) Venus
+D) Mars
 
 ---
 
@@ -322,13 +322,13 @@ Jupiter
 
 ---
 
-A) Protein synthesis
+A) Storage of genetic material
 
 B) Cell division
 
 C) Energy production
 
-D) Storage of genetic material
+D) Protein synthesis
 
 ---
 
@@ -340,13 +340,13 @@ Energy production
 
 ---
 
-A) Messenger RNA
+A) Transfer RNA
 
-B) Transfer RNA
+B) Cellular RNA
 
-C) Ribosomal RNA
+C) Messenger RNA
 
-D) Cellular RNA
+D) Ribosomal RNA
 
 ---
 
@@ -358,13 +358,13 @@ Cellular RNA
 
 ---
 
-A) An object in motion stays in motion unless acted upon by an outside force
+A) Energy can neither be created nor destroyed
 
-B) For every action, there is an equal and opposite reaction
+B) An object in motion stays in motion unless acted upon by an outside force
 
-C) Force equals mass times acceleration
+C) For every action, there is an equal and opposite reaction
 
-D) Energy can neither be created nor destroyed
+D) Force equals mass times acceleration
 
 ---
 
@@ -376,13 +376,13 @@ Force equals mass times acceleration
 
 ---
 
-A) Compounds can be separated by physical means, mixtures cannot
+A) Compounds have a fixed composition, mixtures do not
 
-B) Mixtures can be separated by physical means, compounds cannot
+B) Compounds can be separated by physical means, mixtures cannot
 
-C) Compounds have a fixed composition, mixtures do not
+C) Both B and C
 
-D) Both B and C
+D) Mixtures can be separated by physical means, compounds cannot
 
 ---
 
@@ -394,13 +394,13 @@ Both B and C
 
 ---
 
-A) 0
+A) 14
 
-B) 7
+B) 10
 
-C) 10
+C) 7
 
-D) 14
+D) 0
 
 ---
 
@@ -412,13 +412,13 @@ D) 14
 
 ---
 
-A) A ball rolling down a hill
+A) A person running
 
-B) A car driving on a highway
+B) A book sitting on a high shelf
 
-C) A book sitting on a high shelf
+C) A ball rolling down a hill
 
-D) A person running
+D) A car driving on a highway
 
 ---
 
@@ -430,13 +430,13 @@ A book sitting on a high shelf
 
 ---
 
-A) Respiration
+A) Fermentation
 
-B) Photosynthesis
+B) Transpiration
 
-C) Transpiration
+C) Respiration
 
-D) Fermentation
+D) Photosynthesis
 
 ---
 
@@ -448,11 +448,11 @@ Photosynthesis
 
 ---
 
-A) Helium
+A) Neon
 
-B) Neon
+B) Oxygen
 
-C) Oxygen
+C) Helium
 
 D) Argon
 
@@ -466,13 +466,13 @@ Oxygen
 
 ---
 
-A) Atom
+A) Molecule
 
 B) Proton
 
-C) Electron
+C) Atom
 
-D) Molecule
+D) Electron
 
 ---
 
@@ -484,13 +484,13 @@ Atom
 
 ---
 
-A) Digestive system
+A) Circulatory system
 
 B) Respiratory system
 
-C) Excretory system
+C) Digestive system
 
-D) Circulatory system
+D) Excretory system
 
 ---
 
@@ -502,13 +502,13 @@ Excretory system
 
 ---
 
-A) Biology
+A) Physiology
 
-B) Genetics
+B) Ecology
 
-C) Physiology
+C) Biology
 
-D) Ecology
+D) Genetics
 
 ---
 
@@ -520,9 +520,9 @@ Genetics
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -534,13 +534,13 @@ False
 
 ---
 
-A) Sedimentary
+A) Metamorphic
 
-B) Metamorphic
+B) Composite
 
 C) Igneous
 
-D) Composite
+D) Sedimentary
 
 ---
 
@@ -552,13 +552,13 @@ Igneous
 
 ---
 
-A) Newton's First Law
+A) Boyle's Law
 
-B) Law of Conservation of Energy
+B) Law of Conservation of Mass
 
-C) Law of Conservation of Mass
+C) Law of Conservation of Energy
 
-D) Boyle's Law
+D) Newton's First Law
 
 ---
 
@@ -570,13 +570,13 @@ Law of Conservation of Energy
 
 ---
 
-A) Coal
+A) Oil
 
 B) Natural gas
 
-C) Uranium
+C) Coal
 
-D) Oil
+D) Uranium
 
 ---
 
@@ -588,13 +588,13 @@ Uranium
 
 ---
 
-A) Oxygen
+A) Hydrogen
 
 B) Carbon dioxide
 
 C) Nitrogen
 
-D) Hydrogen
+D) Oxygen
 
 ---
 
@@ -606,13 +606,13 @@ Nitrogen
 
 ---
 
-A) Declaration of Independence
+A) Gettysburg Address
 
-B) Bill of Rights
+B) Declaration of Independence
 
 C) Constitution of the United States
 
-D) Gettysburg Address
+D) Bill of Rights
 
 ---
 
@@ -624,13 +624,13 @@ Constitution of the United States
 
 ---
 
-A) The United States and the Soviet Union
+A) France and Russia
 
-B) The United States and China
+B) Great Britain and Germany
 
-C) Great Britain and Germany
+C) The United States and China
 
-D) France and Russia
+D) The United States and the Soviet Union
 
 ---
 
@@ -642,13 +642,13 @@ The United States and the Soviet Union
 
 ---
 
-A) 13th Amendment
+A) 19th Amendment
 
-B) 14th Amendment
+B) 15th Amendment
 
-C) 15th Amendment
+C) 13th Amendment
 
-D) 19th Amendment
+D) 14th Amendment
 
 ---
 
@@ -660,13 +660,13 @@ D) 19th Amendment
 
 ---
 
-A) The President
+A) Parliament
 
-B) The Pope
+B) The King
 
-C) The King
+C) The President
 
-D) Parliament
+D) The Pope
 
 ---
 
@@ -678,13 +678,13 @@ The King
 
 ---
 
-A) United States
+A) Soviet Union
 
-B) Soviet Union
+B) Japan
 
-C) Great Britain
+C) United States
 
-D) Japan
+D) Great Britain
 
 ---
 
@@ -696,13 +696,13 @@ Japan
 
 ---
 
-A) The sinking of the Lusitania
+A) The bombing of Pearl Harbor
 
-B) The assassination of Archduke Franz Ferdinand
+B) The invasion of Poland
 
-C) The invasion of Poland
+C) The sinking of the Lusitania
 
-D) The bombing of Pearl Harbor
+D) The assassination of Archduke Franz Ferdinand
 
 ---
 
@@ -714,13 +714,13 @@ The assassination of Archduke Franz Ferdinand
 
 ---
 
-A) Mesopotamians
+A) Romans
 
-B) Greeks
+B) Mesopotamians
 
-C) Romans
+C) Egyptians
 
-D) Egyptians
+D) Greeks
 
 ---
 
@@ -732,13 +732,13 @@ Egyptians
 
 ---
 
-A) England
+A) Spain
 
 B) France
 
-C) Italy
+C) England
 
-D) Spain
+D) Italy
 
 ---
 
@@ -750,13 +750,13 @@ Italy
 
 ---
 
-A) Stock market crash of 1929
+A) High tariffs restricting trade
 
-B) Overproduction of goods
+B) Stock market crash of 1929
 
-C) High tariffs restricting trade
+C) The New Deal policies
 
-D) The New Deal policies
+D) Overproduction of goods
 
 ---
 
@@ -768,13 +768,13 @@ The New Deal policies
 
 ---
 
-A) Slavery should be abolished in all U.S. territories
+A) The U.S. would pursue a policy of isolationism
 
-B) The U.S. would not interfere in European affairs
+B) European powers should not colonize or interfere with the Americas
 
-C) European powers should not colonize or interfere with the Americas
+C) The U.S. would not interfere in European affairs
 
-D) The U.S. would pursue a policy of isolationism
+D) Slavery should be abolished in all U.S. territories
 
 ---
 
@@ -786,13 +786,13 @@ European powers should not colonize or interfere with the Americas
 
 ---
 
-A) To rebuild Western Europe after World War II
+A) To establish NATO
 
-B) To contain the spread of communism in Asia
+B) To help Japan recover after the atomic bombings
 
-C) To establish NATO
+C) To rebuild Western Europe after World War II
 
-D) To help Japan recover after the atomic bombings
+D) To contain the spread of communism in Asia
 
 ---
 
@@ -804,13 +804,13 @@ To rebuild Western Europe after World War II
 
 ---
 
-A) Autocracy
+A) Parliamentary democracy
 
-B) Federalism
+B) Totalitarianism
 
-C) Parliamentary democracy
+C) Federalism
 
-D) Totalitarianism
+D) Autocracy
 
 ---
 
@@ -822,9 +822,9 @@ Federalism
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -836,13 +836,13 @@ False
 
 ---
 
-A) Vladimir Lenin
+A) Nikita Khrushchev
 
-B) Joseph Stalin
+B) Vladimir Lenin
 
-C) Nikita Khrushchev
+C) Leon Trotsky
 
-D) Leon Trotsky
+D) Joseph Stalin
 
 ---
 
@@ -854,13 +854,13 @@ Joseph Stalin
 
 ---
 
-A) First-person narration
+A) Second-person narration
 
-B) Third-person limited narration
+B) First-person narration
 
 C) Third-person omniscient narration
 
-D) Second-person narration
+D) Third-person limited narration
 
 ---
 
@@ -872,13 +872,13 @@ Third-person limited narration
 
 ---
 
-A) A character says one thing but means another
+A) An unexpected twist at the end of a story
 
 B) Two similar situations have very different outcomes
 
 C) The audience knows something important that a character doesn't know
 
-D) An unexpected twist at the end of a story
+D) A character says one thing but means another
 
 ---
 
@@ -890,13 +890,13 @@ The audience knows something important that a character doesn't know
 
 ---
 
-A) And
+A) Or
 
-B) But
+B) Because
 
-C) Because
+C) And
 
-D) Or
+D) But
 
 ---
 
@@ -908,13 +908,13 @@ Because
 
 ---
 
-A) Linking verb
+A) Auxiliary verb
 
-B) Transitive verb
+B) Linking verb
 
 C) Intransitive verb
 
-D) Auxiliary verb
+D) Transitive verb
 
 ---
 
@@ -926,13 +926,13 @@ Intransitive verb
 
 ---
 
-A) Romeo and Juliet
+A) King Lear
 
 B) Macbeth
 
 C) Hamlet
 
-D) King Lear
+D) Romeo and Juliet
 
 ---
 
@@ -944,13 +944,13 @@ Hamlet
 
 ---
 
-A) Dynamic characters speak more, static characters are quiet
+A) Dynamic characters are main characters, static characters are minor
 
-B) Dynamic characters change throughout the story, static characters remain the same
+B) Dynamic characters have more complex personalities, static characters are simpler
 
-C) Dynamic characters are main characters, static characters are minor
+C) Dynamic characters speak more, static characters are quiet
 
-D) Dynamic characters have more complex personalities, static characters are simpler
+D) Dynamic characters change throughout the story, static characters remain the same
 
 ---
 
@@ -962,13 +962,13 @@ Dynamic characters change throughout the story, static characters remain the sam
 
 ---
 
-A) A textbook about World War II
+A) A biography of Abraham Lincoln
 
 B) A documentary about Martin Luther King Jr.
 
 C) A diary written by Anne Frank
 
-D) A biography of Abraham Lincoln
+D) A textbook about World War II
 
 ---
 
@@ -980,13 +980,13 @@ A diary written by Anne Frank
 
 ---
 
-A) Baking soda
+A) Chalk
 
 B) Table salt
 
 C) Bleach
 
-D) Chalk
+D) Baking soda
 
 ---
 
@@ -998,13 +998,13 @@ Table salt
 
 ---
 
-A) Condensation
+A) Sublimation
 
-B) Evaporation
+B) Condensation
 
 C) Precipitation
 
-D) Sublimation
+D) Evaporation
 
 ---
 
@@ -1016,13 +1016,13 @@ Evaporation
 
 ---
 
-A) Solar power
+A) Wind power
 
-B) Wind power
+B) Coal
 
-C) Coal
+C) Hydropower
 
-D) Hydropower
+D) Solar power
 
 ---
 
@@ -1034,11 +1034,11 @@ Coal
 
 ---
 
-A) Transport oxygen
+A) Carry nutrients
 
-B) Fight infection
+B) Transport oxygen
 
-C) Carry nutrients
+C) Fight infection
 
 D) Clot blood
 
@@ -1052,13 +1052,13 @@ Fight infection
 
 ---
 
-A) Whale
+A) Elephant
 
-B) Bat
+B) Alligator
 
-C) Alligator
+C) Whale
 
-D) Elephant
+D) Bat
 
 ---
 
@@ -1070,13 +1070,13 @@ Alligator
 
 ---
 
-A) Middle Ages
+A) Renaissance
 
-B) Renaissance
+B) Middle Ages
 
-C) Enlightenment
+C) 18th century
 
-D) 18th century
+D) Enlightenment
 
 ---
 
@@ -1088,13 +1088,13 @@ D) 18th century
 
 ---
 
-A) Georgia
+A) Massachusetts
 
 B) Vermont
 
-C) Massachusetts
+C) North Carolina
 
-D) North Carolina
+D) Georgia
 
 ---
 
@@ -1106,13 +1106,13 @@ Vermont
 
 ---
 
-A) Brown v. Board of Education
+A) Miranda v. Arizona
 
-B) Plessy v. Ferguson
+B) Brown v. Board of Education
 
 C) Roe v. Wade
 
-D) Miranda v. Arizona
+D) Plessy v. Ferguson
 
 ---
 
@@ -1124,13 +1124,13 @@ Plessy v. Ferguson
 
 ---
 
-A) Executive
+A) State
 
-B) Legislative
+B) Executive
 
-C) Judicial
+C) Legislative
 
-D) State
+D) Judicial
 
 ---
 
@@ -1142,13 +1142,13 @@ Legislative
 
 ---
 
-A) Chemical reactions
+A) Laboratory procedures
 
 B) Scientific theories
 
 C) Chemical elements
 
-D) Laboratory procedures
+D) Chemical reactions
 
 ---
 
@@ -1160,13 +1160,13 @@ Chemical elements
 
 ---
 
-A) Geology
+A) Astronomy
 
 B) Geography
 
-C) Meteorology
+C) Geology
 
-D) Astronomy
+D) Meteorology
 
 ---
 
@@ -1178,13 +1178,13 @@ Geography
 
 ---
 
-A) Mesopotamian
+A) Roman
 
 B) Greek
 
 C) Egyptian
 
-D) Roman
+D) Mesopotamian
 
 ---
 
@@ -1196,13 +1196,13 @@ Egyptian
 
 ---
 
-A) Women's suffrage
+A) Religious freedom
 
-B) Ending racial segregation and discrimination
+B) Women's suffrage
 
 C) Economic equality
 
-D) Religious freedom
+D) Ending racial segregation and discrimination
 
 ---
 
@@ -1214,13 +1214,13 @@ Ending racial segregation and discrimination
 
 ---
 
-A) Speed = Distance × Time
+A) Speed = Distance + Time
 
-B) Speed = Distance + Time
+B) Speed = Time ÷ Distance
 
-C) Speed = Distance ÷ Time
+C) Speed = Distance × Time
 
-D) Speed = Time ÷ Distance
+D) Speed = Distance ÷ Time
 
 ---
 
@@ -1232,13 +1232,13 @@ Speed = Distance ÷ Time
 
 ---
 
-A) City
+A) Teacher
 
-B) Paris
+B) Book
 
-C) Book
+C) Paris
 
-D) Teacher
+D) City
 
 ---
 
@@ -1250,13 +1250,13 @@ Paris
 
 ---
 
-A) Hyperbole
+A) Simile
 
 B) Metaphor
 
-C) Personification
+C) Hyperbole
 
-D) Simile
+D) Personification
 
 ---
 
@@ -1268,13 +1268,13 @@ Personification
 
 ---
 
-A) Potential Hydrogen
+A) Percentage of Hydrogen
 
-B) Power of Hydrogen
+B) Partial Hydrogen
 
-C) Partial Hydrogen
+C) Power of Hydrogen
 
-D) Percentage of Hydrogen
+D) Potential Hydrogen
 
 ---
 
@@ -1286,13 +1286,13 @@ Power of Hydrogen
 
 ---
 
-A) It admitted Missouri as a free state
+A) It created the territory of Missouri
 
 B) It maintained the balance between slave and free states
 
 C) It abolished slavery in the North
 
-D) It created the territory of Missouri
+D) It admitted Missouri as a free state
 
 ---
 
@@ -1318,13 +1318,13 @@ True
 
 ---
 
-A) Romeo and Juliet
+A) Pride and Prejudice
 
 B) The Great Gatsby
 
 C) The Odyssey
 
-D) Pride and Prejudice
+D) Romeo and Juliet
 
 ---
 
@@ -1336,13 +1336,13 @@ The Odyssey
 
 ---
 
-A) To provide supporting details
+A) To conclude the paragraph
 
-B) To state the main idea of the paragraph
+B) To transition to the next paragraph
 
-C) To conclude the paragraph
+C) To state the main idea of the paragraph
 
-D) To transition to the next paragraph
+D) To provide supporting details
 
 ---
 
@@ -1354,13 +1354,13 @@ To state the main idea of the paragraph
 
 ---
 
-A) The ball was thrown by John.
+A) The ball, it was thrown.
 
-B) John threw the ball.
+B) Throwing of the ball occurred.
 
-C) The ball, it was thrown.
+C) The ball was thrown by John.
 
-D) Throwing of the ball occurred.
+D) John threw the ball.
 
 ---
 
@@ -1372,13 +1372,13 @@ John threw the ball.
 
 ---
 
-A) Simplistic language and straightforward plots
+A) Contemporary urban settings
 
-B) Contemporary urban settings
+B) Humor and light-hearted themes
 
 C) Supernatural elements and atmospheric settings
 
-D) Humor and light-hearted themes
+D) Simplistic language and straightforward plots
 
 ---
 
@@ -1390,13 +1390,13 @@ Supernatural elements and atmospheric settings
 
 ---
 
-A) Robinson Crusoe by Daniel Defoe
+A) Great Expectations by Charles Dickens
 
 B) Pride and Prejudice by Jane Austen
 
 C) Frankenstein by Mary Shelley
 
-D) Great Expectations by Charles Dickens
+D) Robinson Crusoe by Daniel Defoe
 
 ---
 
@@ -1408,13 +1408,13 @@ Robinson Crusoe by Daniel Defoe
 
 ---
 
-A) A trade agreement between European nations
+A) A summit where the United Nations was formed
 
-B) A set of international treaties concerning the treatment of prisoners of war
+B) A peace treaty ending World War I
 
-C) A peace treaty ending World War I
+C) A set of international treaties concerning the treatment of prisoners of war
 
-D) A summit where the United Nations was formed
+D) A trade agreement between European nations
 
 ---
 
@@ -1426,13 +1426,13 @@ A set of international treaties concerning the treatment of prisoners of war
 
 ---
 
-A) Emphasis on religious authority
+A) Focus on emotion over reason
 
-B) Focus on emotion over reason
+B) Rejection of scientific methods
 
 C) Belief in the power of human reason
 
-D) Rejection of scientific methods
+D) Emphasis on religious authority
 
 ---
 
@@ -1444,13 +1444,13 @@ Belief in the power of human reason
 
 ---
 
-A) Hypothesis, question, experiment, analysis, conclusion
+A) Experiment, question, hypothesis, analysis, conclusion
 
 B) Question, hypothesis, experiment, analysis, conclusion
 
-C) Experiment, question, hypothesis, analysis, conclusion
+C) Question, experiment, hypothesis, analysis, conclusion
 
-D) Question, experiment, hypothesis, analysis, conclusion
+D) Hypothesis, question, experiment, analysis, conclusion
 
 ---
 
@@ -1462,13 +1462,13 @@ Question, hypothesis, experiment, analysis, conclusion
 
 ---
 
-A) A book resting on a table
+A) A ball rolling down a hill
 
-B) A car accelerating on a highway
+B) A book resting on a table
 
 C) A rocket propelling forward as gases are expelled backward
 
-D) A ball rolling down a hill
+D) A car accelerating on a highway
 
 ---
 
@@ -1480,13 +1480,13 @@ A rocket propelling forward as gases are expelled backward
 
 ---
 
-A) Nationalism
+A) Federalism
 
-B) Imperialism
+B) Nationalism
 
-C) Isolationism
+C) Imperialism
 
-D) Federalism
+D) Isolationism
 
 ---
 
@@ -1498,13 +1498,13 @@ Imperialism
 
 ---
 
-A) The main character of a story
+A) The sequence of events in a story
 
 B) The central message or idea explored in a work
 
-C) The time and place where a story occurs
+C) The main character of a story
 
-D) The sequence of events in a story
+D) The time and place where a story occurs
 
 ---
 
@@ -1516,13 +1516,13 @@ The central message or idea explored in a work
 
 ---
 
-A) Producers
+A) Decomposers
 
-B) Consumers
+B) Inventors
 
-C) Decomposers
+C) Producers
 
-D) Inventors
+D) Consumers
 
 ---
 
@@ -1534,13 +1534,13 @@ Inventors
 
 ---
 
-A) Ensure one branch has ultimate authority
+A) Give the President more control over Congress
 
-B) Prevent any branch from becoming too powerful
+B) Allow the Supreme Court to write laws
 
-C) Give the President more control over Congress
+C) Ensure one branch has ultimate authority
 
-D) Allow the Supreme Court to write laws
+D) Prevent any branch from becoming too powerful
 
 ---
 
@@ -1552,13 +1552,13 @@ Prevent any branch from becoming too powerful
 
 ---
 
-A) Deoxyribonucleic Acid
+A) Dual Nucleic Acid
 
-B) Diatomic Nuclear Arrangement
+B) Dividing Nucleic Assembly
 
-C) Dual Nucleic Acid
+C) Diatomic Nuclear Arrangement
 
-D) Dividing Nucleic Assembly
+D) Deoxyribonucleic Acid
 
 ---
 
@@ -1570,9 +1570,9 @@ Deoxyribonucleic Acid
 
 ---
 
-A) Mary walked to the store, and bought milk.
+A) Mary walked to the store and, bought milk.
 
-B) Mary walked to the store and, bought milk.
+B) Mary walked to the store, and bought milk.
 
 C) Mary walked to the store and bought, milk.
 
@@ -1588,13 +1588,13 @@ Mary walked to the store, and bought milk.
 
 ---
 
-A) Isaac Newton
+A) Niels Bohr
 
 B) Albert Einstein
 
 C) Galileo Galilei
 
-D) Niels Bohr
+D) Isaac Newton
 
 ---
 
@@ -1606,13 +1606,13 @@ Albert Einstein
 
 ---
 
-A) To establish the first U.S. Constitution
+A) To establish the Bill of Rights
 
 B) To create a strong central government
 
 C) To form a loose alliance among the states
 
-D) To establish the Bill of Rights
+D) To establish the first U.S. Constitution
 
 ---
 
@@ -1638,13 +1638,13 @@ True
 
 ---
 
-A) First Amendment
+A) Fifth Amendment
 
-B) Fourth Amendment
+B) Second Amendment
 
-C) Fifth Amendment
+C) Fourth Amendment
 
-D) Second Amendment
+D) First Amendment
 
 ---
 
@@ -1656,13 +1656,13 @@ Fourth Amendment
 
 ---
 
-A) Communism
+A) Feudalism
 
 B) Socialism
 
-C) Capitalism
+C) Communism
 
-D) Feudalism
+D) Capitalism
 
 ---
 
@@ -1674,13 +1674,13 @@ Capitalism
 
 ---
 
-A) Cold-blooded
+A) Have scales
 
-B) Lay eggs to reproduce
+B) Cold-blooded
 
-C) Have scales
+C) Produce milk for their young
 
-D) Produce milk for their young
+D) Lay eggs to reproduce
 
 ---
 
@@ -1692,13 +1692,13 @@ Produce milk for their young
 
 ---
 
-A) They are energetic and active
+A) They have many different personality traits
 
-B) They are the main character
+B) They change or develop throughout the story
 
-C) They change or develop throughout the story
+C) They are the main character
 
-D) They have many different personality traits
+D) They are energetic and active
 
 ---
 
@@ -1710,13 +1710,13 @@ They change or develop throughout the story
 
 ---
 
-A) Making laws
+A) Vetoing laws
 
-B) Enforcing laws
+B) Making laws
 
 C) Interpreting laws
 
-D) Vetoing laws
+D) Enforcing laws
 
 ---
 
@@ -1728,13 +1728,13 @@ Interpreting laws
 
 ---
 
-A) Solar energy
+A) Wind energy
 
-B) Wind energy
+B) Hydroelectric power
 
-C) Natural gas
+C) Solar energy
 
-D) Hydroelectric power
+D) Natural gas
 
 ---
 

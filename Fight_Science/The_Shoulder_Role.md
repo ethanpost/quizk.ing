@@ -84,9 +84,9 @@
 
 ---
 
-A) To attack opponents from the ground
+A) A basic movement for ground fighting with various applications
 
-B) A basic movement for ground fighting with various applications
+B) To attack opponents from the ground
 
 C) To strengthen the neck muscles
 
@@ -102,13 +102,13 @@ A basic movement for ground fighting with various applications
 
 ---
 
-A) Rocking from side to side
+A) Starting from a kneeling position
 
-B) Practicing on a wall
+B) Rocking from side to side
 
-C) Being able to hold the final position upside down on shoulders
+C) Practicing on a wall
 
-D) Starting from a kneeling position
+D) Being able to hold the final position upside down on shoulders
 
 ---
 
@@ -120,13 +120,13 @@ Being able to hold the final position upside down on shoulders
 
 ---
 
-A) In the air
+A) Behind your head
 
 B) On your shoulders
 
-C) In contact with the mat
+C) In the air
 
-D) Behind your head
+D) In contact with the mat
 
 ---
 
@@ -138,13 +138,13 @@ In contact with the mat
 
 ---
 
-A) Have a partner help you
+A) Start from a kneeling position
 
-B) Push with your elbows or grab your ankles
+B) Use a wall for support
 
-C) Use a wall for support
+C) Have a partner help you
 
-D) Start from a kneeling position
+D) Push with your elbows or grab your ankles
 
 ---
 
@@ -156,13 +156,13 @@ Push with your elbows or grab your ankles
 
 ---
 
-A) Hold your breath throughout the roll
+A) Take rapid shallow breaths
 
-B) Breathe in during the middle section
+B) Hold your breath throughout the roll
 
 C) Breathe out during the middle section
 
-D) Take rapid shallow breaths
+D) Breathe in during the middle section
 
 ---
 
@@ -174,13 +174,13 @@ Breathe out during the middle section
 
 ---
 
-A) On your neck
+A) Evenly across your upper back
 
 B) On your shoulders
 
 C) On your head
 
-D) Evenly across your upper back
+D) On your neck
 
 ---
 
@@ -192,13 +192,13 @@ On your shoulders
 
 ---
 
-A) Transitioning to a sitting position
+A) Using the wall for assistance
 
-B) Rocking from side to side on shoulders
+B) Practicing from a kneeling position
 
-C) Practicing from a kneeling position
+C) Transitioning to a sitting position
 
-D) Using the wall for assistance
+D) Rocking from side to side on shoulders
 
 ---
 
@@ -210,13 +210,13 @@ Rocking from side to side on shoulders
 
 ---
 
-A) 1-2 feet away
+A) As far as possible
 
-B) As far as possible
+B) It doesn't matter
 
 C) Touching the wall
 
-D) It doesn't matter
+D) 1-2 feet away
 
 ---
 
@@ -230,11 +230,11 @@ Touching the wall
 
 A) Always do it quickly
 
-B) Always do it slowly
+B) Start fast and then slow down
 
-C) Start slowly and progressively increase speed
+C) Always do it slowly
 
-D) Start fast and then slow down
+D) Start slowly and progressively increase speed
 
 ---
 
@@ -246,13 +246,13 @@ Start slowly and progressively increase speed
 
 ---
 
-A) Straight down
+A) Forward
 
 B) Up in the air
 
-C) Down to one side
+C) Straight down
 
-D) Forward
+D) Down to one side
 
 ---
 
@@ -264,13 +264,13 @@ Down to one side
 
 ---
 
-A) A protective piece of equipment
+A) A striking technique
 
-B) A defensive position that needs to be maintained against passing attempts
+B) A type of shoulder roll
 
-C) A type of shoulder roll
+C) A protective piece of equipment
 
-D) A striking technique
+D) A defensive position that needs to be maintained against passing attempts
 
 ---
 
@@ -282,13 +282,13 @@ A defensive position that needs to be maintained against passing attempts
 
 ---
 
-A) Keep it straight
+A) Turn it to the side
 
-B) Tuck it between your knees
+B) Keep it straight
 
-C) Turn it to the side
+C) Lift it up
 
-D) Lift it up
+D) Tuck it between your knees
 
 ---
 
@@ -300,13 +300,13 @@ Tuck it between your knees
 
 ---
 
-A) Arms
+A) Knees
 
 B) Shoulders
 
 C) Toes
 
-D) Knees
+D) Arms
 
 ---
 
@@ -318,9 +318,9 @@ Toes
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 

@@ -53,13 +53,13 @@ What is the verb compared to in the car analogy?
 
 ---
 
-A) The wheels
+A) The steering wheel
 
-B) The engine/motor
+B) The body frame
 
-C) The steering wheel
+C) The engine/motor
 
-D) The body frame
+D) The wheels
 
 ---
 
@@ -71,13 +71,13 @@ Which type of verb carries action across to another noun?
 
 ---
 
-A) Linking verb
+A) Progressive verb
 
-B) Transitive verb
+B) Intransitive verb
 
-C) Intransitive verb
+C) Linking verb
 
-D) Progressive verb
+D) Transitive verb
 
 ---
 
@@ -89,13 +89,13 @@ In the sentence "The phone rings," what type of verb is "rings"?
 
 ---
 
-A) Transitive
+A) Progressive
 
-B) Linking
+B) Transitive
 
-C) Intransitive
+C) Linking
 
-D) Progressive
+D) Intransitive
 
 ---
 
@@ -107,13 +107,13 @@ What is the function of a linking verb?
 
 ---
 
-A) To show action
+A) To carry action to an object
 
-B) To connect equivalent parts like an equals sign
+B) To show movement
 
-C) To carry action to an object
+C) To connect equivalent parts like an equals sign
 
-D) To show movement
+D) To show action
 
 ---
 
@@ -125,9 +125,9 @@ True or False: Adding prepositional phrases to a sentence can change an intransi
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -139,13 +139,13 @@ How can you identify the subject in a sentence?
 
 ---
 
-A) Ask "whom or what" after the verb
+A) Find the last noun in the sentence
 
 B) Look for the noun after the verb
 
-C) Ask "who or what" plus the verb
+C) Ask "whom or what" after the verb
 
-D) Find the last noun in the sentence
+D) Ask "who or what" plus the verb
 
 ---
 
@@ -157,13 +157,13 @@ In the sentence "The wonderful Latin student answers the phone," what is the dir
 
 ---
 
-A) The wonderful Latin student
+A) Wonderful
 
-B) Answers
+B) The phone
 
-C) The phone
+C) The wonderful Latin student
 
-D) Wonderful
+D) Answers
 
 ---
 
@@ -175,13 +175,13 @@ What makes a verb transitive?
 
 ---
 
-A) It has a subject
+A) It links two ideas
 
-B) It has a direct object
+B) It has a prepositional phrase
 
-C) It has a prepositional phrase
+C) It has a direct object
 
-D) It links two ideas
+D) It has a subject
 
 ---
 
@@ -193,9 +193,9 @@ True or False: A sentence can function properly without a verb.
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -207,13 +207,13 @@ In "Julia Caesar is her friend," what type of verb is "is"?
 
 ---
 
-A) Transitive
+A) Progressive
 
-B) Intransitive
+B) Linking
 
-C) Linking
+C) Transitive
 
-D) Progressive
+D) Intransitive
 
 ---
 

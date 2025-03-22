@@ -151,13 +151,13 @@
 
 ---
 
-A) 1985
+A) 2000
 
-B) 1992
+B) 2005
 
-C) 2000
+C) 1985
 
-D) 2005
+D) 1992
 
 ---
 
@@ -169,13 +169,13 @@ D) 2005
 
 ---
 
-A) Atlas
+A) PETMAN
 
-B) Spot
+B) Atlas
 
-C) BigDog
+C) Spot
 
-D) PETMAN
+D) BigDog
 
 ---
 
@@ -187,13 +187,13 @@ BigDog
 
 ---
 
-A) Surveillance in dangerous areas
+A) Test protective equipment
 
-B) Carry heavy gear for soldiers in rough terrain
+B) Perform parkour
 
-C) Test protective equipment
+C) Carry heavy gear for soldiers in rough terrain
 
-D) Perform parkour
+D) Surveillance in dangerous areas
 
 ---
 
@@ -205,13 +205,13 @@ Carry heavy gear for soldiers in rough terrain
 
 ---
 
-A) 1.5 feet
+A) 3 feet
 
-B) 2 feet
+B) 1.5 feet
 
 C) 2.5 feet
 
-D) 3 feet
+D) 2 feet
 
 ---
 
@@ -223,13 +223,13 @@ D) 3 feet
 
 ---
 
-A) It was too expensive
+A) It was replaced by Atlas
 
-B) It couldn't carry enough weight
+B) It was too noisy for combat use
 
-C) It was too noisy for combat use
+C) It couldn't carry enough weight
 
-D) It was replaced by Atlas
+D) It was too expensive
 
 ---
 
@@ -241,13 +241,13 @@ It was too noisy for combat use
 
 ---
 
-A) Precision Electronic Tactical Machine And Navigator
+A) Personal Electronic Technology for Military Applications Network
 
-B) Protection Ensemble Test Mannequin
+B) Prototype Electronic Terrain Mapping Automated Navigator
 
-C) Prototype Electronic Terrain Mapping Automated Navigator
+C) Precision Electronic Tactical Machine And Navigator
 
-D) Personal Electronic Technology for Military Applications Network
+D) Protection Ensemble Test Mannequin
 
 ---
 
@@ -259,13 +259,13 @@ Protection Ensemble Test Mannequin
 
 ---
 
-A) It could speak and respond to commands
+A) It had realistic synthetic skin
 
 B) It had facial expressions
 
-C) It changed skin temperature and could sweat
+C) It could speak and respond to commands
 
-D) It had realistic synthetic skin
+D) It changed skin temperature and could sweat
 
 ---
 
@@ -277,13 +277,13 @@ It changed skin temperature and could sweat
 
 ---
 
-A) One story
+A) Four stories
 
-B) Two stories
+B) Three stories
 
-C) Three stories
+C) Two stories
 
-D) Four stories
+D) One story
 
 ---
 
@@ -295,13 +295,13 @@ Two stories
 
 ---
 
-A) Compressed air
+A) Hydraulics
 
 B) Electric motor
 
-C) CO2
+C) Compressed air
 
-D) Hydraulics
+D) CO2
 
 ---
 
@@ -313,11 +313,11 @@ CO2
 
 ---
 
-A) 18.5 miles per hour
+A) 25.6 miles per hour
 
 B) 22.7 miles per hour
 
-C) 25.6 miles per hour
+C) 18.5 miles per hour
 
 D) 28.3 miles per hour
 
@@ -331,13 +331,13 @@ D) 28.3 miles per hour
 
 ---
 
-A) It was slower by 2 mph
+A) It was faster by 5 mph
 
 B) They were exactly the same speed
 
-C) It was faster by 0.5 mph
+C) It was slower by 2 mph
 
-D) It was faster by 5 mph
+D) It was faster by 0.5 mph
 
 ---
 
@@ -349,13 +349,13 @@ It was faster by 0.5 mph
 
 ---
 
-A) Military combat operations
+A) Entertainment purposes
 
-B) The DARPA Robotics Challenge
+B) Commercial warehouse operations
 
-C) Entertainment purposes
+C) Military combat operations
 
-D) Commercial warehouse operations
+D) The DARPA Robotics Challenge
 
 ---
 
@@ -367,13 +367,13 @@ The DARPA Robotics Challenge
 
 ---
 
-A) 60%
+A) 90%
 
-B) 70%
+B) 60%
 
-C) 80%
+C) 70%
 
-D) 90%
+D) 80%
 
 ---
 
@@ -385,13 +385,13 @@ D) 90%
 
 ---
 
-A) $29,999
+A) $74,500
 
-B) $49,999
+B) $99,999
 
-C) $74,500
+C) $29,999
 
-D) $99,999
+D) $49,999
 
 ---
 
@@ -403,13 +403,13 @@ $74,500
 
 ---
 
-A) 30 minutes
+A) 120 minutes
 
-B) 60 minutes
+B) 30 minutes
 
-C) 90 minutes
+C) 60 minutes
 
-D) 120 minutes
+D) 90 minutes
 
 ---
 
@@ -421,13 +421,13 @@ D) 120 minutes
 
 ---
 
-A) SpaceX
+A) ESA (European Space Agency)
 
-B) NASA
+B) Blue Origin
 
-C) ESA (European Space Agency)
+C) NASA
 
-D) Blue Origin
+D) SpaceX
 
 ---
 
@@ -439,13 +439,13 @@ NASA
 
 ---
 
-A) 5 kilograms
+A) 20 kilograms
 
-B) 10 kilograms
+B) 5 kilograms
 
 C) 14 kilograms
 
-D) 20 kilograms
+D) 10 kilograms
 
 ---
 
@@ -457,11 +457,11 @@ D) 20 kilograms
 
 ---
 
-A) Google
+A) SoftBank
 
 B) Amazon
 
-C) SoftBank
+C) Google
 
 D) Hyundai Motor Group
 
@@ -475,13 +475,13 @@ Hyundai Motor Group
 
 ---
 
-A) Military operations
+A) Entertainment
 
-B) Logistics
+B) Medical assistance
 
-C) Entertainment
+C) Logistics
 
-D) Medical assistance
+D) Military operations
 
 ---
 
@@ -493,13 +493,13 @@ Logistics
 
 ---
 
-A) Stretch
+A) Handle
 
-B) Pick
+B) Atlas
 
-C) Handle
+C) Stretch
 
-D) Atlas
+D) Pick
 
 ---
 
@@ -511,9 +511,9 @@ Pick
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -525,13 +525,13 @@ False
 
 ---
 
-A) Infrared sensors
+A) LIDAR and stereo sensors
 
-B) Ultrasonic sensors
+B) Radar
 
-C) LIDAR and stereo sensors
+C) Ultrasonic sensors
 
-D) Radar
+D) Infrared sensors
 
 ---
 
@@ -543,13 +543,13 @@ LIDAR and stereo sensors
 
 ---
 
-A) BigDog
+A) LS3
 
-B) LS3
+B) Wildcat
 
-C) Spot
+C) BigDog
 
-D) Wildcat
+D) Spot
 
 ---
 
@@ -561,13 +561,13 @@ Spot
 
 ---
 
-A) 15 miles per hour
+A) 30 miles per hour
 
-B) 20 miles per hour
+B) 25 miles per hour
 
-C) 25 miles per hour
+C) 15 miles per hour
 
-D) 30 miles per hour
+D) 20 miles per hour
 
 ---
 
@@ -579,13 +579,13 @@ D) 30 miles per hour
 
 ---
 
-A) 10 jumps
+A) 40 jumps
 
-B) 20 jumps
+B) 10 jumps
 
-C) 30 jumps
+C) 20 jumps
 
-D) 40 jumps
+D) 30 jumps
 
 ---
 
@@ -597,13 +597,13 @@ D) 40 jumps
 
 ---
 
-A) Power supply
+A) Data processing
 
-B) They act as muscles
+B) Sensory input
 
-C) Data processing
+C) Power supply
 
-D) Sensory input
+D) They act as muscles
 
 ---
 

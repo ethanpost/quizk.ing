@@ -82,13 +82,13 @@
 
 ---
 
-A) The public has an accurate understanding of its limitations
+A) The public incorrectly views it as old-fashioned and messy
 
-B) The public incorrectly views it as old-fashioned and messy
+B) The public has an accurate understanding of its limitations
 
-C) The public is generally enthusiastic about hydraulic systems
+C) The public doesn't have any strong opinions about hydraulics
 
-D) The public doesn't have any strong opinions about hydraulics
+D) The public is generally enthusiastic about hydraulic systems
 
 ---
 
@@ -100,13 +100,13 @@ The public incorrectly views it as old-fashioned and messy
 
 ---
 
-A) They never leak or drip
+A) They're very quiet during operation
 
-B) They're very quiet during operation
+B) Low energy consumption
 
-C) Strong performance in a lightweight package
+C) They never leak or drip
 
-D) Low energy consumption
+D) Strong performance in a lightweight package
 
 ---
 
@@ -118,13 +118,13 @@ Strong performance in a lightweight package
 
 ---
 
-A) In the 1930s
+A) In the 1990s
 
-B) In the 1950s
+B) In the 1970s
 
-C) In the 1970s
+C) In the 1950s
 
-D) In the 1990s
+D) In the 1930s
 
 ---
 
@@ -136,13 +136,13 @@ In the 1950s
 
 ---
 
-A) For industrial manufacturing
+A) For military vehicles
 
 B) For agricultural equipment
 
-C) For airplanes
+C) For industrial manufacturing
 
-D) For military vehicles
+D) For airplanes
 
 ---
 
@@ -154,13 +154,13 @@ For airplanes
 
 ---
 
-A) Size of a baseball
+A) Size of a microwave
 
-B) Size of a football
+B) Size of a car battery
 
-C) Size of a microwave
+C) Size of a baseball
 
-D) Size of a car battery
+D) Size of a football
 
 ---
 
@@ -172,13 +172,13 @@ Size of a football
 
 ---
 
-A) 1 kilowatt
+A) 3 kilowatts
 
-B) 3 kilowatts
+B) 10 kilowatts
 
-C) 5 kilowatts
+C) 1 kilowatt
 
-D) 10 kilowatts
+D) 5 kilowatts
 
 ---
 
@@ -190,13 +190,13 @@ D) 10 kilowatts
 
 ---
 
-A) Only software innovation matters
+A) Neither hardware nor software innovation is necessary
 
-B) Only hardware innovation matters
+B) Only software innovation matters
 
-C) Hardware innovation remains crucial
+C) Only hardware innovation matters
 
-D) Neither hardware nor software innovation is necessary
+D) Hardware innovation remains crucial
 
 ---
 
@@ -208,13 +208,13 @@ Hardware innovation remains crucial
 
 ---
 
-A) Servoing looks forward in time, dynamic approach is reactive
+A) Servoing uses hydraulics, dynamic approach uses electric motors
 
-B) Servoing is reactive (backward-looking), dynamic approach predicts future motion
+B) Servoing is for quadrupeds, dynamic approach is for bipeds
 
-C) Servoing uses hydraulics, dynamic approach uses electric motors
+C) Servoing looks forward in time, dynamic approach is reactive
 
-D) Servoing is for quadrupeds, dynamic approach is for bipeds
+D) Servoing is reactive (backward-looking), dynamic approach predicts future motion
 
 ---
 
@@ -226,13 +226,13 @@ Servoing is reactive (backward-looking), dynamic approach predicts future motion
 
 ---
 
-A) A few milliseconds
+A) Several minutes
 
 B) About half a second
 
-C) A couple of seconds
+C) A few milliseconds
 
-D) Several minutes
+D) A couple of seconds
 
 ---
 
@@ -244,13 +244,13 @@ A couple of seconds
 
 ---
 
-A) Only focuses on obstacles directly in front of the robot
+A) Only works when the terrain is completely flat
 
-B) Calculates expected motion outcomes for 1-1.5 seconds ahead and continuously recalculates
+B) Only focuses on obstacles directly in front of the robot
 
 C) Plans the entire route before the robot starts moving
 
-D) Only works when the terrain is completely flat
+D) Calculates expected motion outcomes for 1-1.5 seconds ahead and continuously recalculates
 
 ---
 
@@ -262,13 +262,13 @@ Calculates expected motion outcomes for 1-1.5 seconds ahead and continuously rec
 
 ---
 
-A) Because the robot is too heavy
+A) Because of software limitations
 
 B) Because there's limited control while in the air
 
-C) Because the batteries might run out mid-jump
+C) Because the robot is too heavy
 
-D) Because of software limitations
+D) Because the batteries might run out mid-jump
 
 ---
 
@@ -280,13 +280,13 @@ Because there's limited control while in the air
 
 ---
 
-A) 1975-1976
+A) 2005-2006
 
-B) 1985-1986
+B) 1995-1996
 
-C) 1995-1996
+C) 1985-1986
 
-D) 2005-2006
+D) 1975-1976
 
 ---
 
@@ -298,13 +298,13 @@ D) 2005-2006
 
 ---
 
-A) A robot that can only move in two dimensions
+A) A robot that moves using continuous tracks instead of legs
 
-B) A robot restricted to the surface of a sphere, with limited degrees of freedom
+B) A robot that has completely flat feet
 
-C) A robot that has completely flat feet
+C) A robot that can only move in two dimensions
 
-D) A robot that moves using continuous tracks instead of legs
+D) A robot restricted to the surface of a sphere, with limited degrees of freedom
 
 ---
 
@@ -316,13 +316,13 @@ A robot restricted to the surface of a sphere, with limited degrees of freedom
 
 ---
 
-A) Using additional motors
+A) Adding gyroscopes
 
-B) Tucking (withdrawing legs) to increase rotation speed
+B) Using additional motors
 
-C) Adding gyroscopes
+C) Increasing the power of the hydraulic system
 
-D) Increasing the power of the hydraulic system
+D) Tucking (withdrawing legs) to increase rotation speed
 
 ---
 
@@ -334,13 +334,13 @@ Tucking (withdrawing legs) to increase rotation speed
 
 ---
 
-A) A former Olympic swimmer
+A) A NASA engineer
 
-B) A former champion gymnast named Rob
+B) A professional dancer
 
-C) A NASA engineer
+C) A former Olympic swimmer
 
-D) A professional dancer
+D) A former champion gymnast named Rob
 
 ---
 
@@ -352,13 +352,13 @@ A former champion gymnast named Rob
 
 ---
 
-A) Walking
+A) Neither looks natural
 
-B) Running
+B) Both are equally natural
 
-C) Both are equally natural
+C) Walking
 
-D) Neither looks natural
+D) Running
 
 ---
 
@@ -370,13 +370,13 @@ Running
 
 ---
 
-A) "Fast and furious"
+A) "Innovation through hydraulics"
 
-B) "You have to run before you can walk"
+B) "Fast and furious"
 
-C) "Innovation through hydraulics"
+C) "Building tomorrow's robots today"
 
-D) "Building tomorrow's robots today"
+D) "You have to run before you can walk"
 
 ---
 
@@ -388,13 +388,13 @@ D) "Building tomorrow's robots today"
 
 ---
 
-A) 9 meters per hour
+A) 39 meters per hour
 
-B) 19 meters per hour
+B) 29 meters per hour
 
-C) 29 meters per hour
+C) 19 meters per hour
 
-D) 39 meters per hour
+D) 9 meters per hour
 
 ---
 
@@ -406,13 +406,13 @@ D) 39 meters per hour
 
 ---
 
-A) Electric motor
+A) Racing go-kart engine
 
-B) Diesel engine
+B) Jet engine
 
-C) Racing go-kart engine
+C) Electric motor
 
-D) Jet engine
+D) Diesel engine
 
 ---
 
@@ -424,13 +424,13 @@ Racing go-kart engine
 
 ---
 
-A) Following programmed instructions exactly
+A) Meeting regulatory requirements
 
-B) The ability to navigate obstacles
+B) Following programmed instructions exactly
 
 C) Springiness or flexibility in robot joints
 
-D) Meeting regulatory requirements
+D) The ability to navigate obstacles
 
 ---
 
@@ -442,13 +442,13 @@ Springiness or flexibility in robot joints
 
 ---
 
-A) A robot with two legs
+A) A robot with wheels instead of legs
 
-B) A robot with four legs
+B) A robot with six legs
 
-C) A robot with six legs
+C) A robot with four legs
 
-D) A robot with wheels instead of legs
+D) A robot with two legs
 
 ---
 

@@ -42,9 +42,9 @@
 
 ---
 
-A) Noun
+A) Verb
 
-B) Verb
+B) Noun
 
 C) Adjective
 
@@ -60,13 +60,13 @@ Verb
 
 ---
 
-A) Carpe diem
+A) E pluribus unum
 
-B) Sine qua non
+B) Ad infinitum
 
-C) Ad infinitum
+C) Sine qua non
 
-D) E pluribus unum
+D) Carpe diem
 
 ---
 
@@ -78,9 +78,9 @@ Sine qua non
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -92,13 +92,13 @@ True
 
 ---
 
-A) Colors
+A) Qualities (like 'cowardly')
 
-B) Numbers
+B) Colors
 
-C) Adverbs
+C) Numbers
 
-D) Qualities (like 'cowardly')
+D) Adverbs
 
 ---
 
@@ -110,13 +110,13 @@ Adverbs
 
 ---
 
-A) Only people, places, and things
+A) Only subjects of sentences
 
 B) Only tangible objects
 
-C) Intangible concepts like virtue and courage
+C) Only people, places, and things
 
-D) Only subjects of sentences
+D) Intangible concepts like virtue and courage
 
 ---
 
@@ -128,13 +128,13 @@ Intangible concepts like virtue and courage
 
 ---
 
-A) The
+A) Cat
 
-B) Cowardly
+B) The
 
-C) Cat
+C) Caught
 
-D) Caught
+D) Cowardly
 
 ---
 
@@ -146,13 +146,13 @@ Caught
 
 ---
 
-A) To improve writing skills
+A) To become an English teacher
 
-B) To prepare for learning Latin
+B) To pass standardized tests
 
-C) To pass standardized tests
+C) To improve writing skills
 
-D) To become an English teacher
+D) To prepare for learning Latin
 
 ---
 
@@ -164,13 +164,13 @@ To prepare for learning Latin
 
 ---
 
-A) Caught a cold
+A) Soon or quickly
 
-B) In the house
+B) Cowardly cat
 
-C) Cowardly cat
+C) Caught a cold
 
-D) Soon or quickly
+D) In the house
 
 ---
 
@@ -182,9 +182,9 @@ In the house
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -196,13 +196,13 @@ True
 
 ---
 
-A) Three
+A) Six
 
-B) Four
+B) Three
 
-C) Five
+C) Four
 
-D) Six
+D) Five
 
 ---
 
@@ -214,13 +214,13 @@ Five
 
 ---
 
-A) A word that describes a noun
+A) A word that represents a person, place, or thing
 
-B) The "motor" of a sentence that expresses an action, occurrence, or state of being
+B) A word that modifies another verb
 
-C) A word that represents a person, place, or thing
+C) A word that describes a noun
 
-D) A word that modifies another verb
+D) The "motor" of a sentence that expresses an action, occurrence, or state of being
 
 ---
 
@@ -232,13 +232,13 @@ The "motor" of a sentence that expresses an action, occurrence, or state of bein
 
 ---
 
-A) A word that shows action
+A) A word that connects parts of a sentence
 
-B) A word that describes qualities
+B) A word that shows action
 
-C) A word that represents a person, place, thing, or abstract concept
+C) A word that describes qualities
 
-D) A word that connects parts of a sentence
+D) A word that represents a person, place, thing, or abstract concept
 
 ---
 
@@ -250,13 +250,13 @@ A word that represents a person, place, thing, or abstract concept
 
 ---
 
-A) To describe or modify a noun
+A) To connect different parts of a sentence
 
-B) To express an action
+B) To modify a verb
 
-C) To connect different parts of a sentence
+C) To describe or modify a noun
 
-D) To modify a verb
+D) To express an action
 
 ---
 
@@ -268,13 +268,13 @@ To describe or modify a noun
 
 ---
 
-A) Only nouns
+A) Only other adverbs
 
-B) Only adjectives
+B) Only nouns
 
-C) Only other adverbs
+C) A verb, adjective, or other adverb
 
-D) A verb, adjective, or other adverb
+D) Only adjectives
 
 ---
 
@@ -286,13 +286,13 @@ A verb, adjective, or other adverb
 
 ---
 
-A) A word that expresses action
+A) The main subject of a sentence
 
-B) A word that shows the relationship between a noun and other words in a sentence
+B) A word that describes qualities
 
-C) A word that describes qualities
+C) A word that shows the relationship between a noun and other words in a sentence
 
-D) The main subject of a sentence
+D) A word that expresses action
 
 ---
 
@@ -304,13 +304,13 @@ A word that shows the relationship between a noun and other words in a sentence
 
 ---
 
-A) A verb and an adverb
+A) Two connected verbs
 
 B) An adjective and a noun
 
-C) A group of words containing a preposition and a noun
+C) A verb and an adverb
 
-D) Two connected verbs
+D) A group of words containing a preposition and a noun
 
 ---
 
@@ -322,13 +322,13 @@ A group of words containing a preposition and a noun
 
 ---
 
-A) "To seize the day"
+A) "From many, one"
 
-B) "Without which not" - referring to essential elements
+B) "Always moving forward"
 
-C) "From many, one"
+C) "To seize the day"
 
-D) "Always moving forward"
+D) "Without which not" - referring to essential elements
 
 ---
 
@@ -340,13 +340,13 @@ D) "Always moving forward"
 
 ---
 
-A) A verb that shows physical movement
+A) A verb that connects two nouns
 
-B) A verb that expresses existence rather than action
+B) A verb that shows physical movement
 
-C) A verb that connects two nouns
+C) A verb that describes how something looks
 
-D) A verb that describes how something looks
+D) A verb that expresses existence rather than action
 
 ---
 
@@ -358,13 +358,13 @@ A verb that expresses existence rather than action
 
 ---
 
-A) To show action
+A) To indicate possession
 
-B) To connect the subject to additional information
+B) To describe time
 
-C) To describe time
+C) To show action
 
-D) To indicate possession
+D) To connect the subject to additional information
 
 ---
 
@@ -376,13 +376,13 @@ To connect the subject to additional information
 
 ---
 
-A) A physical object that can be touched
+A) A type of verb
 
-B) A person, place, or thing
+B) A physical object that can be touched
 
-C) An abstract idea that cannot be physically touched
+C) A person, place, or thing
 
-D) A type of verb
+D) An abstract idea that cannot be physically touched
 
 ---
 

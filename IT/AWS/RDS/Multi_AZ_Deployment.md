@@ -88,13 +88,13 @@
 
 ---
 
-A) It has two standby DB instances that provide failover support and can serve read traffic
+A) It has one standby DB instance that provides failover support, but doesn't serve read traffic
 
-B) It has one standby DB instance that provides failover support, but doesn't serve read traffic
+B) It has two standby DB instances that provide failover support and can serve read traffic
 
-C) It has three DB instances that all serve both read and write traffic
+C) It's a single DB instance replicated across multiple regions
 
-D) It's a single DB instance replicated across multiple regions
+D) It has three DB instances that all serve both read and write traffic
 
 ---
 
@@ -106,13 +106,13 @@ It has one standby DB instance that provides failover support, but doesn't serve
 
 ---
 
-A) SQL Server Database Mirroring
+D) SQL Server Database Mirroring
 
-B) Always On Availability Groups
+A) Always On Availability Groups
 
-C) Amazon failover technology
+B) Amazon failover technology
 
-D) Oracle Data Guard
+C) Oracle Data Guard
 
 ---
 
@@ -124,13 +124,13 @@ Amazon failover technology
 
 ---
 
-A) The value of Role is "Multi-AZ DB cluster"
+D) The value of Role is "Multi-AZ DB cluster"
 
-B) The value of Multi-AZ is "3 Zones"
+A) The value of Multi-AZ is "3 Zones"
 
-C) There is only one row for the DB instance and the value of Multi-AZ is "Yes"
+B) There is only one row for the DB instance and the value of Multi-AZ is "Yes"
 
-D) The value of Role is "Reader instance"
+C) The value of Role is "Reader instance"
 
 ---
 
@@ -142,13 +142,13 @@ There is only one row for the DB instance and the value of Multi-AZ is "Yes"
 
 ---
 
-A) 15-30 seconds
+C) 15-30 seconds
 
-B) 60-120 seconds
+D) 60-120 seconds
 
-C) 5-10 minutes
+A) 5-10 minutes
 
-D) 30-60 minutes
+B) 30-60 minutes
 
 ---
 
@@ -160,11 +160,11 @@ D) 30-60 minutes
 
 ---
 
-A) Initializes synchronous block-level replication
+C) Initializes synchronous block-level replication
 
 B) Takes a snapshot of the primary DB instance's EBS volumes
 
-C) Creates a new primary DB instance in a different Availability Zone
+A) Creates a new primary DB instance in a different Availability Zone
 
 D) Shuts down the current DB instance
 
@@ -178,13 +178,13 @@ Takes a snapshot of the primary DB instance's EBS volumes
 
 ---
 
-A) No performance impact as the process is done during maintenance windows
+D) No performance impact as the process is done during maintenance windows
 
 B) Increased I/O latency due to synchronous replication
 
 C) Complete database downtime during the conversion
 
-D) Loss of all existing connections permanently
+A) Loss of all existing connections permanently
 
 ---
 
@@ -196,13 +196,13 @@ Increased I/O latency due to synchronous replication
 
 ---
 
-A) The IP address of the standby database
+C) The IP address of the standby database
 
-B) The DNS record of the DB instance
+A) The DNS record of the DB instance
 
-C) The security groups attached to the DB instance
+D) The security groups attached to the DB instance
 
-D) The database engine version
+B) The database engine version
 
 ---
 
@@ -214,13 +214,13 @@ The DNS record of the DB instance
 
 ---
 
-A) No more than 60 seconds
+B) No more than 60 seconds
 
-B) At least 300 seconds
+C) At least 300 seconds
 
-C) Default JVM setting (usually 24 hours)
+D) Default JVM setting (usually 24 hours)
 
-D) 0 seconds (no caching)
+A) 0 seconds (no caching)
 
 ---
 
@@ -232,13 +232,13 @@ No more than 60 seconds
 
 ---
 
-A) The primary host is unhealthy
+B) The primary host is unhealthy
 
-B) Network connectivity loss to the primary
+D) Network connectivity loss to the primary
 
-C) Read traffic exceeds database capacity
+A) Read traffic exceeds database capacity
 
-D) Storage volume failure on the primary host
+C) Storage volume failure on the primary host
 
 ---
 
@@ -250,13 +250,13 @@ Read traffic exceeds database capacity
 
 ---
 
-A) A process where backups are created at regular intervals
+C) A process where backups are created at regular intervals
 
-B) A process where data is simultaneously written to both primary and standby instances
+A) A process where data is simultaneously written to both primary and standby instances
 
-C) A process where multiple users can read from the database at the same time
+D) A process where multiple users can read from the database at the same time
 
-D) A process where database schema changes are deployed to all instances
+B) A process where database schema changes are deployed to all instances
 
 ---
 
@@ -268,13 +268,13 @@ A process where data is simultaneously written to both primary and standby insta
 
 ---
 
-A) They can be used for read scaling to offload queries from the primary
+B) They can be used for read scaling to offload queries from the primary
 
-B) They are located in a different AWS Region from the primary
+D) They are located in a different AWS Region from the primary
 
-C) They cannot be accessed directly by applications
+A) They cannot be accessed directly by applications
 
-D) They use a different storage type than the primary instance
+C) They use a different storage type than the primary instance
 
 ---
 
@@ -286,13 +286,13 @@ They cannot be accessed directly by applications
 
 ---
 
-A) Take the production database offline during non-business hours for conversion
+D) Take the production database offline during non-business hours for conversion
 
-B) Create a read replica, enable backups on it, convert it to Multi-AZ, and promote it
+A) Create a read replica, enable backups on it, convert it to Multi-AZ, and promote it
 
-C) Create a completely new Multi-AZ instance and migrate data manually
+B) Create a completely new Multi-AZ instance and migrate data manually
 
-D) Wait for the next maintenance window to perform the conversion
+C) Wait for the next maintenance window to perform the conversion
 
 ---
 
@@ -304,13 +304,13 @@ Create a read replica, enable backups on it, convert it to Multi-AZ, and promote
 
 ---
 
-A) They continue to function without interruption
+C) They continue to function without interruption
 
-B) They are terminated and need to be re-established
+A) They are terminated and need to be re-established
 
-C) They are paused and automatically resumed after failover
+D) They are paused and automatically resumed after failover
 
-D) They are redirected to a read replica until failover completes
+B) They are redirected to a read replica until failover completes
 
 ---
 
@@ -322,13 +322,13 @@ They are terminated and need to be re-established
 
 ---
 
-A) create-multi-az-instance
+B) create-multi-az-instance
 
-B) convert-to-multi-az
+D) convert-to-multi-az
 
-C) modify-db-instance (with --multi-az option)
+A) modify-db-instance (with --multi-az option)
 
-D) update-db-instance-deployment
+C) update-db-instance-deployment
 
 ---
 
@@ -340,13 +340,13 @@ modify-db-instance (with --multi-az option)
 
 ---
 
-A) To span database instances across multiple AWS Regions
+C) To span database instances across multiple AWS Regions
 
-B) To provide both failover support and serve read traffic from standby instances
+D) To provide both failover support and serve read traffic from standby instances
 
-C) To reduce costs by sharing resources across instances
+A) To reduce costs by sharing resources across instances
 
-D) To support different database engines in the same deployment
+B) To support different database engines in the same deployment
 
 ---
 
