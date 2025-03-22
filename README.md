@@ -22,9 +22,11 @@ I created this repository to:
 
 ## 🛠️ How to Use
 
-1. Download any `.md` or `.mochi` file from this repo.
+1. Download any `.md` file from this repo.
 2. Open [Mochi](https://mochi.cards/).
 3. Import the file and start reviewing flashcards!
+
+> You can also just link to the "Raw" version of the file from the Mochi import dialog.
 
 ### ⚠️ Note for Importing `.md` Files into Mochi
 When importing `.md` files:
