@@ -1,4 +1,4 @@
-## [NASA's Plutonium-238 Problem: Powering Deep Space Exploration]https://www.youtube.com/watch?v=geIhl_VE0IA)
+## [NASA's Plutonium-238 Problem: Powering Deep Space Exploration](https://www.youtube.com/watch?v=geIhl_VE0IA)
 
 ### Importance of Plutonium-238
 - Critical nuclear fuel for deep space missions
