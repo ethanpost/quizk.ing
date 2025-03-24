@@ -411,3 +411,40 @@ D) It's too radioactive for safe handling
 ---
 
 Its half-life is too short (138 days)
+
+///
+
+## How does the Stirling cycle operate to generate electricity from plutonium-238's heat?
+
+---
+
+A) By converting heat directly into electricity through semiconductor junctions
+
+B) By alternating compressing and expanding gas in a sealed system to drive a generator
+
+C) Through nuclear fission reactions that release electrons
+
+D) By using heat to create steam that turns turbines
+
+---
+
+B) By alternating compressing and expanding gas in a sealed system to drive a generator
+
+///
+
+## Why did NASA cancel the Advanced Stirling Radioisotope Generator project in 2013?
+
+---
+
+A) The Stirling engine technology was proven ineffective in space conditions
+
+B) They found a better alternative power source
+
+C) Due to technical issues with the piston, underestimated costs, and budget constraints
+
+D) The project was deemed too risky for spacecraft safety
+
+---
+
+C) Due to technical issues with the piston, underestimated costs, and budget constraints
+
