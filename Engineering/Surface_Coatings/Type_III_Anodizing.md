@@ -1,5 +1,8 @@
 ## [Type III Anodizing](https://www.youtube.com/watch?v=nCIsL5E7Q60)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
+
 ### Overview of Aluminum Finishes
 - As-machined aluminum has iridescence and shine
 - Conductive on outer surface
