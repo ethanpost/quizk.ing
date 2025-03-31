@@ -35,6 +35,26 @@ When importing `.md` files:
 
 This ensures that all flashcards are imported correctly and organized for easy study.
 
+## Basic Requirements
+
+The following items are either required, strongly recommended, or useful for this project. You could replace Notion.so with any number of other note taking applications. Email, typing, and Mochi are "required".
+
+### Email (needed to sign up for services)
+
+Students or parents require an email account to sign up for services like Notion, Mochi, etc. It is best if there is one email per student, wether managed by the parent or the student. I have used Gmail and Outlook accounts for this. 
+
+### Typing (everyone needs to be able to type)
+
+My students are required to learn to type at an age appropriate speed. I'am having them try [TypingClub](https://www.typingclub.com/) for this. Speed should improve with practice and be verified by the parent/teacher.
+
+### Mochi is a Flash Card review application
+
+Mochi is a spaced repition learning tool. Students download quiz/outline content to [Mochi](https://mochi.cards/) using the free version. My students are using the free account tier.
+
+### Notion for sharing progress with parents/students
+
+[Notion](https://www.notion.so/) is a note taking application students can use for a variety of purposes. My intent is to have each student document thier own progress and share it with the parent/teacher or even classmates when appropriate. My students are using the free account tier.
+
 ## 🌱 Contributions & Feedback
 
 Right now, this is a personal project, but I'm always open to ideas, improvements, or collaborations in the future.
