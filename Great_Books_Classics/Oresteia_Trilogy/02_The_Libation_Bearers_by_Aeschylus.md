@@ -75,13 +75,13 @@ Elektra
 
 ---
 
-D) He was a skilled warrior who could defeat Aegisthus in combat
+A) He was a skilled warrior who could defeat Aegisthus in combat
 
-A) He had allied with neighboring kingdoms to overthrow Mycenae
+B) He had allied with neighboring kingdoms to overthrow Mycenae
 
-B) He was Agamemnon's legitimate heir and future contender for the throne
+C) He was Agamemnon's legitimate heir and future contender for the throne
 
-C) He knew secret information about Aegisthus's crimes
+D) He knew secret information about Aegisthus's crimes
 
 ---
 
@@ -93,13 +93,13 @@ He was Agamemnon's legitimate heir and future contender for the throne
 
 ---
 
-C) Athens
+A) Athens
 
-D) Phocis
+B) Phocis
 
-A) Troy
+C) Troy
 
-B) Sparta
+D) Sparta
 
 ---
 
@@ -111,13 +111,13 @@ Phocis
 
 ---
 
-D) A loyal servant of Agamemnon
+A) A loyal servant of Agamemnon
 
-A) Priests at Apollo's temple
+B) Priests at Apollo's temple
 
-B) King Strophius, his uncle
+C) King Strophius, his uncle
 
-C) A foreign family who didn't know his identity
+D) A foreign family who didn't know his identity
 
 ---
 
@@ -129,13 +129,13 @@ King Strophius, his uncle
 
 ---
 
-B) To never return to Mycenae
+A) To never return to Mycenae
 
-C) To send for her when he was safe
+B) To send for her when he was safe
 
-D) To become a great warrior
+C) To become a great warrior
 
-A) To return as an adult and avenge their father
+D) To return as an adult and avenge their father
 
 ---
 
@@ -147,13 +147,13 @@ To return as an adult and avenge their father
 
 ---
 
-D) That he had become a powerful king
-
 A) That he had died in a chariot accident
 
 B) That he had joined the Trojan army
 
 C) That he had forgotten his family
+
+D) That he had become a powerful king
 
 ---
 
@@ -165,11 +165,11 @@ That he had died in a chariot accident
 
 ---
 
-B) With extreme grief and mourning
+A) With extreme grief and mourning
 
-C) With relief and celebration
+B) With relief and celebration
 
-A) With indifference
+C) With indifference
 
 D) With conflicting feelings
 
@@ -183,13 +183,13 @@ With conflicting feelings
 
 ---
 
-D) He was deeply saddened
+A) He was deeply saddened
 
-A) He was suspicious and demanded proof
+B) He was suspicious and demanded proof
 
-B) He said it was the first pleasant news she had ever delivered
+C) He said it was the first pleasant news she had ever delivered
 
-C) He ordered the body to be denied proper burial
+D) He ordered the body to be denied proper burial
 
 ---
 
@@ -201,13 +201,13 @@ He said it was the first pleasant news she had ever delivered
 
 ---
 
-C) The body was a stranger, not Orestes
+A) The body was a stranger, not Orestes
 
-A) Clytemnestra's corpse with sword wounds
+B) Clytemnestra's corpse with sword wounds
 
-D) An empty coffin as part of a trap
+C) An empty coffin as part of a trap
 
-B) Orestes alive and waiting to ambush him
+D) Orestes alive and waiting to ambush him
 
 ---
 
@@ -219,13 +219,13 @@ Clytemnestra's corpse with sword wounds
 
 ---
 
-B) Poisoned his wine
+A) Poisoned his wine
 
-D) Shot him with arrows
+B) Shot him with arrows
 
-A) Drove a sword through his chest
+C) Drove a sword through his chest
 
-C) Strangled him with a rope
+D) Strangled him with a rope
 
 ---
 
@@ -237,11 +237,11 @@ Drove a sword through his chest
 
 ---
 
-C) He wanted to marry her himself
+A) He wanted to marry her himself
 
-A) To prevent her from having a child who would be another heir to Agamemnon
+B) To prevent her from having a child who would be another heir to Agamemnon
 
-B) She had taken religious vows at Apollo's temple
+C) She had taken religious vows at Apollo's temple
 
 D) She refused all potential suitors
 
@@ -255,13 +255,13 @@ To prevent her from having a child who would be another heir to Agamemnon
 
 ---
 
-B) Plotted with other nobles against Aegisthus
+A) Plotted with other nobles against Aegisthus
 
-D) Lived in hiding outside Mycenae
+B) Lived in hiding outside Mycenae
 
-A) Prayed at Apollo's Temple at Delphi
+C) Prayed at Apollo's Temple at Delphi
 
-C) Served as a priestess in a distant temple
+D) Served as a priestess in a distant temple
 
 ---
 
@@ -273,13 +273,13 @@ Prayed at Apollo's Temple at Delphi
 
 ---
 
-C) That he had killed a king
+A) That he had killed a king
 
-D) That he had killed his own mother
+B) That he had killed his own mother
 
-A) That he had broken his oath to Apollo
+C) That he had broken his oath to Apollo
 
-B) That he had returned to Mycenae in disguise
+D) That he had returned to Mycenae in disguise
 
 ---
 
@@ -291,13 +291,13 @@ That he had killed his own mother
 
 ---
 
-B) Military general
+A) Military general
 
-D) Religious advisor
+B) Religious advisor
 
-A) Usurper of the Mycenaean throne
+C) Usurper of the Mycenaean throne
 
-C) Guardian of Orestes
+D) Guardian of Orestes
 
 ---
 
@@ -309,13 +309,13 @@ Usurper of the Mycenaean throne
 
 ---
 
-D) By building a stronger army
+A) By building a stronger army
 
-A) By making alliances with other kingdoms
+B) By making alliances with other kingdoms
 
-B) By placing trusted men in important government positions
+C) By placing trusted men in important government positions
 
-C) By winning public support through festivals and games
+D) By winning public support through festivals and games
 
 ---
 
