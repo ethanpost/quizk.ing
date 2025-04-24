@@ -1,5 +1,7 @@
 # [The Terrible Fate of Agamemnon](https://www.youtube.com/watch?v=lhVLyOJNmzs)
 
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+
 ## Background and Context
 - First play in the Oresteia trilogy by Greek playwright Aeschylus
 - Written and performed around 458 BCE

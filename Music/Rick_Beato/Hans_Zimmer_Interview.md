@@ -1,6 +1,6 @@
-I'll help create an outline and quiz based on the Hans Zimmer interview transcript, following the instructions provided.
+## [Hans Zimmer Interview](https://www.youtube.com/watch?v=TbeevzNmU1g)
 
-## Hans Zimmer Interview Overview
+> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ### Early Career & Background
 - Started in London as a synthesizer programmer
@@ -51,13 +51,13 @@ What was Hans Zimmer's primary role when he first started in London?
 
 ---
 
-A) Orchestra conductor
+A) Guitar player
 
-B) Synthesizer programmer
+B) Film director
 
-C) Guitar player
+C) Synthesizer programmer
 
-D) Film director
+D) Orchestra conductor
 
 ---
 
@@ -69,11 +69,11 @@ How does Zimmer prefer to learn about a new film project?
 
 ---
 
-A) Reading the screenplay first
+A) Watching early footage
 
-B) Watching early footage
+B) Having the director tell him the story
 
-C) Having the director tell him the story
+C) Reading the screenplay first
 
 D) Studying previous films by the director
 
@@ -87,11 +87,11 @@ What was innovative about Zimmer's approach to orchestral sampling in the 1980s?
 
 ---
 
-A) He refused to use samples
+A) He used vintage analog equipment exclusively
 
-B) He sampled the same players who would perform the final score
+B) He refused to use samples
 
-C) He only used electronic instruments
+C) He sampled the same players who would perform the final score
 
 D) He recorded in different studios each time
 
@@ -105,13 +105,13 @@ What is the primary purpose of Bleeding Fingers?
 
 ---
 
-A) To create sound effects
+A) To develop new technology
 
-B) To provide opportunities for young composers
+B) To create sound effects
 
-C) To develop new technology
+C) To record orchestras
 
-D) To record orchestras
+D) To provide opportunities for young composers
 
 ---
 
@@ -123,15 +123,14 @@ Which film does Zimmer consider best demonstrates the marriage of music and visu
 
 ---
 
-A) Inception
+A) Pirates of the Caribbean
 
-B) Gladiator
+B) The Thin Red Line
 
-C) The Thin Red Line
+C) Inception
 
-D) Pirates of the Caribbean
+D) Gladiator
 
 ---
 
 The Thin Red Line
-
