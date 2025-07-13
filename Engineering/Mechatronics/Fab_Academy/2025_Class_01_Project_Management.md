@@ -66,24 +66,6 @@
 
 ///
 
-## What is the main purpose of documentation in Fab Academy?
-
----
-
-A) To serve multiple purposes including evaluation, portfolio building, learning, and teaching future generations
-
-B) To help instructors grade assignments
-
-C) To demonstrate technical writing skills
-
-D) To fulfill course requirements only
-
----
-
-To serve multiple purposes including evaluation, portfolio building, learning, and teaching future generations
-
-///
-
 ## Who created Git?
 
 ---
