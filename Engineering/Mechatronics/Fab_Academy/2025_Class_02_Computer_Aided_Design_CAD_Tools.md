@@ -4,7 +4,6 @@
 
 ### Introduction to CAD Tools
 - Class focus on software for Computer-Aided Design (CAD)
-- Next week: hands-on lab sessions cutting materials
 - Assignment: modeling a possible final project using multiple representation methods
 - Following week: designing parametric pressfit construction kit
 
