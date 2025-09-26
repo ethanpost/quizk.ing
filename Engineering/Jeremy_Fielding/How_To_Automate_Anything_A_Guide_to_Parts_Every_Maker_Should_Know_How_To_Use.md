@@ -153,13 +153,13 @@
 
 ---
 
-A) To increase voltage
+A) To switch other switches electrically
 
-B) To switch other switches electrically
+B) To increase voltage
 
-C) To store electrical energy
+C) To measure current
 
-D) To measure current
+D) To store electrical energy
 
 ---
 
@@ -171,13 +171,13 @@ To switch other switches electrically
 
 ---
 
-A) High voltage and low voltage
+A) Large and small
 
 B) AC and DC
 
-C) Industrial and hobby/DIY level
+C) High voltage and low voltage
 
-D) Large and small
+D) Industrial and hobby/DIY level
 
 ---
 
@@ -189,13 +189,13 @@ Industrial and hobby/DIY level
 
 ---
 
-A) 3.3 volts
+A) 24 volts
 
-B) 5 volts
+B) 12 volts
 
-C) 12 volts
+C) 5 volts
 
-D) 24 volts
+D) 3.3 volts
 
 ---
 
@@ -207,13 +207,13 @@ D) 24 volts
 
 ---
 
-A) They are less expensive
+A) They work faster
 
 B) They require no physical contact
 
-C) They work faster
+C) They use less power
 
-D) They use less power
+D) They are less expensive
 
 ---
 
@@ -225,13 +225,13 @@ They require no physical contact
 
 ---
 
-A) The contact is connected when the coil is energized
+A) The contact is never connected
 
-B) The contact is connected when the coil is not energized
+B) The contact is always connected
 
-C) The contact is always connected
+C) The contact is connected when the coil is energized
 
-D) The contact is never connected
+D) The contact is connected when the coil is not energized
 
 ---
 
@@ -243,13 +243,13 @@ The contact is connected when the coil is not energized
 
 ---
 
-A) Measuring voltage
+A) Connecting wires
 
-B) Mounting electrical components
+B) Cooling power supplies
 
-C) Connecting wires
+C) Mounting electrical components
 
-D) Cooling power supplies
+D) Measuring voltage
 
 ---
 
@@ -261,13 +261,13 @@ Mounting electrical components
 
 ---
 
-A) Two
+A) Eight
 
-B) Four
+B) Two
 
-C) Six
+C) Four
 
-D) Eight
+D) Six
 
 ---
 
@@ -279,13 +279,13 @@ Four
 
 ---
 
-A) Negative Positive Negative
+A) Network Power Node
 
-B) Normally Positive Normally
+B) Negative Positive Negative
 
 C) No Physical Contact
 
-D) Network Power Node
+D) Normally Positive Normally
 
 ---
 
@@ -297,13 +297,13 @@ Negative Positive Negative
 
 ---
 
-A) It's smaller
+A) It's easier to wire
 
-B) It can handle higher power
+B) It's smaller
 
-C) It's less expensive
+C) It can handle higher power
 
-D) It's easier to wire
+D) It's less expensive
 
 ---
 
@@ -315,13 +315,13 @@ It can handle higher power
 
 ---
 
-A) The time it takes to activate
+A) The voltage it requires
 
-B) The difference between engage and release points
+B) The maximum current it can handle
 
-C) The maximum current it can handle
+C) The difference between engage and release points
 
-D) The voltage it requires
+D) The time it takes to activate
 
 ---
 
@@ -333,13 +333,13 @@ The difference between engage and release points
 
 ---
 
-A) They increase voltage
+A) They reduce power consumption
 
-B) They convert pins to screw terminals
+B) They provide wireless connectivity
 
-C) They reduce power consumption
+C) They increase voltage
 
-D) They provide wireless connectivity
+D) They convert pins to screw terminals
 
 ---
 
@@ -351,11 +351,11 @@ They convert pins to screw terminals
 
 ---
 
-A) They are more reliable
+A) They carry more current
 
-B) They are much less expensive than power cables
+B) They are more reliable
 
-C) They carry more current
+C) They are much less expensive than power cables
 
 D) They are easier to install
 
@@ -369,13 +369,13 @@ They are much less expensive than power cables
 
 ---
 
-A) It increases voltage
+A) It changes color
 
-B) It can open or close a circuit
+B) It increases voltage
 
-C) It starts a timer
+C) It can open or close a circuit
 
-D) It changes color
+D) It starts a timer
 
 ---
 
@@ -387,13 +387,13 @@ It can open or close a circuit
 
 ---
 
-A) When the coil is energized
+A) When it's being tested
 
 B) When the coil is not energized
 
 C) When it's halfway activated
 
-D) When it's being tested
+D) When the coil is energized
 
 ---
 
@@ -405,13 +405,13 @@ When the coil is not energized
 
 ---
 
-A) Positive Negative Positive
+A) Power Network Protocol
 
-B) Proximity Non-Contact
+B) Programmable Network Port
 
-C) Power Network Protocol
+C) Positive Negative Positive
 
-D) Programmable Network Port
+D) Proximity Non-Contact
 
 ---
 
@@ -423,11 +423,11 @@ Positive Negative Positive
 
 ---
 
-A) High-power switching
+A) Temperature monitoring
 
 B) Detecting when a magnet is nearby
 
-C) Temperature monitoring
+C) High-power switching
 
 D) Pressure measurement
 
@@ -441,13 +441,13 @@ Detecting when a magnet is nearby
 
 ---
 
-A) The circuit is completed
+A) Current decreases
 
 B) The circuit is opened
 
 C) Voltage increases
 
-D) Current decreases
+D) The circuit is completed
 
 ---
 
@@ -459,13 +459,13 @@ The circuit is opened
 
 ---
 
-A) To reduce noise
+A) To improve efficiency
 
-B) To allow heat dissipation
+B) To prevent dust buildup
 
-C) To prevent dust buildup
+C) To allow heat dissipation
 
-D) To improve efficiency
+D) To reduce noise
 
 ---
 

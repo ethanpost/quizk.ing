@@ -4,6 +4,8 @@ You will create a new Markdown file.
 
 You will create a quiz that contains the most relevant information and not a lot of trivial details.
 
+Be sure to add a final master answer key to the questions at the end of the file.
+
 1. Generate a detailed outline that includes major and minor points from the material in the transcript. Make sure to conclude the outline with a detailed list of terms and thier definitions. Outlines should follow the format of the following example:
 
 ## Ancient Egypt Overview
