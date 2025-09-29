@@ -74,17 +74,17 @@
 
 ---
 
-A) Spring steel
+A) Wood
 
-B) Natural rubber
+B) Spring steel
 
-C) Aluminum
+C) Natural rubber 
 
-D) Wood
+D) Aluminum
 
 ---
 
-Natural rubber
+C) Natural rubber
 
 ///
 
@@ -92,17 +92,17 @@ Natural rubber
 
 ---
 
-A) Elongation is inversely proportional to load
+A) Elongation is proportional to load
 
-B) Elongation is proportional to the square of the load
+B) Elongation is inversely proportional to load
 
-C) Elongation is proportional to load
+C) There is no relationship between load and elongation
 
-D) There is no relationship between load and elongation
+D) Elongation is proportional to the square of the load
 
 ---
 
-Elongation is proportional to load
+A) Elongation is proportional to load
 
 ///
 
@@ -110,17 +110,17 @@ Elongation is proportional to load
 
 ---
 
-A) Compression springs
+A) Strip springs
 
-B) Torsion springs
+B) Expansion springs (coil springs)
 
-C) Expansion springs (coil springs)
+C) Compression springs
 
-D) Strip springs
+D) Torsion springs
 
 ---
 
-Expansion springs (coil springs)
+B) Expansion springs (coil springs)
 
 ///
 
@@ -128,17 +128,17 @@ Expansion springs (coil springs)
 
 ---
 
-A) Longer springs are made of different materials
+A) Short springs have more windings
 
-B) The force needed per millimeter is greater for short lengths
+B) Longer springs are always weaker
 
-C) Longer springs are always weaker
+C) The force needed per millimeter is greater for short lengths
 
-D) Short springs have more windings
+D) Longer springs are made of different materials
 
 ---
 
-The force needed per millimeter is greater for short lengths
+C) The force needed per millimeter is greater for short lengths
 
 ///
 
@@ -146,17 +146,17 @@ The force needed per millimeter is greater for short lengths
 
 ---
 
-A) They become too strong
+A) They lose their spring properties
 
 B) They want to buckle instead of compressing squarely
 
-C) They lose their spring properties
+C) They become too expensive
 
-D) They become too expensive
+D) They become too strong
 
 ---
 
-They want to buckle instead of compressing squarely
+B) They want to buckle instead of compressing squarely
 
 ///
 
@@ -164,17 +164,17 @@ They want to buckle instead of compressing squarely
 
 ---
 
-A) Breaking
+A) Making noise
 
-B) Buckling
+B) Breaking
 
 C) Rusting
 
-D) Making noise
+D) Buckling
 
 ---
 
-Buckling
+D) Buckling
 
 ///
 
@@ -182,17 +182,17 @@ Buckling
 
 ---
 
-A) They are cheaper
+A) They provide more force
 
-B) They are more reliable and have nothing to go wrong
+B) They are easier to install
 
-C) They are easier to install
+C) They are more reliable and have nothing to go wrong
 
-D) They provide more force
+D) They are cheaper
 
 ---
 
-They are more reliable and have nothing to go wrong
+C) They are more reliable and have nothing to go wrong
 
 ///
 
@@ -200,17 +200,17 @@ They are more reliable and have nothing to go wrong
 
 ---
 
-A) It increases
+A) It becomes unpredictable
 
-B) It decreases
+B) It increases
 
 C) It stays the same
 
-D) It becomes unpredictable
+D) It decreases
 
 ---
 
-It decreases
+D) It decreases
 
 ///
 
@@ -218,17 +218,17 @@ It decreases
 
 ---
 
-A) To make the clock run faster
+A) To make the clock more accurate
 
-B) To provide almost perfectly constant force as the spring unwinds
+B) To make the clock run faster
 
-C) To make the clock quieter
+C) To provide almost perfectly constant force as the spring unwinds
 
-D) To make the clock more accurate
+D) To make the clock quieter
 
 ---
 
-To provide almost perfectly constant force as the spring unwinds
+C) To provide almost perfectly constant force as the spring unwinds
 
 ///
 
@@ -236,17 +236,17 @@ To provide almost perfectly constant force as the spring unwinds
 
 ---
 
-A) Variable rate spring
+A) Torsion spring
 
-B) Constant force spring
+B) Variable rate spring
 
-C) Torsion spring
+C) Compression spring
 
-D) Compression spring
+D) Constant force spring
 
 ---
 
-Constant force spring
+D) Constant force spring
 
 ///
 
@@ -254,17 +254,17 @@ Constant force spring
 
 ---
 
-A) A spring that provides constant force
+A) A spring used in car suspensions
 
 B) A special spring in tape measures that stays straight
 
-C) A spring used in clocks
+C) A spring that provides constant force
 
-D) A spring used in car suspensions
+D) A spring used in clocks
 
 ---
 
-A special spring in tape measures that stays straight
+B) A special spring in tape measures that stays straight
 
 ///
 
@@ -272,17 +272,17 @@ A special spring in tape measures that stays straight
 
 ---
 
-A) As shock absorbers
+A) As spring guides
 
-B) As torque limiters
+B) As counterweights
 
-C) As counterweights
+C) As torque limiters
 
-D) As spring guides
+D) As shock absorbers
 
 ---
 
-As torque limiters
+C) As torque limiters
 
 ///
 
@@ -290,17 +290,17 @@ As torque limiters
 
 ---
 
-A) They are too expensive
+A) They break too easily
 
-B) They are harder to adjust
+B) They don't provide enough force
 
-C) They break too easily
+C) They are harder to adjust
 
-D) They don't provide enough force
+D) They are too expensive
 
 ---
 
-They are harder to adjust
+C) They are harder to adjust
 
 ///
 
@@ -308,17 +308,17 @@ They are harder to adjust
 
 ---
 
-A) It cuts easily
+A) It becomes too soft
 
-B) It can't be cut at all
+B) It's hard steel so you can't cut it
 
-C) It's hard steel so you can't cut it
+C) It cuts easily
 
-D) It becomes too soft
+D) It can't be cut at all
 
 ---
 
-It's hard steel so you can't cut it
+B) It's hard steel so you can't cut it
 
 ///
 
@@ -326,17 +326,17 @@ It's hard steel so you can't cut it
 
 ---
 
-A) It decreases
+A) It stays the same
 
-B) It increases
+B) It becomes unpredictable
 
-C) It stays the same
+C) It increases
 
-D) It becomes unpredictable
+D) It decreases
 
 ---
 
-It increases
+C) It increases
 
 ///
 
@@ -344,17 +344,17 @@ It increases
 
 ---
 
-A) To make springs stronger
+A) To make springs last longer
 
-B) To provide a much better ride by controlling bouncing
+B) To make springs quieter
 
-C) To make springs last longer
+C) To make springs stronger
 
-D) To make springs quieter
+D) To provide a much better ride by controlling bouncing
 
 ---
 
-To provide a much better ride by controlling bouncing
+D) To provide a much better ride by controlling bouncing
 
 ///
 
@@ -362,17 +362,17 @@ To provide a much better ride by controlling bouncing
 
 ---
 
-A) They are too expensive
+A) They are harder to work with
 
-B) They are not as strong as regular springs
+B) There's a compromise in spring characteristics to make them stainless
 
-C) There's a compromise in spring characteristics to make them stainless
+C) They are too expensive
 
-D) They are harder to work with
+D) They are not as strong as regular springs
 
 ---
 
-There's a compromise in spring characteristics to make them stainless
+B) There's a compromise in spring characteristics to make them stainless
 
 ///
 
@@ -380,17 +380,17 @@ There's a compromise in spring characteristics to make them stainless
 
 ---
 
-A) Clock springs are stronger
+A) Clock springs last longer
 
-B) In clock springs, every part changes radius; in constant force springs, only a small section changes
+B) Clock springs are stronger
 
-C) Clock springs are more accurate
+C) In clock springs, every part changes radius; in constant force springs, only a small section changes
 
-D) Clock springs last longer
+D) Clock springs are more accurate
 
 ---
 
-In clock springs, every part changes radius; in constant force springs, only a small section changes
+C) In clock springs, every part changes radius; in constant force springs, only a small section changes
 
 ///
 
@@ -398,17 +398,17 @@ In clock springs, every part changes radius; in constant force springs, only a s
 
 ---
 
-A) They work better
+A) They last longer
 
-B) They are much simpler and cheaper
+B) They work better
 
-C) They last longer
+C) They are more adjustable
 
-D) They are more adjustable
+D) They are much simpler and cheaper
 
 ---
 
-They are much simpler and cheaper
+D) They are much simpler and cheaper
 
 ///
 
@@ -416,17 +416,17 @@ They are much simpler and cheaper
 
 ---
 
-A) It halves
+A) It stays the same
 
 B) It doubles
 
 C) It quadruples
 
-D) It stays the same
+D) It halves
 
 ---
 
-It doubles
+B) It doubles
 
 ///
 
@@ -434,17 +434,17 @@ It doubles
 
 ---
 
-A) To make them more efficient
+A) To make them quieter
 
-B) To prevent people from getting their fingers stuck or hurt
+B) To make them more accurate
 
-C) To make them quieter
+C) To prevent people from getting their fingers stuck or hurt
 
-D) To make them more accurate
+D) To make them more efficient
 
 ---
 
-To prevent people from getting their fingers stuck or hurt
+C) To prevent people from getting their fingers stuck or hurt
 
 ///
 
@@ -452,17 +452,17 @@ To prevent people from getting their fingers stuck or hurt
 
 ---
 
-A) It's too expensive
+A) It's too hard to work with
 
-B) It perishes over time
+B) It's not strong enough
 
-C) It's not strong enough
+C) It perishes over time
 
-D) It's too hard to work with
+D) It's too expensive
 
 ---
 
-It perishes over time
+C) It perishes over time
 
 ///
 
@@ -470,17 +470,17 @@ It perishes over time
 
 ---
 
-A) To make them more accurate
+A) To make them last longer
 
-B) Because elongation is proportional to load
+B) To make them cheaper
 
-C) To make them cheaper
+C) Because elongation is proportional to load
 
-D) To make them last longer
+D) To make them more accurate
 
 ---
 
-Because elongation is proportional to load
+C) Because elongation is proportional to load
 
 ///
 
@@ -488,17 +488,17 @@ Because elongation is proportional to load
 
 ---
 
-A) It doubles
+A) It becomes unpredictable
 
-B) It halves
+B) It stays the same
 
-C) It stays the same
+C) It halves
 
-D) It becomes unpredictable
+D) It doubles
 
 ---
 
-It doubles
+D) It doubles
 
 ///
 
@@ -506,14 +506,118 @@ It doubles
 
 ---
 
-A) They are cheaper
+A) They last longer
 
 B) They are much more compact for the same force
 
-C) They last longer
+C) They are easier to install
 
-D) They are easier to install
+D) They are cheaper
 
 ---
 
-They are much more compact for the same force
+B) They are much more compact for the same force
+
+///
+
+## Complete Answer Key
+
+1. **What material is described as "not really good for permanent things" because it perishes?**
+   - Answer: C) Natural rubber
+   - *Explanation: Natural rubber breaks down over time due to exposure to oxygen, UV light, and temperature changes, making it unsuitable for permanent applications.*
+
+2. **According to Hooke's Law, what is the relationship between load and elongation in springs?**
+   - Answer: B) Elongation is proportional to load 
+   - *Explanation: Hooke's Law states that the amount a spring stretches is directly proportional to the force applied - double the force, double the stretch.*
+
+3. **What type of spring is most commonly used in the video maker's machines?**
+   - Answer: A) Expansion springs (coil springs)
+   - *Explanation: Coil springs are the most common type because they're easy to make, reliable, and work well for most applications.*
+
+4. **Why do longer springs have a lower spring rate than shorter springs?**
+   - Answer: D) The force needed per millimeter is greater for short lengths
+   - *Explanation: Longer springs have more material to distribute the force across, so each millimeter stretches more easily than in shorter springs.*
+
+5. **What is the main problem with compression springs when they get long and thin?**
+   - Answer: C) They want to buckle instead of compressing squarely
+   - *Explanation: Long, thin compression springs bend sideways (buckle) instead of compressing straight down, making them ineffective.*
+
+6. **What is a volute spring designed to avoid?**
+   - Answer: A) Buckling
+   - *Explanation: Volute springs have a conical shape that prevents buckling by providing better support as they compress.*
+
+7. **What is the main advantage of counterweights over springs?**
+   - Answer: B) They are more reliable and have nothing to go wrong
+   - *Explanation: Counterweights are simple weights that don't wear out, break, or lose their properties over time like springs can.*
+
+8. **What happens to the natural frequency of a spring when weight is added?**
+   - Answer: C) It decreases
+   - *Explanation: Adding weight makes the spring-mass system oscillate more slowly, lowering its natural frequency.*
+
+9. **What is the purpose of a fusee in clock mechanisms?**
+   - Answer: D) To provide almost perfectly constant force as the spring unwinds
+   - *Explanation: A fusee is a spiral mechanism that compensates for the decreasing force as a clock spring unwinds, keeping the clock running at constant speed.*
+
+10. **What type of spring maintains the same force regardless of how far it's stretched?**
+    - Answer: A) Constant force spring
+    - *Explanation: Constant force springs are specially designed to provide the same pulling force throughout their range of motion.*
+
+11. **What is a negator spring?**
+    - Answer: C) A special spring in tape measures that stays straight
+    - *Explanation: Negator springs are coiled in a way that allows them to stay straight when extended, perfect for tape measure applications.*
+
+12. **What are Belleville washers used for in the video?**
+    - Answer: B) As torque limiters
+    - *Explanation: Belleville washers act as small compression springs that compress when too much torque is applied, protecting mechanisms from damage.*
+
+13. **What is the main reason the video maker doesn't often use torsion springs?**
+    - Answer: D) They are harder to adjust
+    - *Explanation: Torsion springs work by twisting, which makes them more difficult to fine-tune compared to simple coil springs.*
+
+14. **What happens when you try to cut spring steel with a hacksaw?**
+    - Answer: A) It's hard steel so you can't cut it
+    - *Explanation: Spring steel is hardened steel that's too tough for a hacksaw - you need a grinding disc or other specialized cutting tool.*
+
+15. **What happens to the spring rate when you use a shorter length of the same spring?**
+    - Answer: B) It increases
+    - *Explanation: Shorter springs are stiffer because there's less material to stretch, so more force is needed per millimeter of extension.*
+
+16. **What is the purpose of shock absorbers when used with springs?**
+    - Answer: C) To provide a much better ride by controlling bouncing
+    - *Explanation: Shock absorbers dampen the bouncing motion of springs, converting the energy into heat and providing smoother movement.*
+
+17. **What is the main reason the video maker doesn't often use stainless steel springs?**
+    - Answer: D) There's a compromise in spring characteristics to make them stainless
+    - *Explanation: Making steel stainless requires adding elements that can reduce the steel's spring properties, making it less ideal for spring applications.*
+
+18. **What is the main difference between a clock spring and a constant force spring?**
+    - Answer: A) In clock springs, every part changes radius; in constant force springs, only a small section changes
+    - *Explanation: Clock springs unwind from the outside in, changing the radius of every coil, while constant force springs only unwind from a small section.*
+
+19. **What is the main advantage of using rubber stops instead of shock absorbers?**
+    - Answer: B) They are much simpler and cheaper
+    - *Explanation: Rubber stops are simple pieces of rubber that absorb impact without complex mechanisms, making them much easier and cheaper to use.*
+
+20. **What happens to the elongation when you double the load on a spring?**
+    - Answer: C) It doubles
+    - *Explanation: According to Hooke's Law, if you double the force (load), the spring will stretch twice as much.*
+
+21. **What is the main reason for using torque limiters in public mechanisms?**
+    - Answer: D) To prevent people from getting their fingers stuck or hurt
+    - *Explanation: Torque limiters prevent mechanisms from applying too much force, protecting users from injury in public devices.*
+
+22. **What is the main problem with using natural rubber for permanent applications?**
+    - Answer: A) It perishes over time
+    - *Explanation: Natural rubber deteriorates due to environmental factors like oxygen, sunlight, and temperature, making it unsuitable for long-term use.*
+
+23. **What is the main reason springs are used in spring balances?**
+    - Answer: B) Because elongation is proportional to load
+    - *Explanation: Since spring stretch is proportional to weight, you can measure weight by measuring how much the spring stretches.*
+
+24. **What happens to the force in a spring when you stretch it to twice its initial length?**
+    - Answer: C) It doubles
+    - *Explanation: According to Hooke's Law, if you stretch a spring twice as far, it will pull back with twice the force.*
+
+25. **What is the main advantage of using gas springs over physical springs?**
+    - Answer: D) They are much more compact for the same force
+    - *Explanation: Gas springs use compressed gas to provide force, allowing them to be much smaller than metal springs that provide the same amount of force.*

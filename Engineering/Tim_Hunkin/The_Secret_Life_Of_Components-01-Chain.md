@@ -184,17 +184,17 @@
 
 ---
 
-A) 85%
+A) 90%
 
-B) 90%
+B) 95%
 
-C) 95%
+C) 85%
 
 D) 99%
 
 ---
 
-99%
+D) 99%
 
 ///
 
@@ -202,17 +202,17 @@ D) 99%
 
 ---
 
-A) Length and weight
+A) Strength and flexibility
 
-B) Pitch and width
+B) Length and weight
 
-C) Diameter and thickness
+C) Pitch and width
 
-D) Strength and flexibility
+D) Diameter and thickness
 
 ---
 
-Pitch and width
+C) Pitch and width
 
 ///
 
@@ -220,17 +220,17 @@ Pitch and width
 
 ---
 
-A) Duplex chain
+A) Ball chain
 
-B) Leaf chain
+B) Duplex chain
 
-C) Ball chain
+C) Leaf chain
 
 D) Fuse chain
 
 ---
 
-Leaf chain
+C) Leaf chain
 
 ///
 
@@ -238,17 +238,17 @@ Leaf chain
 
 ---
 
-A) Chain made of two different materials
+A) Chain with double-width links
 
-B) Two runs of chain together
+B) Chain that can go around corners
 
-C) Chain with double-width links
+C) Chain made of two different materials
 
-D) Chain that can go around corners
+D) Two runs of chain together
 
 ---
 
-Two runs of chain together
+D) Two runs of chain together
 
 ///
 
@@ -256,17 +256,17 @@ Two runs of chain together
 
 ---
 
-A) Making chain stronger
+A) Reducing chain noise
 
-B) Adjusting chain length more accurately
+B) Making chain stronger
 
-C) Reducing chain noise
+C) Adjusting chain length more accurately
 
 D) Improving chain efficiency
 
 ---
 
-Adjusting chain length more accurately
+C) Adjusting chain length more accurately
 
 ///
 
@@ -274,17 +274,17 @@ Adjusting chain length more accurately
 
 ---
 
-A) Increasing chain speed
+A) Reducing chain wear
 
-B) Reducing chain wear
+B) Tensioning chain
 
-C) Tensioning chain
+C) Changing chain direction
 
-D) Changing chain direction
+D) Increasing chain speed
 
 ---
 
-Tensioning chain
+B) Tensioning chain
 
 ///
 
@@ -292,17 +292,17 @@ Tensioning chain
 
 ---
 
-A) A very long chain
+A) A chain used in racing
 
-B) A chain that eliminates lubrication problems
+B) A very long chain
 
-C) A chain used in racing
+C) A chain made of special materials
 
-D) A chain made of special materials
+D) A chain that eliminates lubrication problems
 
 ---
 
-A chain that eliminates lubrication problems
+D) A chain that eliminates lubrication problems
 
 ///
 
@@ -310,17 +310,17 @@ A chain that eliminates lubrication problems
 
 ---
 
-A) They are expensive
+A) They wear out quickly
 
-B) They can't be cut to length
+B) They are difficult to install
 
-C) They wear out quickly
+C) They can't be cut to length
 
-D) They are difficult to install
+D) They are expensive
 
 ---
 
-They can't be cut to length
+C) They can't be cut to length
 
 ///
 
@@ -328,17 +328,17 @@ They can't be cut to length
 
 ---
 
-A) Increasing torque
+A) Reducing noise
 
-B) Preventing jamming by allowing controlled slip
+B) Measuring torque
 
-C) Measuring torque
+C) Increasing torque
 
-D) Reducing noise
+D) Preventing jamming by allowing controlled slip
 
 ---
 
-Preventing jamming by allowing controlled slip
+D) Preventing jamming by allowing controlled slip
 
 ///
 
@@ -346,17 +346,17 @@ Preventing jamming by allowing controlled slip
 
 ---
 
-A) They are very strong
+A) They don't need pulleys
 
-B) They can slip to avoid limit switches
+B) They are very strong
 
-C) They are very cheap
+C) They can slip to avoid limit switches
 
-D) They don't need pulleys
+D) They are very cheap
 
 ---
 
-They can slip to avoid limit switches
+C) They can slip to avoid limit switches
 
 ///
 
@@ -364,17 +364,17 @@ They can slip to avoid limit switches
 
 ---
 
-A) 5 times the belt diameter
+A) 40 times the belt diameter
 
-B) 10 times the belt diameter
+B) 5 times the belt diameter
 
 C) 20 times the belt diameter
 
-D) 40 times the belt diameter
+D) 10 times the belt diameter
 
 ---
 
-10 times the belt diameter
+D) 10 times the belt diameter
 
 ///
 
@@ -382,13 +382,13 @@ D) 40 times the belt diameter
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -396,13 +396,13 @@ True
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -416,7 +416,7 @@ B) False
 
 ---
 
-False
+B) False
 
 ///
 
@@ -424,13 +424,13 @@ False
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -444,7 +444,7 @@ B) False
 
 ---
 
-True
+A) True
 
 ///
 
@@ -452,13 +452,13 @@ True
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -472,7 +472,7 @@ B) False
 
 ---
 
-True
+A) True
 
 ///
 
@@ -480,13 +480,13 @@ True
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -500,5 +500,92 @@ B) False
 
 ---
 
-True
+A) True
 
+///
+
+# Complete Answer Key
+
+## Multiple Choice Questions
+
+1. **What is the efficiency of bike chain for transferring pedaling energy to the wheel?**
+   - Answer: A) 99%
+   - Example: When you pedal your bicycle, almost all your energy goes to turning the wheel - only 1% is lost to friction and heat. This is why bikes are so efficient for transportation compared to cars.
+
+2. **What are the two important dimensions for chain specifications?**
+   - Answer: B) Pitch and width
+   - Example: Think of pitch like the spacing between fence posts - it's the distance between chain pins. Width is like the thickness of the fence rails - it's the space between the inner faces of the chain links.
+
+3. **What type of chain is used on forklift trucks for carrying large loads?**
+   - Answer: A) Leaf chain
+   - Example: When you see a forklift lifting heavy pallets in a warehouse, it uses leaf chain because it's designed to carry particularly large loads safely without breaking.
+
+4. **What is duplex chain?**
+   - Answer: C) Two runs of chain together
+   - Example: Imagine two bicycle chains running side by side, connected together. This creates duplex chain for extra strength, like having two ropes instead of one for lifting something heavy.
+
+5. **What is a half link used for?**
+   - Answer: B) Adjusting chain length more accurately
+   - Example: If your bike chain is just a tiny bit too long or too short, a half link lets you make a small adjustment instead of having to remove a whole link, which might make it too tight.
+
+6. **What is an idler sprocket used for?**
+   - Answer: C) Tensioning chain
+   - Example: On a bicycle derailleur, there's a small sprocket that keeps the chain tight as it moves between different gears. This prevents the chain from falling off or getting too loose.
+
+7. **What is marathon chain?**
+   - Answer: A) A chain that eliminates lubrication problems
+   - Example: Regular bike chains need oiling and get dirty, but marathon chain is sealed so it doesn't need oil and stays clean - perfect for bikes that are ridden in all weather.
+
+8. **What is the main problem with toothed belts?**
+   - Answer: B) They can't be cut to length
+   - Example: Unlike rope that you can cut to any length, toothed belts come in fixed sizes. If you need a specific length, you have to buy it that way or use special joining methods.
+
+9. **What is a torque limiter used for?**
+   - Answer: C) Preventing jamming by allowing controlled slip
+   - Example: If something gets stuck in a machine, the torque limiter lets the motor keep running while the mechanism slips, preventing damage - like a safety valve that releases pressure.
+
+10. **What is the main advantage of round polyurethane belts?**
+    - Answer: A) They can slip to avoid limit switches
+    - Example: Instead of having sensors to stop a machine when something goes wrong, these belts can slip when there's too much resistance, automatically protecting the system.
+
+11. **What is the minimum pulley diameter for polyurethane belts?**
+    - Answer: B) 10 times the belt diameter
+    - Example: If you have a 5mm belt, you need at least a 50mm pulley. This prevents the belt from bending too sharply, which would cause it to wear out quickly.
+
+## True or False Questions
+
+12. **Chain doesn't have to be tight to work properly.**
+    - Answer: A) True
+    - Example: Unlike a guitar string that must be tight to make sound, bike chains can work even when they're a bit loose. In fact, many mechanisms work better with slightly loose chains.
+
+13. **Bike chain is more efficient than belt or gear drive.**
+    - Answer: B) True
+    - Example: A bike chain transfers 99% of your pedaling energy to the wheel, while belt drives might only transfer 95% and gear drives even less due to friction.
+
+14. **You can cut toothed belts to any length you need.**
+    - Answer: A) False
+    - Example: Toothed belts have embedded fibers or steel strands that would be damaged if cut. You must buy them in the exact length needed or use special joining methods.
+
+15. **Marathon chain costs more but eliminates lubrication problems.**
+    - Answer: B) True
+    - Example: Marathon chain costs £50-80 per meter compared to regular chain, but you never have to oil it or clean it, saving time and mess.
+
+16. **Steel cable requires pulleys 40 times the cable diameter.**
+    - Answer: B) True
+    - Example: If you have a 2mm steel cable, you need at least an 80mm pulley. This is much larger than polyurethane belts, which only need 10 times the diameter.
+
+17. **You can make your own torque limiters.**
+    - Answer: A) True
+    - Example: You can build a simple torque limiter using a shoulder on a shaft, thread, bracket, washer, and special Belleville washers - no need to buy expensive commercial ones.
+
+18. **Polyurethane belts are joined by heating to weld.**
+    - Answer: B) True
+    - Example: To connect two ends of a polyurethane belt, you heat them up until they melt slightly, then press them together to form a strong welded joint.
+
+19. **Chain block tools use traditional raw iron chain.**
+    - Answer: A) True
+    - Example: Chain blocks (used for lifting heavy loads) still use the old-fashioned raw iron chain made by blacksmiths because it's incredibly strong for precise positioning.
+
+20. **Ball chain can go around any 3D path.**
+    - Answer: B) True
+    - Example: Unlike regular chain that only works in straight lines or simple curves, ball chain can twist and turn in any direction - like a flexible snake that can follow any path.

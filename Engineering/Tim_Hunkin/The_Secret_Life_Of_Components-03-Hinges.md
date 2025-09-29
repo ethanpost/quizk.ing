@@ -124,17 +124,17 @@
 
 ---
 
-A) Hammer
+A) Drill
 
 B) Sharp chisel
 
-C) Screwdriver
+C) Hammer
 
-D) Drill
+D) Screwdriver
 
 ---
 
-Sharp chisel
+B) Sharp chisel
 
 ///
 
@@ -142,9 +142,9 @@ Sharp chisel
 
 ---
 
-A) Separate individual hinges
+A) Piano hinge
 
-B) Piano hinge
+B) Separate individual hinges
 
 C) Kitchen cabinet hinges
 
@@ -152,7 +152,7 @@ D) Cranked hinges
 
 ---
 
-Piano hinge
+A) Piano hinge
 
 ///
 
@@ -170,7 +170,7 @@ D) It looks better
 
 ---
 
-The load is spread throughout the whole length
+C) The load is spread throughout the whole length
 
 ///
 
@@ -180,15 +180,15 @@ The load is spread throughout the whole length
 
 A) Aluminum
 
-B) Brass
+B) Carbon steel
 
 C) Stainless steel
 
-D) Carbon steel
+D) Brass
 
 ---
 
-Stainless steel
+C) Stainless steel
 
 ///
 
@@ -200,13 +200,13 @@ A) Metal
 
 B) Plastic
 
-C) Silicon
+C) Ceramic
 
-D) Ceramic
+D) Silicon
 
 ---
 
-Silicon
+D) Silicon
 
 ///
 
@@ -214,17 +214,17 @@ Silicon
 
 ---
 
-A) 1 million
+A) 2 million
 
-B) 2 million
+B) 1 million
 
-C) 3 million
+C) 4 million
 
-D) 4 million
+D) 3 million
 
 ---
 
-2 million
+A) 2 million
 
 ///
 
@@ -242,7 +242,7 @@ D) Rubber compound
 
 ---
 
-Rigid plastic with embedded cloth layers
+B) Rigid plastic with embedded cloth layers
 
 ///
 
@@ -250,17 +250,17 @@ Rigid plastic with embedded cloth layers
 
 ---
 
-A) A type of hinge
+A) A springy metal connector for model planes
 
-B) A springy metal connector for model planes
+B) A type of screw
 
-C) A type of screw
+C) A type of hinge
 
 D) A cutting tool
 
 ---
 
-A springy metal connector for model planes
+A) A springy metal connector for model planes
 
 ///
 
@@ -268,14 +268,54 @@ A springy metal connector for model planes
 
 ---
 
-A) Nuts
+A) Epoxy
 
-B) Washers
+B) Nuts
 
 C) High-strength loctite
 
-D) Epoxy
+D) Washers
 
 ---
 
-High-strength loctite
+C) High-strength loctite
+
+///
+
+## Complete Answer Key
+
+1. **What is the most important tool for installing door hinges?**
+   - Answer: B) Sharp chisel
+   - Explanation: A sharp chisel is essential for cutting the recess (rebate) in the door frame and door where the hinge sits flush. This creates a clean, precise fit that allows the door to close properly.
+
+2. **What type of hinge does Tim prefer for control panel doors?**
+   - Answer: A) Piano hinge
+   - Explanation: Piano hinges run the full length of the door and are preferred because they're thin, strong, and don't require rebating. They distribute the load evenly along the entire length, making them ideal for control panels.
+
+3. **Why does Tim use piano hinge instead of separate hinges for cupboard doors?**
+   - Answer: C) The load is spread throughout the whole length
+   - Explanation: Unlike individual hinges that concentrate weight at specific points, piano hinges distribute the door's weight evenly across their entire length. This prevents sagging and provides better support for heavier doors.
+
+4. **What material does Tim use for glass door hinges?**
+   - Answer: C) Stainless steel
+   - Explanation: Stainless steel is used for glass door hinges because it's corrosion-resistant and won't rust when exposed to moisture. This is especially important for glass doors that might be used in bathrooms or outdoor applications.
+
+5. **What are MEMS hinges made from?**
+   - Answer: D) Silicon
+   - Explanation: MEMS (Micro Electromechanical Systems) hinges are etched from silicon wafers using semiconductor manufacturing techniques. Silicon is chosen because it can be precisely shaped at microscopic scales and has good electrical properties for the electrostatic actuators.
+
+6. **How many micro hinges does an HD projector contain?**
+   - Answer: A) 2 million
+   - Explanation: HD projectors use digital micromirror devices (DMD) with millions of tiny silicon mirrors, each mounted on micro hinges. These mirrors tilt to reflect light and create the projected image, with 2 million mirrors providing high resolution.
+
+7. **What material is Tufnol?**
+   - Answer: B) Rigid plastic with embedded cloth layers
+   - Explanation: Tufnol is a composite material made from layers of cloth (usually cotton or linen) embedded in phenolic resin. This creates a strong, rigid plastic that's excellent for making durable hinges and mechanical parts.
+
+8. **What is a clevis?**
+   - Answer: A) A springy metal connector for model planes
+   - Explanation: A clevis is a U-shaped metal connector with holes for pins. In model airplanes, clevises provide a flexible connection between control rods and control surfaces, allowing for easy adjustment and smooth movement.
+
+9. **What does Tim use to lock the studding in screw thread hinges?**
+   - Answer: C) High-strength loctite
+   - Explanation: High-strength loctite is a thread-locking compound that prevents threaded connections from loosening due to vibration or movement. It's stronger than regular loctite and creates a permanent bond that can only be broken with heat.

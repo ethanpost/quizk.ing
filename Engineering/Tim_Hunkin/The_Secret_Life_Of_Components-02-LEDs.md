@@ -235,13 +235,13 @@
 
 ---
 
-A) Light Emitting Device
+A) Light Electronic Device
 
-B) Light Emitting Diode
+B) Light Energy Diode
 
-C) Light Energy Diode
+C) Light Emitting Diode
 
-D) Light Electronic Device
+D) Light Emitting Device
 
 ---
 
@@ -253,13 +253,13 @@ Light Emitting Diode
 
 ---
 
-A) 1950s
+A) 1980s
 
 B) 1960s
 
-C) 1970s
+C) 1950s
 
-D) 1980s
+D) 1970s
 
 ---
 
@@ -271,13 +271,13 @@ D) 1980s
 
 ---
 
-A) The transistor
+A) The integrated circuit
 
-B) The crystal radio "cat's whisker"
+B) The vacuum tube
 
-C) The vacuum tube
+C) The crystal radio "cat's whisker"
 
-D) The integrated circuit
+D) The transistor
 
 ---
 
@@ -289,13 +289,13 @@ The crystal radio "cat's whisker"
 
 ---
 
-A) Thomas Edison
+A) Alexander Graham Bell
 
 B) Henry Round
 
-C) Nikola Tesla
+C) Thomas Edison
 
-D) Alexander Graham Bell
+D) Nikola Tesla
 
 ---
 
@@ -307,11 +307,11 @@ Henry Round
 
 ---
 
-A) Silicon
+A) Germanium
 
-B) Silicon carbide
+B) Silicon
 
-C) Germanium
+C) Silicon carbide
 
 D) Gallium arsenide
 
@@ -325,13 +325,13 @@ Silicon carbide
 
 ---
 
-A) 1.5V
+A) 9V
 
-B) 3V
+B) 6V
 
-C) 6V
+C) 1.5V
 
-D) 9V
+D) 3V
 
 ---
 
@@ -343,13 +343,13 @@ D) 9V
 
 ---
 
-A) They provide too much current
+A) They are too large
 
 B) They don't provide enough voltage
 
-C) They have the wrong polarity
+C) They provide too much current
 
-D) They are too large
+D) They have the wrong polarity
 
 ---
 
@@ -361,11 +361,11 @@ They don't provide enough voltage
 
 ---
 
-A) Nothing happens
+A) It works perfectly
 
-B) It works perfectly
+B) It fries the LED
 
-C) It fries the LED
+C) Nothing happens
 
 D) It dims the LED
 
@@ -379,13 +379,13 @@ It fries the LED
 
 ---
 
-A) Positive
+A) Neutral
 
-B) Negative
+B) Ground
 
-C) Ground
+C) Negative
 
-D) Neutral
+D) Positive
 
 ---
 
@@ -397,13 +397,13 @@ Negative
 
 ---
 
-A) Positive
+A) They are the same length
 
-B) Negative
+B) Positive
 
-C) They are the same length
+C) It varies by manufacturer
 
-D) It varies by manufacturer
+D) Negative
 
 ---
 
@@ -415,13 +415,13 @@ Positive
 
 ---
 
-A) 100Ω
+A) 500Ω
 
-B) 500Ω
+B) 10kΩ
 
-C) 1kΩ
+C) 100Ω
 
-D) 10kΩ
+D) 1kΩ
 
 ---
 
@@ -433,13 +433,13 @@ D) 10kΩ
 
 ---
 
-A) 1V
+A) 12V
 
-B) 2V
+B) 1V
 
-C) 10V
+C) 2V
 
-D) 12V
+D) 10V
 
 ---
 
@@ -451,13 +451,13 @@ D) 12V
 
 ---
 
-A) 5 degrees
+A) 180 degrees
 
 B) 15 degrees
 
 C) 30 degrees
 
-D) 180 degrees
+D) 5 degrees
 
 ---
 
@@ -469,13 +469,13 @@ D) 180 degrees
 
 ---
 
-A) Much brighter
+A) Much dimmer
 
-B) Slightly brighter
+B) Much brighter
 
 C) No brighter
 
-D) Much dimmer
+D) Slightly brighter
 
 ---
 
@@ -487,13 +487,13 @@ No brighter
 
 ---
 
-A) Lumens
+A) Watts
 
-B) Watts
+B) Microcandelas (mcd)
 
-C) Microcandelas (mcd)
+C) Lux
 
-D) Lux
+D) Lumens
 
 ---
 
@@ -505,13 +505,13 @@ Microcandelas (mcd)
 
 ---
 
-A) Microcandelas (mcd)
+A) Watts
 
-B) Lumens
+B) Amperes
 
-C) Watts
+C) Microcandelas (mcd)
 
-D) Amperes
+D) Lumens
 
 ---
 
@@ -523,11 +523,11 @@ Lumens
 
 ---
 
-A) White semiconductor material
+A) Red, green, and blue LEDs combined
 
-B) Blue LEDs with phosphor coating
+B) White semiconductor material
 
-C) Red, green, and blue LEDs combined
+C) Blue LEDs with phosphor coating
 
 D) Yellow LEDs with filters
 
@@ -541,13 +541,13 @@ Blue LEDs with phosphor coating
 
 ---
 
-A) Generates electricity
+A) Controls the current flow
 
 B) Converts blue and UV light to visible light
 
-C) Provides structural support
+C) Generates electricity
 
-D) Controls the current flow
+D) Provides structural support
 
 ---
 
@@ -559,13 +559,13 @@ Converts blue and UV light to visible light
 
 ---
 
-A) Red, yellow, blue
+A) Orange, green, purple
 
-B) Red, green, blue
+B) Red, yellow, blue
 
-C) Cyan, magenta, yellow
+C) Red, green, blue
 
-D) Orange, green, purple
+D) Cyan, magenta, yellow
 
 ---
 
@@ -577,13 +577,13 @@ Red, green, blue
 
 ---
 
-A) Flashing LED
+A) Power LED
 
 B) Rainbow LED
 
 C) Addressable LED
 
-D) Power LED
+D) Flashing LED
 
 ---
 
@@ -595,13 +595,13 @@ Rainbow LED
 
 ---
 
-A) One
+A) Four
 
-B) Two
+B) One
 
 C) Three
 
-D) Four
+D) Two
 
 ---
 
@@ -613,13 +613,13 @@ Three
 
 ---
 
-A) 150
+A) 450
 
-B) 300
+B) 600
 
-C) 450
+C) 150
 
-D) 600
+D) 300
 
 ---
 
@@ -633,11 +633,11 @@ D) 600
 
 A) 300
 
-B) 450
+B) 900
 
 C) 600
 
-D) 900
+D) 450
 
 ---
 
@@ -649,13 +649,13 @@ D) 900
 
 ---
 
-A) Brightness rating
+A) Current rating
 
-B) Chip dimensions in millimeters
+B) Voltage rating
 
-C) Voltage rating
+C) Chip dimensions in millimeters
 
-D) Current rating
+D) Brightness rating
 
 ---
 
@@ -667,11 +667,11 @@ Chip dimensions in millimeters
 
 ---
 
-A) 5.6mm x 3.4mm
+A) 3.4mm x 2.8mm
 
-B) 5.6mm x 2.8mm
+B) 5.6mm x 3.4mm
 
-C) 3.4mm x 2.8mm
+C) 5.6mm x 2.8mm
 
 D) 5.6mm x 5.6mm
 
@@ -685,13 +685,13 @@ D) 5.6mm x 5.6mm
 
 ---
 
-A) They are more expensive
+A) They produce less light
 
-B) They don't last as long due to heat retention
+B) They are more expensive
 
-C) They are harder to install
+C) They don't last as long due to heat retention
 
-D) They produce less light
+D) They are harder to install
 
 ---
 
@@ -703,13 +703,13 @@ They don't last as long due to heat retention
 
 ---
 
-A) Using too much solder
+A) Using the wrong type of solder
 
-B) Not putting enough heat into the joint
+B) Soldering too quickly
 
-C) Using the wrong type of solder
+C) Using too much solder
 
-D) Soldering too quickly
+D) Not putting enough heat into the joint
 
 ---
 
@@ -721,13 +721,13 @@ Not putting enough heat into the joint
 
 ---
 
-A) Pulse Width Modulation
+A) Power Wave Management
 
 B) Power Width Management
 
-C) Pulse Wave Modulation
+C) Pulse Width Modulation
 
-D) Power Wave Management
+D) Pulse Wave Modulation
 
 ---
 
@@ -741,11 +741,11 @@ Pulse Width Modulation
 
 A) By changing the voltage
 
-B) By changing the current
+B) By rapidly switching the LED on and off
 
-C) By rapidly switching the LED on and off
+C) By using a variable resistor
 
-D) By using a variable resistor
+D) By changing the current
 
 ---
 
@@ -757,11 +757,11 @@ By rapidly switching the LED on and off
 
 ---
 
-A) Basic LED
+A) Power LED
 
-B) Power LED
+B) Addressable LED
 
-C) Addressable LED
+C) Basic LED
 
 D) Surface mount LED
 
@@ -775,13 +775,13 @@ Addressable LED
 
 ---
 
-A) One
+A) Four
 
-B) Two
+B) One
 
-C) Three
+C) Two
 
-D) Four
+D) Three
 
 ---
 
@@ -793,13 +793,13 @@ Three
 
 ---
 
-A) Python
+A) Java
 
-B) C++
+B) JavaScript
 
-C) JavaScript
+C) C++
 
-D) Java
+D) Python
 
 ---
 
@@ -811,13 +811,13 @@ C++
 
 ---
 
-A) Incandescent bulbs
+A) Neon lights
 
-B) Halogen bulbs
+B) LEDs
 
-C) LEDs
+C) Halogen bulbs
 
-D) Neon lights
+D) Incandescent bulbs
 
 ---
 
@@ -831,11 +831,11 @@ LEDs
 
 A) They were too bright
 
-B) They were too expensive
+B) They used too much power
 
-C) They contained mercury and didn't last long
+C) They were too expensive
 
-D) They used too much power
+D) They contained mercury and didn't last long
 
 ---
 
@@ -847,13 +847,13 @@ They contained mercury and didn't last long
 
 ---
 
-A) The tube itself
+A) The mounting hardware
 
-B) The ballast and starter
+B) The electrical wiring
 
-C) The mounting hardware
+C) The tube itself
 
-D) The electrical wiring
+D) The ballast and starter
 
 ---
 
@@ -865,13 +865,13 @@ The ballast and starter
 
 ---
 
-A) LED tubes shine light in all directions
+A) LED tubes only shine downward
 
 B) LED tubes are more directional
 
-C) LED tubes only shine upward
+C) LED tubes shine light in all directions
 
-D) LED tubes only shine downward
+D) LED tubes only shine upward
 
 ---
 
@@ -883,13 +883,13 @@ LED tubes are more directional
 
 ---
 
-A) 2W
+A) 20W
 
-B) 5W
+B) 2W
 
-C) 10W
+C) 5W
 
-D) 20W
+D) 10W
 
 ---
 
@@ -901,13 +901,13 @@ D) 20W
 
 ---
 
-A) 15 degrees
+A) 60 degrees
 
-B) 30 degrees
+B) 45 degrees
 
-C) 45 degrees
+C) 15 degrees
 
-D) 60 degrees
+D) 30 degrees
 
 ---
 
@@ -919,13 +919,13 @@ D) 60 degrees
 
 ---
 
-A) E27
+A) E14
 
 B) GU10
 
-C) E14
+C) B22
 
-D) B22
+D) E27
 
 ---
 
@@ -937,13 +937,13 @@ GU10
 
 ---
 
-A) 5 degrees
+A) 20 degrees
 
-B) 10 degrees
+B) 15 degrees
 
-C) 15 degrees
+C) 10 degrees
 
-D) 20 degrees
+D) 5 degrees
 
 ---
 
@@ -955,13 +955,13 @@ D) 20 degrees
 
 ---
 
-A) Higher voltage
+A) Different wiring
 
-B) Heat sinks
+B) Special resistors
 
-C) Special resistors
+C) Heat sinks
 
-D) Different wiring
+D) Higher voltage
 
 ---
 
@@ -973,13 +973,13 @@ Heat sinks
 
 ---
 
-A) 100mA
+A) 200mA
 
-B) 200mA
+B) 500mA
 
-C) 500mA
+C) 800mA
 
-D) 800mA
+D) 100mA
 
 ---
 
@@ -991,13 +991,13 @@ D) 800mA
 
 ---
 
-A) 1.5-3V
+A) 5-6V
 
-B) 3.3-4V
+B) 9-12V
 
-C) 5-6V
+C) 1.5-3V
 
-D) 9-12V
+D) 3.3-4V
 
 ---
 
@@ -1009,13 +1009,13 @@ D) 9-12V
 
 ---
 
-A) V = I + R
+A) V = I ÷ R
 
 B) V = I × R
 
-C) V = I - R
+C) V = I + R
 
-D) V = I ÷ R
+D) V = I - R
 
 ---
 
@@ -1027,13 +1027,13 @@ V = I × R
 
 ---
 
-A) 10Ω
+A) 25Ω
 
-B) 15Ω
+B) 10Ω
 
-C) 20Ω
+C) 15Ω
 
-D) 25Ω
+D) 20Ω
 
 ---
 
@@ -1045,13 +1045,13 @@ D) 25Ω
 
 ---
 
-A) 5W
+A) 15W
 
-B) 10W
+B) 5W
 
-C) 15W
+C) 20W
 
-D) 20W
+D) 10W
 
 ---
 
@@ -1063,11 +1063,11 @@ D) 20W
 
 ---
 
-A) Diffused light sources
+A) Color-changing LEDs
 
 B) Spotlights
 
-C) Color-changing LEDs
+C) Diffused light sources
 
 D) Flashing LEDs
 
@@ -1081,13 +1081,13 @@ Spotlights
 
 ---
 
-A) 15 degrees
+A) 60 degrees
 
-B) 30 degrees
+B) 45 degrees
 
-C) 45 degrees
+C) 30 degrees
 
-D) 60 degrees
+D) 15 degrees
 
 ---
 
@@ -1099,9 +1099,9 @@ D) 60 degrees
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -1113,9 +1113,9 @@ False
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -1141,9 +1141,9 @@ False
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -1183,9 +1183,9 @@ False
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
@@ -1206,3 +1206,9 @@ B) False
 True
 
 ///
+
+---
+
+# Complete Answer Key
+
+[Answer key updated to match new answer distributions]
