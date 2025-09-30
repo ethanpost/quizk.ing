@@ -113,7 +113,7 @@
     // Optional fallback function if API fails
     async function fetchQuizzesFromJson() {
       try {
-        const response = await fetch('quizzes.json');
+        const response = await fetch(`quizzes.json?t=${Date.now()}`);
         if (!response.ok) throw new Error('Failed to load quiz list');
         const jsonList = await response.json();
         jsonList.forEach(quiz => {
@@ -129,7 +129,7 @@
 
     async function loadQuiz(file) {
       try {
-        const response = await fetch(file);
+        const response = await fetch(`${file}?t=${Date.now()}`);
         if (!response.ok) throw new Error("Failed to load quiz");
         quizData = await response.json();
         currentQuestion = 0;
