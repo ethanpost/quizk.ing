@@ -60,12 +60,10 @@
       margin: 20px auto;
       width: 100%;
       max-width: 600px;
-      opacity: 1;
-      transition: opacity 0.3s ease;
+      display: block;
     }
     #quizSearch.hidden {
-      opacity: 0;
-      pointer-events: none;
+      display: none;
     }
     #searchInput {
       width: 100%;
@@ -81,7 +79,7 @@
       border-color: #007bff;
     }
     #quizGrid {
-      display: grid;
+      display: none;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 20px;
       padding: 20px;
@@ -92,9 +90,7 @@
       transition: opacity 0.3s ease, transform 0.3s ease;
     }
     #quizGrid.hidden {
-      opacity: 0;
-      transform: translateY(20px);
-      pointer-events: none;
+      display: none;
     }
     .quiz-item {
       background-color: #f8f9fa;
@@ -672,6 +668,7 @@
         
         // Load and display quizzes
         await fetchQuizzesFromJson();
+        quizGrid.style.display = 'grid';
         quizGrid.classList.remove("hidden");
         
         // Show previous results if any
