@@ -443,7 +443,15 @@
         // Show only the first 5
         sortedResults.slice(0, 5).forEach((result, index) => {
           const quizName = quizList.find(q => q.file === result.quizFile)?.name || result.quizFile;
-          const dateTime = new Date(result.timestamp).toLocaleString();
+          // Force display full date and time using timestamp
+          const dateTime = new Date(result.timestamp).toLocaleString([], { 
+            year: 'numeric', 
+            month: 'short', 
+            day: 'numeric', 
+            hour: '2-digit', 
+            minute: '2-digit', 
+            second: '2-digit'
+          });
           resultsHtml += `
             <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #eee;">
               <span>#${index + 1} ${quizName}: ${result.score}/${result.totalQuestions} (${result.percentage}%) - ${dateTime}</span>
