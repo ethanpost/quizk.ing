@@ -185,21 +185,7 @@
           opt.style.backgroundColor = "#dc3545";
         }
       });
-      
-      if (selected === currentQuiz.answer) {
-        // Auto-advance for correct answers
-        setTimeout(() => {
-          currentQuestion++;
-          if (currentQuestion < quizData.length) {
-            loadQuestion();
-          } else {
-            showResult();
-          }
-        }, 1000); // 1 second delay to show the correct answer
-      } else {
-        // Show next button for incorrect answers
-        nextButton.classList.remove("hidden");
-      }
+      nextButton.classList.remove("hidden");
     }
 
     function showResult() {
