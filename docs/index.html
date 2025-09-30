@@ -26,6 +26,13 @@
       text-align: center;
       color: #333;
     }
+    .question-counter {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
     .question {
       margin-bottom: 20px;
     }
@@ -73,6 +80,7 @@
       <option value="">Select a Quiz</option>
     </select>
     <div id="quiz" class="hidden">
+      <div class="question-counter" id="questionCounter"></div>
       <div class="question" id="question"></div>
       <div class="options" id="options"></div>
       <button id="next" class="hidden">Next Question</button>
@@ -88,6 +96,7 @@
 
     const quizSelector = document.getElementById("quizSelector");
     const questionElement = document.getElementById("question");
+    const questionCounterElement = document.getElementById("questionCounter");
     const optionsElement = document.getElementById("options");
     const nextButton = document.getElementById("next");
     const resultElement = document.getElementById("result");
@@ -133,6 +142,7 @@
 
     function loadQuestion() {
       const currentQuiz = quizData[currentQuestion];
+      questionCounterElement.textContent = `Question ${currentQuestion + 1} of ${quizData.length}`;
       questionElement.textContent = currentQuiz.question;
       optionsElement.innerHTML = "";
       currentQuiz.options.forEach(option => {
