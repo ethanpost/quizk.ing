@@ -176,16 +176,34 @@
       const currentQuiz = quizData[currentQuestion];
       if (selected === currentQuiz.answer) {
         score++;
+        // Show correct answer briefly, then auto-advance
+        optionsElement.querySelectorAll(".option").forEach(opt => {
+          opt.style.pointerEvents = "none";
+          if (opt.textContent === currentQuiz.answer) {
+            opt.style.backgroundColor = "#28a745";
+          }
+        });
+        // Auto-advance after a short delay
+        setTimeout(() => {
+          currentQuestion++;
+          if (currentQuestion < quizData.length) {
+            loadQuestion();
+          } else {
+            showResult();
+          }
+        }, 1000);
+      } else {
+        // Show incorrect answer and next button
+        optionsElement.querySelectorAll(".option").forEach(opt => {
+          opt.style.pointerEvents = "none";
+          if (opt.textContent === currentQuiz.answer) {
+            opt.style.backgroundColor = "#28a745";
+          } else if (opt.textContent === selected && selected !== currentQuiz.answer) {
+            opt.style.backgroundColor = "#dc3545";
+          }
+        });
+        nextButton.classList.remove("hidden");
       }
-      optionsElement.querySelectorAll(".option").forEach(opt => {
-        opt.style.pointerEvents = "none";
-        if (opt.textContent === currentQuiz.answer) {
-          opt.style.backgroundColor = "#28a745";
-        } else if (opt.textContent === selected && selected !== currentQuiz.answer) {
-          opt.style.backgroundColor = "#dc3545";
-        }
-      });
-      nextButton.classList.remove("hidden");
     }
 
     function showResult() {
