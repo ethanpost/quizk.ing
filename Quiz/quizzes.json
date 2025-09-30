@@ -8,6 +8,70 @@
     "file": "The_Secret_Life_Of_Components-02-LEDs.json"
   },
   {
+    "name": "The Secret Life of Components 03 - Hinges",
+    "file": "The_Secret_Life_Of_Components-03-Hinges.json"
+  },
+  {
+    "name": "The Secret Life of Components 04 - Switches",
+    "file": "The_Secret_Life_Of_Components-04-Switches.json"
+  },
+  {
+    "name": "The Secret Life of Components 05 - Springs",
+    "file": "The_Secret_Life_Of_Components-05-Springs.json"
+  },
+  {
+    "name": "The Secret Life of Components 06 - Connectors",
+    "file": "The_Secret_Life_Of_Components-06-Connectors.json"
+  },
+  {
+    "name": "The Secret Life of Components 07 - Glue",
+    "file": "The_Secret_Life_Of_Components-07-Glue.json"
+  },
+  {
+    "name": "The Secret Life of Components 08 - Bearings",
+    "file": "The_Secret_Life_Of_Components-08-Bearings.json"
+  },
+  {
+    "name": "The Secret Life of Components 09 - Sensors",
+    "file": "The_Secret_Life_Of_Components-09-Sensors.json"
+  },
+  {
+    "name": "The Secret Life of Components 10 - Linkages and Mechanisms",
+    "file": "The_Secret_Life_Of_Components-10-Linkages_and_Mechanisms.json"
+  },
+  {
+    "name": "The Secret Life of Components 11 - Motors",
+    "file": "The_Secret_Life_Of_Components-11-Motors.json"
+  },
+  {
+    "name": "The Secret Life of Components 12 - Screw Threads",
+    "file": "The_Secret_Life_Of_Components-12-Screw_Threads.json"
+  },
+  {
+    "name": "The Secret Life of Components 13 - Prototypes",
+    "file": "The_Secret_Life_Of_Components-13-Prototypes.json"
+  },
+  {
+    "name": "The Secret Life of Components 14 - Pneumatics",
+    "file": "The_Secret_Life_Of_Components-14-Pneumatics.json"
+  },
+  {
+    "name": "The Secret Life of Components 15 - Solenoids and Relays",
+    "file": "The_Secret_Life_Of_Components-15-Solenoids_and_Relays.json"
+  },
+  {
+    "name": "The Secret Life of Components 16 - Hole Cutting",
+    "file": "The_Secret_Life_Of_Components-16-Hole_Cutting.json"
+  },
+  {
+    "name": "The Secret Life of Components 17 - PLCs",
+    "file": "The_Secret_Life_Of_Components-17-PLCs.json"
+  },
+  {
+    "name": "The Secret Life of Components 18 - Gears",
+    "file": "The_Secret_Life_Of_Components-18-Gears.json"
+  },
+  {
     "name": "Test Quiz",
     "file": "test_quiz.json"
   }
