@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pop Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .quiz-container {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      max-width: 600px;
+      width: 100%;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .question {
+      margin-bottom: 20px;
+    }
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    select, button {
+      padding: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+    select:hover, button:hover {
+      background-color: #0056b3;
+    }
+    .option {
+      padding: 10px;
+      background-color: #f8f9fa;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .option:hover {
+      background-color: #e9ecef;
+    }
+    .result {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 1.2em;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Pop Quiz</h1>
+    <select id="quizSelector">
+      <option value="">Select a Quiz</option>
+    </select>
+    <div id="quiz" class="hidden">
+      <div class="question" id="question"></div>
+      <div class="options" id="options"></div>
+      <button id="next" class="hidden">Next Question</button>
+    </div>
+    <div class="result hidden" id="result"></div>
+  </div>
+
+  <script>
+    let quizList = [];
+    let quizData = [];
+    let currentQuestion = 0;
+    let score = 0;
+
+    const quizSelector = document.getElementById("quizSelector");
+    const questionElement = document.getElementById("question");
+    const optionsElement = document.getElementById("options");
+    const nextButton = document.getElementById("next");
+    const resultElement = document.getElementById("result");
+    const quizContainer = document.getElementById("quiz");
+
+    async function populateQuizSelector() {
+      // Replace hardcoded quizzes.json fetch with auto-detection
+      try {
+        // For GitHub Pages, use the repo's API to list files (replace 'YOUR_USERNAME' and 'YOUR_REPONAME' with actual values)
+        // If not on GitHub Pages, this falls back to manual file listing or you can adjust
+        const username = 'YOUR_USERNAME'; // TODO: Replace with your GitHub username
+        const reponame = 'YOUR_REPONAME'; // TODO: Replace with your repo name (e.g., 'popquiz')
+        const branch = 'main'; // or 'gh-pages' if using that branch
+        const response = await fetch(`https://api.github.com/repos/${username}/${reponame}/contents/?ref=${branch}`);
+        if (!response.ok) throw new Error('Failed to fetch file list');
+        const files = await response.json();
+        quizList = files.filter(file => file.name.endsWith('.json') && file.name.startsWith('quiz') && file.name !== 'quizzes.json')
+          .map(file => ({ name: file.name.replace('.json', '').replace('quiz', 'Quiz ').toUpperCase(), file: file.name }));
+        
+        if (quizList.length === 0) {
+          throw new Error('No quiz files found');
+        }
+        
+        quizList.forEach(quiz => {
+          const option = document.createElement("option");
+          option.value = quiz.file;
+          option.textContent = quiz.name;
+          quizSelector.appendChild(option);
+        });
+      } catch (error) {
+        console.error('Error auto-detecting quizzes:', error);
+        // Fallback: Manually define or show error
+        quizSelector.innerHTML = '<option value="">Error: Set GitHub credentials or add quizzes.json manually</option>';
+        // Alternative fallback: if you want to keep quizzes.json as backup, uncomment below
+        // await fetchQuizzesFromJson();
+      }
+    }
+
+    // Optional fallback function if API fails
+    async function fetchQuizzesFromJson() {
+      try {
+        const response = await fetch('quizzes.json');
+        if (!response.ok) throw new Error('Failed to load quiz list');
+        const jsonList = await response.json();
+        jsonList.forEach(quiz => {
+          const option = document.createElement("option");
+          option.value = quiz.file;
+          option.textContent = quiz.name;
+          quizSelector.appendChild(option);
+        });
+      } catch (e) {
+        console.error('Fallback failed:', e);
+      }
+    }
+
+    async function loadQuiz(file) {
+      try {
+        const response = await fetch(file);
+        if (!response.ok) throw new Error("Failed to load quiz");
+        quizData = await response.json();
+        currentQuestion = 0;
+        score = 0;
+        quizContainer.classList.remove("hidden");
+        resultElement.classList.add("hidden");
+        loadQuestion();
+      } catch (error) {
+        resultElement.classList.remove("hidden");
+        resultElement.textContent = "Error loading quiz. Please try another.";
+      }
+    }
+
+    function loadQuestion() {
+      const currentQuiz = quizData[currentQuestion];
+      questionElement.textContent = currentQuiz.question;
+      optionsElement.innerHTML = "";
+      currentQuiz.options.forEach(option => {
+        const optionElement = document.createElement("div");
+        optionElement.classList.add("option");
+        optionElement.textContent = option;
+        optionElement.addEventListener("click", () => selectOption(option));
+        optionsElement.appendChild(optionElement);
+      });
+      nextButton.classList.add("hidden");
+    }
+
+    function selectOption(selected) {
+      const currentQuiz = quizData[currentQuestion];
+      if (selected === currentQuiz.answer) {
+        score++;
+      }
+      optionsElement.querySelectorAll(".option").forEach(opt => {
+        opt.style.pointerEvents = "none";
+        if (opt.textContent === currentQuiz.answer) {
+          opt.style.backgroundColor = "#28a745";
+        } else if (opt.textContent === selected && selected !== currentQuiz.answer) {
+          opt.style.backgroundColor = "#dc3545";
+        }
+      });
+      nextButton.classList.remove("hidden");
+    }
+
+    function showResult() {
+      quizContainer.classList.add("hidden");
+      resultElement.classList.remove("hidden");
+      resultElement.textContent = `You scored ${score} out of ${quizData.length}!`;
+      quizSelector.value = "";
+    }
+
+    quizSelector.addEventListener("change", (e) => {
+      if (e.target.value) {
+        loadQuiz(e.target.value);
+      } else {
+        quizContainer.classList.add("hidden");
+        resultElement.classList.add("hidden");
+      }
+    });
+
+    nextButton.addEventListener("click", () => {
+      currentQuestion++;
+      if (currentQuestion < quizData.length) {
+        loadQuestion();
+      } else {
+        showResult();
+      }
+    });
+
+    populateQuizSelector();
+  </script>
+</body>
+</html>
