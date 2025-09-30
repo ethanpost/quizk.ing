@@ -357,6 +357,13 @@
             opt.style.backgroundColor = "#dc3545";
           }
         });
+        
+        // Update button text and show it
+        if (currentQuestion === quizData.length - 1) {
+          nextButton.textContent = "Finish Quiz";
+        } else {
+          nextButton.textContent = "Next Question";
+        }
         nextButton.classList.remove("hidden");
       }
     }
