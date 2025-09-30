@@ -32,6 +32,9 @@
       color: #666;
       margin-bottom: 10px;
       font-weight: bold;
+      background-color: #f8f9fa;
+      padding: 5px;
+      border-radius: 3px;
     }
     .question {
       margin-bottom: 20px;
@@ -142,6 +145,7 @@
 
     function loadQuestion() {
       const currentQuiz = quizData[currentQuestion];
+      console.log('Loading question:', currentQuestion + 1, 'of', quizData.length);
       questionCounterElement.textContent = `Question ${currentQuestion + 1} of ${quizData.length}`;
       questionElement.textContent = currentQuiz.question;
       optionsElement.innerHTML = "";
