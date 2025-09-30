@@ -430,11 +430,35 @@
         <h2>Quiz Complete!</h2>
         <p><strong>${currentStudentName}</strong>, you scored ${score} out of ${quizData.length} (${percentage}%)</p>
         <p>Your results have been saved.</p>
-        <button onclick="location.reload()">Take Another Quiz</button>
+        <div style="margin-top: 20px;">
+          <button id="takeAgainBtn" class="btn btn-primary" style="margin-right: 10px; background-color: #007bff;">Take Again</button>
+          <button id="endBtn" class="btn btn-secondary" style="background-color: #6c757d;">End</button>
+        </div>
       `;
       
       // Show the last 5 results at the end
       displayPreviousResults(currentStudentName);
+      
+      // Add event listeners for the new buttons
+      document.getElementById('takeAgainBtn').addEventListener('click', () => {
+        // Reset quiz for take again
+        currentQuestion = 0;
+        score = 0;
+        quizData = []; // Will be reloaded
+        loadQuiz(currentQuizFile);
+      });
+      
+      document.getElementById('endBtn').addEventListener('click', () => {
+        // Return to main page
+        quizContainer.classList.add("hidden");
+        resultElement.classList.add("hidden");
+        previousResultsElement.classList.add("hidden");
+        quizSelector.value = "";
+        quizSelector.classList.add("hidden");
+        nameSection.classList.remove("hidden");
+        studentNameInput.value = currentStudentName;
+        startQuizButton.disabled = false;
+      });
     }
 
     // Name input validation
