@@ -2,5 +2,9 @@
   {
     "name": "The Secret Life of Components 01 - Chain",
     "file": "The_Secret_Life_Of_Components-01-Chain.json"
+  },
+  {
+    "name": "Test Quiz",
+    "file": "test_quiz.json"
   }
 ]
