@@ -187,6 +187,23 @@
       const key = `quiz_results_${studentName}`;
       let results = JSON.parse(localStorage.getItem(key) || '[]');
       
+      // Ensure results is always an array (handle legacy object data)
+      if (!Array.isArray(results)) {
+        // Convert legacy object format to array format
+        const legacyResults = results || {};
+        results = Object.entries(legacyResults).map(([quizFile, result]) => ({
+          quizFile: quizFile,
+          score: result.score,
+          totalQuestions: result.totalQuestions,
+          percentage: result.percentage,
+          date: result.date,
+          timestamp: Date.now() // Add timestamp for new entries
+        }));
+      }
+      
+      // Remove any existing result for this quiz first (to avoid duplicates)
+      results = results.filter(result => result.quizFile !== quizFile);
+      
       // Add new result
       const newResult = {
         quizFile: quizFile,
@@ -209,12 +226,28 @@
 
     function getQuizResults(studentName) {
       const key = `quiz_results_${studentName}`;
-      return JSON.parse(localStorage.getItem(key) || '[]');
+      let results = JSON.parse(localStorage.getItem(key) || '[]');
+      
+      // Ensure results is always an array (handle legacy object data)
+      if (!Array.isArray(results)) {
+        const legacyResults = results || {};
+        results = Object.entries(legacyResults).map(([quizFile, result]) => ({
+          quizFile: quizFile,
+          score: result.score,
+          totalQuestions: result.totalQuestions,
+          percentage: result.percentage,
+          date: result.date,
+          timestamp: Date.now()
+        }));
+        localStorage.setItem(key, JSON.stringify(results)); // Update storage to array format
+      }
+      
+      return results;
     }
 
     function clearQuizResults(studentName, quizFile) {
       const key = `quiz_results_${studentName}`;
-      let results = JSON.parse(localStorage.getItem(key) || '[]');
+      let results = getQuizResults(studentName); // Use the fixed get function
       results = results.filter(result => result.quizFile !== quizFile);
       localStorage.setItem(key, JSON.stringify(results));
       displayPreviousResults(studentName);
@@ -341,12 +374,14 @@
         // Auto-advance after a short delay
         setTimeout(() => {
           currentQuestion++;
+          console.log('Auto-advance: currentQuestion =', currentQuestion, 'quizData.length =', quizData.length);
           if (currentQuestion < quizData.length) {
             loadQuestion();
           } else {
+            console.log('Calling showResult()');
             showResult();
           }
-        }, 1000);
+        }, 200);
       } else {
         // Show incorrect answer and next button
         optionsElement.querySelectorAll(".option").forEach(opt => {
@@ -369,6 +404,7 @@
     }
 
     function showResult() {
+      console.log('showResult() called');
       // Save the result to local storage
       saveQuizResult(currentStudentName, currentQuizFile, score, quizData.length);
       
