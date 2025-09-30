@@ -318,6 +318,13 @@
         optionsElement.appendChild(optionElement);
       });
       nextButton.classList.add("hidden");
+      
+      // Update button text based on current question
+      if (currentQuestion === quizData.length - 1) {
+        nextButton.textContent = "Finish Quiz";
+      } else {
+        nextButton.textContent = "Next Question";
+      }
     }
 
     function selectOption(selected) {
