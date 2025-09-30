@@ -444,7 +444,7 @@
       
       // Update button text based on current question
       if (currentQuestion === quizData.length - 1) {
-        nextButton.textContent = "Finish Quiz";
+        nextButton.textContent = "Finish";
       } else {
         nextButton.textContent = "Next Question";
       }
@@ -485,7 +485,7 @@
         
         // Update button text and show it
         if (currentQuestion === quizData.length - 1) {
-          nextButton.textContent = "Finish Quiz";
+          nextButton.textContent = "Finish";
         } else {
           nextButton.textContent = "Next Question";
         }
@@ -694,8 +694,8 @@
         quizGrid.style.display = 'grid';
         quizGrid.classList.remove("hidden");
         
-        // Show previous results if any
-        displayPreviousResults(name);
+        // Don't show previous results on quiz selection screen
+        previousResultsElement.classList.add("hidden");
       }
     });
 
