@@ -29,6 +29,21 @@
     h1 {
       text-align: center;
       color: #333;
+      cursor: pointer;
+      user-select: none;
+      margin: 0 0 20px 0;
+    }
+    h1:hover {
+      color: #007bff;
+    }
+    .logo {
+      max-width: 300px;
+      height: auto;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+    }
+    .logo:hover {
+      opacity: 0.8;
     }
     .question-counter {
       text-align: center;
@@ -197,7 +212,7 @@
 </head>
 <body>
   <div class="quiz-container">
-    <h1>Quizk.ing</h1>
+    <h1><img src="quizk.ing.png" alt="Quizk.ing" class="logo"></h1>
     <div id="nameSection">
       <input type="text" id="studentName" placeholder="Enter your name" maxlength="50">
       <button id="startQuiz" disabled>Go</button>
@@ -240,6 +255,7 @@
     const resultElement = document.getElementById("result");
     const quizContainer = document.getElementById("quiz");
     const mainContainer = document.querySelector(".quiz-container");
+    const headerLogo = document.querySelector(".logo");
 
     // Local storage functions
     function saveQuizResult(studentName, quizFile, score, totalQuestions) {
@@ -701,6 +717,22 @@
 
     searchInput.addEventListener("input", (e) => {
       filterQuizzes(e.target.value);
+    });
+
+    // Logo click to return to start
+    headerLogo.addEventListener("click", () => {
+      // Reset everything and go back to name entry
+      quizContainer.classList.add("hidden");
+      resultElement.classList.add("hidden");
+      quizSearch.style.display = 'none';
+      quizGrid.style.display = 'none';
+      previousResultsElement.classList.add("hidden");
+      mainContainer.classList.remove("taking-quiz");
+      
+      // Show name section
+      nameSection.classList.remove("hidden");
+      studentNameInput.value = currentStudentName || '';
+      startQuizButton.disabled = studentNameInput.value.trim().length === 0;
     });
 
     nextButton.addEventListener("click", () => {
