@@ -455,7 +455,7 @@
           resultsHtml += `
             <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #eee;">
               <span>#${index + 1} ${quizName}: ${result.score}/${result.totalQuestions} (${result.percentage}%) - ${dateTime}</span>
-              <button class="clear-results-btn" onclick="clearQuizResults('${currentStudentName}', '${result.quizFile}'); showResult();" style="padding: 5px 10px; background-color: #dc3545; color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 12px;">Clear</button>
+              <button class="clear-results-btn" onclick="clearQuizResultInline('${currentStudentName}', '${result.quizFile}', '${result.timestamp}'); refreshResultsDisplay();" style="padding: 5px 10px; background-color: #dc3545; color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 12px;">Clear</button>
             </div>
           `;
         });
@@ -492,6 +492,60 @@
         studentNameInput.value = currentStudentName;
         startQuizButton.disabled = false;
       });
+    }
+
+    // New function to handle clear without full refresh
+    function clearQuizResultInline(studentName, quizFile, timestamp) {
+      const key = `quiz_results_${studentName}`;
+      let results = getQuizResults(studentName);
+      
+      // Remove the specific result by quizFile and timestamp
+      results = results.filter(result => 
+        !(result.quizFile === quizFile && result.timestamp === parseInt(timestamp))
+      );
+      
+      localStorage.setItem(key, JSON.stringify(results));
+    }
+
+    // Function to refresh just the results display
+    function refreshResultsDisplay() {
+      // Re-render just the results section
+      const percentage = Math.round((score / quizData.length) * 100);
+      const results = getQuizResults(currentStudentName);
+      let resultsHtml = '';
+      
+      if (results.length > 0) {
+        const sortedResults = [...results].sort((a, b) => b.timestamp - a.timestamp);
+        
+        resultsHtml = `
+          <div id="previousResults" style="background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin: 20px 0;">
+            <h3 style="margin-top: 0; color: #333;">Your Last 5 Results</h3>
+        `;
+        
+        sortedResults.slice(0, 5).forEach((result, index) => {
+          const quizName = quizList.find(q => q.file === result.quizFile)?.name || result.quizFile;
+          const dateTime = new Date(result.timestamp).toLocaleString([], { 
+            year: 'numeric', 
+            month: 'short', 
+            day: 'numeric', 
+            hour: '2-digit', 
+            minute: '2-digit', 
+            second: '2-digit'
+          });
+          resultsHtml += `
+            <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #eee;">
+              <span>#${index + 1} ${quizName}: ${result.score}/${result.totalQuestions} (${result.percentage}%) - ${dateTime}</span>
+              <button class="clear-results-btn" onclick="clearQuizResultInline('${currentStudentName}', '${result.quizFile}', '${result.timestamp}'); refreshResultsDisplay();" style="padding: 5px 10px; background-color: #dc3545; color: white; border: none; border-radius: 3px; cursor: pointer; font-size: 12px;">Clear</button>
+            </div>
+          `;
+        });
+        
+        resultsHtml += '</div>';
+      }
+      
+      // Update the results section in the existing HTML
+      const existingContent = resultElement.innerHTML.split('<div style="margin-top: 20px; text-align: center;">')[0];
+      resultElement.innerHTML = existingContent + resultsHtml + '<div style="margin-top: 20px; text-align: center;"><button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Take Again</button><button id="endBtn" style="padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">End</button></div>';
     }
 
     // Name input validation
