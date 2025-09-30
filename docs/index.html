@@ -98,8 +98,8 @@
       try {
         // For GitHub Pages, use the repo's API to list files (replace 'YOUR_USERNAME' and 'YOUR_REPONAME' with actual values)
         // If not on GitHub Pages, this falls back to manual file listing or you can adjust
-        const username = 'YOUR_USERNAME'; // TODO: Replace with your GitHub username
-        const reponame = 'YOUR_REPONAME'; // TODO: Replace with your repo name (e.g., 'popquiz')
+        const username = 'ethanpost'; // TODO: Replace with your GitHub username
+        const reponame = 'quizk.ing'; // TODO: Replace with your repo name (e.g., 'popquiz')
         const branch = 'main'; // or 'gh-pages' if using that branch
         const response = await fetch(`https://api.github.com/repos/${username}/${reponame}/contents/?ref=${branch}`);
         if (!response.ok) throw new Error('Failed to fetch file list');
