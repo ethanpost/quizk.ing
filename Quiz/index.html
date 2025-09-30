@@ -517,10 +517,17 @@
       const results = getQuizResults(currentStudentName);
       let resultsHtml = '';
       
+      // Build the complete page HTML
+      resultsHtml = `
+        <h2>Quiz Complete!</h2>
+        <p><strong>${currentStudentName}</strong>, you scored ${score} out of ${quizData.length} (${Math.round((score / quizData.length) * 100)}%)</p>
+        <p>Your results have been saved.</p>
+      `;
+      
       if (results.length > 0) {
         const sortedResults = [...results].sort((a, b) => b.timestamp - a.timestamp);
         
-        resultsHtml = `
+        resultsHtml += `
           <div id="previousResults" style="background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; padding: 15px; margin: 20px 0;">
             <h3 style="margin-top: 0; color: #333;">Your Last 5 Results</h3>
         `;
@@ -545,24 +552,19 @@
         
         resultsHtml += '</div>';
       }
-
-      // Find the existing results section and replace it, or remove it if no results
-      const existingResults = document.getElementById('previousResults');
-      if (existingResults) {
-        if (results.length > 0) {
-          existingResults.outerHTML = resultsHtml;
-        } else {
-          existingResults.remove();
-        }
-      } else if (results.length > 0) {
-        // If no existing results section but we have results, insert before the buttons
-        const buttonsDiv = resultElement.querySelector('div[style*="text-align: center"]');
-        if (buttonsDiv) {
-          buttonsDiv.insertAdjacentHTML('beforebegin', resultsHtml);
-        }
-      }
-
-      // Re-add event listeners for the buttons since we might have removed them
+      
+      // Add the buttons
+      resultsHtml += `
+        <div style="margin-top: 20px; text-align: center;">
+          <button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Take Again</button>
+          <button id="endBtn" style="padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">End</button>
+        </div>
+      `;
+      
+      // Replace the entire content
+      resultElement.innerHTML = resultsHtml;
+      
+      // Add event listeners for the buttons
       document.getElementById('takeAgainBtn').addEventListener('click', () => {
         currentQuestion = 0;
         score = 0;
