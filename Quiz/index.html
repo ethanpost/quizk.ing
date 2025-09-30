@@ -404,7 +404,10 @@
         score = 0;
         currentQuizFile = file;
         
-        // Hide previous results when starting quiz
+        // Hide quiz selection elements when starting quiz
+        quizSearch.classList.add("hidden");
+        quizGrid.classList.add("hidden");
+        quizGrid.style.display = 'none';
         previousResultsElement.classList.add("hidden");
         
         quizContainer.classList.remove("hidden");
