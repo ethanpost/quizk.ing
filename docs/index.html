@@ -113,9 +113,19 @@
     // Optional fallback function if API fails
     async function fetchQuizzesFromJson() {
       try {
-        const response = await fetch(`quizzes.json?t=${Date.now()}`);
+        // Clear existing options first
+        quizSelector.innerHTML = '<option value="">Select a Quiz</option>';
+        
+        const response = await fetch(`quizzes.json?t=${Date.now()}&v=${Math.random()}`, {
+          cache: 'no-cache',
+          headers: {
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache'
+          }
+        });
         if (!response.ok) throw new Error('Failed to load quiz list');
         const jsonList = await response.json();
+        console.log('Loaded quiz list:', jsonList);
         jsonList.forEach(quiz => {
           const option = document.createElement("option");
           option.value = quiz.file;
