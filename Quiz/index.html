@@ -427,7 +427,14 @@
       
       const percentage = Math.round((score / quizData.length) * 100);
       
-      // Get previous results
+      // First, show the current quiz result
+      resultElement.innerHTML = `
+        <h2>Quiz Complete!</h2>
+        <p><strong>${currentStudentName}</strong>, you scored ${score} out of ${quizData.length} (${percentage}%)</p>
+        <p>Your results have been saved.</p>
+      `;
+
+      // Then add the results section if there are any
       const results = getQuizResults(currentStudentName);
       let resultsHtml = '';
       
@@ -463,10 +470,8 @@
         resultsHtml += '</div>';
       }
       
-      resultElement.innerHTML = `
-        <h2>Quiz Complete!</h2>
-        <p><strong>${currentStudentName}</strong>, you scored ${score} out of ${quizData.length} (${percentage}%)</p>
-        <p>Your results have been saved.</p>
+      // Add the results and buttons
+      resultElement.innerHTML += `
         ${resultsHtml}
         <div style="margin-top: 20px; text-align: center;">
           <button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Take Again</button>
@@ -509,8 +514,6 @@
 
     // Function to refresh just the results display
     function refreshResultsDisplay() {
-      // Re-render just the results section
-      const percentage = Math.round((score / quizData.length) * 100);
       const results = getQuizResults(currentStudentName);
       let resultsHtml = '';
       
@@ -542,10 +545,39 @@
         
         resultsHtml += '</div>';
       }
+
+      // Find the existing results section and replace it, or remove it if no results
+      const existingResults = document.getElementById('previousResults');
+      if (existingResults) {
+        if (results.length > 0) {
+          existingResults.outerHTML = resultsHtml;
+        } else {
+          existingResults.remove();
+        }
+      } else if (results.length > 0) {
+        // If no existing results section but we have results, insert before the buttons
+        const buttonsDiv = resultElement.querySelector('div[style*="text-align: center"]');
+        if (buttonsDiv) {
+          buttonsDiv.insertAdjacentHTML('beforebegin', resultsHtml);
+        }
+      }
+
+      // Re-add event listeners for the buttons since we might have removed them
+      document.getElementById('takeAgainBtn').addEventListener('click', () => {
+        currentQuestion = 0;
+        score = 0;
+        loadQuiz(currentQuizFile);
+      });
       
-      // Update the results section in the existing HTML
-      const existingContent = resultElement.innerHTML.split('<div style="margin-top: 20px; text-align: center;">')[0];
-      resultElement.innerHTML = existingContent + resultsHtml + '<div style="margin-top: 20px; text-align: center;"><button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Take Again</button><button id="endBtn" style="padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">End</button></div>';
+      document.getElementById('endBtn').addEventListener('click', () => {
+        quizContainer.classList.add("hidden");
+        resultElement.classList.add("hidden");
+        quizSelector.value = "";
+        quizSelector.classList.add("hidden");
+        nameSection.classList.remove("hidden");
+        studentNameInput.value = currentStudentName;
+        startQuizButton.disabled = false;
+      });
     }
 
     // Name input validation
