@@ -118,10 +118,8 @@
         });
       } catch (error) {
         console.error('Error auto-detecting quizzes:', error);
-        // Fallback: Manually define or show error
-        quizSelector.innerHTML = '<option value="">Error: Set GitHub credentials or add quizzes.json manually</option>';
-        // Alternative fallback: if you want to keep quizzes.json as backup, uncomment below
-        // await fetchQuizzesFromJson();
+        // Fallback: Use quizzes.json file
+        await fetchQuizzesFromJson();
       }
     }
 
