@@ -79,14 +79,80 @@
     .hidden {
       display: none;
     }
+    #nameSection {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #studentName {
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      margin-right: 10px;
+      width: 200px;
+      font-size: 16px;
+    }
+    #startQuiz {
+      padding: 10px 20px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    #startQuiz:hover:not(:disabled) {
+      background-color: #218838;
+    }
+    #startQuiz:disabled {
+      background-color: #6c757d;
+      cursor: not-allowed;
+    }
+    #previousResults {
+      background-color: #f8f9fa;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    #previousResults h3 {
+      margin-top: 0;
+      color: #333;
+    }
+    .result-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 5px 0;
+      border-bottom: 1px solid #eee;
+    }
+    .result-item:last-child {
+      border-bottom: none;
+    }
+    .clear-results-btn {
+      padding: 5px 10px;
+      background-color: #dc3545;
+      color: white;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .clear-results-btn:hover {
+      background-color: #c82333;
+    }
   </style>
 </head>
 <body>
   <div class="quiz-container">
     <h1>Quizk.ing</h1>
-    <select id="quizSelector">
+    <div id="nameSection">
+      <input type="text" id="studentName" placeholder="Enter your name" maxlength="50">
+      <button id="startQuiz" disabled>Start Quiz</button>
+    </div>
+    <select id="quizSelector" class="hidden">
       <option value="">Select a Quiz</option>
     </select>
+    <div id="previousResults" class="hidden"></div>
     <div id="quiz" class="hidden">
       <div class="question-counter" id="questionCounter"></div>
       <div class="question" id="question"></div>
@@ -101,14 +167,74 @@
     let quizData = [];
     let currentQuestion = 0;
     let score = 0;
+    let currentStudentName = "";
+    let currentQuizFile = "";
 
+    const studentNameInput = document.getElementById("studentName");
+    const startQuizButton = document.getElementById("startQuiz");
+    const nameSection = document.getElementById("nameSection");
     const quizSelector = document.getElementById("quizSelector");
+    const previousResultsElement = document.getElementById("previousResults");
     const questionElement = document.getElementById("question");
     const questionCounterElement = document.getElementById("questionCounter");
     const optionsElement = document.getElementById("options");
     const nextButton = document.getElementById("next");
     const resultElement = document.getElementById("result");
     const quizContainer = document.getElementById("quiz");
+
+    // Local storage functions
+    function saveQuizResult(studentName, quizFile, score, totalQuestions) {
+      const key = `quiz_results_${studentName}`;
+      let results = JSON.parse(localStorage.getItem(key) || '{}');
+      results[quizFile] = {
+        score: score,
+        totalQuestions: totalQuestions,
+        percentage: Math.round((score / totalQuestions) * 100),
+        date: new Date().toLocaleDateString()
+      };
+      localStorage.setItem(key, JSON.stringify(results));
+    }
+
+    function getQuizResults(studentName) {
+      const key = `quiz_results_${studentName}`;
+      return JSON.parse(localStorage.getItem(key) || '{}');
+    }
+
+    function clearQuizResults(studentName, quizFile) {
+      const key = `quiz_results_${studentName}`;
+      let results = JSON.parse(localStorage.getItem(key) || '{}');
+      delete results[quizFile];
+      localStorage.setItem(key, JSON.stringify(results));
+      displayPreviousResults(studentName, quizFile);
+    }
+
+    function displayPreviousResults(studentName, quizFile) {
+      const results = getQuizResults(studentName);
+      if (Object.keys(results).length === 0) {
+        previousResultsElement.classList.add("hidden");
+        return;
+      }
+
+      previousResultsElement.classList.remove("hidden");
+      previousResultsElement.innerHTML = '<h3>Previous Results</h3>';
+      
+      Object.entries(results).forEach(([file, result]) => {
+        const resultItem = document.createElement("div");
+        resultItem.className = "result-item";
+        
+        const quizName = quizList.find(q => q.file === file)?.name || file;
+        const isCurrentQuiz = file === quizFile;
+        
+        resultItem.innerHTML = `
+          <span style="font-weight: ${isCurrentQuiz ? 'bold' : 'normal'}">
+            ${quizName}: ${result.score}/${result.totalQuestions} (${result.percentage}%) - ${result.date}
+          </span>
+          <button class="clear-results-btn" onclick="clearQuizResults('${studentName}', '${file}')">Clear</button>
+        `;
+        
+        previousResultsElement.appendChild(resultItem);
+      });
+    }
 
     async function populateQuizSelector() {
       // Use quizzes.json file directly
@@ -131,6 +257,7 @@
         if (!response.ok) throw new Error('Failed to load quiz list');
         const jsonList = await response.json();
         console.log('Loaded quiz list:', jsonList);
+        quizList = jsonList; // Store quiz list for later use
         jsonList.forEach(quiz => {
           const option = document.createElement("option");
           option.value = quiz.file;
@@ -149,6 +276,11 @@
         quizData = await response.json();
         currentQuestion = 0;
         score = 0;
+        currentQuizFile = file;
+        
+        // Show previous results for this student and quiz
+        displayPreviousResults(currentStudentName, file);
+        
         quizContainer.classList.remove("hidden");
         resultElement.classList.add("hidden");
         loadQuestion();
@@ -209,11 +341,40 @@
     }
 
     function showResult() {
+      // Save the result to local storage
+      saveQuizResult(currentStudentName, currentQuizFile, score, quizData.length);
+      
       quizContainer.classList.add("hidden");
       resultElement.classList.remove("hidden");
-      resultElement.textContent = `You scored ${score} out of ${quizData.length}!`;
-      quizSelector.value = "";
+      
+      const percentage = Math.round((score / quizData.length) * 100);
+      resultElement.innerHTML = `
+        <h2>Quiz Complete!</h2>
+        <p><strong>${currentStudentName}</strong>, you scored ${score} out of ${quizData.length} (${percentage}%)</p>
+        <p>Your results have been saved.</p>
+        <button onclick="location.reload()">Take Another Quiz</button>
+      `;
+      
+      // Update the previous results display
+      displayPreviousResults(currentStudentName, currentQuizFile);
     }
+
+    // Name input validation
+    studentNameInput.addEventListener("input", (e) => {
+      const name = e.target.value.trim();
+      startQuizButton.disabled = name.length === 0;
+    });
+
+    // Start quiz button
+    startQuizButton.addEventListener("click", () => {
+      const name = studentNameInput.value.trim();
+      if (name.length > 0) {
+        currentStudentName = name;
+        nameSection.classList.add("hidden");
+        quizSelector.classList.remove("hidden");
+        populateQuizSelector();
+      }
+    });
 
     quizSelector.addEventListener("change", (e) => {
       if (e.target.value) {
@@ -221,6 +382,7 @@
       } else {
         quizContainer.classList.add("hidden");
         resultElement.classList.add("hidden");
+        previousResultsElement.classList.add("hidden");
       }
     });
 
@@ -233,6 +395,7 @@
       }
     });
 
+    // Initialize on page load
     populateQuizSelector();
   </script>
 </body>
