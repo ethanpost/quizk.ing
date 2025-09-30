@@ -21,6 +21,10 @@
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       max-width: 1200px;
       width: 100%;
+      overflow: hidden;
+    }
+    .quiz-container.taking-quiz {
+      max-width: 800px;
     }
     h1 {
       text-align: center;
@@ -235,6 +239,7 @@
     const nextButton = document.getElementById("next");
     const resultElement = document.getElementById("result");
     const quizContainer = document.getElementById("quiz");
+    const mainContainer = document.querySelector(".quiz-container");
 
     // Local storage functions
     function saveQuizResult(studentName, quizFile, score, totalQuestions) {
@@ -405,10 +410,12 @@
         currentQuizFile = file;
         
         // Hide quiz selection elements when starting quiz
-        quizSearch.classList.add("hidden");
-        quizGrid.classList.add("hidden");
+        quizSearch.style.display = 'none';
         quizGrid.style.display = 'none';
         previousResultsElement.classList.add("hidden");
+        
+        // Add class to narrow container during quiz
+        mainContainer.classList.add("taking-quiz");
         
         quizContainer.classList.remove("hidden");
         resultElement.classList.add("hidden");
@@ -543,7 +550,7 @@
       resultElement.innerHTML += `
         ${resultsHtml}
         <div style="margin-top: 20px; text-align: center;">
-          <button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Take Again</button>
+          <button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Try Again</button>
           <button id="endBtn" style="padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">End</button>
         </div>
       `;
@@ -557,14 +564,16 @@
       });
       
       document.getElementById('endBtn').addEventListener('click', () => {
-        // Return to main page
+        // Return to quiz selection page
         quizContainer.classList.add("hidden");
         resultElement.classList.add("hidden");
-        quizSelector.value = "";
-        quizSelector.classList.add("hidden");
-        nameSection.classList.remove("hidden");
-        studentNameInput.value = currentStudentName;
-        startQuizButton.disabled = false;
+        mainContainer.classList.remove("taking-quiz");
+        
+        // Show quiz selection again
+        quizSearch.style.display = 'block';
+        quizGrid.style.display = 'grid';
+        searchInput.value = '';
+        filterQuizzes('');
       });
     }
 
@@ -625,7 +634,7 @@
       // Add the buttons
       resultsHtml += `
         <div style="margin-top: 20px; text-align: center;">
-          <button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Take Again</button>
+          <button id="takeAgainBtn" style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">Try Again</button>
           <button id="endBtn" style="padding: 10px 20px; background-color: #6c757d; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">End</button>
         </div>
       `;
@@ -641,13 +650,16 @@
       });
       
       document.getElementById('endBtn').addEventListener('click', () => {
+        // Return to quiz selection page
         quizContainer.classList.add("hidden");
         resultElement.classList.add("hidden");
-        quizSelector.value = "";
-        quizSelector.classList.add("hidden");
-        nameSection.classList.remove("hidden");
-        studentNameInput.value = currentStudentName;
-        startQuizButton.disabled = false;
+        mainContainer.classList.remove("taking-quiz");
+        
+        // Show quiz selection again
+        quizSearch.style.display = 'block';
+        quizGrid.style.display = 'grid';
+        searchInput.value = '';
+        filterQuizzes('');
       });
     }
 
