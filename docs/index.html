@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quizk.ing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .quiz-container {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      max-width: 800px;
+      width: 100%;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .question-counter {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+      margin-bottom: 10px;
+      font-weight: bold;
+      background-color: #f8f9fa;
+      padding: 5px;
+      border-radius: 3px;
+    }
+    .question {
+      margin-bottom: 20px;
+    }
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    select, button {
+      padding: 10px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+    select {
+      display: block;
+      margin: 20px auto;
+      width: 350px;
+    }
+    select:hover, button:hover {
+      background-color: #0056b3;
+    }
+    .option {
+      padding: 10px;
+      background-color: #f8f9fa;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .option:hover {
+      background-color: #e9ecef;
+    }
+    .result {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 1.2em;
+    }
+    .result-details {
+      background-color: #f8f9fa;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    .result-title {
+      font-size: 1.5em;
+      font-weight: bold;
+      color: #28a745;
+      margin-bottom: 15px;
+    }
+    .result-score {
+      font-size: 1.3em;
+      margin-bottom: 10px;
+    }
+    .result-date {
+      font-size: 0.9em;
+      color: #666;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Quizk.ing</h1>
+    <select id="quizSelector">
+      <option value="">Select a Quiz</option>
+    </select>
+    <div id="quiz" class="hidden">
+      <div class="question-counter" id="questionCounter"></div>
+      <div class="question" id="question"></div>
+      <div class="options" id="options"></div>
+      <button id="next" class="hidden">Next Question</button>
+    </div>
+    <div class="result hidden" id="result"></div>
+  </div>
+
+  <script>
+    let quizList = [];
+    let quizData = [];
+    let currentQuestion = 0;
+    let score = 0;
+    let currentQuizName = '';
+
+    const quizSelector = document.getElementById("quizSelector");
+    const questionElement = document.getElementById("question");
+    const questionCounterElement = document.getElementById("questionCounter");
+    const optionsElement = document.getElementById("options");
+    const nextButton = document.getElementById("next");
+    const resultElement = document.getElementById("result");
+    const quizContainer = document.getElementById("quiz");
+
+    async function populateQuizSelector() {
+      // Use quizzes.json file directly
+      await fetchQuizzesFromJson();
+    }
+
+    // Optional fallback function if API fails
+    async function fetchQuizzesFromJson() {
+      try {
+        // Clear existing options first
+        quizSelector.innerHTML = '<option value="">Select a Quiz</option>';
+        
+        const response = await fetch(`quizzes.json?t=${Date.now()}&v=${Math.random()}`, {
+          cache: 'no-cache',
+          headers: {
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache'
+          }
+        });
+        if (!response.ok) throw new Error('Failed to load quiz list');
+        const jsonList = await response.json();
+        console.log('Loaded quiz list:', jsonList);
+        jsonList.forEach(quiz => {
+          const option = document.createElement("option");
+          option.value = quiz.file;
+          option.textContent = quiz.name;
+          quizSelector.appendChild(option);
+        });
+      } catch (e) {
+        console.error('Fallback failed:', e);
+      }
+    }
+
+    async function loadQuiz(file) {
+      try {
+        const response = await fetch(`${file}?t=${Date.now()}`);
+        if (!response.ok) throw new Error("Failed to load quiz");
+        quizData = await response.json();
+        currentQuestion = 0;
+        score = 0;
+        
+        // Get the quiz name from the selector
+        const selectedOption = quizSelector.options[quizSelector.selectedIndex];
+        currentQuizName = selectedOption.textContent;
+        
+        quizContainer.classList.remove("hidden");
+        resultElement.classList.add("hidden");
+        loadQuestion();
+      } catch (error) {
+        resultElement.classList.remove("hidden");
+        resultElement.textContent = "Error loading quiz. Please try another.";
+      }
+    }
+
+    function loadQuestion() {
+      const currentQuiz = quizData[currentQuestion];
+      console.log('Loading question:', currentQuestion + 1, 'of', quizData.length);
+      questionCounterElement.textContent = `Question ${currentQuestion + 1} of ${quizData.length}`;
+      questionElement.textContent = currentQuiz.question;
+      optionsElement.innerHTML = "";
+      currentQuiz.options.forEach(option => {
+        const optionElement = document.createElement("div");
+        optionElement.classList.add("option");
+        optionElement.textContent = option;
+        optionElement.addEventListener("click", () => selectOption(option));
+        optionsElement.appendChild(optionElement);
+      });
+      nextButton.classList.add("hidden");
+    }
+
+    function selectOption(selected) {
+      const currentQuiz = quizData[currentQuestion];
+      if (selected === currentQuiz.answer) {
+        score++;
+        // Show correct answer briefly, then auto-advance
+        optionsElement.querySelectorAll(".option").forEach(opt => {
+          opt.style.pointerEvents = "none";
+          if (opt.textContent === currentQuiz.answer) {
+            opt.style.backgroundColor = "#28a745";
+          }
+        });
+        // Auto-advance after a short delay
+        setTimeout(() => {
+          currentQuestion++;
+          if (currentQuestion < quizData.length) {
+            loadQuestion();
+          } else {
+            showResult();
+          }
+        }, 1000);
+      } else {
+        // Show incorrect answer and next button
+        optionsElement.querySelectorAll(".option").forEach(opt => {
+          opt.style.pointerEvents = "none";
+          if (opt.textContent === currentQuiz.answer) {
+            opt.style.backgroundColor = "#28a745";
+          } else if (opt.textContent === selected && selected !== currentQuiz.answer) {
+            opt.style.backgroundColor = "#dc3545";
+          }
+        });
+        nextButton.classList.remove("hidden");
+      }
+    }
+
+    function showResult() {
+      quizContainer.classList.add("hidden");
+      resultElement.classList.remove("hidden");
+      
+      const now = new Date();
+      const dateTime = now.toLocaleString();
+      const percentage = Math.round((score / quizData.length) * 100);
+      
+      resultElement.innerHTML = `
+        <div class="result-details">
+          <div class="result-title">Quiz Completed!</div>
+          <div class="result-score">${currentQuizName}</div>
+          <div class="result-score">Score: ${score} out of ${quizData.length} (${percentage}%)</div>
+          <div class="result-date">Completed on: ${dateTime}</div>
+        </div>
+      `;
+      
+      quizSelector.value = "";
+    }
+
+    quizSelector.addEventListener("change", (e) => {
+      if (e.target.value) {
+        loadQuiz(e.target.value);
+      } else {
+        quizContainer.classList.add("hidden");
+        resultElement.classList.add("hidden");
+      }
+    });
+
+    nextButton.addEventListener("click", () => {
+      currentQuestion++;
+      if (currentQuestion < quizData.length) {
+        loadQuestion();
+      } else {
+        showResult();
+      }
+    });
+
+    populateQuizSelector();
+  </script>
+</body>
+</html>
