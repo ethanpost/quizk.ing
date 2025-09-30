@@ -564,16 +564,20 @@
       });
       
       document.getElementById('endBtn').addEventListener('click', () => {
-        // Return to quiz selection page
+        // Return to main page (name entry)
         quizContainer.classList.add("hidden");
         resultElement.classList.add("hidden");
         mainContainer.classList.remove("taking-quiz");
         
-        // Show quiz selection again
-        quizSearch.style.display = 'block';
-        quizGrid.style.display = 'grid';
-        searchInput.value = '';
-        filterQuizzes('');
+        // Hide quiz selection
+        quizSearch.style.display = 'none';
+        quizGrid.style.display = 'none';
+        previousResultsElement.classList.add("hidden");
+        
+        // Show name section
+        nameSection.classList.remove("hidden");
+        studentNameInput.value = currentStudentName;
+        startQuizButton.disabled = false;
       });
     }
 
@@ -650,16 +654,20 @@
       });
       
       document.getElementById('endBtn').addEventListener('click', () => {
-        // Return to quiz selection page
+        // Return to main page (name entry)
         quizContainer.classList.add("hidden");
         resultElement.classList.add("hidden");
         mainContainer.classList.remove("taking-quiz");
         
-        // Show quiz selection again
-        quizSearch.style.display = 'block';
-        quizGrid.style.display = 'grid';
-        searchInput.value = '';
-        filterQuizzes('');
+        // Hide quiz selection
+        quizSearch.style.display = 'none';
+        quizGrid.style.display = 'none';
+        previousResultsElement.classList.add("hidden");
+        
+        // Show name section
+        nameSection.classList.remove("hidden");
+        studentNameInput.value = currentStudentName;
+        startQuizButton.disabled = false;
       });
     }
 
