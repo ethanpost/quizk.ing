@@ -60,6 +60,12 @@
       margin: 20px auto;
       width: 100%;
       max-width: 600px;
+      opacity: 1;
+      transition: opacity 0.3s ease;
+    }
+    #quizSearch.hidden {
+      opacity: 0;
+      pointer-events: none;
     }
     #searchInput {
       width: 100%;
@@ -68,6 +74,7 @@
       border: 2px solid #ddd;
       border-radius: 5px;
       margin-bottom: 20px;
+      transition: border-color 0.3s ease;
     }
     #searchInput:focus {
       outline: none;
@@ -80,6 +87,14 @@
       padding: 20px;
       max-width: 1200px;
       margin: 0 auto;
+      opacity: 1;
+      transform: translateY(0);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+    #quizGrid.hidden {
+      opacity: 0;
+      transform: translateY(20px);
+      pointer-events: none;
     }
     .quiz-item {
       background-color: #f8f9fa;
@@ -644,14 +659,22 @@
     });
 
     // Start quiz button
-    startQuizButton.addEventListener("click", () => {
+    startQuizButton.addEventListener("click", async () => {
       const name = studentNameInput.value.trim();
       if (name.length > 0) {
         currentStudentName = name;
         nameSection.classList.add("hidden");
+        
+        // Show search box first
         quizSearch.classList.remove("hidden");
+        searchInput.value = ''; // Clear any previous search
+        searchInput.focus(); // Focus the search input
+        
+        // Load and display quizzes
+        await fetchQuizzesFromJson();
         quizGrid.classList.remove("hidden");
-        populateQuizSelector();
+        
+        // Show previous results if any
         displayPreviousResults(name);
       }
     });
@@ -669,8 +692,7 @@
       }
     });
 
-    // Initialize on page load
-    populateQuizSelector();
+    // No longer initialize on page load - wait for name entry
   </script>
 </body>
 </html>
