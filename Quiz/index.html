@@ -185,51 +185,65 @@
     // Local storage functions
     function saveQuizResult(studentName, quizFile, score, totalQuestions) {
       const key = `quiz_results_${studentName}`;
-      let results = JSON.parse(localStorage.getItem(key) || '{}');
-      results[quizFile] = {
+      let results = JSON.parse(localStorage.getItem(key) || '[]');
+      
+      // Add new result
+      const newResult = {
+        quizFile: quizFile,
         score: score,
         totalQuestions: totalQuestions,
         percentage: Math.round((score / totalQuestions) * 100),
-        date: new Date().toLocaleDateString()
+        date: new Date().toLocaleDateString(),
+        timestamp: Date.now()
       };
+      
+      results.push(newResult);
+      
+      // Keep only the last 5 results
+      if (results.length > 5) {
+        results = results.slice(-5);
+      }
+      
       localStorage.setItem(key, JSON.stringify(results));
     }
 
     function getQuizResults(studentName) {
       const key = `quiz_results_${studentName}`;
-      return JSON.parse(localStorage.getItem(key) || '{}');
+      return JSON.parse(localStorage.getItem(key) || '[]');
     }
 
     function clearQuizResults(studentName, quizFile) {
       const key = `quiz_results_${studentName}`;
-      let results = JSON.parse(localStorage.getItem(key) || '{}');
-      delete results[quizFile];
+      let results = JSON.parse(localStorage.getItem(key) || '[]');
+      results = results.filter(result => result.quizFile !== quizFile);
       localStorage.setItem(key, JSON.stringify(results));
-      displayPreviousResults(studentName, quizFile);
+      displayPreviousResults(studentName);
     }
 
-    function displayPreviousResults(studentName, quizFile) {
+    function displayPreviousResults(studentName) {
       const results = getQuizResults(studentName);
-      if (Object.keys(results).length === 0) {
+      if (results.length === 0) {
         previousResultsElement.classList.add("hidden");
         return;
       }
 
       previousResultsElement.classList.remove("hidden");
-      previousResultsElement.innerHTML = '<h3>Previous Results</h3>';
+      previousResultsElement.innerHTML = '<h3>Your Last 5 Results</h3>';
       
-      Object.entries(results).forEach(([file, result]) => {
+      // Sort by timestamp (most recent first)
+      const sortedResults = results.sort((a, b) => b.timestamp - a.timestamp);
+      
+      sortedResults.forEach((result) => {
         const resultItem = document.createElement("div");
         resultItem.className = "result-item";
         
-        const quizName = quizList.find(q => q.file === file)?.name || file;
-        const isCurrentQuiz = file === quizFile;
+        const quizName = quizList.find(q => q.file === result.quizFile)?.name || result.quizFile;
         
         resultItem.innerHTML = `
-          <span style="font-weight: ${isCurrentQuiz ? 'bold' : 'normal'}">
+          <span>
             ${quizName}: ${result.score}/${result.totalQuestions} (${result.percentage}%) - ${result.date}
           </span>
-          <button class="clear-results-btn" onclick="clearQuizResults('${studentName}', '${file}')">Clear</button>
+          <button class="clear-results-btn" onclick="clearQuizResults('${studentName}', '${result.quizFile}')">Clear</button>
         `;
         
         previousResultsElement.appendChild(resultItem);
@@ -278,8 +292,8 @@
         score = 0;
         currentQuizFile = file;
         
-        // Show previous results for this student and quiz
-        displayPreviousResults(currentStudentName, file);
+        // Hide previous results when starting quiz
+        previousResultsElement.classList.add("hidden");
         
         quizContainer.classList.remove("hidden");
         resultElement.classList.add("hidden");
@@ -355,8 +369,8 @@
         <button onclick="location.reload()">Take Another Quiz</button>
       `;
       
-      // Update the previous results display
-      displayPreviousResults(currentStudentName, currentQuizFile);
+      // Show the last 5 results at the end
+      displayPreviousResults(currentStudentName);
     }
 
     // Name input validation
