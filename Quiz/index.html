@@ -19,7 +19,7 @@
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      max-width: 800px;
+      max-width: 1200px;
       width: 100%;
     }
     h1 {
@@ -44,7 +44,7 @@
       flex-direction: column;
       gap: 10px;
     }
-    select, button {
+    button {
       padding: 10px;
       background-color: #007bff;
       color: white;
@@ -53,13 +53,51 @@
       cursor: pointer;
       margin-bottom: 20px;
     }
-    select {
-      display: block;
-      margin: 20px auto;
-      width: 350px;
-    }
-    select:hover, button:hover {
+    button:hover {
       background-color: #0056b3;
+    }
+    #quizSearch {
+      margin: 20px auto;
+      width: 100%;
+      max-width: 600px;
+    }
+    #searchInput {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      border: 2px solid #ddd;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+    #searchInput:focus {
+      outline: none;
+      border-color: #007bff;
+    }
+    #quizGrid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      padding: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .quiz-item {
+      background-color: #f8f9fa;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .quiz-item:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      background-color: #e9ecef;
+    }
+    .quiz-item h3 {
+      margin: 0;
+      color: #333;
+      font-size: 1.1em;
     }
     .option {
       padding: 10px;
@@ -149,9 +187,12 @@
       <input type="text" id="studentName" placeholder="Enter your name" maxlength="50">
       <button id="startQuiz" disabled>Start Quiz</button>
     </div>
-    <select id="quizSelector" class="hidden">
-      <option value="">Select a Quiz</option>
-    </select>
+    <div id="quizSearch" class="hidden">
+      <input type="text" id="searchInput" placeholder="Search quizzes..." maxlength="50">
+    </div>
+    <div id="quizGrid" class="hidden">
+      <!-- Quiz items will be populated here -->
+    </div>
     <div id="previousResults" class="hidden"></div>
     <div id="quiz" class="hidden">
       <div class="question-counter" id="questionCounter"></div>
@@ -173,7 +214,9 @@
     const studentNameInput = document.getElementById("studentName");
     const startQuizButton = document.getElementById("startQuiz");
     const nameSection = document.getElementById("nameSection");
-    const quizSelector = document.getElementById("quizSelector");
+    const quizSearch = document.getElementById("quizSearch");
+    const searchInput = document.getElementById("searchInput");
+    const quizGrid = document.getElementById("quizGrid");
     const previousResultsElement = document.getElementById("previousResults");
     const questionElement = document.getElementById("question");
     const questionCounterElement = document.getElementById("questionCounter");
@@ -302,12 +345,28 @@
       await fetchQuizzesFromJson();
     }
 
+    function filterQuizzes(searchTerm) {
+      const term = searchTerm.toLowerCase();
+      const filteredQuizzes = quizList.filter(quiz => 
+        quiz.name.toLowerCase().includes(term)
+      );
+      displayQuizzes(filteredQuizzes);
+    }
+
+    function displayQuizzes(quizzes) {
+      quizGrid.innerHTML = '';
+      quizzes.forEach(quiz => {
+        const quizItem = document.createElement("div");
+        quizItem.className = "quiz-item";
+        quizItem.innerHTML = `<h3>${quiz.name}</h3>`;
+        quizItem.addEventListener("click", () => loadQuiz(quiz.file));
+        quizGrid.appendChild(quizItem);
+      });
+    }
+
     // Optional fallback function if API fails
     async function fetchQuizzesFromJson() {
       try {
-        // Clear existing options first
-        quizSelector.innerHTML = '<option value="">Select a Quiz</option>';
-        
         const response = await fetch(`quizzes.json?t=${Date.now()}&v=${Math.random()}`, {
           cache: 'no-cache',
           headers: {
@@ -319,12 +378,7 @@
         const jsonList = await response.json();
         console.log('Loaded quiz list:', jsonList);
         quizList = jsonList; // Store quiz list for later use
-        jsonList.forEach(quiz => {
-          const option = document.createElement("option");
-          option.value = quiz.file;
-          option.textContent = quiz.name;
-          quizSelector.appendChild(option);
-        });
+        displayQuizzes(jsonList);
       } catch (e) {
         console.error('Fallback failed:', e);
       }
@@ -595,19 +649,15 @@
       if (name.length > 0) {
         currentStudentName = name;
         nameSection.classList.add("hidden");
-        quizSelector.classList.remove("hidden");
+        quizSearch.classList.remove("hidden");
+        quizGrid.classList.remove("hidden");
         populateQuizSelector();
+        displayPreviousResults(name);
       }
     });
 
-    quizSelector.addEventListener("change", (e) => {
-      if (e.target.value) {
-        loadQuiz(e.target.value);
-      } else {
-        quizContainer.classList.add("hidden");
-        resultElement.classList.add("hidden");
-        previousResultsElement.classList.add("hidden");
-      }
+    searchInput.addEventListener("input", (e) => {
+      filterQuizzes(e.target.value);
     });
 
     nextButton.addEventListener("click", () => {
