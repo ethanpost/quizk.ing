@@ -843,7 +843,33 @@
       }
     });
 
-    // No longer initialize on page load - wait for name entry
+    // Initialize on page load - check for URL parameters
+    async function initializePage() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const searchParam = urlParams.get('search');
+      
+      if (searchParam) {
+        // Auto-login with anonymous and apply search
+        currentStudentName = 'anonymous';
+        nameSection.classList.add("hidden");
+        
+        // Load and display quizzes
+        await fetchQuizzesFromJson();
+        
+        // Show search box and grid
+        quizSearch.classList.remove("hidden");
+        quizGrid.classList.remove("hidden");
+        
+        // Set search value and filter
+        searchInput.value = searchParam;
+        filterQuizzes(searchParam);
+        searchInput.focus();
+      }
+      // Otherwise, wait for manual name entry
+    }
+
+    // Run initialization
+    initializePage();
   </script>
 </body>
 </html>
