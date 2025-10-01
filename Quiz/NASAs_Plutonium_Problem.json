@@ -1,0 +1,108 @@
+[
+  {
+    "question": "What is the current annual production rate of plutonium-238 in the United States?",
+    "options": ["550 grams", "4.8 kilograms", "50 grams", "1.5 kilograms"],
+    "answer": "550 grams"
+  },
+  {
+    "question": "What characteristic makes plutonium-238 different from weapons-grade plutonium-239?",
+    "options": ["It sustains chain reactions", "It has a much shorter half-life", "It has one more neutron", "It has one fewer neutron"],
+    "answer": "It has one fewer neutron"
+  },
+  {
+    "question": "How long is the half-life of plutonium-238?",
+    "options": ["138 days", "18 years", "75 years", "88 years"],
+    "answer": "88 years"
+  },
+  {
+    "question": "Which mission was forced to use solar panels instead of plutonium-238 due to the shortage?",
+    "options": ["Europa Clipper", "Voyager", "Perseverance", "Dragonfly"],
+    "answer": "Europa Clipper"
+  },
+  {
+    "question": "What type of radiation does plutonium-238 primarily emit that makes it suitable for space missions?",
+    "options": ["Neutron radiation", "Gamma rays", "Alpha particles", "Beta particles"],
+    "answer": "Alpha particles"
+  },
+  {
+    "question": "When did the United States stop producing weapons-grade plutonium, which affected plutonium-238 availability?",
+    "options": ["2015", "2010", "1967", "1988"],
+    "answer": "1988"
+  },
+  {
+    "question": "What is the targeted annual production goal for plutonium-238 in the U.S.?",
+    "options": ["400 kilograms", "4.8 kilograms", "550 grams", "1.5 kilograms"],
+    "answer": "1.5 kilograms"
+  },
+  {
+    "question": "How much plutonium-238 does the Dragonfly mission require?",
+    "options": ["4.8 kilograms", "10 kilograms", "550 grams", "1.5 kilograms"],
+    "answer": "4.8 kilograms"
+  },
+  {
+    "question": "What element is used as the source material to produce plutonium-238?",
+    "options": ["Thorium", "Curium", "Uranium", "Neptunium"],
+    "answer": "Neptunium"
+  },
+  {
+    "question": "What is the efficiency of traditional radioisotope thermoelectric generators?",
+    "options": ["30%", "15-20%", "1-2%", "6-7%"],
+    "answer": "6-7%"
+  },
+  {
+    "question": "What effect is used to convert heat from plutonium-238 into electricity in RTGs?",
+    "options": ["Piezoelectric effect", "Thermoacoustic effect", "Seebeck effect", "Peltier effect"],
+    "answer": "Seebeck effect"
+  },
+  {
+    "question": "What was the proposed efficiency of the canceled Advanced Stirling Radioisotope Generator?",
+    "options": ["50%", "6-7%", "15%", "30%"],
+    "answer": "30%"
+  },
+  {
+    "question": "When did NASA and the Department of Energy restart plutonium-238 production?",
+    "options": ["2015", "2020", "1988", "2010"],
+    "answer": "2015"
+  },
+  {
+    "question": "What is a key challenge in the production of plutonium-238 from neptunium?",
+    "options": ["85% of neptunium-238 is destroyed during production", "Risk of nuclear meltdown", "Extremely short half-life of neptunium", "Cost of neptunium"],
+    "answer": "85% of neptunium-238 is destroyed during production"
+  },
+  {
+    "question": "Which of the following missions did NOT use plutonium-238 as a power source?",
+    "options": ["Curiosity rover", "Hubble Space Telescope", "Apollo lunar surface experiments", "Voyager probes"],
+    "answer": "Hubble Space Telescope"
+  },
+  {
+    "question": "What is the acceptable half-life range for a nuclear fuel to be considered suitable for space missions?",
+    "options": ["15-100 years", "100-500 years", "Any half-life is acceptable", "1-10 years"],
+    "answer": "15-100 years"
+  },
+  {
+    "question": "What is the form of plutonium-238 used in spacecraft?",
+    "options": ["Liquid plutonium", "Gaseous plutonium", "Plutonium oxide ceramic pellets", "Pure plutonium metal"],
+    "answer": "Plutonium oxide ceramic pellets"
+  },
+  {
+    "question": "What material is used to encapsulate the plutonium oxide pellets in RTGs?",
+    "options": ["Lead", "Steel", "Iridium", "Titanium"],
+    "answer": "Iridium"
+  },
+  {
+    "question": "What is the primary reason polonium-210 is not suitable for most space missions despite its high power output?",
+    "options": ["It doesn't generate enough heat", "Its half-life is too short (138 days)", "It's too expensive to produce", "It's too radioactive for safe handling"],
+    "answer": "Its half-life is too short (138 days)"
+  },
+  {
+    "question": "How does the Stirling cycle operate to generate electricity from plutonium-238's heat?",
+    "options": ["By converting heat directly into electricity through semiconductor junctions", "By alternating compressing and expanding gas in a sealed system to drive a generator", "Through nuclear fission reactions that release electrons", "By using heat to create steam that turns turbines"],
+    "answer": "By alternating compressing and expanding gas in a sealed system to drive a generator"
+  },
+  {
+    "question": "Why did NASA cancel the Advanced Stirling Radioisotope Generator project in 2013?",
+    "options": ["The Stirling engine technology was proven ineffective in space conditions", "They found a better alternative power source", "Due to technical issues with the piston, underestimated costs, and budget constraints", "The project was deemed too risky for spacecraft safety"],
+    "answer": "Due to technical issues with the piston, underestimated costs, and budget constraints"
+  }
+]
+

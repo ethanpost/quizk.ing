@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the primary purpose of this week's assignment in the Fab Academy course?",
+    "options": [
+      "To design and document system integration for the final project",
+      "To complete the final project",
+      "To learn about 3D printing techniques",
+      "To practice soldering skills"
+    ],
+    "answer": "To design and document system integration for the final project"
+  },
+  {
+    "question": "According to the instructor, what distinguishes Apple's success from IBM's failure in the PC market?",
+    "options": [
+      "Apple had better processors",
+      "IBM had better marketing",
+      "Apple embraced design while IBM made commodity boxes",
+      "Apple had lower production costs"
+    ],
+    "answer": "Apple embraced design while IBM made commodity boxes"
+  },
+  {
+    "question": "What is the recommended approach to detailed design in the design process?",
+    "options": [
+      "Start with detailed design immediately",
+      "Focus only on aesthetics",
+      "Skip preliminary design entirely",
+      "Pass through conceptual and preliminary stages first"
+    ],
+    "answer": "Pass through conceptual and preliminary stages first"
+  },
+  {
+    "question": "Which manufacturing principle involves minimizing the number of processing steps?",
+    "options": [
+      "Modular design",
+      "Net shape",
+      "Fastener avoidance",
+      "Surface finishing"
+    ],
+    "answer": "Net shape"
+  },
+  {
+    "question": "What is the primary advantage of using flexures in mechanical design?",
+    "options": [
+      "They are easier to manufacture",
+      "They provide better aesthetics",
+      "They are self-aligning and don't need fasteners",
+      "They are cheaper than fasteners"
+    ],
+    "answer": "They are self-aligning and don't need fasteners"
+  },
+  {
+    "question": "What type of testing involves running a system continuously to detect time-dependent failures?",
+    "options": [
+      "Environmental testing",
+      "Shake testing",
+      "Fuzzing",
+      "Burn-in testing"
+    ],
+    "answer": "Burn-in testing"
+  },
+  {
+    "question": "What is the purpose of fuzzing as a testing technique?",
+    "options": [
+      "To test power consumption",
+      "To test system performance under load",
+      "To identify security vulnerabilities through random input",
+      "To verify mechanical stability"
+    ],
+    "answer": "To identify security vulnerabilities through random input"
+  },
+  {
+    "question": "In stress-strain relationships, what range should loads always remain within?",
+    "options": [
+      "Hysteresis range",
+      "Plastic deformation range",
+      "Elastic limit",
+      "Failure point"
+    ],
+    "answer": "Elastic limit"
+  },
+  {
+    "question": "What design feature helps prevent crack initiation at corners?",
+    "options": [
+      "Sharp edges",
+      "Fillets",
+      "Threaded connections",
+      "Adhesive bonding"
+    ],
+    "answer": "Fillets"
+  },
+  {
+    "question": "What was the primary cause of the Tacoma Narrows Bridge failure?",
+    "options": [
+      "Poor construction quality",
+      "Static overload",
+      "Material fatigue",
+      "Dynamic instability from wind resonance"
+    ],
+    "answer": "Dynamic instability from wind resonance"
+  },
+  {
+    "question": "What is a common failure mode when connectors are not properly polarized?",
+    "options": [
+      "Mechanical wear",
+      "Corrosion",
+      "Reverse polarity damage to components",
+      "Insulation breakdown"
+    ],
+    "answer": "Reverse polarity damage to components"
+  },
+  {
+    "question": "What is the purpose of a 100-ohm resistor in signal lines?",
+    "options": [
+      "To improve signal quality",
+      "To serve as a current limiter for misconnections",
+      "To increase signal strength",
+      "To reduce power consumption"
+    ],
+    "answer": "To serve as a current limiter for misconnections"
+  },
+  {
+    "question": "What type of failure can occur when wiring insulation breaks down?",
+    "options": [
+      "Signal interference",
+      "Short circuits",
+      "Arcing and fires",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the main cause of inductive flyback voltage spikes?",
+    "options": [
+      "EMI interference",
+      "Poor grounding",
+      "High current flow",
+      "Sudden interruption of current through an inductor"
+    ],
+    "answer": "Sudden interruption of current through an inductor"
+  },
+  {
+    "question": "What is the purpose of bypass capacitors in power systems?",
+    "options": [
+      "To increase voltage",
+      "To prevent power transients and brownouts",
+      "To reduce current consumption",
+      "To store energy"
+    ],
+    "answer": "To prevent power transients and brownouts"
+  },
+  {
+    "question": "What is a ground loop in electrical systems?",
+    "options": [
+      "A power distribution method",
+      "A safety feature",
+      "Unwanted current flow from multiple ground connections",
+      "A type of circuit protection"
+    ],
+    "answer": "Unwanted current flow from multiple ground connections"
+  },
+  {
+    "question": "What is the primary symptom of a memory leak in software?",
+    "options": [
+      "Better performance",
+      "System crashes immediately",
+      "Gradual loss of available memory over time",
+      "Increased processing speed"
+    ],
+    "answer": "Gradual loss of available memory over time"
+  },
+  {
+    "question": "What programming language is mentioned as preventing buffer overflows?",
+    "options": [
+      "Java",
+      "Python",
+      "C",
+      "Rust"
+    ],
+    "answer": "Rust"
+  },
+  {
+    "question": "What is a race condition in software?",
+    "options": [
+      "A programming competition",
+      "A type of memory error",
+      "When output depends on which thread finishes first",
+      "A security vulnerability"
+    ],
+    "answer": "When output depends on which thread finishes first"
+  },
+  {
+    "question": "What was the cause of the Mars Climate Orbiter failure?",
+    "options": [
+      "Unit conversion error between English and metric",
+      "Software bug",
+      "Power system failure",
+      "Communication loss"
+    ],
+    "answer": "Unit conversion error between English and metric"
+  }
+]

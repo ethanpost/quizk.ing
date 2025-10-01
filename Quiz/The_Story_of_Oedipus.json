@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What was the meaning of Oedipus's name?",
+    "options": [
+      "The one with swollen feet",
+      "The one with royal blood",
+      "The one who defeated the Sphinx",
+      "The one who solved the riddle"
+    ],
+    "answer": "The one with swollen feet"
+  },
+  {
+    "question": "Who rescued baby Oedipus from death on Mount Sitheron?",
+    "options": [
+      "King Polybus",
+      "A servant of King Laius",
+      "Tiresias the prophet",
+      "Queen Jocasta"
+    ],
+    "answer": "A servant of King Laius"
+  },
+  {
+    "question": "Why did Oedipus leave Corinth?",
+    "options": [
+      "He was banished by King Polybus",
+      "He wanted to defeat the Sphinx",
+      "To avoid fulfilling the prophecy about killing his father and marrying his mother",
+      "He discovered he was adopted"
+    ],
+    "answer": "To avoid fulfilling the prophecy about killing his father and marrying his mother"
+  },
+  {
+    "question": "What was the answer to the Sphinx's riddle?",
+    "options": [
+      "Time itself",
+      "The human being",
+      "The lion",
+      "The gods"
+    ],
+    "answer": "The human being"
+  },
+  {
+    "question": "What reward was offered to whoever defeated the Sphinx?",
+    "options": [
+      "A chest of gold and jewels",
+      "Command of the Theban army",
+      "Marriage to Queen Jocasta and the throne of Thebes",
+      "Freedom from taxes for life"
+    ],
+    "answer": "Marriage to Queen Jocasta and the throne of Thebes"
+  },
+  {
+    "question": "What caused the plague in Thebes?",
+    "options": [
+      "The anger of the Sphinx",
+      "The presence of the murderer of King Laius",
+      "Oedipus's poor leadership",
+      "A curse from Apollo"
+    ],
+    "answer": "The presence of the murderer of King Laius"
+  },
+  {
+    "question": "Who was Tiresias?",
+    "options": [
+      "Oedipus's real father",
+      "A blind prophet",
+      "The king of Corinth",
+      "Jocasta's first husband"
+    ],
+    "answer": "A blind prophet"
+  },
+  {
+    "question": "How did Oedipus react when Tiresias revealed the truth?",
+    "options": [
+      "He accepted it calmly",
+      "He exiled himself immediately",
+      "He accused Tiresias and Creon of conspiracy",
+      "He consulted another oracle"
+    ],
+    "answer": "He accused Tiresias and Creon of conspiracy"
+  },
+  {
+    "question": "What event helped Oedipus discover his true identity?",
+    "options": [
+      "A dream sent by the gods",
+      "The arrival of a messenger from Corinth with news of King Polybus's death",
+      "Jocasta's confession",
+      "The Sphinx returned to reveal the truth"
+    ],
+    "answer": "The arrival of a messenger from Corinth with news of King Polybus's death"
+  },
+  {
+    "question": "What did Jocasta do when she realized the truth about Oedipus?",
+    "options": [
+      "She fled to another kingdom",
+      "She tried to kill Oedipus",
+      "She committed suicide",
+      "She consulted the Oracle of Delphi"
+    ],
+    "answer": "She committed suicide"
+  },
+  {
+    "question": "How did Oedipus punish himself after discovering the truth?",
+    "options": [
+      "He threw himself from a cliff",
+      "He stabbed himself with a sword",
+      "He poisoned himself",
+      "He blinded himself with Jocasta's golden broaches"
+    ],
+    "answer": "He blinded himself with Jocasta's golden broaches"
+  },
+  {
+    "question": "What is an Oracle?",
+    "options": [
+      "A type of monster in Greek mythology",
+      "A king's advisor",
+      "A sacred site where gods spoke through prophets to reveal the future",
+      "A written record of historical events"
+    ],
+    "answer": "A sacred site where gods spoke through prophets to reveal the future"
+  },
+  {
+    "question": "What is the Sphinx in this story?",
+    "options": [
+      "A stone statue that came to life",
+      "A winged monster with the body of a lion and head of a woman",
+      "A magical creature that granted wishes",
+      "A demon that possessed people"
+    ],
+    "answer": "A winged monster with the body of a lion and head of a woman"
+  },
+  {
+    "question": "Who was Creon?",
+    "options": [
+      "The king of Corinth",
+      "The servant who saved baby Oedipus",
+      "Oedipus's real father",
+      "Jocasta's brother who became ruler after Oedipus"
+    ],
+    "answer": "Jocasta's brother who became ruler after Oedipus"
+  },
+  {
+    "question": "Who accompanied Oedipus in his exile?",
+    "options": [
+      "Jocasta",
+      "Creon",
+      "The blind prophet Tiresias",
+      "Antigone"
+    ],
+    "answer": "Antigone"
+  },
+  {
+    "question": "What happened to the Sphinx after Oedipus solved its riddle?",
+    "options": [
+      "It turned to stone",
+      "It flew away never to be seen again",
+      "It committed suicide by throwing itself from a cliff",
+      "It was killed by Oedipus"
+    ],
+    "answer": "It committed suicide by throwing itself from a cliff"
+  },
+  {
+    "question": "True or False: Oedipus intentionally killed his father and married his mother.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The prophecy about Oedipus was fulfilled despite his attempts to avoid it.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "How many children did Oedipus have with Jocasta?",
+    "options": [
+      "Two",
+      "Three",
+      "None",
+      "Four"
+    ],
+    "answer": "Four"
+  }
+]

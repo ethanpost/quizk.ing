@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What year was Julius Caesar born?",
+    "options": [
+      "95 BCE",
+      "98 BCE",
+      "102 BCE",
+      "100 BCE"
+    ],
+    "answer": "100 BCE"
+  },
+  {
+    "question": "Which position did Caesar hold that was considered the highest priest in Roman religion?",
+    "options": [
+      "Praetor",
+      "Tribune",
+      "Consul",
+      "Pontifex Maximus"
+    ],
+    "answer": "Pontifex Maximus"
+  },
+  {
+    "question": "Who was Caesar's uncle that served as a model for his military ambitions?",
+    "options": [
+      "Marcus Brutus",
+      "Sulla",
+      "Gaius Marius",
+      "Pompey"
+    ],
+    "answer": "Gaius Marius"
+  },
+  {
+    "question": "What famous quote did Caesar allegedly say when crossing the Rubicon River?",
+    "options": [
+      "\"Et tu, Brute?\"",
+      "\"Carpe diem\"",
+      "\"Veni, vidi, vici\"",
+      "\"Alea iacta est\""
+    ],
+    "answer": "\"Alea iacta est\""
+  },
+  {
+    "question": "Which of these individuals was NOT part of the First Triumvirate?",
+    "options": [
+      "Pompey",
+      "Marcus Crassus",
+      "Julius Caesar",
+      "Marcus Brutus"
+    ],
+    "answer": "Marcus Brutus"
+  },
+  {
+    "question": "What region did Caesar famously conquer between 58-50 BCE?",
+    "options": [
+      "Egypt",
+      "Parthia",
+      "Greece",
+      "Gaul"
+    ],
+    "answer": "Gaul"
+  },
+  {
+    "question": "Who was the Gallic leader who united tribes against Caesar and surrendered at Alesia?",
+    "options": [
+      "Ptolemy",
+      "Ariovistus",
+      "Pharnaces",
+      "Vercingetorix"
+    ],
+    "answer": "Vercingetorix"
+  },
+  {
+    "question": "After defeating Pompey at the Battle of Pharsalus, where did Pompey flee to?",
+    "options": [
+      "Parthia",
+      "Spain",
+      "Egypt",
+      "Greece"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "What happened to Pompey when he arrived in Egypt?",
+    "options": [
+      "He escaped to another country",
+      "He was murdered",
+      "He was welcomed as an honored guest",
+      "He was imprisoned"
+    ],
+    "answer": "He was murdered"
+  },
+  {
+    "question": "After which quick victory did Caesar famously declare \"Veni, vidi, vici\"?",
+    "options": [
+      "Siege of Alexandria",
+      "Battle of Pharsalus",
+      "Battle of Alesia",
+      "Victory against King Pharnaces II"
+    ],
+    "answer": "Victory against King Pharnaces II"
+  },
+  {
+    "question": "Who was Caesar's last wife?",
+    "options": [
+      "Julia",
+      "Cornelia Cinna",
+      "Cleopatra",
+      "Calpurnia"
+    ],
+    "answer": "Calpurnia"
+  },
+  {
+    "question": "What was the name of Caesar and Cleopatra's alleged son?",
+    "options": [
+      "Mark Antony Jr.",
+      "Octavian",
+      "Brutus",
+      "Ptolemy Caesar (Caesarion)"
+    ],
+    "answer": "Ptolemy Caesar (Caesarion)"
+  },
+  {
+    "question": "On what date was Julius Caesar assassinated?",
+    "options": [
+      "December 25, 44 BCE",
+      "July 13, 44 BCE",
+      "January 1, 44 BCE",
+      "March 15, 44 BCE"
+    ],
+    "answer": "March 15, 44 BCE"
+  },
+  {
+    "question": "How many stab wounds did Caesar reportedly receive during his assassination?",
+    "options": [
+      "43",
+      "33",
+      "23",
+      "13"
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "Who did Caesar name as his successor in his will?",
+    "options": [
+      "Marcus Brutus",
+      "Mark Antony",
+      "Cleopatra",
+      "Gaius Octavius (Octavian)"
+    ],
+    "answer": "Gaius Octavius (Octavian)"
+  },
+  {
+    "question": "What happened to the conspirators Cassius and Brutus after Caesar's assassination?",
+    "options": [
+      "They were pardoned by Mark Antony",
+      "They became the new rulers of Rome",
+      "They were immediately executed",
+      "They fled to Greece"
+    ],
+    "answer": "They fled to Greece"
+  },
+  {
+    "question": "What political position was Caesar appointed to for life in 44 BCE?",
+    "options": [
+      "Tribune",
+      "Emperor",
+      "Consul",
+      "Dictator"
+    ],
+    "answer": "Dictator"
+  },
+  {
+    "question": "What was the Lupercalia in relation to Caesar?",
+    "options": [
+      "The ceremony where Caesar was named dictator for life",
+      "The location where Caesar was assassinated",
+      "Caesar's victory celebration after conquering Gaul",
+      "A festival where Mark Antony tried to crown Caesar"
+    ],
+    "answer": "A festival where Mark Antony tried to crown Caesar"
+  },
+  {
+    "question": "Which of these was a direct result of Caesar's death?",
+    "options": [
+      "Declaration of war against Egypt",
+      "Peaceful transition of power to the Senate",
+      "Immediate collapse of the Roman Republic",
+      "Public uprising against the conspirators"
+    ],
+    "answer": "Public uprising against the conspirators"
+  }
+]

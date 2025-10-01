@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What is the correct pronunciation of the Latin letter 'C'?",
+    "options": [
+      "Like 'k' in \"cat\"",
+      "Like 'ch' in \"church\"",
+      "Like 's' in \"cinch\"",
+      "Like 'c' in \"city\""
+    ],
+    "answer": "Like 'k' in \"cat\""
+  },
+  {
+    "question": "How is the Latin name \"Caesar\" correctly pronounced in Classical Latin?",
+    "options": [
+      "Say-sar",
+      "See-zer",
+      "Chai-sar",
+      "Kai-sar"
+    ],
+    "answer": "Kai-sar"
+  },
+  {
+    "question": "When does the letter 'I' function as a consonant in Latin?",
+    "options": [
+      "When it appears after a consonant",
+      "When it appears between two consonants",
+      "When it appears at the end of a word",
+      "When it begins a word and is followed by a vowel"
+    ],
+    "answer": "When it begins a word and is followed by a vowel"
+  },
+  {
+    "question": "The Latin letter 'V' is pronounced like which English sound?",
+    "options": [
+      "'u' as in \"under\"",
+      "'f' as in \"father\"",
+      "'w' as in \"way\"",
+      "'v' as in \"very\""
+    ],
+    "answer": "'w' as in \"way\""
+  },
+  {
+    "question": "What is the correct pronunciation of 'PH' in Classical Latin?",
+    "options": [
+      "Like 'ph' as in \"shepherd\"",
+      "Like 'v' as in \"victory\"",
+      "Like 'f' as in \"phone\"",
+      "Like 'p' with an extra breath"
+    ],
+    "answer": "Like 'p' with an extra breath"
+  },
+  {
+    "question": "True or False: The Latin letter 'S' can sometimes be pronounced like a 'z' sound.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens to the 'u' that follows the letter 'Q' in Latin?",
+    "options": [
+      "It becomes a consonant",
+      "It becomes a short vowel",
+      "It becomes a long vowel",
+      "It doesn't count as a vowel"
+    ],
+    "answer": "It doesn't count as a vowel"
+  },
+  {
+    "question": "The Latin letter 'R' was nicknamed what by the Romans?",
+    "options": [
+      "The snake letter",
+      "The bird letter",
+      "The cat letter",
+      "The dog letter"
+    ],
+    "answer": "The dog letter"
+  }
+]

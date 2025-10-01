@@ -1,0 +1,288 @@
+[
+  {
+    "question": "What was the approximate total length of hard-surfaced roads built by the Romans throughout their empire?",
+    "options": [
+      "50,000 miles",
+      "150,000 miles",
+      "25,000 miles",
+      "100,000 miles"
+    ],
+    "answer": "50,000 miles"
+  },
+  {
+    "question": "The total of all Roman roads, including dirt paths, was enough to:",
+    "options": [
+      "Travel to the moon and go around it one and a half times",
+      "Go around the Earth once",
+      "Go around the Earth twice",
+      "Travel to the moon"
+    ],
+    "answer": "Travel to the moon and go around it one and a half times"
+  },
+  {
+    "question": "Which of the following was considered the first \"great road\" of the Roman Empire?",
+    "options": [
+      "Via Flaminia",
+      "Via Valeria",
+      "Via Appia",
+      "Via Aurelia"
+    ],
+    "answer": "Via Appia"
+  },
+  {
+    "question": "In what year was the Via Appia constructed?",
+    "options": [
+      "105 CE",
+      "43 CE",
+      "44 BCE",
+      "312 BCE"
+    ],
+    "answer": "312 BCE"
+  },
+  {
+    "question": "What was the primary initial purpose for building Roman roads?",
+    "options": [
+      "Postal services",
+      "Religious pilgrimages",
+      "Military purposes",
+      "Trade routes"
+    ],
+    "answer": "Military purposes"
+  },
+  {
+    "question": "In Britain, what was the Roman name for Watling Street?",
+    "options": [
+      "Via Augusta",
+      "Route 2",
+      "Via Britannica",
+      "Route 1"
+    ],
+    "answer": "Route 2"
+  },
+  {
+    "question": "What was the standard width required for a straight Roman road?",
+    "options": [
+      "16 Roman feet",
+      "4 Roman feet",
+      "8 Roman feet",
+      "12 Roman feet"
+    ],
+    "answer": "8 Roman feet"
+  },
+  {
+    "question": "How much wider were Roman roads required to be on curves compared to straight sections?",
+    "options": [
+      "No difference in width",
+      "Three times wider",
+      "1.5 times wider",
+      "Twice as wide"
+    ],
+    "answer": "Twice as wide"
+  },
+  {
+    "question": "The Roman concept of \"servitus\" referred to:",
+    "options": [
+      "The taxes paid for road maintenance",
+      "The right to use a road",
+      "The constructor of the road",
+      "The curvature of a road"
+    ],
+    "answer": "The right to use a road"
+  },
+  {
+    "question": "Which of the following groups were allowed to use carts in urban areas?",
+    "options": [
+      "Only commercial vendors",
+      "Only military personnel",
+      "All citizens",
+      "Married women and government officials"
+    ],
+    "answer": "Married women and government officials"
+  },
+  {
+    "question": "Who was typically responsible for building Roman roads?",
+    "options": [
+      "The military",
+      "Slave labor exclusively",
+      "Local merchants",
+      "Civilian contractors"
+    ],
+    "answer": "The military"
+  },
+  {
+    "question": "What term was used for a local road that passed through villages or crossroads?",
+    "options": [
+      "Via militaris",
+      "Via vicinalis",
+      "Via publica",
+      "Via privata"
+    ],
+    "answer": "Via vicinalis"
+  },
+  {
+    "question": "What was the Latin term for the ditch excavated during road construction?",
+    "options": [
+      "Miliaria",
+      "Dorsum",
+      "Fossa",
+      "Rigor"
+    ],
+    "answer": "Fossa"
+  },
+  {
+    "question": "What was the name of the top layer of a Roman road?",
+    "options": [
+      "Tabernae",
+      "Fossa",
+      "Dorsum",
+      "Crepedo"
+    ],
+    "answer": "Dorsum"
+  },
+  {
+    "question": "What material was used for the mortar that held together the top layer of Roman roads?",
+    "options": [
+      "Bitumen-based mortar",
+      "Lime-based mortar",
+      "Clay-based mortar",
+      "Sand-based mortar"
+    ],
+    "answer": "Lime-based mortar"
+  },
+  {
+    "question": "How many Roman bridges have been identified across the ancient world according to studies in the 1990s?",
+    "options": [
+      "931",
+      "367",
+      "776",
+      "594"
+    ],
+    "answer": "931"
+  },
+  {
+    "question": "What was the name of the largest Roman bridge ever constructed?",
+    "options": [
+      "Pons Fabricius",
+      "Pont du Gard",
+      "Trajan Bridge",
+      "Pons Aemilius"
+    ],
+    "answer": "Trajan Bridge"
+  },
+  {
+    "question": "For how long did the Trajan Bridge remain the longest bridge in the world?",
+    "options": [
+      "2,000 years",
+      "165 years",
+      "500 years",
+      "More than 1,000 years"
+    ],
+    "answer": "More than 1,000 years"
+  },
+  {
+    "question": "What was the Latin term for mile markers along Roman roads?",
+    "options": [
+      "Itinerarium",
+      "Miliaria",
+      "Mansiones",
+      "Tabernae"
+    ],
+    "answer": "Miliaria"
+  },
+  {
+    "question": "The modern word \"mile\" originated from the Latin term:",
+    "options": [
+      "Millstone",
+      "Miliaria",
+      "Mille passus",
+      "Militus"
+    ],
+    "answer": "Mille passus"
+  },
+  {
+    "question": "What was an \"itinerarium\" in the context of Roman roads?",
+    "options": [
+      "A tax paid for road construction",
+      "A list of towns and distances along a route",
+      "A specialized cart for road travel",
+      "A ceremonial ritual for opening new roads"
+    ],
+    "answer": "A list of towns and distances along a route"
+  },
+  {
+    "question": "Who commissioned the first master road itinerary of the Roman Empire?",
+    "options": [
+      "Emperor Constantine",
+      "Emperor Trajan",
+      "Emperor Augustus",
+      "Julius Caesar"
+    ],
+    "answer": "Julius Caesar"
+  },
+  {
+    "question": "How long did it take to complete the first master road itinerary of the Roman Empire?",
+    "options": [
+      "50 years",
+      "25 years",
+      "15 years",
+      "5 years"
+    ],
+    "answer": "25 years"
+  },
+  {
+    "question": "What were the government-maintained staying places along Roman roads called?",
+    "options": [
+      "Tabernae",
+      "Hospitium",
+      "Mansiones",
+      "Cauponae"
+    ],
+    "answer": "Mansiones"
+  },
+  {
+    "question": "Approximately how far apart were mansiones typically located?",
+    "options": [
+      "40-50 miles",
+      "5-10 miles",
+      "16-19 miles",
+      "25-30 miles"
+    ],
+    "answer": "16-19 miles"
+  },
+  {
+    "question": "What was the name of the Roman postal service established by Emperor Augustus?",
+    "options": [
+      "Via cursoria",
+      "Posta Romana",
+      "Cursus publicus",
+      "Tabellarius"
+    ],
+    "answer": "Cursus publicus"
+  },
+  {
+    "question": "At what approximate rate did the Roman postal service carry mail?",
+    "options": [
+      "75-100 miles per day",
+      "38-62 miles per day",
+      "Over 150 miles per day",
+      "10-20 miles per day"
+    ],
+    "answer": "38-62 miles per day"
+  },
+  {
+    "question": "True or False: All Roman roads were perfectly straight.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The construction quality of Roman roads often meant they required little maintenance.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "question": "According to the lecture, what is the main difference between Git and services like Dropbox or Google Drive?",
+    "options": [
+      "Git allows ownership of content and hosting flexibility with powerful branching and merging",
+      "Git is more expensive than cloud storage services",
+      "Git automatically syncs files in real-time",
+      "Git only works with text files, not images or videos"
+    ],
+    "answer": "Git allows ownership of content and hosting flexibility with powerful branching and merging"
+  },
+  {
+    "question": "Which of these is a pixel-based (raster) image tool mentioned in the lecture?",
+    "options": [
+      "Inkscape",
+      "OpenSCAD",
+      "GIMP",
+      "FreeCAD"
+    ],
+    "answer": "GIMP"
+  },
+  {
+    "question": "What is the key feature of \"constrained drawing\" that makes it different from regular vector drawing?",
+    "options": [
+      "It uses pixels instead of vectors",
+      "It only works in 3D environments",
+      "It enforces relationships between elements (like parallel, perpendicular, tangent)",
+      "It requires an internet connection"
+    ],
+    "answer": "It enforces relationships between elements (like parallel, perpendicular, tangent)"
+  },
+  {
+    "question": "According to the lecture, which method of 3D representation uses mathematical descriptions of the interior of objects?",
+    "options": [
+      "Boundary representation",
+      "Vector representation",
+      "Volume representation",
+      "Function representation"
+    ],
+    "answer": "Function representation"
+  },
+  {
+    "question": "What is a parametric design?",
+    "options": [
+      "A design that uses different color parameters",
+      "A design where variables and formulas control dimensions rather than fixed values",
+      "A design created specifically for 3D printing",
+      "A design that requires special CAD software"
+    ],
+    "answer": "A design where variables and formulas control dimensions rather than fixed values"
+  },
+  {
+    "question": "Which of these operations turns a 2D shape into a 3D object by rotating it around an axis?",
+    "options": [
+      "Sweeping",
+      "Lofting",
+      "Revolution",
+      "Extrusion"
+    ],
+    "answer": "Revolution"
+  },
+  {
+    "question": "What is Constructive Solid Geometry (CSG)?",
+    "options": [
+      "A file format for exchanging 3D models",
+      "A method of using Boolean operations (add, subtract, intersect) on 3D objects",
+      "A technique for hand-drawing 3D objects",
+      "A type of 3D printer technology"
+    ],
+    "answer": "A method of using Boolean operations (add, subtract, intersect) on 3D objects"
+  },
+  {
+    "question": "According to the lecture, what is a key benefit of using a spreadsheet in CAD software?",
+    "options": [
+      "It helps with budgeting materials",
+      "It helps with project scheduling",
+      "It allows you to manage variables that can be used throughout your design",
+      "It generates bill of materials automatically"
+    ],
+    "answer": "It allows you to manage variables that can be used throughout your design"
+  },
+  {
+    "question": "What file format is recommended for exchanging designs between different CAD programs?",
+    "options": [
+      "GIF",
+      "DXF",
+      "STEP",
+      "MP4"
+    ],
+    "answer": "STEP"
+  },
+  {
+    "question": "Which of these tools is specifically mentioned as being good for sculpting organic shapes?",
+    "options": [
+      "AutoCAD",
+      "FreeCAD",
+      "Blender",
+      "SolidWorks"
+    ],
+    "answer": "Blender"
+  },
+  {
+    "question": "Why is filleting (rounding edges) important in mechanical design?",
+    "options": [
+      "It makes objects look more attractive",
+      "It reduces stress concentration where parts might fail",
+      "It speeds up the 3D printing process",
+      "It reduces file sizes"
+    ],
+    "answer": "It reduces stress concentration where parts might fail"
+  },
+  {
+    "question": "What video format does the lecture recommend for web compatibility?",
+    "options": [
+      "Raw uncompressed video",
+      "GIF for animations",
+      "H.264 in an MP4 container",
+      "H.265 in an MP4 container"
+    ],
+    "answer": "H.264 in an MP4 container"
+  },
+  {
+    "question": "Which type of CAD representation is said to be most suitable for simulating complex phenomena like sand piles or breaking waves?",
+    "options": [
+      "Function representation",
+      "Vector representation",
+      "Boundary representation",
+      "Volume representation"
+    ],
+    "answer": "Volume representation"
+  },
+  {
+    "question": "What is the main limitation of AI in CAD design according to the lecture?",
+    "options": [
+      "AI can only work with 2D designs",
+      "AI lacks understanding of physics and real geometry",
+      "AI is too slow for practical use",
+      "AI can't generate 3D models at all"
+    ],
+    "answer": "AI lacks understanding of physics and real geometry"
+  },
+  {
+    "question": "What does the lecture recommend creating as part of next week's assignment?",
+    "options": [
+      "A computer animation",
+      "A 3D printed vase",
+      "A parametric pressfit construction kit",
+      "A full mechanical robot"
+    ],
+    "answer": "A parametric pressfit construction kit"
+  },
+  {
+    "question": "What is a workbench in FreeCAD?",
+    "options": [
+      "A backup system for CAD files",
+      "A physical table where you place your computer",
+      "A task-specific environment with specialized tools",
+      "A type of 3D printing support structure"
+    ],
+    "answer": "A task-specific environment with specialized tools"
+  },
+  {
+    "question": "When moving from 2D to 3D designs, what operation would you use to connect multiple 2D profiles into a smooth 3D shape?",
+    "options": [
+      "Revolution",
+      "Boolean",
+      "Lofting",
+      "Extrusion"
+    ],
+    "answer": "Lofting"
+  },
+  {
+    "question": "Which software did the instructor mention as being particularly good for batch image processing?",
+    "options": [
+      "Photoshop",
+      "BiMP",
+      "Blender",
+      "GIMP"
+    ],
+    "answer": "BiMP"
+  },
+  {
+    "question": "What is the main advantage of using macros in CAD software?",
+    "options": [
+      "They enable collaboration between multiple users",
+      "They help reduce file sizes",
+      "They provide better rendering quality",
+      "They automate complex operations that would require a lot of clicking and dragging"
+    ],
+    "answer": "They automate complex operations that would require a lot of clicking and dragging"
+  }
+]

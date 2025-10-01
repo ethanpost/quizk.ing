@@ -1,0 +1,142 @@
+[
+  {
+    "question": "According to the transcript, when did the influence of Latin on English begin?",
+    "options": [
+      "After the Norman Conquest in 1066",
+      "During the Renaissance period",
+      "Before Old English existed",
+      "When Christianity was introduced to Britain"
+    ],
+    "answer": "Before Old English existed"
+  },
+  {
+    "question": "Which language did the Christian missionaries replace the runic futhorc with?",
+    "options": [
+      "Latin alphabet",
+      "Norman French",
+      "Ancient Greek",
+      "Middle English"
+    ],
+    "answer": "Latin alphabet"
+  },
+  {
+    "question": "What term does the transcript use to describe the Renaissance period in relation to language?",
+    "options": [
+      "The golden age of borrowing",
+      "The age of linguistic anxiety",
+      "The classical revival",
+      "The Latinate revolution"
+    ],
+    "answer": "The age of linguistic anxiety"
+  },
+  {
+    "question": "According to the transcript, why were dictionaries invented?",
+    "options": [
+      "To translate between Latin and English",
+      "To standardize English spelling",
+      "To explain new Latin-derived words",
+      "To document Old English vocabulary"
+    ],
+    "answer": "To explain new Latin-derived words"
+  },
+  {
+    "question": "What caused the most significant transformation of Old English into Middle English?",
+    "options": [
+      "The Renaissance period",
+      "Christian missionaries",
+      "The Norman Conquest and French influence",
+      "Scientific advancements"
+    ],
+    "answer": "The Norman Conquest and French influence"
+  },
+  {
+    "question": "What is the \"Inkhorn Controversy\" referenced in the transcript?",
+    "options": [
+      "A debate over English spelling reforms",
+      "A backlash against excessive Latin and Greek borrowing",
+      "A dispute about religious terminology",
+      "A disagreement about naming scientific discoveries"
+    ],
+    "answer": "A backlash against excessive Latin and Greek borrowing"
+  },
+  {
+    "question": "What happened to English spelling during the Renaissance period?",
+    "options": [
+      "It was simplified for broader literacy",
+      "It was standardized by the first dictionaries",
+      "Silent letters were added to show Latin origins",
+      "French spelling conventions were adopted"
+    ],
+    "answer": "Silent letters were added to show Latin origins"
+  },
+  {
+    "question": "What advantage does the transcript suggest for using Latin and Greek for scientific terms?",
+    "options": [
+      "They sound more prestigious and scholarly",
+      "They're linguistically neutral across different languages",
+      "They're more precise than modern languages",
+      "They have more prefixes and suffixes available"
+    ],
+    "answer": "They're linguistically neutral across different languages"
+  },
+  {
+    "question": "Which Latin-derived words did Germanic tribes borrow related to Roman fortifications?",
+    "options": [
+      "Camp, wall, and pit",
+      "Street, road, and mile",
+      "Wine, cheese, and butter",
+      "Temple, shrine, and altar"
+    ],
+    "answer": "Camp, wall, and pit"
+  },
+  {
+    "question": "What happened to the Anglo-Saxon names for months?",
+    "options": [
+      "They were officially banned by religious authorities",
+      "They evolved into the modern English month names",
+      "They were replaced by Roman month names, except for Easter and Yule",
+      "They continued to be used alongside Roman names until modern times"
+    ],
+    "answer": "They were replaced by Roman month names, except for Easter and Yule"
+  },
+  {
+    "question": "What is special about the word \"television\" according to the transcript?",
+    "options": [
+      "It was one of the first technology terms derived from Latin",
+      "It's a mix of Greek and Latin roots",
+      "It was created during the Inkhorn Controversy",
+      "It originally had a different meaning in Latin"
+    ],
+    "answer": "It's a mix of Greek and Latin roots"
+  },
+  {
+    "question": "What example does the transcript give of Sir John Cheke's attempt to avoid Latin terms?",
+    "options": [
+      "Using \"crossed\" instead of \"crucified\"",
+      "Using \"self-driver\" instead of \"automobile\"",
+      "Using \"heart-and-vein network\" instead of \"cardiovascular system\"",
+      "Using \"digit\" instead of \"cursor\""
+    ],
+    "answer": "Using \"crossed\" instead of \"crucified\""
+  },
+  {
+    "question": "Which group of people were primarily responsible for bringing Latin religious terms to Old English?",
+    "options": [
+      "Norman French nobility",
+      "Roman soldiers",
+      "Germanic traders",
+      "Christian missionaries"
+    ],
+    "answer": "Christian missionaries"
+  },
+  {
+    "question": "What Latin word became \"street\" in English?",
+    "options": [
+      "Strata",
+      "Via",
+      "Cursus",
+      "Iter"
+    ],
+    "answer": "Strata"
+  }
+]

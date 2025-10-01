@@ -1,0 +1,108 @@
+[
+  {
+    "question": "What percentage of global water needs is provided by the 18,000+ desalination plants operating across the globe?",
+    "options": ["Around 10%", "Less than 1%", "More than 25%", "About 5%"],
+    "answer": "Less than 1%"
+  },
+  {
+    "question": "What percentage of energy used by the water industry is consumed by desalination plants?",
+    "options": ["25%", "5%", "50%", "10%"],
+    "answer": "25%"
+  },
+  {
+    "question": "What is the primary unit used to measure salinity in the video?",
+    "options": ["Molarity", "Percentage", "Parts per million", "Parts per thousand (per mille)"],
+    "answer": "Parts per thousand (per mille)"
+  },
+  {
+    "question": "Approximately how many grams of salt are in one liter of typical seawater?",
+    "options": ["35 grams", "350 grams", "9 grams", "3.5 grams"],
+    "answer": "35 grams"
+  },
+  {
+    "question": "What percentage of salt must be removed from seawater to make it acceptable for drinking?",
+    "options": ["More than 85%", "More than 75%", "More than 98%", "More than 95%"],
+    "answer": "More than 98%"
+  },
+  {
+    "question": "What are the two main technologies used for desalination?",
+    "options": ["Distillation and membrane filtration", "Ionization and precipitation", "Evaporation and condensation", "Filtration and purification"],
+    "answer": "Distillation and membrane filtration"
+  },
+  {
+    "question": "In the distillation demonstration, approximately how much electricity was used to produce 200 milliliters of water?",
+    "options": ["10 kilowatt-hours", "1 kilowatt-hour", "500 watt-hours", "100 watt-hours"],
+    "answer": "1 kilowatt-hour"
+  },
+  {
+    "question": "What is the primary challenge with distillation besides energy consumption?",
+    "options": ["Water quality issues", "Excessive noise", "Scale deposits on equipment", "Equipment size"],
+    "answer": "Scale deposits on equipment"
+  },
+  {
+    "question": "What pressure was required to force seawater through the membrane in the reverse osmosis demonstration?",
+    "options": ["400 psi", "600 psi", "60 psi", "200 psi"],
+    "answer": "600 psi"
+  },
+  {
+    "question": "What is the term for the concentrated salt solution that remains after desalination?",
+    "options": ["Brine", "Saline", "Residue", "Permeate"],
+    "answer": "Brine"
+  },
+  {
+    "question": "What is the term for the clean water that passes through a membrane in reverse osmosis?",
+    "options": ["Distillate", "Permeate", "Effluent", "Filtrate"],
+    "answer": "Permeate"
+  },
+  {
+    "question": "Modern reverse osmosis plants can desalinate a cubic meter of seawater using approximately how many kilowatt-hours?",
+    "options": ["1-2 kilowatt-hours", "100 kilowatt-hours", "25-50 kilowatt-hours", "5-10 kilowatt-hours"],
+    "answer": "1-2 kilowatt-hours"
+  },
+  {
+    "question": "Why can't brine be discharged directly back into the sea?",
+    "options": ["It would cause corrosion of sea vessels", "Environmental impacts, especially on sea floor organisms", "International regulations prohibit it", "It's too expensive to pump"],
+    "answer": "Environmental impacts, especially on sea floor organisms"
+  },
+  {
+    "question": "What is typically done to brine before it is released back to the environment?",
+    "options": ["It is reused in industrial processes", "It is treated with chemicals to neutralize the salt", "It is spread through diffusers or diluted with other water", "It is solidified and transported to landfills"],
+    "answer": "It is spread through diffusers or diluted with other water"
+  },
+  {
+    "question": "Why is desalination compared to nuclear power in the video?",
+    "options": ["Both are dangerous to operate", "Both are being phased out globally", "Both use similar technologies", "Both seem simple but have complex practical considerations"],
+    "answer": "Both seem simple but have complex practical considerations"
+  },
+  {
+    "question": "Which of these regions does NOT have major desalination plants according to the video?",
+    "options": ["United Arab Emirates", "California", "Scandinavia", "Saudi Arabia"],
+    "answer": "Scandinavia"
+  },
+  {
+    "question": "What can make desalination more economically viable compared to standard seawater desalination?",
+    "options": ["Using only solar power", "Using brackish water sources with lower salt content", "Building smaller, more distributed plants", "Operating only during nighttime hours"],
+    "answer": "Using brackish water sources with lower salt content"
+  },
+  {
+    "question": "What is a common strategy for managing the financial risks of desalination projects?",
+    "options": ["International development grants", "Crowdfunding", "Government subsidies", "Public-private partnerships"],
+    "answer": "Public-private partnerships"
+  },
+  {
+    "question": "Why might desalination plants become less viable during a drought?",
+    "options": ["Salt concentration in seawater increases", "The cost of hydropower increases, raising energy costs", "Membranes become less effective in dry air", "Less water is available for the process"],
+    "answer": "The cost of hydropower increases, raising energy costs"
+  },
+  {
+    "question": "What is a flash evaporator used for in desalination?",
+    "options": ["To increase pressure in reverse osmosis systems", "To evaporate water at lower temperatures, minimizing scale buildup", "To rapidly cool water after treatment", "To remove contaminants before desalination"],
+    "answer": "To evaporate water at lower temperatures, minimizing scale buildup"
+  },
+  {
+    "question": "What is the purpose of post-treatment in desalination?",
+    "options": ["To minimize environmental impact of brine discharge", "To improve energy efficiency", "To add minerals and disinfectants to the water", "To prepare water for the membrane filtration stage"],
+    "answer": "To add minerals and disinfectants to the water"
+  }
+]
+

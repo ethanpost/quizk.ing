@@ -1,0 +1,103 @@
+[
+  {
+    "question": "What is the weight of the Virginia class submarine?",
+    "options": ["7,800 tons", "8,900 tons", "5,600 tons", "6,700 tons"],
+    "answer": "7,800 tons"
+  },
+  {
+    "question": "What is the maximum depth the Virginia class submarine can dive to?",
+    "options": ["Greater than 800 feet", "Greater than 600 feet", "Greater than 900 feet", "Greater than 700 feet"],
+    "answer": "Greater than 800 feet"
+  },
+  {
+    "question": "Who invented the first submersible used in recorded underwater combat?",
+    "options": ["Cornelius Drebbel", "Alexander the Great", "Hyman Rickover", "David Bushnell"],
+    "answer": "David Bushnell"
+  },
+  {
+    "question": "What was the name of the first submersible used in combat?",
+    "options": ["Plongeur", "Nautilus", "Turtle", "Albacore"],
+    "answer": "Turtle"
+  },
+  {
+    "question": "What revolutionary hull design became the standard for all modern submarines?",
+    "options": ["Teardrop hull", "Conical hull", "Cylindrical hull", "Spherical hull"],
+    "answer": "Teardrop hull"
+  },
+  {
+    "question": "Who pioneered the teardrop hull design for submarines?",
+    "options": ["David Bushnell", "William Nicholson", "Admiral Charles Momsen", "Captain Hyman Rickover"],
+    "answer": "Admiral Charles Momsen"
+  },
+  {
+    "question": "What was the name of the first submarine to use the revolutionary teardrop hull design?",
+    "options": ["USS Missouri", "USS Nautilus", "USS Colorado", "USS Albacore"],
+    "answer": "USS Albacore"
+  },
+  {
+    "question": "Who pioneered nuclear propulsion for submarines?",
+    "options": ["Hyman Rickover", "Charles Momsen", "David Bushnell", "William Nicholson"],
+    "answer": "Hyman Rickover"
+  },
+  {
+    "question": "What was the name of the first nuclear-powered submarine?",
+    "options": ["USS Colorado", "USS Albacore", "USS Virginia", "USS Nautilus"],
+    "answer": "USS Nautilus"
+  },
+  {
+    "question": "How long can the Virginia class submarine operate without refueling?",
+    "options": ["20 years", "50 years", "33 years", "10 years"],
+    "answer": "33 years"
+  },
+  {
+    "question": "What process is used to generate oxygen on board submarines?",
+    "options": ["Combustion", "Photosynthesis", "Distillation", "Electrolysis"],
+    "answer": "Electrolysis"
+  },
+  {
+    "question": "Who discovered the electrolysis process that would later be used in submarines?",
+    "options": ["William Nicholson", "Hyman Rickover", "David Bushnell", "Charles Momsen"],
+    "answer": "William Nicholson"
+  },
+  {
+    "question": "What replaced the traditional periscope on the Virginia class submarine?",
+    "options": ["Electronic periscope", "Digital telescope", "Photonic mast system", "Fiber optic viewer"],
+    "answer": "Photonic mast system"
+  },
+  {
+    "question": "What is a ballast tank used for in submarines?",
+    "options": ["Filtering seawater", "Controlling buoyancy", "Generating electricity", "Storing nuclear fuel"],
+    "answer": "Controlling buoyancy"
+  },
+  {
+    "question": "How much positive buoyancy does the SEIE suit provide in water?",
+    "options": ["100 pounds", "25 pounds", "75 pounds", "50 pounds"],
+    "answer": "75 pounds"
+  },
+  {
+    "question": "At what speed does the SEIE suit travel through water during an escape?",
+    "options": ["425 feet per minute", "325 feet per minute", "625 feet per minute", "525 feet per minute"],
+    "answer": "625 feet per minute"
+  },
+  {
+    "question": "What is the main danger submariners face if they hold their breath during emergency ascent?",
+    "options": ["Decompression sickness", "Oxygen toxicity", "Nitrogen narcosis", "Pulmonary overinflation syndrome"],
+    "answer": "Pulmonary overinflation syndrome"
+  },
+  {
+    "question": "What type of drag is reduced by the teardrop hull design?",
+    "options": ["Neither frictional nor form drag", "Form drag only", "Both frictional and form drag", "Frictional drag only"],
+    "answer": "Both frictional and form drag"
+  },
+  {
+    "question": "How many cubic feet of oxygen per hour can the Virginia class electrolyzer create?",
+    "options": ["Over 250 cubic feet", "Over 100 cubic feet", "Over 150 cubic feet", "Over 200 cubic feet"],
+    "answer": "Over 200 cubic feet"
+  },
+  {
+    "question": "What is a propulsor?",
+    "options": ["A system for removing carbon dioxide", "A device for measuring water pressure", "An advanced propeller system for silent operation", "A nuclear reactor component"],
+    "answer": "An advanced propeller system for silent operation"
+  }
+]
+

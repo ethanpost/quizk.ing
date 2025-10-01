@@ -1,0 +1,93 @@
+[
+  {
+    "question": "What is the primary function of a relay in automation?",
+    "options": ["To switch other switches electrically", "To increase voltage", "To measure current", "To store electrical energy"],
+    "answer": "To switch other switches electrically"
+  },
+  {
+    "question": "According to the video, what are the two main categories of DC power supplies?",
+    "options": ["Large and small", "AC and DC", "High voltage and low voltage", "Industrial and hobby/DIY level"],
+    "answer": "Industrial and hobby/DIY level"
+  },
+  {
+    "question": "What voltage does a Raspberry Pi typically require?",
+    "options": ["24 volts", "12 volts", "5 volts", "3.3 volts"],
+    "answer": "5 volts"
+  },
+  {
+    "question": "What is the main advantage of proximity sensors over limit switches?",
+    "options": ["They work faster", "They require no physical contact", "They use less power", "They are less expensive"],
+    "answer": "They require no physical contact"
+  },
+  {
+    "question": "In a relay, what does \"normally closed\" mean?",
+    "options": ["The contact is never connected", "The contact is always connected", "The contact is connected when the coil is energized", "The contact is connected when the coil is not energized"],
+    "answer": "The contact is connected when the coil is not energized"
+  },
+  {
+    "question": "What is DIN rail used for?",
+    "options": ["Connecting wires", "Cooling power supplies", "Mounting electrical components", "Measuring voltage"],
+    "answer": "Mounting electrical components"
+  },
+  {
+    "question": "How many poles does a \"four pole double throw\" relay have?",
+    "options": ["Eight", "Two", "Four", "Six"],
+    "answer": "Four"
+  },
+  {
+    "question": "What does NPN stand for in proximity sensors?",
+    "options": ["Network Power Node", "Negative Positive Negative", "No Physical Contact", "Normally Positive Normally"],
+    "answer": "Negative Positive Negative"
+  },
+  {
+    "question": "What is the main benefit of using a contactor instead of a relay?",
+    "options": ["It's easier to wire", "It's smaller", "It can handle higher power", "It's less expensive"],
+    "answer": "It can handle higher power"
+  },
+  {
+    "question": "What is hysteresis in the context of limit switches?",
+    "options": ["The voltage it requires", "The maximum current it can handle", "The difference between engage and release points", "The time it takes to activate"],
+    "answer": "The difference between engage and release points"
+  },
+  {
+    "question": "What is the primary advantage of breakout boards?",
+    "options": ["They reduce power consumption", "They provide wireless connectivity", "They increase voltage", "They convert pins to screw terminals"],
+    "answer": "They convert pins to screw terminals"
+  },
+  {
+    "question": "What is the main reason for using small control cables with relays?",
+    "options": ["They carry more current", "They are more reliable", "They are much less expensive than power cables", "They are easier to install"],
+    "answer": "They are much less expensive than power cables"
+  },
+  {
+    "question": "What happens when a temperature sensor reaches its threshold?",
+    "options": ["It changes color", "It increases voltage", "It can open or close a circuit", "It starts a timer"],
+    "answer": "It can open or close a circuit"
+  },
+  {
+    "question": "What is the \"normal position\" of a relay?",
+    "options": ["When it's being tested", "When the coil is not energized", "When it's halfway activated", "When the coil is energized"],
+    "answer": "When the coil is not energized"
+  },
+  {
+    "question": "What does PNP mean in proximity sensors?",
+    "options": ["Power Network Protocol", "Programmable Network Port", "Positive Negative Positive", "Proximity Non-Contact"],
+    "answer": "Positive Negative Positive"
+  },
+  {
+    "question": "What is the primary application mentioned for reed switches?",
+    "options": ["Temperature monitoring", "Detecting when a magnet is nearby", "High-power switching", "Pressure measurement"],
+    "answer": "Detecting when a magnet is nearby"
+  },
+  {
+    "question": "What happens when a limit switch is activated in a normally closed configuration?",
+    "options": ["Current decreases", "The circuit is opened", "Voltage increases", "The circuit is completed"],
+    "answer": "The circuit is opened"
+  },
+  {
+    "question": "What is the main purpose of ventilation in power supplies?",
+    "options": ["To improve efficiency", "To prevent dust buildup", "To allow heat dissipation", "To reduce noise"],
+    "answer": "To allow heat dissipation"
+  }
+]
+

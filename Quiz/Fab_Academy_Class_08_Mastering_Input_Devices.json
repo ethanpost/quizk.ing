@@ -1,0 +1,202 @@
+[
+  {
+    "question": "According to the video, what is the primary purpose of debouncing in button circuits?",
+    "options": [
+      "To eliminate false signals from mechanical switch bounce",
+      "To increase button sensitivity",
+      "To reduce power consumption",
+      "To improve button durability"
+    ],
+    "answer": "To eliminate false signals from mechanical switch bounce"
+  },
+  {
+    "question": "What communication protocol is used for digital audio transmission between processors?",
+    "options": [
+      "UART",
+      "I2S",
+      "SPI",
+      "I2C"
+    ],
+    "answer": "I2S"
+  },
+  {
+    "question": "Which sensor type can detect Earth's magnetic field?",
+    "options": [
+      "Thermistor",
+      "Phototransistor",
+      "Hall effect sensor",
+      "Strain gauge"
+    ],
+    "answer": "Hall effect sensor"
+  },
+  {
+    "question": "What is the main advantage of using a bridge circuit for temperature measurement?",
+    "options": [
+      "It provides digital output directly",
+      "It reduces power consumption",
+      "It amplifies small resistance changes to use full ADC range",
+      "It eliminates noise from the environment"
+    ],
+    "answer": "It amplifies small resistance changes to use full ADC range"
+  },
+  {
+    "question": "According to the video, what is the primary limitation of self-capacitance sensing?",
+    "options": [
+      "It has limited range",
+      "It requires expensive components",
+      "It works differently in different environments due to varying ground conditions",
+      "It only works with conductive materials"
+    ],
+    "answer": "It works differently in different environments due to varying ground conditions"
+  },
+  {
+    "question": "What type of sensor is considered obsolete compared to Doppler radar for proximity detection?",
+    "options": [
+      "Ultrasonic sensors",
+      "Laser sensors",
+      "Infrared sensors",
+      "Pyroelectric sensors"
+    ],
+    "answer": "Pyroelectric sensors"
+  },
+  {
+    "question": "Which sensor combination is used in a 9-axis IMU to prevent orientation drift?",
+    "options": [
+      "Three gyroscopes and three magnetometers",
+      "Three accelerometers and three magnetometers",
+      "Three accelerometers, three gyroscopes, and three magnetometers",
+      "Three accelerometers and three gyroscopes"
+    ],
+    "answer": "Three accelerometers, three gyroscopes, and three magnetometers"
+  },
+  {
+    "question": "What is the primary advantage of synchronous detection in light sensing?",
+    "options": [
+      "It provides color information",
+      "It eliminates interference from ambient light sources",
+      "It reduces power consumption",
+      "It increases sensor sensitivity"
+    ],
+    "answer": "It eliminates interference from ambient light sources"
+  },
+  {
+    "question": "According to the video, what is the main advantage of MEMS microphones over electret microphones?",
+    "options": [
+      "Higher sensitivity",
+      "Lower cost",
+      "Smaller size and digital output",
+      "Better audio quality"
+    ],
+    "answer": "Smaller size and digital output"
+  },
+  {
+    "question": "What is the primary function of a strain gauge in a load cell?",
+    "options": [
+      "To provide electrical isolation",
+      "To amplify the signal",
+      "To measure the deformation of a beam under load",
+      "To measure temperature changes"
+    ],
+    "answer": "To measure the deformation of a beam under load"
+  },
+  {
+    "question": "Which sensor type can be made using only a processor pin and copper electrodes?",
+    "options": [
+      "Light sensor",
+      "Temperature sensor",
+      "Step response capacitive sensor",
+      "Magnetic field sensor"
+    ],
+    "answer": "Step response capacitive sensor"
+  },
+  {
+    "question": "What is the main advantage of using I2C for sensor communication?",
+    "options": [
+      "It provides analog output directly",
+      "It provides the fastest data transfer rate",
+      "It reduces noise and enables remote sensing",
+      "It requires only one wire"
+    ],
+    "answer": "It reduces noise and enables remote sensing"
+  },
+  {
+    "question": "According to the video, what is the primary use of a real-time clock module?",
+    "options": [
+      "To measure acceleration",
+      "To measure temperature",
+      "To provide GPS coordinates",
+      "To maintain accurate time even when power is disconnected"
+    ],
+    "answer": "To maintain accurate time even when power is disconnected"
+  },
+  {
+    "question": "What is the main advantage of laser time-of-flight sensors over ultrasonic sensors?",
+    "options": [
+      "Higher accuracy and precision",
+      "Lower cost",
+      "Better performance in water",
+      "Longer range"
+    ],
+    "answer": "Higher accuracy and precision"
+  },
+  {
+    "question": "Which sensor type is most commonly used for gesture recognition?",
+    "options": [
+      "Temperature sensors",
+      "Force sensors",
+      "Optical sensors with position tracking",
+      "Magnetic field sensors"
+    ],
+    "answer": "Optical sensors with position tracking"
+  },
+  {
+    "question": "What is the primary function of a pull-up resistor in digital input circuits?",
+    "options": [
+      "To reduce power consumption",
+      "To pull the signal line to high logic level when not actively driven",
+      "To provide voltage regulation",
+      "To increase current flow"
+    ],
+    "answer": "To pull the signal line to high logic level when not actively driven"
+  },
+  {
+    "question": "According to the video, what is the main advantage of vector magnetometers over simple Hall effect sensors?",
+    "options": [
+      "Digital output",
+      "Lower cost",
+      "Ability to measure magnetic field strength and direction in three dimensions",
+      "Higher sensitivity"
+    ],
+    "answer": "Ability to measure magnetic field strength and direction in three dimensions"
+  },
+  {
+    "question": "What is the primary use of Aruco markers in computer vision applications?",
+    "options": [
+      "To measure distance",
+      "To detect motion",
+      "To provide object tracking and camera pose estimation",
+      "To improve image quality"
+    ],
+    "answer": "To provide object tracking and camera pose estimation"
+  },
+  {
+    "question": "Which sensor type is most suitable for measuring liquid levels in containers?",
+    "options": [
+      "Temperature sensors",
+      "Magnetic field sensors",
+      "Step response capacitive sensors",
+      "Laser sensors"
+    ],
+    "answer": "Step response capacitive sensors"
+  },
+  {
+    "question": "What is the main advantage of using differential measurements in analog circuits?",
+    "options": [
+      "Simpler circuit design",
+      "Lower power consumption",
+      "Faster response time",
+      "Improved accuracy and resolution"
+    ],
+    "answer": "Improved accuracy and resolution"
+  }
+]

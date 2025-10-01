@@ -153,5 +153,263 @@
     "file": "How_a_16th_Century_Explorers_Sailing_Ship_Works.json",
     "url": "https://www.youtube.com/watch?v=3pYqXrFx6S8",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Animagraphs/How_a_16th_Century_Explorers_Sailing_Ship_Works.md"
+  },
+  {
+    "name": "The Engineering Innovations Behind the World's Most Advanced Submarines",
+    "file": "The_Engineering_Innovations_Behind_the_Worlds_Most_Advanced_Submarines.json",
+    "url": "https://www.youtube.com/watch?v=gtb7QvmvPeg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Blueprint/The_Engineering_Innovations_Behind_the_Worlds_Most_Advanced_Submarines.md"
+  },
+  {
+    "name": "How To Automate Anything: A Guide to Parts Every Maker Should Know How To Use",
+    "file": "How_To_Automate_Anything_A_Guide_to_Parts_Every_Maker_Should_Know_How_To_Use.json",
+    "url": "https://www.youtube.com/watch?v=S6GpV431nww",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Jeremy_Fielding/How_To_Automate_Anything_A_Guide_to_Parts_Every_Maker_Should_Know_How_To_Use.md"
+  },
+  {
+    "name": "How French Drains Work",
+    "file": "How_French_Drains_Work.json",
+    "url": "https://www.youtube.com/watch?v=aFZM_BY6jBw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Practical_Engineering/How_French_Drains_Work.md"
+  },
+  {
+    "name": "The Hidden Engineering of Landfills",
+    "file": "The_Hidden_Engineering_of_Landfills.json",
+    "url": "https://www.youtube.com/watch?v=HRx_dZawN44",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Practical_Engineering/The_Hidden_Engineering_of_Landfills.md"
+  },
+  {
+    "name": "Why Is Desalination So Difficult?",
+    "file": "Why_Is_Desalination_So_Difficult.json",
+    "url": "https://www.youtube.com/watch?v=mxqOPdEUNTs",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Practical_Engineering/Why_Is_Desalination_So_Difficult.md"
+  },
+  {
+    "name": "NASA's Plutonium-238 Problem: Powering Deep Space Exploration",
+    "file": "NASAs_Plutonium_Problem.json",
+    "url": "https://www.youtube.com/watch?v=geIhl_VE0IA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Real_Engineering/NASAs_Plutonium_Problem.md"
+  },
+  {
+    "name": "Type III Anodizing",
+    "file": "Type_III_Anodizing.json",
+    "url": "https://www.youtube.com/watch?v=nCIsL5E7Q60",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Surface_Coatings/Type_III_Anodizing.md"
+  },
+  {
+    "name": "Fab Academy Class 01 - Project Management",
+    "file": "Fab_Academy_Class_01_Project_Management.json",
+    "url": "https://www.youtube.com/watch?v=61sHlAc48F4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_01_Project_Management.md"
+  },
+  {
+    "name": "Fab Academy Class 02 - Computer-Aided Design (CAD) Tools",
+    "file": "Fab_Academy_Class_02_CAD_Tools.json",
+    "url": "https://www.youtube.com/watch?v=-VG06B7RBgc",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_02_Computer_Aided_Design_CAD_Tools.md"
+  },
+  {
+    "name": "Fab Academy Class 03 - Computer Controlled Cutting",
+    "file": "Fab_Academy_Class_03_Computer_Controlled_Cutting.json",
+    "url": "https://www.youtube.com/watch?v=snNmLoBYV4w",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_03_Computer_Controlled_Cutting.md"
+  },
+  {
+    "name": "Fab Academy Class 04 - Embedded Programming",
+    "file": "Fab_Academy_Class_04_Embedded_Programming.json",
+    "url": "https://www.youtube.com/watch?v=saGrn6gVon8",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_04_Embedded_Programming.md"
+  },
+  {
+    "name": "Fab Academy Class 05 - 3D Scanning and Printing",
+    "file": "Fab_Academy_Class_05_3D_Scanning_and_Printing.json",
+    "url": "https://www.youtube.com/watch?v=AHBIeRzd8rI",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_05_3D_Scanning_and_Printing.md"
+  },
+  {
+    "name": "Fab Academy Class 06 - Electronics Design",
+    "file": "Fab_Academy_Class_06_Electronics_Design.json",
+    "url": "https://www.youtube.com/watch?v=_BXuUTGGNpk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_06_Electronics_Design.md"
+  },
+  {
+    "name": "Fab Academy Class 07 - Computer Controlled Machining",
+    "file": "Fab_Academy_Class_07_Computer_Controlled_Machining.json",
+    "url": "https://www.youtube.com/watch?v=AIqKrTWyRGw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_07_Computer_Controlled_Machining.md"
+  },
+  {
+    "name": "Fab Academy Class 07.5 - Electronics Production",
+    "file": "Fab_Academy_Class_07.5_Electronics_Production.json",
+    "url": "https://www.youtube.com/watch?v=Erx03eDmdzk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_07.5_Electronics_Production.md"
+  },
+  {
+    "name": "Fab Academy Class 08 - Mastering Input Devices",
+    "file": "Fab_Academy_Class_08_Mastering_Input_Devices.json",
+    "url": "https://www.youtube.com/watch?v=xO0Dt3ih_hA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_08_Mastering_Input_Devices.md"
+  },
+  {
+    "name": "Fab Academy Class 09 - Mastering Output Devices",
+    "file": "Fab_Academy_Class_09_Mastering_Output_Devices.json",
+    "url": "https://www.youtube.com/watch?v=Go71oRBcG-E",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_09_Mastering_Output_Devices.md"
+  },
+  {
+    "name": "Fab Academy Class 10 - Mastering Networking and Communications",
+    "file": "Fab_Academy_Class_10_Mastering_Networking_and_Communications.json",
+    "url": "https://www.youtube.com/watch?v=ucIDuhC_mLA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_10_Mastering_Networking_and_Communications.md"
+  },
+  {
+    "name": "Fab Academy Class 11 - Mastering Mechanical and Machine Design",
+    "file": "Fab_Academy_Class_11_Mastering_Mechanical_and_Machine_Design.json",
+    "url": "https://www.youtube.com/watch?v=14I2-qX5a4g",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_11_Mastering_Mechanical_and_Machine_Design.md"
+  },
+  {
+    "name": "Fab Academy Class 12 - Mastering Molding and Casting",
+    "file": "Fab_Academy_Class_12_Mastering_Molding_and_Casting.json",
+    "url": "https://www.youtube.com/watch?v=rbwrFknh_Y0",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_12_Mastering_Molding_and_Casting.md"
+  },
+  {
+    "name": "Fab Academy Class 13 - Interface and Application Programming",
+    "file": "Fab_Academy_Class_13_Interface_and_Application_Programming.json",
+    "url": "https://www.youtube.com/watch?v=2baDZPkYvc0",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_13_Interface_and_Application_Programming.md"
+  },
+  {
+    "name": "Fab Academy Class 14 - Mastering System Integration",
+    "file": "Fab_Academy_Class_14_Mastering_System_Integration.json",
+    "url": "https://www.youtube.com/watch?v=HKPeZZkqRhQ",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_14_Mastering_System_Integration.md"
+  },
+  {
+    "name": "Fab Academy Class 14.5 - Explore The Unexpected",
+    "file": "Fab_Academy_Class_14.5_Explore_The_Unexpected.json",
+    "url": "https://www.youtube.com/watch?v=sMPNtGyQEUQ",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Mechatronics/Fab_Academy/2025_Class_14.5_Explore_The_Unexpected.md"
+  },
+  {
+    "name": "Ancient Rome's Road System: The Rise and Fall of Rome",
+    "file": "Ancient_Romes_Road_System.json",
+    "url": "https://www.youtube.com/watch?v=Ak29JrNbxuU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/Ancient_Romes_Road_System.md"
+  },
+  {
+    "name": "The Battle of Ecnomus: Roman-Carthaginian Naval Engagement",
+    "file": "Battle_of_Ecnomus.json",
+    "url": "https://www.youtube.com/watch?v=jpGMSzgd8eg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/Battle_of_Ecnomus.md"
+  },
+  {
+    "name": "How Do Roman Aqueducts Work?",
+    "file": "How_Do_Roman_Aqueducts_Work.json",
+    "url": "https://www.youtube.com/watch?v=m7AXS5lPjaQ",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/How_Do_Roman_Aqueducts_Work.md"
+  },
+  {
+    "name": "The Latin Words You Do Not Know You Are Using",
+    "file": "The_Latin_Words_You_Do_Not_Know_You_Are_Using.json",
+    "url": "https://www.youtube.com/watch?v=Lf9Q68DZlok",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/The_Latin_Words_You_Do_Not_Know_You_Are_Using.md"
+  },
+  {
+    "name": "The Life of Julius Caesar - The Rise and Fall of a Roman Colossus",
+    "file": "The_Life_of_Julius_Caesar.json",
+    "url": "https://www.youtube.com/watch?v=xuHwfm2lHrk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/The_Life_of_Julius_Caesar.md"
+  },
+  {
+    "name": "What Was Gladiator School Like?",
+    "file": "What_Was_Gladiator_School_Like.json",
+    "url": "https://www.youtube.com/watch?v=stmI3WQhw9w",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/What_Was_Gladiator_School_Like.md"
+  },
+  {
+    "name": "What Was The Roman Colosseum Like?",
+    "file": "What_Was_The_Roman_Colosseum_Like.json",
+    "url": "https://www.youtube.com/watch?v=1oiuvpT1tBE",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Roman_Empire/What_Was_The_Roman_Colosseum_Like.md"
+  },
+  {
+    "name": "The Soviet Union: Red October to Barbarossa",
+    "file": "Red_October_To_Barbarossa.json",
+    "url": "https://www.youtube.com/watch?v=s29Q9EIbDT8",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/History/The_Soviet_Union/001_Red_October_To_Barbarossa.md"
+  },
+  {
+    "name": "Latin 001 - Basic English Grammar For Learning Latin Part I",
+    "file": "Latin_001_Basic_English_Grammar_Part_I.json",
+    "url": "https://www.youtube.com/watch?v=dKG68y2VC0Y",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Language/Latin/Latin_001.md"
+  },
+  {
+    "name": "Latin 002 - Basic English Grammar For Learning Latin Part II",
+    "file": "Latin_002_Basic_English_Grammar_Part_II.json",
+    "url": "https://www.youtube.com/watch?v=gox0p-gRXBw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Language/Latin/Latin_002.md"
+  },
+  {
+    "name": "Latin 003 - The Latin Alphabet - Consonant Pronunciation",
+    "file": "Latin_003_The_Latin_Alphabet_Consonants.json",
+    "url": "https://www.youtube.com/watch?v=0oWWOJW3948",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Language/Latin/Latin_003.md"
+  },
+  {
+    "name": "Latin 004 - The Latin Alphabet - Vowel Pronunciation",
+    "file": "Latin_004_The_Latin_Alphabet_Vowels.json",
+    "url": "https://www.youtube.com/watch?v=LwtgvwJljto",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Language/Latin/Latin_004.md"
+  },
+  {
+    "name": "Latin 005 - A Theory of Tenses",
+    "file": "Latin_005_A_Theory_of_Tenses.json",
+    "url": "https://www.youtube.com/watch?v=z-2gXOb9Y5Y",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Language/Latin/Latin_005.md"
+  },
+  {
+    "name": "The Terrible Fate of Agamemnon",
+    "file": "The_Agamemnon_by_Aeschylus.json",
+    "url": "https://www.youtube.com/watch?v=lhVLyOJNmzs",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/Oresteia_Trilogy/01_The_Agamemnon_by_Aeschylus.md"
+  },
+  {
+    "name": "Orestes Revenge",
+    "file": "The_Libation_Bearers_by_Aeschylus.json",
+    "url": "https://www.youtube.com/watch?v=D2bAzGhFVO4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/Oresteia_Trilogy/02_The_Libation_Bearers_by_Aeschylus.md"
+  },
+  {
+    "name": "The Eumenides By Aeschylus",
+    "file": "The_Eumenides_By_Aeschylus.json",
+    "url": "https://www.youtube.com/watch?v=p2AgZHter7Q",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/Oresteia_Trilogy/03_The_Eumenides_By_Aeschylus.md"
+  },
+  {
+    "name": "The Story of Oedipus",
+    "file": "The_Story_of_Oedipus.json",
+    "url": "https://www.youtube.com/watch?v=8RXziM9HSi4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/Theban_Trilogy_by_Sophocles/1_The_Story_of_Oedipus.md"
+  },
+  {
+    "name": "Oedipus at Colonus",
+    "file": "Oedipus_at_Colonus.json",
+    "url": "https://www.youtube.com/watch?v=sY-CxHV2PUI",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/Theban_Trilogy_by_Sophocles/2_Oedipus_at_Colonus.md"
+  },
+  {
+    "name": "Antigone",
+    "file": "Antigone.json",
+    "url": "https://www.youtube.com/watch?v=OaYuwkHSLUk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/Theban_Trilogy_by_Sophocles/3_Antigone.md"
+  },
+  {
+    "name": "The Iliad and The Odyssey: Origins of the Trojan War",
+    "file": "The_Iliad_and_The_Odyssey_Origins_of_the_Trojan_War.json",
+    "url": "https://www.youtube.com/watch?v=NY4W6JusSB0",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/The_Iliad_and_The_Odyssey_Graphic_Novel.md"
   }
 ]

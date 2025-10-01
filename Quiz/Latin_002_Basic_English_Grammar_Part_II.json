@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the verb compared to in the car analogy?",
+    "options": [
+      "The steering wheel",
+      "The body frame",
+      "The engine/motor",
+      "The wheels"
+    ],
+    "answer": "The engine/motor"
+  },
+  {
+    "question": "Which type of verb carries action across to another noun?",
+    "options": [
+      "Progressive verb",
+      "Intransitive verb",
+      "Linking verb",
+      "Transitive verb"
+    ],
+    "answer": "Transitive verb"
+  },
+  {
+    "question": "In the sentence \"The phone rings,\" what type of verb is \"rings\"?",
+    "options": [
+      "Progressive",
+      "Transitive",
+      "Linking",
+      "Intransitive"
+    ],
+    "answer": "Intransitive"
+  },
+  {
+    "question": "What is the function of a linking verb?",
+    "options": [
+      "To carry action to an object",
+      "To show movement",
+      "To connect equivalent parts like an equals sign",
+      "To show action"
+    ],
+    "answer": "To connect equivalent parts like an equals sign"
+  },
+  {
+    "question": "True or False: Adding prepositional phrases to a sentence can change an intransitive verb into a transitive verb.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "How can you identify the subject in a sentence?",
+    "options": [
+      "Find the last noun in the sentence",
+      "Look for the noun after the verb",
+      "Ask \"whom or what\" after the verb",
+      "Ask \"who or what\" plus the verb"
+    ],
+    "answer": "Ask \"who or what\" plus the verb"
+  },
+  {
+    "question": "In the sentence \"The wonderful Latin student answers the phone,\" what is the direct object?",
+    "options": [
+      "Wonderful",
+      "The phone",
+      "The wonderful Latin student",
+      "Answers"
+    ],
+    "answer": "The phone"
+  },
+  {
+    "question": "What makes a verb transitive?",
+    "options": [
+      "It links two ideas",
+      "It has a prepositional phrase",
+      "It has a direct object",
+      "It has a subject"
+    ],
+    "answer": "It has a direct object"
+  },
+  {
+    "question": "True or False: A sentence can function properly without a verb.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "In \"Julia Caesar is her friend,\" what type of verb is \"is\"?",
+    "options": [
+      "Progressive",
+      "Linking",
+      "Transitive",
+      "Intransitive"
+    ],
+    "answer": "Linking"
+  }
+]

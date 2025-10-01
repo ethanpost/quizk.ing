@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the primary focus of this week's class on molding and casting?",
+    "options": [
+      "Flexible/soft tooling",
+      "3D printing techniques",
+      "Metal injection molding",
+      "Vacuum forming processes"
+    ],
+    "answer": "Flexible/soft tooling"
+  },
+  {
+    "question": "Which material is described as \"very high resolution concrete\" in the transcript?",
+    "options": [
+      "Urethane plastics",
+      "Calcium-based compounds (Dry Stone, Hydro Stone)",
+      "Silicone rubbers",
+      "Low temperature wax"
+    ],
+    "answer": "Calcium-based compounds (Dry Stone, Hydro Stone)"
+  },
+  {
+    "question": "What is the main advantage of using soft molds over rigid molds?",
+    "options": [
+      "They are cheaper to produce",
+      "They require less material",
+      "They can have complex geometries and overhangs",
+      "They cure faster"
+    ],
+    "answer": "They can have complex geometries and overhangs"
+  },
+  {
+    "question": "What mixing technique is recommended to prevent air bubbles?",
+    "options": [
+      "Rapid stirring",
+      "Pouring quickly",
+      "Scooping the material",
+      "Shearing the material"
+    ],
+    "answer": "Shearing the material"
+  },
+  {
+    "question": "What is the purpose of a vent in a mold?",
+    "options": [
+      "To strengthen the final part",
+      "To allow air to escape",
+      "To add material to the mold",
+      "To create decorative patterns"
+    ],
+    "answer": "To allow air to escape"
+  },
+  {
+    "question": "Which of the following materials is described as \"completely office safe\"?",
+    "options": [
+      "Epoxies",
+      "Low temp alloys",
+      "Silicone, hydro stone, and dry stone",
+      "Urethane plastics"
+    ],
+    "answer": "Silicone, hydro stone, and dry stone"
+  },
+  {
+    "question": "What is the recommended way to pour material into a mold to prevent bubbles?",
+    "options": [
+      "Use a pressure chamber",
+      "Pour in a thin bead",
+      "Dump it in quickly",
+      "Stir vigorously while pouring"
+    ],
+    "answer": "Pour in a thin bead"
+  },
+  {
+    "question": "What is a \"draft angle\" in mold design?",
+    "options": [
+      "The slope of the runner system",
+      "The angle of the parting line",
+      "A slight taper on vertical faces to allow easy part removal",
+      "The angle of the vent opening"
+    ],
+    "answer": "A slight taper on vertical faces to allow easy part removal"
+  },
+  {
+    "question": "What is the purpose of a release agent?",
+    "options": [
+      "To add color to the final part",
+      "To speed up the curing process",
+      "To strengthen the mold",
+      "To prevent casting material from sticking to the mold"
+    ],
+    "answer": "To prevent casting material from sticking to the mold"
+  },
+  {
+    "question": "What is \"pool life\" in the context of molding and casting?",
+    "options": [
+      "The shelf life of unopened materials",
+      "The time the mold lasts before wearing out",
+      "The time available to work with mixed material before it begins to cure",
+      "The time it takes for the material to cool"
+    ],
+    "answer": "The time available to work with mixed material before it begins to cure"
+  },
+  {
+    "question": "What is the main challenge mentioned for this week's assignment?",
+    "options": [
+      "Finding the right tools",
+      "Bubbles in the final product",
+      "Time constraints",
+      "Cost of materials"
+    ],
+    "answer": "Bubbles in the final product"
+  },
+  {
+    "question": "What is \"insert molding\"?",
+    "options": [
+      "Adding decorative elements to the mold",
+      "Making a mold from an existing object",
+      "Inserting a core into the mold",
+      "Casting material around an existing part"
+    ],
+    "answer": "Casting material around an existing part"
+  },
+  {
+    "question": "What is the purpose of the sprue in injection molding?",
+    "options": [
+      "To strengthen the final part",
+      "To create decorative patterns",
+      "The channel through which material enters the mold",
+      "To vent air from the mold"
+    ],
+    "answer": "The channel through which material enters the mold"
+  },
+  {
+    "question": "What is \"flashing\" in molding?",
+    "options": [
+      "A surface finish technique",
+      "A type of release agent",
+      "A type of mold material",
+      "Excess material that leaks between mold parts"
+    ],
+    "answer": "Excess material that leaks between mold parts"
+  },
+  {
+    "question": "What is \"roto molding\"?",
+    "options": [
+      "Tumbling a mold on all axes to create smooth surfaces",
+      "A process that uses vacuum pressure",
+      "A type of injection molding",
+      "A method for making rigid molds"
+    ],
+    "answer": "Tumbling a mold on all axes to create smooth surfaces"
+  },
+  {
+    "question": "What is the purpose of registration in multi-part molds?",
+    "options": [
+      "To create decorative patterns",
+      "To align different parts of the mold properly",
+      "To reduce material costs",
+      "To speed up the curing process"
+    ],
+    "answer": "To align different parts of the mold properly"
+  },
+  {
+    "question": "What is \"nesting\" in mold design?",
+    "options": [
+      "Creating hollow spaces in the mold",
+      "Adding support structures",
+      "Complete face-to-face contact between mold parts for better alignment",
+      "A type of surface finish"
+    ],
+    "answer": "Complete face-to-face contact between mold parts for better alignment"
+  },
+  {
+    "question": "What is an \"exothermic\" reaction?",
+    "options": [
+      "A reaction that happens at room temperature",
+      "A chemical reaction that releases heat",
+      "A reaction that requires cooling",
+      "A chemical reaction that absorbs heat"
+    ],
+    "answer": "A chemical reaction that releases heat"
+  },
+  {
+    "question": "What is \"deep cure\" in molding materials?",
+    "options": [
+      "Materials that cure slowly",
+      "Materials that require high temperatures",
+      "Materials that cure chemically throughout their entire volume",
+      "Materials that cure only on the surface"
+    ],
+    "answer": "Materials that cure chemically throughout their entire volume"
+  },
+  {
+    "question": "What is the purpose of a parting line?",
+    "options": [
+      "To strengthen the final part",
+      "To create decorative patterns",
+      "The line where two halves of a mold meet",
+      "To allow air to escape"
+    ],
+    "answer": "The line where two halves of a mold meet"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "question": "Who did Orestes murder that caused him to be pursued by the Furies?",
+    "options": [
+      "His sister Electra",
+      "The god Apollo",
+      "His father Agamemnon",
+      "His mother Clytemnestra"
+    ],
+    "answer": "His mother Clytemnestra"
+  },
+  {
+    "question": "The Erinyes (Furies) were known for punishing what specific type of crime?",
+    "options": [
+      "Murder of kin or family members",
+      "Hubris against the gods",
+      "Theft from temples",
+      "Breaking oaths to the gods"
+    ],
+    "answer": "Murder of kin or family members"
+  },
+  {
+    "question": "How many Furies are named in the transcript?",
+    "options": [
+      "Three",
+      "Five",
+      "Two",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What are the names of the three Furies?",
+    "options": [
+      "Tisiphone, Megaera, and Alecto",
+      "Selene, Helios, and Eos",
+      "Stheno, Euryale, and Medusa",
+      "Clotho, Lachesis, and Atropos"
+    ],
+    "answer": "Tisiphone, Megaera, and Alecto"
+  },
+  {
+    "question": "What does the name Tisiphone represent?",
+    "options": [
+      "The punishment",
+      "The avenger",
+      "The unnamed",
+      "The grudge"
+    ],
+    "answer": "The punishment"
+  },
+  {
+    "question": "Where did Orestes go to seek help from the gods?",
+    "options": [
+      "The Temple of Hera",
+      "The Oracle at Delphi",
+      "The Underworld",
+      "Mount Olympus"
+    ],
+    "answer": "The Oracle at Delphi"
+  },
+  {
+    "question": "Who served as Orestes' defense attorney during his trial?",
+    "options": [
+      "Apollo",
+      "Hermes",
+      "Zeus",
+      "Athena"
+    ],
+    "answer": "Apollo"
+  },
+  {
+    "question": "Who presided over Orestes' trial?",
+    "options": [
+      "The Furies",
+      "Zeus",
+      "Athena",
+      "Apollo"
+    ],
+    "answer": "Athena"
+  },
+  {
+    "question": "Where did Orestes' trial take place?",
+    "options": [
+      "On Mount Aries outside Athens",
+      "In the Underworld",
+      "On Mount Olympus",
+      "At the Oracle of Delphi"
+    ],
+    "answer": "On Mount Aries outside Athens"
+  },
+  {
+    "question": "What was the outcome of the jury's vote in Orestes' trial?",
+    "options": [
+      "The jury was dismissed without verdict",
+      "A tie",
+      "Unanimous acquittal",
+      "Unanimous conviction"
+    ],
+    "answer": "A tie"
+  },
+  {
+    "question": "Who cast the deciding vote in Orestes' trial?",
+    "options": [
+      "The chief juror",
+      "Apollo",
+      "Zeus",
+      "Athena"
+    ],
+    "answer": "Athena"
+  },
+  {
+    "question": "What was Athena's verdict regarding Orestes?",
+    "options": [
+      "Exiled from all Greek territories",
+      "Sentenced to eternal torment",
+      "Acquitted of unjustified murder",
+      "Guilty of unjustified murder"
+    ],
+    "answer": "Acquitted of unjustified murder"
+  },
+  {
+    "question": "According to Athena's reasoning, who did Orestes really kill?",
+    "options": [
+      "A goddess in disguise",
+      "His father's murderer",
+      "An innocent woman",
+      "His mother"
+    ],
+    "answer": "His father's murderer"
+  },
+  {
+    "question": "Who was the loyal friend who stood by Orestes throughout his ordeal?",
+    "options": [
+      "Apollo",
+      "Electra",
+      "Aegisthus",
+      "Pilades"
+    ],
+    "answer": "Pilades"
+  },
+  {
+    "question": "What was promised to appease the Furies after Orestes' acquittal?",
+    "options": [
+      "Orestes' eventual death",
+      "Control over Athens",
+      "A temple where they would be revered",
+      "Human sacrifices"
+    ],
+    "answer": "A temple where they would be revered"
+  },
+  {
+    "question": "What promise did Orestes make to Athens after his acquittal?",
+    "options": [
+      "That Mycenae would never war against Athens",
+      "To become a citizen of Athens",
+      "To build a temple to Athena",
+      "To send annual tribute to Athens"
+    ],
+    "answer": "That Mycenae would never war against Athens"
+  },
+  {
+    "question": "What was the ultimate fate of the Furies in this story?",
+    "options": [
+      "They were transformed into promoters of divine justice",
+      "They continued pursuing Orestes forever",
+      "They were imprisoned in Tartarus",
+      "They were killed by Apollo"
+    ],
+    "answer": "They were transformed into promoters of divine justice"
+  },
+  {
+    "question": "What crime did Clytemnestra commit that Orestes was avenging?",
+    "options": [
+      "Murder of her husband Agamemnon",
+      "Worship of forbidden gods",
+      "Betrayal of Greece to the Trojans",
+      "Attempted assassination of Orestes"
+    ],
+    "answer": "Murder of her husband Agamemnon"
+  },
+  {
+    "question": "True or False: Orestes acted entirely on his own initiative when killing his mother.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What important transition in justice systems does this myth represent?",
+    "options": [
+      "From forgiveness to punishment",
+      "From written to oral law",
+      "From personal vengeance to civic legal process",
+      "From divine to human justice"
+    ],
+    "answer": "From personal vengeance to civic legal process"
+  }
+]

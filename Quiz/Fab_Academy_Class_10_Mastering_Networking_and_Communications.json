@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the primary reason for networking devices in different locations?",
+    "options": [
+      "To overcome distance limitations",
+      "To increase processing speed",
+      "To reduce power consumption",
+      "To simplify programming"
+    ],
+    "answer": "To overcome distance limitations"
+  },
+  {
+    "question": "Which networking benefit allows you to develop and debug components separately?",
+    "options": [
+      "Cost reduction",
+      "Modularity",
+      "Parallelism",
+      "Interference prevention"
+    ],
+    "answer": "Modularity"
+  },
+  {
+    "question": "What type of network configuration uses hardcoded IDs for addressing?",
+    "options": [
+      "Hop count addressing",
+      "Broadcast network",
+      "Multi-drop serial with assigned IDs",
+      "Daisy-chain configuration"
+    ],
+    "answer": "Multi-drop serial with assigned IDs"
+  },
+  {
+    "question": "In a daisy-chain network, how do nodes determine their identity?",
+    "options": [
+      "Through broadcast messages",
+      "Through hardcoded addresses",
+      "By counting hops from the host",
+      "Using random assignment"
+    ],
+    "answer": "By counting hops from the host"
+  },
+  {
+    "question": "What is the main advantage of synchronous serial communication over asynchronous?",
+    "options": [
+      "Higher data rates",
+      "Better error detection",
+      "No need to agree on bit duration in advance",
+      "Simpler hardware requirements"
+    ],
+    "answer": "No need to agree on bit duration in advance"
+  },
+  {
+    "question": "How many devices can be connected to a standard I2C bus?",
+    "options": [
+      "512",
+      "64",
+      "127",
+      "255"
+    ],
+    "answer": "127"
+  },
+  {
+    "question": "What type of resistor is required for I2C communication?",
+    "options": [
+      "Current limiting resistor",
+      "Pull-up resistor",
+      "Voltage divider resistor",
+      "Pull-down resistor"
+    ],
+    "answer": "Pull-up resistor"
+  },
+  {
+    "question": "Which protocol uses chip select lines to address multiple devices?",
+    "options": [
+      "RS232",
+      "USB",
+      "I2C",
+      "SPI"
+    ],
+    "answer": "SPI"
+  },
+  {
+    "question": "What does SDI stand for in SPI communication?",
+    "options": [
+      "Standard Data Interface",
+      "Synchronous Data Input",
+      "Serial Data Input",
+      "Serial Data Interface"
+    ],
+    "answer": "Serial Data Input"
+  },
+  {
+    "question": "Which protocol is commonly used for SD card communication?",
+    "options": [
+      "Ethernet",
+      "I2C",
+      "USB",
+      "SPI"
+    ],
+    "answer": "SPI"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "According to the transcript, what is the main purpose of Wild Card Week?",
+    "options": [
+      "To introduce new skills not covered in other assignments",
+      "To review all previous skills learned",
+      "To complete final project requirements",
+      "To practice existing fabrication techniques"
+    ],
+    "answer": "To introduce new skills not covered in other assignments"
+  },
+  {
+    "question": "What must a Wild Card Week assignment include according to the rules?",
+    "options": [
+      "Only manual skills and craftsmanship",
+      "Digital design and manufacturing process",
+      "Only 3D printing techniques",
+      "Traditional hand tools only"
+    ],
+    "answer": "Digital design and manufacturing process"
+  },
+  {
+    "question": "Which of the following is NOT a valid Wild Card Week option mentioned in the transcript?",
+    "options": [
+      "Multi-axis machining",
+      "Soft robotics",
+      "Basic hand sewing",
+      "Embedded AI programming"
+    ],
+    "answer": "Basic hand sewing"
+  },
+  {
+    "question": "What is the key principle of composite materials?",
+    "options": [
+      "Using only natural materials",
+      "Creating materials that are only good in compression",
+      "Combining fibers (good in tension) with resin matrix (good in compression)",
+      "Combining materials that are both strong in tension"
+    ],
+    "answer": "Combining fibers (good in tension) with resin matrix (good in compression)"
+  },
+  {
+    "question": "Which safety concern is mentioned regarding carbon fiber and glass fiber?",
+    "options": [
+      "They are completely safe to work with",
+      "They only cause skin irritation",
+      "They are only dangerous when wet",
+      "They are similar to asbestos in terms of lung disease risk"
+    ],
+    "answer": "They are similar to asbestos in terms of lung disease risk"
+  },
+  {
+    "question": "What is the purpose of using a core material in composite construction?",
+    "options": [
+      "To make the composite heavier",
+      "To make the composite more expensive",
+      "To provide thickness without adding weight since the middle doesn't contribute to bending stiffness",
+      "To add color to the final product"
+    ],
+    "answer": "To provide thickness without adding weight since the middle doesn't contribute to bending stiffness"
+  },
+  {
+    "question": "Which compression method works over any size area without varying force requirements?",
+    "options": [
+      "Hand pressing",
+      "Water weight",
+      "Vacuum bagging",
+      "Mechanical clamping"
+    ],
+    "answer": "Vacuum bagging"
+  },
+  {
+    "question": "What is the difference between origami and kirigami?",
+    "options": [
+      "Origami uses paper, kirigami uses fabric",
+      "Origami is folding with score lines, kirigami includes cut lines as well as scoring lines",
+      "Origami is Japanese, kirigami is Chinese",
+      "There is no difference between them"
+    ],
+    "answer": "Origami is folding with score lines, kirigami includes cut lines as well as scoring lines"
+  },
+  {
+    "question": "What is an FPGA?",
+    "options": [
+      "A type of 3D printer",
+      "A type of laser cutter",
+      "A field programmable gate array - a sea of logic with switches for reconfigurable integrated circuits",
+      "A composite material"
+    ],
+    "answer": "A field programmable gate array - a sea of logic with switches for reconfigurable integrated circuits"
+  },
+  {
+    "question": "What is the recommended approach for beginners working with composites?",
+    "options": [
+      "Skip safety equipment to save time",
+      "Start with large complex parts",
+      "Use only carbon fiber and glass fiber",
+      "Make small test coupons before attempting large parts"
+    ],
+    "answer": "Make small test coupons before attempting large parts"
+  },
+  {
+    "question": "What is the main advantage of using natural fibers in composites?",
+    "options": [
+      "They are always stronger than synthetic fibers",
+      "They are not hazardous, environmentally friendly, and easy to work with",
+      "They are always cheaper than synthetic fibers",
+      "They require no safety equipment"
+    ],
+    "answer": "They are not hazardous, environmentally friendly, and easy to work with"
+  },
+  {
+    "question": "What is wet layup in composite manufacturing?",
+    "options": [
+      "Using only water-based resins",
+      "Soaking fabric in water before applying resin",
+      "Applying resin to fabric layers during assembly, then adding another layer",
+      "Using wet molds only"
+    ],
+    "answer": "Applying resin to fabric layers during assembly, then adding another layer"
+  },
+  {
+    "question": "What is the purpose of the bleeder and breather in vacuum bagging?",
+    "options": [
+      "To make the process faster",
+      "To let resin come out (bleeder) and provide porous material for absorption (breather)",
+      "To reduce the cost of materials",
+      "To add color to the composite"
+    ],
+    "answer": "To let resin come out (bleeder) and provide porous material for absorption (breather)"
+  },
+  {
+    "question": "What is the recommended resin choice for safer composite work?",
+    "options": [
+      "Standard epoxy with high volatility",
+      "Any epoxy available at hardware stores",
+      "Only natural plant resins",
+      "Entropy Resins with lower volatility and more biobased content"
+    ],
+    "answer": "Entropy Resins with lower volatility and more biobased content"
+  },
+  {
+    "question": "What is the final step in composite finishing that gives the smooth, shiny appearance?",
+    "options": [
+      "Polishing with wax",
+      "Applying a clear coat over the rougher surface",
+      "Painting with automotive paint",
+      "Sanding with fine grit paper"
+    ],
+    "answer": "Applying a clear coat over the rougher surface"
+  },
+  {
+    "question": "What is the main challenge mentioned about Wild Card Week?",
+    "options": [
+      "Finding enough materials",
+      "Getting access to machines",
+      "Managing time and attention to stay focused",
+      "Learning new software"
+    ],
+    "answer": "Managing time and attention to stay focused"
+  },
+  {
+    "question": "What is the relationship between the radius of curvature and composite bending stiffness?",
+    "options": [
+      "Smaller radius means less stiffness",
+      "They are unrelated",
+      "The radius of curvature gives you the bending stiffness",
+      "Larger radius means more stiffness"
+    ],
+    "answer": "The radius of curvature gives you the bending stiffness"
+  },
+  {
+    "question": "What is the purpose of darts in composite fabric layup?",
+    "options": [
+      "To make the composite lighter",
+      "To add decorative elements",
+      "To reduce material waste",
+      "To create cuts in fabric so it lays smoothly in curved molds"
+    ],
+    "answer": "To create cuts in fabric so it lays smoothly in curved molds"
+  },
+  {
+    "question": "What is the main advantage of composites over traditional \"make something big\" techniques?",
+    "options": [
+      "They require less skill",
+      "They can automatically make large, light, curved, smooth surfaces",
+      "They are always cheaper",
+      "They are faster to make"
+    ],
+    "answer": "They can automatically make large, light, curved, smooth surfaces"
+  },
+  {
+    "question": "What is the recommended approach for students who are overwhelmed during the course?",
+    "options": [
+      "Skip assignments and focus only on the final project",
+      "Work alone to avoid distractions",
+      "Take a break from the course",
+      "Come to global open time with problems, not solutions"
+    ],
+    "answer": "Come to global open time with problems, not solutions"
+  }
+]

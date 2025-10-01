@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to the transcript, what do tenses represent in Indo-European languages?",
+    "options": [
+      "Only time periods",
+      "Only verb aspects",
+      "A combination of time and aspect",
+      "A combination of mood and voice"
+    ],
+    "answer": "A combination of time and aspect"
+  },
+  {
+    "question": "How many tenses are there in Latin?",
+    "options": [
+      "Three",
+      "Four",
+      "Six",
+      "Seven"
+    ],
+    "answer": "Six"
+  },
+  {
+    "question": "Which aspect shows an action happening throughout a time period?",
+    "options": [
+      "Simple aspect",
+      "Completed aspect",
+      "Continual aspect",
+      "Progressive aspect"
+    ],
+    "answer": "Continual aspect"
+  },
+  {
+    "question": "In the continual aspect, which form does English use?",
+    "options": [
+      "Form of \"to have\" + verb stem",
+      "Form of \"to be\" + -ing form of verb",
+      "Form of \"to do\" + base form of verb",
+      "Only the base form of the verb"
+    ],
+    "answer": "Form of \"to be\" + -ing form of verb"
+  },
+  {
+    "question": "What is the Latin equivalent of the English \"I was loving\"?",
+    "options": [
+      "Perfect tense",
+      "Present tense",
+      "Future tense",
+      "Imperfect tense"
+    ],
+    "answer": "Imperfect tense"
+  },
+  {
+    "question": "Which principal part is used to form the Latin present system?",
+    "options": [
+      "First principal part",
+      "Second principal part",
+      "Third principal part",
+      "Fourth principal part"
+    ],
+    "answer": "Second principal part"
+  },
+  {
+    "question": "In the completed aspect, which verb form does English use?",
+    "options": [
+      "Base form",
+      "-ing form",
+      "-ed form",
+      "Infinitive form"
+    ],
+    "answer": "-ed form"
+  },
+  {
+    "question": "What tenses make up the perfect system in Latin?",
+    "options": [
+      "Present, imperfect, and future",
+      "Perfect, pluperfect, and future perfect",
+      "Present, perfect, and future perfect",
+      "Imperfect, perfect, and pluperfect"
+    ],
+    "answer": "Perfect, pluperfect, and future perfect"
+  },
+  {
+    "question": "Which principal part is used to form the Latin perfect system?",
+    "options": [
+      "First principal part",
+      "Second principal part",
+      "Third principal part",
+      "Fourth principal part"
+    ],
+    "answer": "Third principal part"
+  },
+  {
+    "question": "What does the Latin perfect tense correspond to in English?",
+    "options": [
+      "Simple past only (\"I loved\")",
+      "Present perfect only (\"I have loved\")",
+      "Both simple past and present perfect",
+      "Future perfect (\"I will have loved\")"
+    ],
+    "answer": "Both simple past and present perfect"
+  },
+  {
+    "question": "What is the Aorist tense?",
+    "options": [
+      "A tense in Latin for the future perfect",
+      "A tense in Ancient Greek for the simple past",
+      "A tense in Latin for the pluperfect",
+      "A tense in English for the continuous aspect"
+    ],
+    "answer": "A tense in Ancient Greek for the simple past"
+  },
+  {
+    "question": "In the Sir Charles Napier story, what is the meaning of \"Peccavi\"?",
+    "options": [
+      "\"I have sinned\" only",
+      "\"I have Sindh\" only",
+      "Both \"I have sinned\" and \"I have Sindh\"",
+      "\"I was sinning\""
+    ],
+    "answer": "Both \"I have sinned\" and \"I have Sindh\""
+  },
+  {
+    "question": "How many aspects are discussed in the transcript?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What is aspect in grammar?",
+    "options": [
+      "The time when an action takes place",
+      "How an action, event, or state extends over time",
+      "The mood of the verb",
+      "The voice of the verb"
+    ],
+    "answer": "How an action, event, or state extends over time"
+  },
+  {
+    "question": "What is the simple aspect used for?",
+    "options": [
+      "Showing continuous actions",
+      "Showing completed actions",
+      "Showing actions that happen once or are generally true",
+      "Showing hypothetical actions"
+    ],
+    "answer": "Showing actions that happen once or are generally true"
+  }
+]

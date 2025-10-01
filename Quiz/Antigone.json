@@ -1,0 +1,202 @@
+[
+  {
+    "question": "According to the transcript, what happened to King Oedipus before the events of Antigone?",
+    "options": [
+      "He left Thebes burdened by guilt",
+      "He was killed in battle",
+      "He was overthrown by his sons",
+      "He died of natural causes"
+    ],
+    "answer": "He left Thebes burdened by guilt"
+  },
+  {
+    "question": "What was the relationship between Eteocles and Polynices?",
+    "options": [
+      "Father and son",
+      "Brothers",
+      "Cousins",
+      "Uncle and nephew"
+    ],
+    "answer": "Brothers"
+  },
+  {
+    "question": "Why did Polynices return to Thebes?",
+    "options": [
+      "To make peace with his brother",
+      "To rescue his sister Antigone",
+      "To reclaim what he considered his rightful throne",
+      "To honor his father's memory"
+    ],
+    "answer": "To reclaim what he considered his rightful throne"
+  },
+  {
+    "question": "What happened to both Eteocles and Polynices during the battle?",
+    "options": [
+      "They reconciled at the last moment",
+      "They fled the city",
+      "They were captured and imprisoned",
+      "They killed each other in combat"
+    ],
+    "answer": "They killed each other in combat"
+  },
+  {
+    "question": "Who took the throne after the deaths of Eteocles and Polynices?",
+    "options": [
+      "Ismene",
+      "Haemon",
+      "Antigone",
+      "Creon"
+    ],
+    "answer": "Creon"
+  },
+  {
+    "question": "What decree did Creon issue regarding Polynices?",
+    "options": [
+      "He should be buried outside the city walls",
+      "His body should be left unburied as food for animals",
+      "He should be given a hero's funeral",
+      "His body should be returned to the Argives"
+    ],
+    "answer": "His body should be left unburied as food for animals"
+  },
+  {
+    "question": "What action did Antigone take that defied Creon's decree?",
+    "options": [
+      "She convinced the citizens to overthrow Creon",
+      "She fled the city with Polynices' body",
+      "She scattered earth over Polynices' body",
+      "She publicly denounced Creon as a tyrant"
+    ],
+    "answer": "She scattered earth over Polynices' body"
+  },
+  {
+    "question": "What was Ismene's initial response to Antigone's plan?",
+    "options": [
+      "She suggested an alternative plan",
+      "She enthusiastically supported it",
+      "She was afraid of the consequences and tried to discourage Antigone",
+      "She reported Antigone to Creon"
+    ],
+    "answer": "She was afraid of the consequences and tried to discourage Antigone"
+  },
+  {
+    "question": "What principle did Antigone believe justified her actions?",
+    "options": [
+      "That Creon was not the legitimate ruler",
+      "That women should have equal rights to men",
+      "That family loyalty is more important than anything else",
+      "That divine law takes precedence over human law"
+    ],
+    "answer": "That divine law takes precedence over human law"
+  },
+  {
+    "question": "What punishment did Creon decree for Antigone?",
+    "options": [
+      "Exile from Thebes",
+      "Death by starvation in a cave",
+      "Immediate execution by sword",
+      "Public flogging"
+    ],
+    "answer": "Death by starvation in a cave"
+  },
+  {
+    "question": "Who was Haemon?",
+    "options": [
+      "The leader of the Theban army",
+      "Antigone's brother",
+      "Creon's son and Antigone's fiancé",
+      "Creon's advisor"
+    ],
+    "answer": "Creon's son and Antigone's fiancé"
+  },
+  {
+    "question": "What argument did Haemon use to try to persuade his father?",
+    "options": [
+      "That the gods had sent him a vision warning against the execution",
+      "That Antigone was innocent of the crime",
+      "That he would leave Thebes forever if Antigone died",
+      "That the people of Thebes opposed the death sentence"
+    ],
+    "answer": "That the people of Thebes opposed the death sentence"
+  },
+  {
+    "question": "What happened to Antigone in the cave?",
+    "options": [
+      "She escaped through a secret passage",
+      "She died of starvation",
+      "She hanged herself with her veil",
+      "She was rescued by Haemon"
+    ],
+    "answer": "She hanged herself with her veil"
+  },
+  {
+    "question": "What did Haemon do when he found Antigone dead?",
+    "options": [
+      "He buried Antigone properly",
+      "He fled Thebes in grief",
+      "He returned to confront his father",
+      "He fell on his sword"
+    ],
+    "answer": "He fell on his sword"
+  },
+  {
+    "question": "What happened to Creon's wife after learning of her son's death?",
+    "options": [
+      "She became the new ruler of Thebes",
+      "She cursed Creon and left Thebes",
+      "She took her own life",
+      "She forgave Creon"
+    ],
+    "answer": "She took her own life"
+  },
+  {
+    "question": "What is hubris as demonstrated in the story?",
+    "options": [
+      "The divine right of kings to rule",
+      "The love between family members",
+      "Excessive pride that leads to downfall",
+      "The custom of proper burial"
+    ],
+    "answer": "Excessive pride that leads to downfall"
+  },
+  {
+    "question": "What does Antigone's story ultimately demonstrate about divine law?",
+    "options": [
+      "That it only applies to the royal family",
+      "That it is outdated and should be ignored",
+      "That it punishes those who defy human authority",
+      "That it will ultimately punish those who act unjustly"
+    ],
+    "answer": "That it will ultimately punish those who act unjustly"
+  },
+  {
+    "question": "What is a tragic hero as exemplified in this story?",
+    "options": [
+      "A character who fights in battle",
+      "A character who survives despite all odds",
+      "A character whose fatal flaw leads to their downfall",
+      "A character who always makes the right choices"
+    ],
+    "answer": "A character whose fatal flaw leads to their downfall"
+  },
+  {
+    "question": "What happened to Creon at the end of the story?",
+    "options": [
+      "He was overthrown and died in exile",
+      "He remained king but was forever grieving",
+      "He committed suicide like his wife",
+      "He was forgiven by the gods"
+    ],
+    "answer": "He was overthrown and died in exile"
+  },
+  {
+    "question": "What were burial rites considered to be in ancient Greek culture?",
+    "options": [
+      "Traditions only for the wealthy",
+      "Sacred customs necessary for the soul's passage",
+      "Optional ceremonies",
+      "Political statements"
+    ],
+    "answer": "Sacred customs necessary for the soul's passage"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "question": "What is anodizing described as in the video?",
+    "options": ["Controlled oxidation of the surface", "Application of a protective coating", "Removal of impurities from aluminum", "Polishing of the metal surface"],
+    "answer": "Controlled oxidation of the surface"
+  },
+  {
+    "question": "Which type of anodizing is described as suitable for light wear applications?",
+    "options": ["Type IV", "Type III", "Type I", "Type II"],
+    "answer": "Type II"
+  },
+  {
+    "question": "What is another name for Type III anodizing mentioned in the video?",
+    "options": ["Deep coat", "Protective coat", "Hard coat", "Soft coat"],
+    "answer": "Hard coat"
+  },
+  {
+    "question": "According to the video, what is the approximate thickness of the additional oxidation layer in Type III anodized parts?",
+    "options": ["0.01 inches", "0.1 inches", "0.001 inches (one thousandth)", "0.0001 inches"],
+    "answer": "0.001 inches (one thousandth)"
+  },
+  {
+    "question": "What is the most commonly selected finish at Xometry for a machined part according to the presenter?",
+    "options": ["Type II black anodized", "Type III black anodized", "Clear anodized", "Type II blue anodized"],
+    "answer": "Type II black anodized"
+  },
+  {
+    "question": "What process must be done before anodizing to achieve a matte finish?",
+    "options": ["Heat treating", "Acid washing", "Polishing", "Bead blasting"],
+    "answer": "Bead blasting"
+  },
+  {
+    "question": "True or False: Clear anodized aluminum will look identical to as-milled aluminum.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "What characteristic does clear anodized aluminum have compared to as-milled aluminum?",
+    "options": ["Darker color with higher polish", "Higher reflectivity", "Smoother surface", "Less reflectivity and slightly rougher surface"],
+    "answer": "Less reflectivity and slightly rougher surface"
+  },
+  {
+    "question": "What color does natural Type III hard coat anodized aluminum typically appear?",
+    "options": ["Blue", "Brown", "Clear/transparent", "Black"],
+    "answer": "Brown"
+  },
+  {
+    "question": "For what types of environments is Type III anodizing typically used?",
+    "options": ["Indoor decorative uses", "Underwater applications only", "High-wear environments", "Low temperature environments"],
+    "answer": "High-wear environments"
+  },
+  {
+    "question": "What happens to the surface of aluminum during the anodizing process?",
+    "options": ["It is smoothed to remove manufacturing marks", "The outer surface is converted through controlled oxidation", "It is painted with permanent pigments", "It is coated with a separate protective layer"],
+    "answer": "The outer surface is converted through controlled oxidation"
+  },
+  {
+    "question": "What characteristic of as-machined aluminum makes anodizing necessary for protection?",
+    "options": ["It conducts heat poorly", "It is too reflective", "It is too soft for mechanical applications", "It is prone to corrosion"],
+    "answer": "It is prone to corrosion"
+  },
+  {
+    "question": "True or False: Type II anodizing offers more durability than Type III anodizing.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "What appearance feature is described for clear anodized aluminum?",
+    "options": ["Mirror-like reflection", "Completely transparent surface", "Rainbow-like iridescence", "Crystallization grain-like finish"],
+    "answer": "Crystallization grain-like finish"
+  },
+  {
+    "question": "What type of applications was specifically mentioned as suitable for Type III anodizing?",
+    "options": ["Electronic circuit boards", "Parts that rub against other components", "Food processing equipment", "Decorative household items"],
+    "answer": "Parts that rub against other components"
+  },
+  {
+    "question": "What is the typical thickness range for Type III anodized coatings?",
+    "options": ["0.01 to 0.05 mils", "0.1 to 1.0 mils", "0.5 to 3.0 mils", "5.0 to 10.0 mils"],
+    "answer": "0.5 to 3.0 mils"
+  },
+  {
+    "question": "What is the typical thickness range for Type II anodized coatings?",
+    "options": ["0.01 to 0.05 mils", "0.1 to 1.0 mils", "0.5 to 3.0 mils", "5.0 to 10.0 mils"],
+    "answer": "0.1 to 1.0 mils"
+  },
+  {
+    "question": "What type of electrolyte bath is used in Type III anodizing?",
+    "options": ["Nitric acid", "Hydrochloric acid", "Sulfuric acid", "Phosphoric acid"],
+    "answer": "Sulfuric acid"
+  },
+  {
+    "question": "Compared to Type II anodizing, Type III anodizing process uses:",
+    "options": ["Lower voltages and higher temperatures", "Higher voltages and higher temperatures", "Lower voltages and lower temperatures", "Higher voltages and lower temperatures"],
+    "answer": "Higher voltages and lower temperatures"
+  },
+  {
+    "question": "How would you describe Type III anodizing in relation to Type II anodizing?",
+    "options": ["A completely different process using different chemicals", "A more intense version of Type II anodizing", "A less intense version of Type II anodizing", "An unrelated surface treatment"],
+    "answer": "A more intense version of Type II anodizing"
+  },
+  {
+    "question": "What is the thickness of Type III anodizing in microns?",
+    "options": ["1.0 to 5.0 microns", "2.5 to 25.4 microns", "12.7 to 76.2 microns", "100 to 250 microns"],
+    "answer": "12.7 to 76.2 microns"
+  }
+]
+

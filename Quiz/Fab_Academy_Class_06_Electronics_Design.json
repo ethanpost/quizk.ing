@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary purpose of a voltage regulator in a circuit?",
+    "options": [
+      "To maintain a constant output voltage",
+      "To increase voltage levels",
+      "To generate alternating current",
+      "To store electrical energy"
+    ],
+    "answer": "To maintain a constant output voltage"
+  },
+  {
+    "question": "Which component is used to limit current flow in a circuit?",
+    "options": [
+      "Capacitor",
+      "Resistor",
+      "Inductor",
+      "Diode"
+    ],
+    "answer": "Resistor"
+  },
+  {
+    "question": "What does IDC stand for in electronics?",
+    "options": [
+      "Integrated Digital Circuit",
+      "Internal Device Connection",
+      "Insulation Displacing Component",
+      "Input/Output Data Control"
+    ],
+    "answer": "Insulation Displacing Component"
+  },
+  {
+    "question": "In a MOSFET transistor, what are the three main terminals called?",
+    "options": [
+      "Input, Output, Control",
+      "Base, Collector, Emitter",
+      "Gate, Source, Drain",
+      "Anode, Cathode, Gate"
+    ],
+    "answer": "Gate, Source, Drain"
+  },
+  {
+    "question": "What is the purpose of a crystal in electronic circuits?",
+    "options": [
+      "To store energy",
+      "To filter noise",
+      "To amplify signals",
+      "To provide precise timing"
+    ],
+    "answer": "To provide precise timing"
+  },
+  {
+    "question": "Which tool is used to visualize electrical signals over time?",
+    "options": [
+      "Logic Analyzer",
+      "Oscilloscope",
+      "Function Generator",
+      "Multimeter"
+    ],
+    "answer": "Oscilloscope"
+  },
+  {
+    "question": "What does EDA stand for in electronics design?",
+    "options": [
+      "Engineering Design Analysis",
+      "Electronic Data Architecture",
+      "Electronic Design Automation",
+      "Electrical Device Assembly"
+    ],
+    "answer": "Electronic Design Automation"
+  },
+  {
+    "question": "In a diode, current flows from which terminal to which terminal?",
+    "options": [
+      "Gate to Source",
+      "Source to Drain",
+      "Cathode to Anode",
+      "Anode to Cathode"
+    ],
+    "answer": "Anode to Cathode"
+  },
+  {
+    "question": "What is the purpose of a super capacitor?",
+    "options": [
+      "To convert AC to DC",
+      "To provide precise timing",
+      "To store energy for short-term power",
+      "To amplify signals"
+    ],
+    "answer": "To store energy for short-term power"
+  },
+  {
+    "question": "Which component is used to filter high frequencies in a circuit?",
+    "options": [
+      "Diode",
+      "Capacitor",
+      "Resistor",
+      "Inductor"
+    ],
+    "answer": "Inductor"
+  },
+  {
+    "question": "What is the main purpose of a logic analyzer?",
+    "options": [
+      "To store circuit data",
+      "To measure voltage levels",
+      "To generate test signals",
+      "To decode digital protocols"
+    ],
+    "answer": "To decode digital protocols"
+  },
+  {
+    "question": "In PCB design, what is a via?",
+    "options": [
+      "A power supply connection",
+      "A type of capacitor",
+      "A connection between PCB layers",
+      "A type of resistor"
+    ],
+    "answer": "A connection between PCB layers"
+  },
+  {
+    "question": "What does DRC stand for in PCB design?",
+    "options": [
+      "Digital Resistance Control",
+      "Device Regulation Circuit",
+      "Data Routing Configuration",
+      "Design Rule Check"
+    ],
+    "answer": "Design Rule Check"
+  },
+  {
+    "question": "Which component is used to convert high voltage to low voltage in a circuit?",
+    "options": [
+      "Capacitor",
+      "Inductor",
+      "Regulator",
+      "Transistor"
+    ],
+    "answer": "Regulator"
+  },
+  {
+    "question": "What is the purpose of a footprint in PCB design?",
+    "options": [
+      "To track board revisions",
+      "To show the physical layout of a component",
+      "To identify the board manufacturer",
+      "To measure board size"
+    ],
+    "answer": "To show the physical layout of a component"
+  }
+]

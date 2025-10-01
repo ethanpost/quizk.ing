@@ -1,0 +1,178 @@
+[
+  {
+    "question": "According to the transcript, what was Agamemnon's position among the Greek leaders?",
+    "options": [
+      "He was the only person who could unite all Greek chieftains to fight",
+      "He was equal in authority to the other Greek chiefs",
+      "He served primarily as a military advisor rather than leader",
+      "He was less respected than Achilles and Odysseus"
+    ],
+    "answer": "He was the only person who could unite all Greek chieftains to fight"
+  },
+  {
+    "question": "Why did Clytemnestra hate Agamemnon?",
+    "options": [
+      "Because he was absent for 10 years during the war",
+      "Because he planned to replace her with a new queen",
+      "Because he brought Cassandra home as a slave",
+      "Because he killed their daughter Iphigenia to lead Greeks to war"
+    ],
+    "answer": "Because he killed their daughter Iphigenia to lead Greeks to war"
+  },
+  {
+    "question": "What curse affected Cassandra?",
+    "options": [
+      "She could only predict good events, never tragedies",
+      "She could only speak in riddles that no one understood",
+      "She was mute and could not warn anyone of danger",
+      "She could see the future but no one would believe her prophecies"
+    ],
+    "answer": "She could see the future but no one would believe her prophecies"
+  },
+  {
+    "question": "Who helped Clytemnestra rule Mycenae while Agamemnon was away?",
+    "options": [
+      "Elektra",
+      "Palamedes",
+      "Aegisthus",
+      "Orestes"
+    ],
+    "answer": "Aegisthus"
+  },
+  {
+    "question": "What did Cassandra tell Agamemnon about the storm that nearly prevented his return?",
+    "options": [
+      "It was the gods trying to keep him alive by preventing his return to Mycenae",
+      "It was a warning that he should surrender his throne",
+      "It was punishment from the gods for his hubris",
+      "It was sent by Poseidon to avenge Troy"
+    ],
+    "answer": "It was the gods trying to keep him alive by preventing his return to Mycenae"
+  },
+  {
+    "question": "How did Agamemnon die?",
+    "options": [
+      "He was ambushed by soldiers loyal to Aegisthus",
+      "He was poisoned at a feast celebrating his return",
+      "He was stabbed in his sleep by Clytemnestra",
+      "He was caught in a net and beaten to death in his bath"
+    ],
+    "answer": "He was caught in a net and beaten to death in his bath"
+  },
+  {
+    "question": "What was the fate of Cassandra when she arrived in Mycenae?",
+    "options": [
+      "She escaped and returned to Troy",
+      "She was imprisoned in the palace dungeon",
+      "She became Clytemnestra's handmaiden",
+      "She was killed by Clytemnestra with two ax blows"
+    ],
+    "answer": "She was killed by Clytemnestra with two ax blows"
+  },
+  {
+    "question": "What is a Basilius?",
+    "options": [
+      "A military formation",
+      "A type of Greek weapon",
+      "A king or ruler",
+      "A religious ceremony"
+    ],
+    "answer": "A king or ruler"
+  },
+  {
+    "question": "What famous entrance did Agamemnon walk through when returning to Mycenae?",
+    "options": [
+      "The Victory Entrance",
+      "The Trojan Archway",
+      "The Golden Portal",
+      "The Lion Gate"
+    ],
+    "answer": "The Lion Gate"
+  },
+  {
+    "question": "How did Agamemnon initially respond to Cassandra's warnings?",
+    "options": [
+      "He ordered her to be silent about her visions",
+      "He consulted the oracle for confirmation",
+      "He said her \"gorgeous mouth was just talking nonsense\"",
+      "He took them seriously and increased his security"
+    ],
+    "answer": "He said her \"gorgeous mouth was just talking nonsense\""
+  },
+  {
+    "question": "What relationship did Aegisthus have to Agamemnon's family history?",
+    "options": [
+      "He was a foreigner from outside Greece",
+      "He was from a rival family with no connection",
+      "He was Agamemnon's long-lost brother",
+      "He was Agamemnon's cousin with his own family vengeance"
+    ],
+    "answer": "He was Agamemnon's cousin with his own family vengeance"
+  },
+  {
+    "question": "Which of Agamemnon's children does the transcript mention were present when he returned?",
+    "options": [
+      "Neither were present",
+      "Only Elektra",
+      "Only Orestes",
+      "Both Elektra and Orestes"
+    ],
+    "answer": "Both Elektra and Orestes"
+  },
+  {
+    "question": "What did Clytemnestra do when Agamemnon first arrived home?",
+    "options": [
+      "She knelt at his feet and thanked the gods for his return",
+      "She refused to greet him",
+      "She fled the palace in fear",
+      "She immediately attacked him"
+    ],
+    "answer": "She knelt at his feet and thanked the gods for his return"
+  },
+  {
+    "question": "According to the transcript, what did Agamemnon want to do first after arriving home?",
+    "options": [
+      "Visit the temple to thank the gods",
+      "Address the people of Mycenae",
+      "Take a bath after fighting for 10 years",
+      "Meet with his military advisors"
+    ],
+    "answer": "Take a bath after fighting for 10 years"
+  },
+  {
+    "question": "What was notable about Agamemnon's fleet when returning from Troy?",
+    "options": [
+      "They arrived several years late",
+      "They were brimming with treasures",
+      "Most ships were damaged in storms",
+      "They returned with very few soldiers"
+    ],
+    "answer": "They were brimming with treasures"
+  },
+  {
+    "question": "What is the House of Tantalus referenced in the transcript?",
+    "options": [
+      "The family lineage that Agamemnon descended from",
+      "A rival kingdom that opposed Mycenae",
+      "A temple dedicated to Zeus",
+      "Agamemnon's palace in Mycenae"
+    ],
+    "answer": "The family lineage that Agamemnon descended from"
+  },
+  {
+    "question": "True or False: Cassandra was the daughter of King Priam of Troy.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Agamemnon suspected his wife might harm him upon his return.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  }
+]

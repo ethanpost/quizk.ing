@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary advantage of using the milling process for circuit board production?",
+    "options": [
+      "It requires no setup and produces minimal waste",
+      "It's the fastest method available",
+      "It can create the smallest feature sizes",
+      "It's the most cost-effective method"
+    ],
+    "answer": "It requires no setup and produces minimal waste"
+  },
+  {
+    "question": "Which material is primarily used in Fab Academy for circuit board production?",
+    "options": [
+      "Polycarbonate",
+      "FR1",
+      "FR4",
+      "Aluminum"
+    ],
+    "answer": "FR1"
+  },
+  {
+    "question": "What is a \"dead bug\" in electronics production?",
+    "options": [
+      "A type of soldering technique",
+      "A type of circuit board design",
+      "A messy wiring approach between components",
+      "A method of component placement"
+    ],
+    "answer": "A messy wiring approach between components"
+  },
+  {
+    "question": "What is the purpose of flux in soldering?",
+    "options": [
+      "To prevent oxidation",
+      "To make the joint more conductive",
+      "To cool the joint faster",
+      "To help clean and flow the joint"
+    ],
+    "answer": "To help clean and flow the joint"
+  },
+  {
+    "question": "What is the main reason FR4 is not used for in-house circuit board production?",
+    "options": [
+      "It's difficult to solder",
+      "It's not conductive enough",
+      "It creates hazardous waste when machined",
+      "It's too expensive"
+    ],
+    "answer": "It creates hazardous waste when machined"
+  },
+  {
+    "question": "What is the key characteristic of a good solder joint?",
+    "options": [
+      "It should be dark in color",
+      "It should be shiny and smooth",
+      "It should be as large as possible",
+      "It should be raised above the surface"
+    ],
+    "answer": "It should be shiny and smooth"
+  },
+  {
+    "question": "What is the purpose of a solder mask on a circuit board?",
+    "options": [
+      "To make the board more flexible",
+      "To reduce the cost of production",
+      "To protect the copper traces",
+      "To make the board more conductive"
+    ],
+    "answer": "To protect the copper traces"
+  },
+  {
+    "question": "What is the main advantage of using a fiber laser for circuit board production?",
+    "options": [
+      "It requires no special training",
+      "It's the most cost-effective method",
+      "It's the fastest method",
+      "It can create much smaller feature sizes than milling"
+    ],
+    "answer": "It can create much smaller feature sizes than milling"
+  },
+  {
+    "question": "What is the purpose of a stencil in the reflow soldering process?",
+    "options": [
+      "To mark component placement",
+      "To protect the board from heat",
+      "To apply solder paste to specific pads",
+      "To hold components in place"
+    ],
+    "answer": "To apply solder paste to specific pads"
+  },
+  {
+    "question": "What is a via in circuit board design?",
+    "options": [
+      "A design file format",
+      "A type of solder joint",
+      "A type of component",
+      "A connection between different layers"
+    ],
+    "answer": "A connection between different layers"
+  },
+  {
+    "question": "What is the main reason for not using leaded solder in modern electronics production?",
+    "options": [
+      "It's less conductive",
+      "It's not environmentally friendly",
+      "It's harder to work with",
+      "It's more expensive"
+    ],
+    "answer": "It's not environmentally friendly"
+  },
+  {
+    "question": "What is the purpose of the silk screen layer on a circuit board?",
+    "options": [
+      "To make the board more flexible",
+      "To make the board more conductive",
+      "To provide labeling and component identification",
+      "To protect the copper traces"
+    ],
+    "answer": "To provide labeling and component identification"
+  },
+  {
+    "question": "What is the key difference between FR1 and FR4 materials?",
+    "options": [
+      "FR1 is more expensive",
+      "FR1 is more conductive",
+      "FR4 contains glass reinforcement",
+      "FR4 is easier to machine"
+    ],
+    "answer": "FR4 contains glass reinforcement"
+  },
+  {
+    "question": "What is the main advantage of using solder paste instead of wire solder?",
+    "options": [
+      "It's easier to clean up",
+      "It creates stronger joints",
+      "It's less expensive",
+      "It can be used for components where you can't get underneath with wire solder"
+    ],
+    "answer": "It can be used for components where you can't get underneath with wire solder"
+  },
+  {
+    "question": "What is the purpose of the Gerber file format?",
+    "options": [
+      "To test circuit functionality",
+      "To document the soldering process",
+      "To specify the circuit board design for production",
+      "To store component information"
+    ],
+    "answer": "To specify the circuit board design for production"
+  }
+]

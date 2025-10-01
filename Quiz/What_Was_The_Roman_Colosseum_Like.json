@@ -1,0 +1,188 @@
+[
+  {
+    "question": "What was the original purpose of gladiatorial games in Rome?",
+    "options": [
+      "Religious rituals to honor the dead",
+      "Entertainment for the masses",
+      "Military training exercises",
+      "Political propaganda"
+    ],
+    "answer": "Religious rituals to honor the dead"
+  },
+  {
+    "question": "How many spectators could the Colosseum hold?",
+    "options": [
+      "65,000",
+      "100,000",
+      "80,000",
+      "50,000"
+    ],
+    "answer": "80,000"
+  },
+  {
+    "question": "According to the transcript, how many days per year were games typically scheduled?",
+    "options": [
+      "30 days",
+      "5 days",
+      "100 days",
+      "10 days"
+    ],
+    "answer": "10 days"
+  },
+  {
+    "question": "How many entrance gates did the Colosseum have for spectators?",
+    "options": [
+      "80 gates",
+      "100 gates",
+      "76 gates",
+      "50 gates"
+    ],
+    "answer": "76 gates"
+  },
+  {
+    "question": "What is a \"venator\"?",
+    "options": [
+      "An official who organized and financed the games",
+      "A vendor who sold refreshments at the games",
+      "A hunter who fought against wild beasts in the arena",
+      "A referee who enforced rules during gladiatorial matches"
+    ],
+    "answer": "A hunter who fought against wild beasts in the arena"
+  },
+  {
+    "question": "What was the \"pompa\"?",
+    "options": [
+      "The practice of feeding criminals to animals",
+      "The opening procession that started the spectacles",
+      "A type of gladiatorial weapon",
+      "A special seat reserved for the emperor"
+    ],
+    "answer": "The opening procession that started the spectacles"
+  },
+  {
+    "question": "What were \"sparsiones\"?",
+    "options": [
+      "Special seats reserved for senators",
+      "Weapons used by specific types of gladiators",
+      "Wooden balls containing prize redemption tokens",
+      "Water pipes that cooled the Colosseum with mist"
+    ],
+    "answer": "Water pipes that cooled the Colosseum with mist"
+  },
+  {
+    "question": "In what order did events typically occur during a day at the Colosseum?",
+    "options": [
+      "Beast hunts, opening procession, gladiatorial matches, executions",
+      "Gladiatorial matches, beast hunts, executions, opening procession",
+      "Opening procession, beast hunts, executions/lunch break, gladiatorial matches",
+      "Opening procession, gladiatorial matches, executions, beast hunts"
+    ],
+    "answer": "Opening procession, beast hunts, executions/lunch break, gladiatorial matches"
+  },
+  {
+    "question": "What were \"sparsiones missilium\"?",
+    "options": [
+      "Executions during the lunch break",
+      "Hunting spears used by venators",
+      "Distribution of prize tokens to the audience",
+      "Special seating arrangements for women"
+    ],
+    "answer": "Distribution of prize tokens to the audience"
+  },
+  {
+    "question": "True or False: Most gladiatorial matches were fought to the death.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What types of prizes might be offered through the \"sparsiones missilium\"?",
+    "options": [
+      "Only tickets to future games",
+      "A wide range from food to valuable property like estates",
+      "Only small food items and drinks",
+      "Only gold and silver coins"
+    ],
+    "answer": "A wide range from food to valuable property like estates"
+  },
+  {
+    "question": "What was unique about the seating arrangement in the Colosseum?",
+    "options": [
+      "Men and women were required to sit separately",
+      "Everyone sat randomly with no assigned seating",
+      "The best seats were given to the poorest citizens",
+      "Seating reflected the social hierarchy with elites closest to the arena"
+    ],
+    "answer": "Seating reflected the social hierarchy with elites closest to the arena"
+  },
+  {
+    "question": "What type of activities took place during the \"Meridiani\" (lunch break)?",
+    "options": [
+      "Religious ceremonies",
+      "Additional gladiatorial matches",
+      "Only food service and rest",
+      "Executions of condemned criminals and social activities"
+    ],
+    "answer": "Executions of condemned criminals and social activities"
+  },
+  {
+    "question": "What were \"fornices\"?",
+    "options": [
+      "The underground tunnels beneath the arena",
+      "Areas where animals were kept before the hunts",
+      "Archways of the Colosseum, root of the English word \"fornication\"",
+      "Special seats reserved for the Vestal Virgins"
+    ],
+    "answer": "Archways of the Colosseum, root of the English word \"fornication\""
+  },
+  {
+    "question": "How did Romans advertise upcoming games at the Colosseum?",
+    "options": [
+      "They didn't advertise, as games were spontaneous events",
+      "Only by personal invitation from the emperor",
+      "Through painted ads on buildings, programs, and word of mouth",
+      "Only through government announcements"
+    ],
+    "answer": "Through painted ads on buildings, programs, and word of mouth"
+  },
+  {
+    "question": "What was a \"murmillo\"?",
+    "options": [
+      "A heavily armed gladiator fighting style",
+      "The person who confirmed a gladiator's death",
+      "A special seat in the first tier",
+      "A vendor who sold souvenirs at the games"
+    ],
+    "answer": "A heavily armed gladiator fighting style"
+  },
+  {
+    "question": "True or False: Emperors sometimes added perfumes to the water used in the Colosseum's cooling system.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "Which statement about gambling at the Colosseum is most accurate?",
+    "options": [
+      "Only the emperor was allowed to place bets",
+      "Gambling was confined to professional bookmakers with licenses",
+      "Gambling was strictly prohibited at all times",
+      "Technically illegal but permitted during festivals, with even emperors participating"
+    ],
+    "answer": "Technically illegal but permitted during festivals, with even emperors participating"
+  },
+  {
+    "question": "What did the attendant dressed as Charon do during gladiatorial matches?",
+    "options": [
+      "Lead the opening procession (pompa)",
+      "Strike defeated gladiators to confirm their death",
+      "Distribute prizes to the audience",
+      "Act as a referee enforcing rules"
+    ],
+    "answer": "Strike defeated gladiators to confirm their death"
+  }
+]

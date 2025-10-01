@@ -1,0 +1,192 @@
+[
+  {
+    "question": "According to the material, what is the most basic way to communicate between a processor and your computer?",
+    "options": [
+      "RS-232",
+      "USB",
+      "Bluetooth",
+      "Wi-Fi"
+    ],
+    "answer": "RS-232"
+  },
+  {
+    "question": "Which architecture separates program and data memory?",
+    "options": [
+      "Von Neumann",
+      "Harvard",
+      "RISC",
+      "ARM"
+    ],
+    "answer": "Harvard"
+  },
+  {
+    "question": "What is the speed difference between Python and C according to the transcript?",
+    "options": [
+      "Python is 20x slower",
+      "Python is 10x slower",
+      "Python is 100x slower",
+      "They have similar speed"
+    ],
+    "answer": "Python is 100x slower"
+  },
+  {
+    "question": "What is the smallest AVR package mentioned in the transcript?",
+    "options": [
+      "Through-hole package",
+      "Surface mount package",
+      "Size of a grain of rice",
+      "Ball grid array"
+    ],
+    "answer": "Size of a grain of rice"
+  },
+  {
+    "question": "What does PWM stand for?",
+    "options": [
+      "Power Width Management",
+      "Pin Wireless Management",
+      "Processor Work Module",
+      "Pulse Width Modulator"
+    ],
+    "answer": "Pulse Width Modulator"
+  },
+  {
+    "question": "According to the transcript, how fast does the ATtiny 412 run?",
+    "options": [
+      "48 MHz",
+      "20 MHz",
+      "10 MHz",
+      "133 MHz"
+    ],
+    "answer": "20 MHz"
+  },
+  {
+    "question": "Which processor family includes built-in WiFi and Bluetooth radios?",
+    "options": [
+      "ARM",
+      "RISC-V",
+      "ESP",
+      "AVR"
+    ],
+    "answer": "ESP"
+  },
+  {
+    "question": "What is a \"bootloader\"?",
+    "options": [
+      "A hardware device that connects to processors",
+      "A type of processor architecture",
+      "A program that loads programs",
+      "A circuit simulator"
+    ],
+    "answer": "A program that loads programs"
+  },
+  {
+    "question": "What is Arduino according to the transcript?",
+    "options": [
+      "Just a microcontroller board",
+      "Just a development environment",
+      "A programming language",
+      "Six different things (boards, toolchain, libraries, IDE, bootloaders, header standard)"
+    ],
+    "answer": "Six different things (boards, toolchain, libraries, IDE, bootloaders, header standard)"
+  },
+  {
+    "question": "What is special about the RP2040 compared to other ARM processors?",
+    "options": [
+      "It can only be programmed in Python",
+      "It has WiFi built in",
+      "It has a series of extra processors (PIOs) for custom peripherals",
+      "It's the only ARM processor that supports C++"
+    ],
+    "answer": "It has a series of extra processors (PIOs) for custom peripherals"
+  },
+  {
+    "question": "Which memory type stores data when power is removed?",
+    "options": [
+      "Static RAM",
+      "Dynamic RAM",
+      "Registers",
+      "Flash"
+    ],
+    "answer": "Flash"
+  },
+  {
+    "question": "What word size do AVR processors typically use?",
+    "options": [
+      "32-bit",
+      "8-bit",
+      "16-bit",
+      "4-bit"
+    ],
+    "answer": "8-bit"
+  },
+  {
+    "question": "What is mixed signal simulation?",
+    "options": [
+      "Using multiple programming languages in one project",
+      "Simulating both digital code and analog circuits",
+      "Programming multiple processors simultaneously",
+      "Mixing audio signals in embedded systems"
+    ],
+    "answer": "Simulating both digital code and analog circuits"
+  },
+  {
+    "question": "What is the importance of a current limiting resistor with an LED?",
+    "options": [
+      "It's only needed for digital simulations",
+      "It prevents taking too much current and damaging components",
+      "It makes the LED brighter",
+      "It's required by the Arduino IDE"
+    ],
+    "answer": "It prevents taking too much current and damaging components"
+  },
+  {
+    "question": "According to the transcript, what was one of the first computer bugs?",
+    "options": [
+      "A design flaw in processor architecture",
+      "A faulty memory circuit",
+      "An actual insect trapped in a computer",
+      "A coding error in early software"
+    ],
+    "answer": "An actual insect trapped in a computer"
+  },
+  {
+    "question": "What is the recommended order for embedded development in this class?",
+    "options": [
+      "Design circuits first, then choose processors",
+      "Download code examples first, then adapt to hardware",
+      "Simulate and model first, then design schematics, then fabricate",
+      "Build hardware first, then program it"
+    ],
+    "answer": "Simulate and model first, then design schematics, then fabricate"
+  },
+  {
+    "question": "What is UPDI?",
+    "options": [
+      "USB Protocol for Device Integration",
+      "A type of memory storage",
+      "Universal Programming Debug Interface",
+      "One-pin programming interface for AVR"
+    ],
+    "answer": "One-pin programming interface for AVR"
+  },
+  {
+    "question": "What happens if you put a 5V voltage into a 3V processor?",
+    "options": [
+      "The program will execute incorrectly",
+      "You'll kill the processor",
+      "The processor will run faster",
+      "Nothing, processors are voltage-tolerant"
+    ],
+    "answer": "You'll kill the processor"
+  },
+  {
+    "question": "What does the \"REPL\" in Python refer to?",
+    "options": [
+      "Runtime Environment for Python Libraries",
+      "Robust Embedded Programming Language",
+      "Read-Evaluate-Print Loop",
+      "Read-Execute-Program-Loop"
+    ],
+    "answer": "Read-Evaluate-Print Loop"
+  }
+]

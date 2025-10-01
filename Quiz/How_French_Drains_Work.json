@@ -1,0 +1,78 @@
+[
+  {
+    "question": "What is the primary purpose of a French drain?",
+    "options": ["To store water for agricultural use", "To direct surface water away from structures", "To remove subsurface water and prevent pressure damage to structures", "To prevent soil from eroding during heavy rainfall"],
+    "answer": "To remove subsurface water and prevent pressure damage to structures"
+  },
+  {
+    "question": "Who was the French drain named after?",
+    "options": ["A French engineer who specialized in drainage systems", "Henry French, an American farmer and inventor", "The French Ministry of Agriculture", "A construction technique originating in France"],
+    "answer": "Henry French, an American farmer and inventor"
+  },
+  {
+    "question": "According to the transcript, what publication made Henry French famous for drainage systems?",
+    "options": ["\"Water Management Techniques\"", "\"French Drainage Solutions\"", "\"Farm Drainage\"", "\"Subsurface Water Control\""],
+    "answer": "\"Farm Drainage\""
+  },
+  {
+    "question": "What is the biggest problem with subsurface drains?",
+    "options": ["They are too expensive to install", "Clogging", "They freeze during winter months", "They create sinkholes"],
+    "answer": "Clogging"
+  },
+  {
+    "question": "Which material was historically used in drainage tiles before pipes became common?",
+    "options": ["Concrete", "Metal", "Plastic", "Clay"],
+    "answer": "Clay"
+  },
+  {
+    "question": "What happens if a French drain is not properly filtered?",
+    "options": ["It will drain too slowly", "Water will back up and flood the area", "Internal erosion and soil particles washing away", "The pipe will collapse under pressure"],
+    "answer": "Internal erosion and soil particles washing away"
+  },
+  {
+    "question": "Which of these is NOT a common material used in modern French drain systems?",
+    "options": ["Perforated pipes", "Gravel", "Concrete tiles", "Geotextile fabric"],
+    "answer": "Concrete tiles"
+  },
+  {
+    "question": "According to FEMA policy, what should NOT be used in locations critical to dam safety?",
+    "options": ["Sand filters", "Perforated pipes", "Geotextiles", "Gravel envelopes"],
+    "answer": "Geotextiles"
+  },
+  {
+    "question": "What are the two main options for dealing with water once it's out of the ground?",
+    "options": ["Evaporation or filtration", "Gravity release or pumping", "Storage or irrigation", "Recycling or disposal"],
+    "answer": "Gravity release or pumping"
+  },
+  {
+    "question": "What is a sump in the context of basement drainage?",
+    "options": ["A type of filter material", "A low spot where drainage collects", "A specialized French drain pipe", "A waterproof membrane"],
+    "answer": "A low spot where drainage collects"
+  },
+  {
+    "question": "Why do many dams use two-stage filters?",
+    "options": ["To save on construction costs", "To accommodate both filtration needs and water flow capacity", "To allow for future expansion", "To meet regulatory requirements"],
+    "answer": "To accommodate both filtration needs and water flow capacity"
+  },
+  {
+    "question": "What is the term for a graph showing the percentage of soil particles at different sizes?",
+    "options": ["Soil distribution chart", "Particle analysis diagram", "Grain size distribution curve", "Soil composition index"],
+    "answer": "Grain size distribution curve"
+  },
+  {
+    "question": "What potential problem can occur if drainage holes in pipes face upward?",
+    "options": ["Water has to fill the gravel to the top of the pipe before entering", "The pipe may collapse under pressure", "Water flows too quickly through the system", "The holes will become clogged more quickly"],
+    "answer": "Water has to fill the gravel to the top of the pipe before entering"
+  },
+  {
+    "question": "What feature do embankment dams often include to prevent water from carrying soil through cracks?",
+    "options": ["Surface drainage system", "Concrete reinforcement", "Chimney filter", "Waterproof membrane"],
+    "answer": "Chimney filter"
+  },
+  {
+    "question": "In the demonstration model, what material was used to simulate soil?",
+    "options": ["Clay", "Silt", "Sand", "Gravel"],
+    "answer": "Sand"
+  }
+]
+

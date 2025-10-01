@@ -1,0 +1,186 @@
+[
+  {
+    "question": "According to the transcript, when was the Soviet Union formed?",
+    "options": [
+      "1924",
+      "1917",
+      "1920",
+      "1922"
+    ],
+    "answer": "1922"
+  },
+  {
+    "question": "Who was the leader of the Red Army during the Russian Civil War?",
+    "options": [
+      "Trotsky",
+      "Molotov",
+      "Stalin",
+      "Lenin"
+    ],
+    "answer": "Trotsky"
+  },
+  {
+    "question": "What position did Stalin hold that allowed him to control the Bolshevik party?",
+    "options": [
+      "Foreign Minister",
+      "Minister of Defense",
+      "Secretary of the Central Committee",
+      "President"
+    ],
+    "answer": "Secretary of the Central Committee"
+  },
+  {
+    "question": "What was Lenin's view on how the USSR should be structured?",
+    "options": [
+      "As a decentralized system with republics having power",
+      "As a military dictatorship",
+      "As a temporary alliance until world revolution",
+      "As a unitary state with Moscow in control"
+    ],
+    "answer": "As a decentralized system with republics having power"
+  },
+  {
+    "question": "What economic policy did Lenin implement after the Civil War?",
+    "options": [
+      "New Economic Policy",
+      "Total collectivization",
+      "War Communism",
+      "Five-Year Plans"
+    ],
+    "answer": "New Economic Policy"
+  },
+  {
+    "question": "What was the primary focus of Stalin's Five-Year Plans?",
+    "options": [
+      "Housing development",
+      "Consumer goods",
+      "Agricultural exports",
+      "Heavy industry and power output"
+    ],
+    "answer": "Heavy industry and power output"
+  },
+  {
+    "question": "Approximately how many people died in the Great Famine of the early 1930s?",
+    "options": [
+      "20-25 million",
+      "10-15 million",
+      "1-2 million",
+      "5-7 million"
+    ],
+    "answer": "10-15 million"
+  },
+  {
+    "question": "What were the gulags?",
+    "options": [
+      "Government ministries",
+      "Collective farms",
+      "Forced labor camps",
+      "Soviet military bases"
+    ],
+    "answer": "Forced labor camps"
+  },
+  {
+    "question": "What was the name given to Stalin's purges of 1936-1938?",
+    "options": [
+      "The Great Terror",
+      "The Red Purge",
+      "The Cultural Revolution",
+      "The Great Leap Forward"
+    ],
+    "answer": "The Great Terror"
+  },
+  {
+    "question": "Who was the NKVD chief who led the Great Terror until he himself was purged?",
+    "options": [
+      "Kamenev",
+      "Molotov",
+      "Beria",
+      "Yezhov"
+    ],
+    "answer": "Yezhov"
+  },
+  {
+    "question": "What agreement shocked the world in August 1939?",
+    "options": [
+      "Warsaw Pact",
+      "Soviet-Japanese neutrality pact",
+      "Molotov-Ribbentrop Pact",
+      "Soviet-American alliance"
+    ],
+    "answer": "Molotov-Ribbentrop Pact"
+  },
+  {
+    "question": "What territories did the USSR gain as a result of the Molotov-Ribbentrop Pact?",
+    "options": [
+      "Bulgaria and Yugoslavia",
+      "Czechoslovakia and Hungary",
+      "Finland and Romania",
+      "Eastern Poland and the Baltic states"
+    ],
+    "answer": "Eastern Poland and the Baltic states"
+  },
+  {
+    "question": "On what date did Operation Barbarossa begin?",
+    "options": [
+      "June 22, 1941",
+      "May 8, 1945",
+      "September 1, 1939",
+      "December 7, 1941"
+    ],
+    "answer": "June 22, 1941"
+  },
+  {
+    "question": "What was a \"Soviet\" in the context of the USSR?",
+    "options": [
+      "A factory",
+      "A collective farm",
+      "A council",
+      "A military unit"
+    ],
+    "answer": "A council"
+  },
+  {
+    "question": "What is a \"cult of personality\"?",
+    "options": [
+      "A system where leaders are elected by popular vote",
+      "A political party focused on individual rights",
+      "Religious worship of political figures",
+      "Glorification of a leader through propaganda and media"
+    ],
+    "answer": "Glorification of a leader through propaganda and media"
+  },
+  {
+    "question": "True or False: Stalin was born in Russia.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The Soviet Union was recognized by the League of Nations in 1934.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Stalin believed Hitler would attack the Soviet Union and prepared accordingly.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What was collectivization?",
+    "options": [
+      "Forcing peasants to join collective farms and eliminating private farming",
+      "The recruitment of workers for industrial projects",
+      "The centralization of political power in Moscow",
+      "The process of gathering intelligence from foreign countries"
+    ],
+    "answer": "Forcing peasants to join collective farms and eliminating private farming"
+  }
+]

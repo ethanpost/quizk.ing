@@ -1,0 +1,242 @@
+[
+  {
+    "question": "According to the transcript, what were the main sources of gladiators?",
+    "options": [
+      "Farmers, prisoners, and nobles",
+      "Slaves, criminals, and volunteers",
+      "Soldiers, orphans, and prisoners",
+      "Merchants, servants, and captives"
+    ],
+    "answer": "Slaves, criminals, and volunteers"
+  },
+  {
+    "question": "The largest gladiator school in Rome could house approximately how many men?",
+    "options": [
+      "500",
+      "1,000",
+      "2,000",
+      "5,000"
+    ],
+    "answer": "2,000"
+  },
+  {
+    "question": "What was the name of the gladiator school located next to the Colosseum?",
+    "options": [
+      "Ludus Maximus",
+      "Ludus Magnus",
+      "Ludus Romanus",
+      "Ludus Imperialis"
+    ],
+    "answer": "Ludus Magnus"
+  },
+  {
+    "question": "What term described the manager and owner of a gladiator troop?",
+    "options": [
+      "Doctores",
+      "Lanista",
+      "Familia",
+      "Primus"
+    ],
+    "answer": "Lanista"
+  },
+  {
+    "question": "According to the transcript, how were low-level Lanistae viewed in Roman society?",
+    "options": [
+      "With great respect",
+      "As military heroes",
+      "On the same social footing as pimps",
+      "As wise teachers"
+    ],
+    "answer": "On the same social footing as pimps"
+  },
+  {
+    "question": "What was the oath sworn by new gladiators called?",
+    "options": [
+      "Auctoramentum",
+      "Familia Gladiatoria",
+      "Sacramentum",
+      "Infamis"
+    ],
+    "answer": "Sacramentum"
+  },
+  {
+    "question": "What did the gladiator's oath commit them to endure?",
+    "options": [
+      "To be enslaved, to be tested, to be trained, and to be sold",
+      "To be burned, to be bound, to be beaten, and to be killed by the sword",
+      "To be loyal, to be obedient, to be brave, and to be victorious",
+      "To be humble, to be strong, to be skilled, and to be famous"
+    ],
+    "answer": "To be burned, to be bound, to be beaten, and to be killed by the sword"
+  },
+  {
+    "question": "What happened to the rights of volunteer gladiators when they joined a school?",
+    "options": [
+      "They maintained all their previous rights",
+      "They were stripped of citizenship rights and became Infamis",
+      "They gained additional privileges due to their voluntary status",
+      "They received special legal protections"
+    ],
+    "answer": "They were stripped of citizenship rights and became Infamis"
+  },
+  {
+    "question": "What was the term for a new gladiator recruit?",
+    "options": [
+      "Novicii",
+      "Tiro",
+      "Primus paulus",
+      "Hordearii"
+    ],
+    "answer": "Tiro"
+  },
+  {
+    "question": "What factors determined what type of gladiator a recruit would become?",
+    "options": [
+      "Only physical characteristics",
+      "Only their fighting preferences",
+      "Physical and mental characteristics, plus background",
+      "Only their criminal history"
+    ],
+    "answer": "Physical and mental characteristics, plus background"
+  },
+  {
+    "question": "What was the name for the specialized trainers of gladiators?",
+    "options": [
+      "Lanistae",
+      "Doctores or magistrii",
+      "Tiro",
+      "Hordearii"
+    ],
+    "answer": "Doctores or magistrii"
+  },
+  {
+    "question": "What was the highest rank a gladiator could achieve?",
+    "options": [
+      "Primus paulus",
+      "Doctores",
+      "Novicii",
+      "Magister"
+    ],
+    "answer": "Primus paulus"
+  },
+  {
+    "question": "What was the foundation of a gladiator's diet?",
+    "options": [
+      "Wheat",
+      "Meat",
+      "Barley",
+      "Fish"
+    ],
+    "answer": "Barley"
+  },
+  {
+    "question": "What nickname were gladiators given because of their diet?",
+    "options": [
+      "Carnivori",
+      "Frumentarii",
+      "Hordearii",
+      "Leguminosae"
+    ],
+    "answer": "Hordearii"
+  },
+  {
+    "question": "According to Galen, what unusual ingredient was added to gladiators' food to provide calcium?",
+    "options": [
+      "Milk",
+      "Cheese",
+      "Ash",
+      "Crushed bones"
+    ],
+    "answer": "Ash"
+  },
+  {
+    "question": "Why was barley considered an inferior food by Romans?",
+    "options": [
+      "It was expensive and rare",
+      "It was considered fodder for animals and punishment food",
+      "It caused digestive problems",
+      "It had no nutritional value"
+    ],
+    "answer": "It was considered fodder for animals and punishment food"
+  },
+  {
+    "question": "What physical effect did the gladiator diet have on their bodies?",
+    "options": [
+      "It made them leaner and more muscular",
+      "It developed their bone structure and created protective fat layers",
+      "It made them weaker but faster",
+      "It reduced their body weight for agility"
+    ],
+    "answer": "It developed their bone structure and created protective fat layers"
+  },
+  {
+    "question": "What was the term for practice fighting against wooden posts?",
+    "options": [
+      "Armatura",
+      "Sacramentum",
+      "Ludus",
+      "Familia"
+    ],
+    "answer": "Armatura"
+  },
+  {
+    "question": "Which famous physician received training at a gladiator school in Pergamum?",
+    "options": [
+      "Hippocrates",
+      "Galen",
+      "Pliny",
+      "Celsus"
+    ],
+    "answer": "Galen"
+  },
+  {
+    "question": "According to the transcript, was it common for gladiator matches to end in death?",
+    "options": [
+      "Yes, almost all matches ended in death",
+      "No, most matches did not end in death",
+      "Only matches with criminals ended in death",
+      "Death only occurred during special imperial games"
+    ],
+    "answer": "No, most matches did not end in death"
+  },
+  {
+    "question": "What might gladiators receive after a long successful career?",
+    "options": [
+      "A government position",
+      "Land in the countryside",
+      "Military command",
+      "Freedom (emancipation)"
+    ],
+    "answer": "Freedom (emancipation)"
+  },
+  {
+    "question": "What did many veteran gladiators do after their fighting careers ended?",
+    "options": [
+      "Became farmers",
+      "Joined the military",
+      "Became trainers for new gladiators",
+      "Entered politics"
+    ],
+    "answer": "Became trainers for new gladiators"
+  },
+  {
+    "question": "What were criminals who were condemned to die in the arena called?",
+    "options": [
+      "Infamis",
+      "Damnati ad ludum",
+      "Sacramentum",
+      "Hordearii"
+    ],
+    "answer": "Damnati ad ludum"
+  },
+  {
+    "question": "According to the transcript, what did gladiators often do the night before entering the arena?",
+    "options": [
+      "Fast and meditate",
+      "Receive an elaborate meal",
+      "Practice fighting techniques",
+      "Pray to the gods"
+    ],
+    "answer": "Receive an elaborate meal"
+  }
+]

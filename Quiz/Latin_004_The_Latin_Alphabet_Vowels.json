@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Which of the following is true about vowels in Latin?",
+    "options": [
+      "Latin has only short vowel sounds",
+      "Macrons were used during the Classical period",
+      "They are optional in Latin words",
+      "Every word and syllable in Latin requires a vowel"
+    ],
+    "answer": "Every word and syllable in Latin requires a vowel"
+  },
+  {
+    "question": "What is a macron in Latin?",
+    "options": [
+      "A Greek word borrowed into Latin",
+      "A short pronunciation of a vowel",
+      "A type of diphthong",
+      "A mark placed over vowels to indicate they are long"
+    ],
+    "answer": "A mark placed over vowels to indicate they are long"
+  },
+  {
+    "question": "How is the long Latin vowel ā pronounced?",
+    "options": [
+      "Like \"e\" in \"bet\"",
+      "Like \"a\" in \"idea\"",
+      "Like \"a\" in \"father\"",
+      "Like \"a\" in \"date\""
+    ],
+    "answer": "Like \"a\" in \"father\""
+  },
+  {
+    "question": "How is the short Latin vowel a pronounced?",
+    "options": [
+      "Like \"o\" in \"holy\"",
+      "Like \"a\" in \"idea\" (uh sound)",
+      "Like \"a\" in \"date\"",
+      "Like \"a\" in \"father\""
+    ],
+    "answer": "Like \"a\" in \"idea\" (uh sound)"
+  },
+  {
+    "question": "How is the long Latin vowel ē pronounced?",
+    "options": [
+      "Like \"o\" in \"off\"",
+      "Like \"e\" in \"machine\"",
+      "Like \"a\" in \"date\"",
+      "Like \"e\" in \"bet\""
+    ],
+    "answer": "Like \"a\" in \"date\""
+  },
+  {
+    "question": "How is the short Latin vowel e pronounced?",
+    "options": [
+      "Like \"a\" in \"date\"",
+      "Like \"i\" in \"sit\"",
+      "Like \"a\" in \"father\"",
+      "Like \"e\" in \"bet\""
+    ],
+    "answer": "Like \"e\" in \"bet\""
+  },
+  {
+    "question": "How is the long Latin vowel ī pronounced?",
+    "options": [
+      "Like \"o\" in \"holy\"",
+      "Like \"e\" in \"machine\"",
+      "Like \"a\" in \"date\"",
+      "Like \"i\" in \"sit\""
+    ],
+    "answer": "Like \"e\" in \"machine\""
+  },
+  {
+    "question": "How is the short Latin vowel i pronounced?",
+    "options": [
+      "Like \"o\" in \"off\"",
+      "Like \"u\" in \"foot\"",
+      "Like \"e\" in \"machine\"",
+      "Like \"i\" in \"sit\""
+    ],
+    "answer": "Like \"i\" in \"sit\""
+  },
+  {
+    "question": "How is the long Latin vowel ō pronounced?",
+    "options": [
+      "Like \"oo\" in \"hoot\"",
+      "Like \"a\" in \"father\"",
+      "Like \"o\" in \"holy\"",
+      "Like \"o\" in \"off\""
+    ],
+    "answer": "Like \"o\" in \"holy\""
+  },
+  {
+    "question": "How is the short Latin vowel o pronounced?",
+    "options": [
+      "Like \"i\" in \"sit\"",
+      "Like \"u\" in \"foot\"",
+      "Like \"o\" in \"holy\"",
+      "Like \"o\" in \"off\""
+    ],
+    "answer": "Like \"o\" in \"off\""
+  },
+  {
+    "question": "How is the long Latin vowel ū pronounced?",
+    "options": [
+      "Like \"oo\" in \"hoot\"",
+      "Like \"o\" in \"off\"",
+      "Like \"u\" in \"foot\"",
+      "Like \"a\" in \"father\""
+    ],
+    "answer": "Like \"oo\" in \"hoot\""
+  },
+  {
+    "question": "How is the short Latin vowel u pronounced?",
+    "options": [
+      "Like \"e\" in \"bet\"",
+      "Like \"o\" in \"holy\"",
+      "Like \"oo\" in \"hoot\"",
+      "Like \"u\" in \"foot\""
+    ],
+    "answer": "Like \"u\" in \"foot\""
+  },
+  {
+    "question": "What is the origin of the Latin vowel Y?",
+    "options": [
+      "It was created to simplify Latin spelling",
+      "It was invented during the Middle Ages",
+      "It was borrowed from Greek",
+      "It was developed in Rome"
+    ],
+    "answer": "It was borrowed from Greek"
+  },
+  {
+    "question": "How is the Latin vowel Y pronounced?",
+    "options": [
+      "Like \"e\" in \"bet\"",
+      "Like \"i\" in \"sit\"",
+      "Like \"y\" in \"yes\"",
+      "Like the vowel in the French word \"tu\" or German \"über\""
+    ],
+    "answer": "Like the vowel in the French word \"tu\" or German \"über\""
+  },
+  {
+    "question": "What is a diphthong in Latin?",
+    "options": [
+      "A syllable without a vowel",
+      "A consonant paired with a vowel",
+      "A single vowel sound",
+      "Two vowels merged together in one syllable"
+    ],
+    "answer": "Two vowels merged together in one syllable"
+  },
+  {
+    "question": "True or False: Diphthongs are considered short syllables in Latin.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "How is the Latin diphthong AE pronounced?",
+    "options": [
+      "Like \"oy\" in \"boy\"",
+      "Like \"eye\" (similar to English \"I\")",
+      "Like \"ee\" in \"see\"",
+      "Like \"ay\" in \"day\""
+    ],
+    "answer": "Like \"eye\" (similar to English \"I\")"
+  },
+  {
+    "question": "How is the Latin diphthong OE pronounced?",
+    "options": [
+      "Like \"ee\" in \"see\"",
+      "Like \"ow\" in \"how\"",
+      "Like \"oy\" in \"boy\"",
+      "Like \"oh-eh\""
+    ],
+    "answer": "Like \"oy\" in \"boy\""
+  },
+  {
+    "question": "How is the Latin diphthong AU pronounced?",
+    "options": [
+      "Like \"oi\" in \"oil\"",
+      "Like \"a\" in \"date\"",
+      "Like \"ow\" in \"how\"",
+      "Like \"ah-oo\""
+    ],
+    "answer": "Like \"ow\" in \"how\""
+  },
+  {
+    "question": "How is the Latin diphthong UI pronounced?",
+    "options": [
+      "Like \"why\"",
+      "Like \"oy\" in \"boy\"",
+      "Like \"oo-ee\"",
+      "Like \"wee\" (as in \"quick\")"
+    ],
+    "answer": "Like \"wee\" (as in \"quick\")"
+  },
+  {
+    "question": "Why are diphthongs important in Latin?",
+    "options": [
+      "They were invented in the Medieval period",
+      "They are extremely rare in classical texts",
+      "They only appear in foreign words",
+      "They are crucial for understanding Latin poetry"
+    ],
+    "answer": "They are crucial for understanding Latin poetry"
+  }
+]

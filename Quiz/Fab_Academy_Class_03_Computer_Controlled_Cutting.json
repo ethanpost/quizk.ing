@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the main focus of the third class in Fab Academy?",
+    "options": [
+      "Computer-controlled cutting",
+      "3D printing",
+      "Electronics production",
+      "Embedded programming"
+    ],
+    "answer": "Computer-controlled cutting"
+  },
+  {
+    "question": "Which of these cutting tools operates at the lowest price point?",
+    "options": [
+      "Plasma cutter",
+      "Vinyl cutter",
+      "Waterjet cutter",
+      "EDM machine"
+    ],
+    "answer": "Vinyl cutter"
+  },
+  {
+    "question": "What is \"weeding\" in the context of vinyl cutting?",
+    "options": [
+      "Cleaning the machine after use",
+      "Applying a protective coating to the finished product",
+      "Removing excess material from around the cut design",
+      "Adjusting the cutting depth of the blade"
+    ],
+    "answer": "Removing excess material from around the cut design"
+  },
+  {
+    "question": "What should you do if the laser cutter starts a small fire?",
+    "options": [
+      "Spray water on the material",
+      "Pour sand on the burning material",
+      "Immediately open the cover to put it out",
+      "Drop a piece of stock or blanket to smother it"
+    ],
+    "answer": "Drop a piece of stock or blanket to smother it"
+  },
+  {
+    "question": "What is \"curf\" in laser cutting?",
+    "options": [
+      "The temperature of the cutting surface",
+      "The width of material removed by the laser beam",
+      "The power setting of the laser",
+      "The height of the laser above the material"
+    ],
+    "answer": "The width of material removed by the laser beam"
+  },
+  {
+    "question": "Why are chamfered joints recommended over simple slots?",
+    "options": [
+      "They cut faster on the laser cutter",
+      "They are more aesthetically pleasing",
+      "They help align parts and accommodate material compression",
+      "They require less material to create"
+    ],
+    "answer": "They help align parts and accommodate material compression"
+  },
+  {
+    "question": "Which of these joints is described as the strongest option?",
+    "options": [
+      "Chamfered slot",
+      "Flexure joint",
+      "Finger joint",
+      "Pinned joint"
+    ],
+    "answer": "Pinned joint"
+  },
+  {
+    "question": "Why should you never cut PVC in a laser cutter?",
+    "options": [
+      "It creates too much smoke",
+      "It releases chlorine gas when cut",
+      "It's too hard for the laser to cut through",
+      "It will damage the cutting bed"
+    ],
+    "answer": "It releases chlorine gas when cut"
+  },
+  {
+    "question": "What is typically the beam waist (focused width) of a laser cutter?",
+    "options": [
+      "1 centimeter",
+      "1 millimeter",
+      "0.010 inches (about 0.25mm)",
+      "1 inch"
+    ],
+    "answer": "0.010 inches (about 0.25mm)"
+  },
+  {
+    "question": "Why is cardboard recommended as the best material for this week's assignment?",
+    "options": [
+      "It doesn't produce smoke when cut",
+      "It's the easiest material to source",
+      "It's renewable, sustainable, and works well for construction kits",
+      "It's the cheapest option available"
+    ],
+    "answer": "It's renewable, sustainable, and works well for construction kits"
+  },
+  {
+    "question": "What is a parametric design?",
+    "options": [
+      "A design that uses only geometric shapes",
+      "A design that can be adjusted by changing defined parameters",
+      "A design that requires special software to view",
+      "A design that can be 3D printed"
+    ],
+    "answer": "A design that can be adjusted by changing defined parameters"
+  },
+  {
+    "question": "What distinguishes good cardboard from bad cardboard for laser cutting projects?",
+    "options": [
+      "Good cardboard has a glossy surface",
+      "Good cardboard is thicker",
+      "Good cardboard is lighter in color",
+      "Good cardboard bends with a smooth curve rather than kinking"
+    ],
+    "answer": "Good cardboard bends with a smooth curve rather than kinking"
+  },
+  {
+    "question": "Which type of laser is typically used to cut metal?",
+    "options": [
+      "Ultrasonic laser",
+      "CO2 laser",
+      "Fiber laser",
+      "Diode laser"
+    ],
+    "answer": "Fiber laser"
+  },
+  {
+    "question": "What is \"halftoning\" in laser cutting?",
+    "options": [
+      "Running the laser at half power",
+      "Converting an image into patterns of dots for engraving",
+      "Cutting at half speed",
+      "Cutting only halfway through the material"
+    ],
+    "answer": "Converting an image into patterns of dots for engraving"
+  },
+  {
+    "question": "What is the purpose of air assist in a laser cutter?",
+    "options": [
+      "To reduce noise during operation",
+      "To cool the laser tube",
+      "To push combustion products down and away from the optics",
+      "To increase cutting speed"
+    ],
+    "answer": "To push combustion products down and away from the optics"
+  },
+  {
+    "question": "What joint type uses a bistable mechanical design similar to a backpack buckle?",
+    "options": [
+      "Chamfered joint",
+      "Pinned joint",
+      "Finger joint",
+      "Flexure joint"
+    ],
+    "answer": "Flexure joint"
+  },
+  {
+    "question": "Why should you offset your design to account for the laser's kerf?",
+    "options": [
+      "To prevent the laser from overheating",
+      "To ensure the final part has the correct dimensions",
+      "To save material",
+      "To reduce cutting time"
+    ],
+    "answer": "To ensure the final part has the correct dimensions"
+  },
+  {
+    "question": "What is a major advantage of diode lasers over CO2 lasers?",
+    "options": [
+      "They use less electricity",
+      "They are completely silent",
+      "They require less maintenance as the laser itself moves",
+      "They can cut thicker materials"
+    ],
+    "answer": "They require less maintenance as the laser itself moves"
+  },
+  {
+    "question": "What is the role of a galvo scanner in some laser systems?",
+    "options": [
+      "To prevent fire hazards",
+      "To measure the thickness of the material",
+      "To automatically adjust focus",
+      "To steer the laser beam precisely for engraving"
+    ],
+    "answer": "To steer the laser beam precisely for engraving"
+  },
+  {
+    "question": "Why is acrylic not ideal for mechanical parts that will experience stress?",
+    "options": [
+      "It's too soft",
+      "It can't be cut precisely enough",
+      "It's too expensive",
+      "It tends to crack easily"
+    ],
+    "answer": "It tends to crack easily"
+  }
+]

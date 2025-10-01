@@ -1,0 +1,240 @@
+[
+  {
+    "question": "What was Rome's primary water source before aqueducts were built?",
+    "options": [
+      "Springs",
+      "The Tiber River, wells, and cisterns",
+      "Underground aquifers",
+      "Mountain streams"
+    ],
+    "answer": "The Tiber River, wells, and cisterns"
+  },
+  {
+    "question": "How many years did Rome exist without aqueducts?",
+    "options": [
+      "312 years",
+      "441 years",
+      "144 years",
+      "19 years"
+    ],
+    "answer": "441 years"
+  },
+  {
+    "question": "What was the name of the first Roman aqueduct?",
+    "options": [
+      "Aqua Marcia",
+      "Aqua Virgo",
+      "Aqua Claudia",
+      "Aqua Appia"
+    ],
+    "answer": "Aqua Appia"
+  },
+  {
+    "question": "In what year was the first Roman aqueduct built?",
+    "options": [
+      "144 BCE",
+      "19 BCE",
+      "312 BCE",
+      "100 CE"
+    ],
+    "answer": "312 BCE"
+  },
+  {
+    "question": "What fundamental principle did Roman aqueducts operate on?",
+    "options": [
+      "Water pressure",
+      "Mechanical pumps",
+      "Gravity flow",
+      "Steam power"
+    ],
+    "answer": "Gravity flow"
+  },
+  {
+    "question": "What engineering feature became an enduring symbol of Roman aqueducts?",
+    "options": [
+      "Underground tunnels",
+      "Clay pipes",
+      "Inverted siphons",
+      "Towering arches"
+    ],
+    "answer": "Towering arches"
+  },
+  {
+    "question": "Why were most Roman aqueducts built underground?",
+    "options": [
+      "To keep the water cool",
+      "To make them more cost-effective and protect them from damage and sabotage",
+      "To hide them from enemies",
+      "To prevent evaporation"
+    ],
+    "answer": "To make them more cost-effective and protect them from damage and sabotage"
+  },
+  {
+    "question": "What was a crucial design element in aqueduct construction?",
+    "options": [
+      "The steady slope of the canal",
+      "The width of the channels",
+      "The height of the arches",
+      "The temperature of the water"
+    ],
+    "answer": "The steady slope of the canal"
+  },
+  {
+    "question": "What structures were used to control water flow and divide it into smaller ducts?",
+    "options": [
+      "Thermae",
+      "Castella",
+      "Naumachiae",
+      "Cisterns"
+    ],
+    "answer": "Castella"
+  },
+  {
+    "question": "How many aqueducts supplied Rome at the height of the Empire?",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "13"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "According to the transcript, approximately how many public fountains existed in Rome by the end of the first century CE?",
+    "options": [
+      "254",
+      "856",
+      "1,352",
+      "15"
+    ],
+    "answer": "1,352"
+  },
+  {
+    "question": "Who was the Roman expert who wrote extensively about aqueducts?",
+    "options": [
+      "Frontinus",
+      "Augustus",
+      "Claudius Apius",
+      "Diocletian"
+    ],
+    "answer": "Frontinus"
+  },
+  {
+    "question": "What government position was responsible for overseeing Roman aqueducts?",
+    "options": [
+      "Praetor Aquae",
+      "Curator Aquarum",
+      "Magister Fontis",
+      "Imperator Aquarum"
+    ],
+    "answer": "Curator Aquarum"
+  },
+  {
+    "question": "Approximately how many people were employed to maintain Rome's aqueduct system?",
+    "options": [
+      "100",
+      "300",
+      "500",
+      "700"
+    ],
+    "answer": "700"
+  },
+  {
+    "question": "Who provided much of the labor for aqueduct construction and maintenance?",
+    "options": [
+      "Hired craftsmen",
+      "Military engineers",
+      "Servi Publici (public slaves)",
+      "Foreign contractors"
+    ],
+    "answer": "Servi Publici (public slaves)"
+  },
+  {
+    "question": "What was a common problem that affected Roman aqueducts?",
+    "options": [
+      "Water theft through illegal vents",
+      "Frequent earthquakes damaging the structures",
+      "Bacterial contamination",
+      "Freezing in winter"
+    ],
+    "answer": "Water theft through illegal vents"
+  },
+  {
+    "question": "Which Roman Emperor ordered the construction of the Aqua Virgo aqueduct?",
+    "options": [
+      "Julius Caesar",
+      "Nero",
+      "Augustus",
+      "Caligula"
+    ],
+    "answer": "Augustus"
+  },
+  {
+    "question": "What was the estimated daily water supply to Rome?",
+    "options": [
+      "100,000 cubic meters",
+      "500,000 cubic meters",
+      "Up to a million cubic meters",
+      "10,000 cubic meters"
+    ],
+    "answer": "Up to a million cubic meters"
+  },
+  {
+    "question": "True or False: Most Roman citizens had water piped directly into their homes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is a naumachia?",
+    "options": [
+      "A type of water filter",
+      "A naval battle reenactment that required substantial water",
+      "A public fountain",
+      "An underground water reservoir"
+    ],
+    "answer": "A naval battle reenactment that required substantial water"
+  },
+  {
+    "question": "Why did wealthy Romans pay fees for water?",
+    "options": [
+      "To support aqueduct maintenance",
+      "To have direct access to water in their homes",
+      "To use the public baths",
+      "To demonstrate their social status"
+    ],
+    "answer": "To have direct access to water in their homes"
+  },
+  {
+    "question": "How many kilometers away was the water source for the Aqua Appia?",
+    "options": [
+      "90 km",
+      "16 km",
+      "18 km",
+      "100 km"
+    ],
+    "answer": "16 km"
+  },
+  {
+    "question": "What structure was featured on the Aqua Marcia that was a technical breakthrough?",
+    "options": [
+      "Water wheels",
+      "Long elevated stretches on arches",
+      "Clay pipes",
+      "Water pumps"
+    ],
+    "answer": "Long elevated stretches on arches"
+  },
+  {
+    "question": "What did Frontinus implement to combat water theft?",
+    "options": [
+      "An inspection system",
+      "Armed guards",
+      "Higher walls",
+      "Payment incentives"
+    ],
+    "answer": "An inspection system"
+  }
+]

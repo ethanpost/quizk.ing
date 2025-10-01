@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the primary safety concern when working with higher voltages and currents?",
+    "options": [
+      "Electrical shock and bodily harm",
+      "Wire gauge requirements",
+      "Power consumption measurement",
+      "Component overheating"
+    ],
+    "answer": "Electrical shock and bodily harm"
+  },
+  {
+    "question": "How many milliamps inside the body can cause fibrillation and heart attack?",
+    "options": [
+      "1000 milliamps",
+      "100 milliamps",
+      "50 milliamps",
+      "10 milliamps"
+    ],
+    "answer": "100 milliamps"
+  },
+  {
+    "question": "What is the most important new skill introduced for controlling output devices?",
+    "options": [
+      "I2C communication",
+      "Power transistor operation",
+      "Pulse Width Modulation (PWM)",
+      "Motor control protocols"
+    ],
+    "answer": "Pulse Width Modulation (PWM)"
+  },
+  {
+    "question": "How does PWM control LED brightness?",
+    "options": [
+      "By adjusting the frequency of the signal",
+      "By varying pulse duration while maintaining fast switching rate",
+      "By varying the voltage supply",
+      "By changing the current through a resistor"
+    ],
+    "answer": "By varying pulse duration while maintaining fast switching rate"
+  },
+  {
+    "question": "What is Charlieplexing used for?",
+    "options": [
+      "Power management in circuits",
+      "Audio signal processing",
+      "Controlling multiple LEDs with fewer pins",
+      "Controlling multiple motors with fewer pins"
+    ],
+    "answer": "Controlling multiple LEDs with fewer pins"
+  },
+  {
+    "question": "How many LEDs can be controlled with n pins using Charlieplexing?",
+    "options": [
+      "n LEDs",
+      "n² LEDs",
+      "n × (n-1) LEDs",
+      "n × n LEDs"
+    ],
+    "answer": "n × (n-1) LEDs"
+  },
+  {
+    "question": "What is the primary advantage of neopixels over individual RGB LEDs?",
+    "options": [
+      "Higher brightness output",
+      "Lower power consumption",
+      "Daisy-chain protocol for easy control of multiple LEDs",
+      "Simpler wiring requirements"
+    ],
+    "answer": "Daisy-chain protocol for easy control of multiple LEDs"
+  },
+  {
+    "question": "What type of transistor is primarily used for power control in output devices?",
+    "options": [
+      "JFETs",
+      "MOSFETs",
+      "Thyristors",
+      "Bipolar transistors"
+    ],
+    "answer": "MOSFETs"
+  }
+]

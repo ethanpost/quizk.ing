@@ -1,0 +1,198 @@
+[
+  {
+    "question": "According to the video, what is the 'motor' of a sentence?",
+    "options": [
+      "Verb",
+      "Noun",
+      "Adjective",
+      "Adverb"
+    ],
+    "answer": "Verb"
+  },
+  {
+    "question": "What Latin phrase is used in the video to describe the essential elements of grammar?",
+    "options": [
+      "E pluribus unum",
+      "Ad infinitum",
+      "Sine qua non",
+      "Carpe diem"
+    ],
+    "answer": "Sine qua non"
+  },
+  {
+    "question": "A grammatically correct sentence must always contain a verb.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "Which of the following is NOT described as a type of adjective in the video?",
+    "options": [
+      "Qualities (like 'cowardly')",
+      "Colors",
+      "Numbers",
+      "Adverbs"
+    ],
+    "answer": "Adverbs"
+  },
+  {
+    "question": "According to the video, nouns can include:",
+    "options": [
+      "Only subjects of sentences",
+      "Only tangible objects",
+      "Only people, places, and things",
+      "Intangible concepts like virtue and courage"
+    ],
+    "answer": "Intangible concepts like virtue and courage"
+  },
+  {
+    "question": "In the example sentence 'The cowardly cat caught a cold,' what is the verb?",
+    "options": [
+      "Cat",
+      "The",
+      "Caught",
+      "Cowardly"
+    ],
+    "answer": "Caught"
+  },
+  {
+    "question": "What is the primary purpose of learning about English grammar according to the video?",
+    "options": [
+      "To become an English teacher",
+      "To pass standardized tests",
+      "To improve writing skills",
+      "To prepare for learning Latin"
+    ],
+    "answer": "To prepare for learning Latin"
+  },
+  {
+    "question": "Which of the following is described as a prepositional phrase in the video?",
+    "options": [
+      "Soon or quickly",
+      "Cowardly cat",
+      "Caught a cold",
+      "In the house"
+    ],
+    "answer": "In the house"
+  },
+  {
+    "question": "The video states that numbers are a type of adjective.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "How many essential topics of English grammar are identified at the end of the video?",
+    "options": [
+      "Six",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Five"
+  },
+  {
+    "question": "What is a verb?",
+    "options": [
+      "A word that represents a person, place, or thing",
+      "A word that modifies another verb",
+      "A word that describes a noun",
+      "The \"motor\" of a sentence that expresses an action, occurrence, or state of being"
+    ],
+    "answer": "The \"motor\" of a sentence that expresses an action, occurrence, or state of being"
+  },
+  {
+    "question": "Which of the following best defines a noun?",
+    "options": [
+      "A word that connects parts of a sentence",
+      "A word that shows action",
+      "A word that describes qualities",
+      "A word that represents a person, place, thing, or abstract concept"
+    ],
+    "answer": "A word that represents a person, place, thing, or abstract concept"
+  },
+  {
+    "question": "What is the function of an adjective?",
+    "options": [
+      "To connect different parts of a sentence",
+      "To modify a verb",
+      "To describe or modify a noun",
+      "To express an action"
+    ],
+    "answer": "To describe or modify a noun"
+  },
+  {
+    "question": "What does an adverb typically modify?",
+    "options": [
+      "Only other adverbs",
+      "Only nouns",
+      "A verb, adjective, or other adverb",
+      "Only adjectives"
+    ],
+    "answer": "A verb, adjective, or other adverb"
+  },
+  {
+    "question": "What is a preposition?",
+    "options": [
+      "The main subject of a sentence",
+      "A word that describes qualities",
+      "A word that shows the relationship between a noun and other words in a sentence",
+      "A word that expresses action"
+    ],
+    "answer": "A word that shows the relationship between a noun and other words in a sentence"
+  },
+  {
+    "question": "What makes up a prepositional phrase?",
+    "options": [
+      "Two connected verbs",
+      "An adjective and a noun",
+      "A verb and an adverb",
+      "A group of words containing a preposition and a noun"
+    ],
+    "answer": "A group of words containing a preposition and a noun"
+  },
+  {
+    "question": "What does the Latin phrase \"sine qua non\" mean?",
+    "options": [
+      "\"From many, one\"",
+      "\"Always moving forward\"",
+      "\"To seize the day\"",
+      "\"Without which not\" - referring to essential elements"
+    ],
+    "answer": "\"Without which not\" - referring to essential elements"
+  },
+  {
+    "question": "What is a \"state of being\" verb?",
+    "options": [
+      "A verb that connects two nouns",
+      "A verb that shows physical movement",
+      "A verb that describes how something looks",
+      "A verb that expresses existence rather than action"
+    ],
+    "answer": "A verb that expresses existence rather than action"
+  },
+  {
+    "question": "What is the function of a linking verb like \"is\"?",
+    "options": [
+      "To indicate possession",
+      "To describe time",
+      "To show action",
+      "To connect the subject to additional information"
+    ],
+    "answer": "To connect the subject to additional information"
+  },
+  {
+    "question": "What is an intangible concept?",
+    "options": [
+      "A type of verb",
+      "A physical object that can be touched",
+      "A person, place, or thing",
+      "An abstract idea that cannot be physically touched"
+    ],
+    "answer": "An abstract idea that cannot be physically touched"
+  }
+]

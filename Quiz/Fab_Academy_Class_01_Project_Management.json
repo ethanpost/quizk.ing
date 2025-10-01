@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Who created Git?",
+    "options": [
+      "Julian Assange",
+      "Linus Torvalds",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ],
+    "answer": "Linus Torvalds"
+  },
+  {
+    "question": "What is the 80/20 principle in project management?",
+    "options": [
+      "80% of people do 20% of the work",
+      "80% of projects fail because of 20% of the requirements",
+      "80% of work takes 20% of the time, and 20% of work takes 80% of the time",
+      "80% of work should be done by the deadline, 20% after"
+    ],
+    "answer": "80% of work takes 20% of the time, and 20% of work takes 80% of the time"
+  },
+  {
+    "question": "What is spiral development?",
+    "options": [
+      "A planning technique using spiral diagrams",
+      "A project management style developed by the US Department of Defense",
+      "A development approach where you work through requirements in a spiral pattern",
+      "An iterative approach where each cycle produces a complete working product before adding features"
+    ],
+    "answer": "An iterative approach where each cycle produces a complete working product before adding features"
+  },
+  {
+    "question": "What is the difference between demand-side and supply-side time management?",
+    "options": [
+      "Demand-side focuses on urgent tasks, supply-side on important ones",
+      "Demand-side is for short-term projects, supply-side for long-term ones",
+      "Demand-side does tasks in sequence until time runs out, supply-side divides available time among tasks",
+      "Demand-side is used in business, supply-side in education"
+    ],
+    "answer": "Demand-side does tasks in sequence until time runs out, supply-side divides available time among tasks"
+  },
+  {
+    "question": "Which of these is NOT a function of Git according to the lecture?",
+    "options": [
+      "Managing history",
+      "Designing interfaces",
+      "Pushing and pulling",
+      "Branching and merging"
+    ],
+    "answer": "Designing interfaces"
+  },
+  {
+    "question": "What is triage in project management?",
+    "options": [
+      "Breaking down a project into smaller components",
+      "Determining which resources to allocate to different parts of a project",
+      "Identifying which team members to assign to each task",
+      "Deciding which tasks to prioritize, which to abandon, and which can wait"
+    ],
+    "answer": "Deciding which tasks to prioritize, which to abandon, and which can wait"
+  },
+  {
+    "question": "What is the recommended approach to documentation during Fab Academy?",
+    "options": [
+      "Only document the successful parts of your work",
+      "Have someone else document your work while you focus on technical aspects",
+      "Document everything at the end of the week before submission",
+      "Document as you go, making it part of your daily work cycle"
+    ],
+    "answer": "Document as you go, making it part of your daily work cycle"
+  },
+  {
+    "question": "Why does the instructor recommend keeping file sizes small in the repository?",
+    "options": [
+      "Because large files are more likely to be corrupted",
+      "To make backups easier to create",
+      "For archival purposes and responsive website performance",
+      "To save personal storage space on your computer"
+    ],
+    "answer": "For archival purposes and responsive website performance"
+  },
+  {
+    "question": "What does WYSIWYG stand for?",
+    "options": [
+      "Where Your System Is Working Good",
+      "When You Share Information With Your Group",
+      "Why You Should Install Web Graphics",
+      "What You See Is What You Get"
+    ],
+    "answer": "What You See Is What You Get"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the traditional first program written in a new programming language?",
+    "options": [
+      "Hello World",
+      "Goodbye World",
+      "Welcome World",
+      "Start World"
+    ],
+    "answer": "Hello World"
+  },
+  {
+    "question": "Which programming language is described as \"beautiful, well-documented, cross-platform\" and dominates machine learning applications?",
+    "options": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What type of programming environment allows you to describe what you want interactively without learning to write code?",
+    "options": [
+      "Assembly programming",
+      "High-level programming",
+      "Low-code and no-code environments",
+      "Functional programming"
+    ],
+    "answer": "Low-code and no-code environments"
+  },
+  {
+    "question": "Which protocol is described as the most common way to manage an ecosystem of multiple IoT devices?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "MQTT"
+    ],
+    "answer": "MQTT"
+  },
+  {
+    "question": "What is the main security issue mentioned with the C programming language that allows accessing memory you shouldn't be able to see?",
+    "options": [
+      "Stack overflow",
+      "Race condition",
+      "Buffer overflow",
+      "Memory leak"
+    ],
+    "answer": "Buffer overflow"
+  },
+  {
+    "question": "Which web graphics technology is described as \"resolution-independent\" and uses graphic elements with identities?",
+    "options": [
+      "WebGL",
+      "Three.js",
+      "SVG",
+      "Canvas"
+    ],
+    "answer": "SVG"
+  },
+  {
+    "question": "What is the name of the Python library that extends Python to make it more like APL for mathematical operations?",
+    "options": [
+      "Pandas",
+      "SymPy",
+      "Matplotlib",
+      "NumPy"
+    ],
+    "answer": "NumPy"
+  },
+  {
+    "question": "Which machine learning framework is currently described as the most common for AI applications?",
+    "options": [
+      "Scikit-learn",
+      "PyTorch",
+      "Keras",
+      "TensorFlow"
+    ],
+    "answer": "PyTorch"
+  },
+  {
+    "question": "What is the term for a timing-dependent bug where program behavior depends on unpredictable timing between operations?",
+    "options": [
+      "Buffer overflow",
+      "Deadlock",
+      "Race condition",
+      "Memory leak"
+    ],
+    "answer": "Race condition"
+  },
+  {
+    "question": "Which JavaScript feature allows you to run code on separate cores for parallel programming?",
+    "options": [
+      "Callbacks",
+      "Async/await",
+      "Workers",
+      "Promises"
+    ],
+    "answer": "Workers"
+  },
+  {
+    "question": "What is the name of the interactive computing environment that combines code, output, and documentation?",
+    "options": [
+      "Terminal",
+      "Python REPL",
+      "Jupyter Notebook",
+      "Google Colab"
+    ],
+    "answer": "Jupyter Notebook"
+  },
+  {
+    "question": "Which programming language is described as having \"nothing to do with Java\" despite its name?",
+    "options": [
+      "LiveScript",
+      "TypeScript",
+      "CoffeeScript",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the term for an isolated Python environment with specific packages and dependencies?",
+    "options": [
+      "Container",
+      "Virtual environment",
+      "Sandbox",
+      "Virtual machine"
+    ],
+    "answer": "Virtual environment"
+  },
+  {
+    "question": "Which web technology provides full-duplex communication channels over a single TCP connection?",
+    "options": [
+      "WebRTC",
+      "HTTP",
+      "WebSocket",
+      "WebGL"
+    ],
+    "answer": "WebSocket"
+  },
+  {
+    "question": "What is the name of the algorithm used to train neural networks by calculating gradients of the loss function?",
+    "options": [
+      "Gradient descent",
+      "Forward propagation",
+      "Backpropagation",
+      "Stochastic optimization"
+    ],
+    "answer": "Backpropagation"
+  },
+  {
+    "question": "Which GUI framework is described as looking the same on any computer but not native-looking?",
+    "options": [
+      "Qt",
+      "GTK",
+      "wxWidgets",
+      "Tkinter"
+    ],
+    "answer": "Tkinter"
+  },
+  {
+    "question": "What is the term for a messaging pattern where senders don't directly send messages to receivers?",
+    "options": [
+      "Point-to-point",
+      "Request-response",
+      "Broadcast",
+      "Publish-subscribe"
+    ],
+    "answer": "Publish-subscribe"
+  },
+  {
+    "question": "Which Python library is described as a \"wrapper around SDL\" for multimedia programming?",
+    "options": [
+      "OpenFrameworks",
+      "Taichi",
+      "Pygame",
+      "PyGFX"
+    ],
+    "answer": "Pygame"
+  },
+  {
+    "question": "What is the name of the function that measures how well a machine learning model performs on training data?",
+    "options": [
+      "Performance function",
+      "Error function",
+      "Loss function",
+      "Cost function"
+    ],
+    "answer": "Loss function"
+  },
+  {
+    "question": "Which security vulnerability is described as making \"much of the whole internet vulnerable\" due to a low-level package issue?",
+    "options": [
+      "Shellshock",
+      "Meltdown",
+      "Heartbleed",
+      "Spectre"
+    ],
+    "answer": "Heartbleed"
+  }
+]

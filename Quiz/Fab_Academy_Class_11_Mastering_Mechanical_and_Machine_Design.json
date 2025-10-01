@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the primary goal of Fab Labs according to the transcript?",
+    "options": [
+      "To obsolete themselves by enabling labs to make labs",
+      "To make expensive commercial machines",
+      "To replace traditional manufacturing",
+      "To create only 3D printers"
+    ],
+    "answer": "To obsolete themselves by enabling labs to make labs"
+  },
+  {
+    "question": "What is the relationship between stress and strain in materials?",
+    "options": [
+      "They are completely independent properties",
+      "Stress is the applied force, strain is the response",
+      "They are the same thing with different names",
+      "Stress is the response, strain is the applied force"
+    ],
+    "answer": "Stress is the applied force, strain is the response"
+  },
+  {
+    "question": "What type of gear is most commonly used in machine building?",
+    "options": [
+      "Helical gear",
+      "Herringbone gear",
+      "Involute gear",
+      "Cycloidal gear"
+    ],
+    "answer": "Involute gear"
+  },
+  {
+    "question": "What is the purpose of a kinematic coupling?",
+    "options": [
+      "To provide power transmission",
+      "To reduce vibration",
+      "To align parts to micron accuracy",
+      "To increase speed"
+    ],
+    "answer": "To align parts to micron accuracy"
+  },
+  {
+    "question": "What is backlash in mechanical systems?",
+    "options": [
+      "A type of bearing",
+      "A control system",
+      "Clearance between mating parts causing lost motion",
+      "A type of gear"
+    ],
+    "answer": "Clearance between mating parts causing lost motion"
+  },
+  {
+    "question": "What material is NOT recommended for machine building due to swelling and deformation?",
+    "options": [
+      "Metal extrusions",
+      "G10 (PCB stock)",
+      "Wood",
+      "HDPE plastic"
+    ],
+    "answer": "Wood"
+  },
+  {
+    "question": "What is the difference between accuracy and precision?",
+    "options": [
+      "They are the same thing",
+      "Accuracy measures closeness to true value, precision measures repeatability",
+      "Accuracy is for measurements, precision is for control systems",
+      "Accuracy measures repeatability, precision measures closeness to true value"
+    ],
+    "answer": "Accuracy measures closeness to true value, precision measures repeatability"
+  },
+  {
+    "question": "What type of drive system uses recirculating ball bearings for smooth motion?",
+    "options": [
+      "Capstan drive",
+      "Ball screw",
+      "Lead screw",
+      "Rack and pinion"
+    ],
+    "answer": "Ball screw"
+  },
+  {
+    "question": "What is the purpose of bearing preload?",
+    "options": [
+      "To increase speed",
+      "To reduce noise and rattling",
+      "To decrease friction",
+      "To increase load capacity"
+    ],
+    "answer": "To reduce noise and rattling"
+  },
+  {
+    "question": "What mechanism was invented by Alan Moyer?",
+    "options": [
+      "Harmonic drive",
+      "Hexapod",
+      "CoreXY",
+      "Delta bot"
+    ],
+    "answer": "CoreXY"
+  },
+  {
+    "question": "What type of control system is considered better than PID for advanced applications?",
+    "options": [
+      "Bang-bang control",
+      "Open loop control",
+      "Model predictive control",
+      "Proportional control only"
+    ],
+    "answer": "Model predictive control"
+  },
+  {
+    "question": "What is the purpose of an end effector?",
+    "options": [
+      "To provide power to the machine",
+      "To provide feedback",
+      "To perform the actual work or task",
+      "To control the machine"
+    ],
+    "answer": "To perform the actual work or task"
+  },
+  {
+    "question": "What is G-code used for?",
+    "options": [
+      "Programming microcontrollers",
+      "Network communication",
+      "Standard programming language for CNC machines",
+      "3D modeling"
+    ],
+    "answer": "Standard programming language for CNC machines"
+  },
+  {
+    "question": "What is the advantage of network-based machine control?",
+    "options": [
+      "It's always cheaper",
+      "It's always faster",
+      "It allows for modular expansion and easier modification",
+      "It requires less programming"
+    ],
+    "answer": "It allows for modular expansion and easier modification"
+  },
+  {
+    "question": "What is the purpose of a harmonic drive?",
+    "options": [
+      "To increase speed",
+      "To provide high reduction ratios with smooth motion",
+      "To reduce noise",
+      "To increase torque"
+    ],
+    "answer": "To provide high reduction ratios with smooth motion"
+  },
+  {
+    "question": "What type of bearing is commonly used for cost-effective solutions in machine building?",
+    "options": [
+      "Thrust bearings",
+      "Linear bearings",
+      "Skateboard bearings",
+      "Sleeve bearings"
+    ],
+    "answer": "Skateboard bearings"
+  },
+  {
+    "question": "What is the purpose of a capstan drive?",
+    "options": [
+      "To provide rotary motion only",
+      "To provide linear motion only",
+      "To provide flexible power transmission in any shape",
+      "To provide high-speed motion"
+    ],
+    "answer": "To provide flexible power transmission in any shape"
+  },
+  {
+    "question": "What is the difference between open loop and closed loop control?",
+    "options": [
+      "Open loop is always better",
+      "Closed loop uses feedback, open loop does not",
+      "Open loop is more expensive",
+      "Closed loop is always digital"
+    ],
+    "answer": "Closed loop uses feedback, open loop does not"
+  },
+  {
+    "question": "What is the purpose of T-slots in machine framing?",
+    "options": [
+      "To reduce weight",
+      "To provide modular construction with captive nuts",
+      "To increase strength",
+      "To reduce cost"
+    ],
+    "answer": "To provide modular construction with captive nuts"
+  },
+  {
+    "question": "What is the main advantage of using metal extrusions for machine framing?",
+    "options": [
+      "They are always cheaper than other materials",
+      "They are stiff, modular, and can be quickly assembled",
+      "They are always lighter than other materials",
+      "They require no fasteners"
+    ],
+    "answer": "They are stiff, modular, and can be quickly assembled"
+  }
+]

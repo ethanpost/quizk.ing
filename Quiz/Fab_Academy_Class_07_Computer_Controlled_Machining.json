@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the primary difference between a drill bit and an endmill?",
+    "options": [
+      "Drill bits can only cut vertically while endmills can cut horizontally and vertically",
+      "Drill bits are cheaper than endmills",
+      "Endmills are only used for wood while drill bits work on all materials",
+      "Drill bits are more precise than endmills"
+    ],
+    "answer": "Drill bits can only cut vertically while endmills can cut horizontally and vertically"
+  },
+  {
+    "question": "What is the main advantage of using a coated endmill?",
+    "options": [
+      "It cuts faster than uncoated endmills",
+      "It significantly extends the tool's lifetime",
+      "It produces smoother finishes",
+      "It requires less maintenance"
+    ],
+    "answer": "It significantly extends the tool's lifetime"
+  },
+  {
+    "question": "What is the purpose of t-boning or dog boning in machining?",
+    "options": [
+      "To create decorative patterns",
+      "To reduce material waste",
+      "To provide extra space for joints to fit properly",
+      "To improve cutting speed"
+    ],
+    "answer": "To provide extra space for joints to fit properly"
+  },
+  {
+    "question": "What is the Maxwell Criterion used for in structural design?",
+    "options": [
+      "To calculate material strength",
+      "To determine the number of joints needed",
+      "To optimize cutting paths",
+      "To ensure structures don't wobble by balancing degrees of freedom and constraints"
+    ],
+    "answer": "To ensure structures don't wobble by balancing degrees of freedom and constraints"
+  },
+  {
+    "question": "What is the main purpose of a sacrificial layer in CNC machining?",
+    "options": [
+      "To reduce material waste",
+      "To improve cutting accuracy",
+      "To protect the machine bed",
+      "To provide a flat reference surface for the coordinate system"
+    ],
+    "answer": "To provide a flat reference surface for the coordinate system"
+  },
+  {
+    "question": "What is the difference between climb and conventional machining?",
+    "options": [
+      "Conventional machining is only used for metal",
+      "Conventional machining produces cleaner cuts but requires more force",
+      "Climb machining makes more force on the machine but leaves cleaner cuts",
+      "Climb machining is faster but less accurate"
+    ],
+    "answer": "Climb machining makes more force on the machine but leaves cleaner cuts"
+  },
+  {
+    "question": "What is the purpose of onion skinning in machining?",
+    "options": [
+      "To improve surface finish",
+      "To create decorative patterns",
+      "To hold parts in place during cutting",
+      "To reduce material waste"
+    ],
+    "answer": "To hold parts in place during cutting"
+  },
+  {
+    "question": "What is the main advantage of OSB (Oriented Strand Board) over other wood materials?",
+    "options": [
+      "It's the easiest to machine",
+      "It has the best surface finish",
+      "It's very low cost while maintaining good structural properties",
+      "It's the strongest material"
+    ],
+    "answer": "It's very low cost while maintaining good structural properties"
+  },
+  {
+    "question": "What is the purpose of tabs in CNC machining?",
+    "options": [
+      "To improve surface finish",
+      "To reduce material waste",
+      "To create decorative patterns",
+      "To hold parts in place during cutting"
+    ],
+    "answer": "To hold parts in place during cutting"
+  },
+  {
+    "question": "What is the main safety concern when using a dust collector with CNC machines?",
+    "options": [
+      "Machine damage",
+      "Dust inhalation",
+      "Noise pollution",
+      "Fire hazard from accumulated dust"
+    ],
+    "answer": "Fire hazard from accumulated dust"
+  }
+]

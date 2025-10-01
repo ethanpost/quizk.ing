@@ -1,0 +1,192 @@
+[
+  {
+    "question": "What is the key distinction between 3D printing and traditional manufacturing?",
+    "options": [
+      "3D printing adds material rather than removing it",
+      "3D printing is faster than traditional manufacturing",
+      "3D printing requires less skill than traditional manufacturing",
+      "3D printing uses only synthetic materials"
+    ],
+    "answer": "3D printing adds material rather than removing it"
+  },
+  {
+    "question": "Which of these is NOT a primary benefit of 3D printing?",
+    "options": [
+      "Complexity is inexpensive",
+      "Superior material strength in all directions",
+      "Access to interior spaces during printing",
+      "Net shape production with minimal waste"
+    ],
+    "answer": "Superior material strength in all directions"
+  },
+  {
+    "question": "What is the minimum angle at which overhangs can typically be printed without supports?",
+    "options": [
+      "60°",
+      "30°",
+      "15°",
+      "45°"
+    ],
+    "answer": "30°"
+  },
+  {
+    "question": "Which material is plant-based, renewable, and produces low volatile emissions?",
+    "options": [
+      "TPU",
+      "ABS",
+      "PLA",
+      "PETG"
+    ],
+    "answer": "PLA"
+  },
+  {
+    "question": "What is \"bridging\" in 3D printing?",
+    "options": [
+      "Creating a support structure under overhangs",
+      "Connecting two separate prints with adhesive",
+      "Printing between two built-up areas without supports underneath",
+      "Joining two different materials in one print"
+    ],
+    "answer": "Printing between two built-up areas without supports underneath"
+  },
+  {
+    "question": "Which safety concern is associated with 3D printing certain materials?",
+    "options": [
+      "Magnetic field disruption",
+      "Electrical hazards",
+      "Ultrafine particle emissions",
+      "Radiation emissions"
+    ],
+    "answer": "Ultrafine particle emissions"
+  },
+  {
+    "question": "Which materials are generally considered safe for open printing without special ventilation?",
+    "options": [
+      "Metal-infused filaments and wood composites",
+      "TPU and PVA",
+      "PLA and PETG",
+      "ABS and nylon"
+    ],
+    "answer": "PLA and PETG"
+  },
+  {
+    "question": "What is a common issue with 3D printing food-safe items?",
+    "options": [
+      "The materials cannot withstand food temperatures",
+      "Fine seams can trap food and be difficult to clean",
+      "The colors leach into food",
+      "The print process creates toxic byproducts"
+    ],
+    "answer": "Fine seams can trap food and be difficult to clean"
+  },
+  {
+    "question": "What is the most common file format for 3D printing?",
+    "options": [
+      "DXF",
+      "OBJ",
+      "STL",
+      "AMF"
+    ],
+    "answer": "STL"
+  },
+  {
+    "question": "What limitation does the STL file format have?",
+    "options": [
+      "It can only handle small file sizes",
+      "It requires proprietary software to open",
+      "It doesn't specify units (millimeters or inches)",
+      "It only works with certain printers"
+    ],
+    "answer": "It doesn't specify units (millimeters or inches)"
+  },
+  {
+    "question": "What is \"slicer\" software used for in 3D printing?",
+    "options": [
+      "Cutting 3D models into smaller printable pieces",
+      "Converting 3D models into printer instructions (G-code)",
+      "Scanning physical objects into digital models",
+      "Removing digital supports from finished models"
+    ],
+    "answer": "Converting 3D models into printer instructions (G-code)"
+  },
+  {
+    "question": "What is the purpose of a \"raft\" in 3D printing?",
+    "options": [
+      "To smooth the bottom surface of the print",
+      "To protect the printer bed from damage",
+      "To provide a horizontal lattice structure beneath the object for better bed adhesion",
+      "To create a waterproof barrier on the bottom of prints"
+    ],
+    "answer": "To provide a horizontal lattice structure beneath the object for better bed adhesion"
+  },
+  {
+    "question": "Which printing technology uses a laser to cure liquid resin?",
+    "options": [
+      "Fused Deposition Modeling (FDM)",
+      "Selective Laser Sintering (SLS)",
+      "Stereolithography (SLA)",
+      "PolyJet"
+    ],
+    "answer": "Stereolithography (SLA)"
+  },
+  {
+    "question": "What does \"anisotropic\" mean in the context of 3D printed parts?",
+    "options": [
+      "The parts conduct electricity",
+      "The parts have different physical properties in different directions",
+      "The parts are water-resistant",
+      "The parts shrink over time"
+    ],
+    "answer": "The parts have different physical properties in different directions"
+  },
+  {
+    "question": "What 3D scanning technique reconstructs 3D models from multiple photographs?",
+    "options": [
+      "LIDAR",
+      "Structured light",
+      "Confocal microscopy",
+      "Photogrammetry"
+    ],
+    "answer": "Photogrammetry"
+  },
+  {
+    "question": "What is a \"HEPA filter\" used for in 3D printing?",
+    "options": [
+      "Removing moisture from filament",
+      "Cooling the printed parts",
+      "Trapping ultrafine particles from printer emissions",
+      "Sterilizing the printer bed"
+    ],
+    "answer": "Trapping ultrafine particles from printer emissions"
+  },
+  {
+    "question": "Which of the following is NOT a 3D scanning technique mentioned in the transcript?",
+    "options": [
+      "Light stage scanning",
+      "Quantum resonance imaging",
+      "Milk scanning",
+      "X-ray tomography"
+    ],
+    "answer": "Quantum resonance imaging"
+  },
+  {
+    "question": "What is SLAM in the context of 3D scanning?",
+    "options": [
+      "Structured Light And Measurement",
+      "Simultaneous Localization And Mapping",
+      "Scanners Learning Automated Movement",
+      "Sensors Leveraging Augmented Modeling"
+    ],
+    "answer": "Simultaneous Localization And Mapping"
+  },
+  {
+    "question": "What is the RepRap project's primary goal beyond 3D printing?",
+    "options": [
+      "Creating the fastest possible 3D printer",
+      "Developing biodegradable printing materials",
+      "Making 3D printers that can self-replicate",
+      "Producing the lowest cost 3D printer"
+    ],
+    "answer": "Making 3D printers that can self-replicate"
+  }
+]
