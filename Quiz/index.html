@@ -100,7 +100,7 @@
       border-color: #007bff;
     }
     #quizGrid {
-      display: none;
+      display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 20px;
       padding: 20px;
@@ -526,8 +526,8 @@
         currentQuizFile = file;
         
         // Hide quiz selection elements when starting quiz
-        quizSearch.style.display = 'none';
-        quizGrid.style.display = 'none';
+        quizSearch.classList.add("hidden");
+        quizGrid.classList.add("hidden");
         previousResultsElement.classList.add("hidden");
         
         // Add class to narrow container during quiz
@@ -686,8 +686,8 @@
         mainContainer.classList.remove("taking-quiz");
         
         // Hide quiz selection
-        quizSearch.style.display = 'none';
-        quizGrid.style.display = 'none';
+        quizSearch.classList.add("hidden");
+        quizGrid.classList.add("hidden");
         previousResultsElement.classList.add("hidden");
         
         // Show name section
@@ -776,8 +776,8 @@
         mainContainer.classList.remove("taking-quiz");
         
         // Hide quiz selection
-        quizSearch.style.display = 'none';
-        quizGrid.style.display = 'none';
+        quizSearch.classList.add("hidden");
+        quizGrid.classList.add("hidden");
         previousResultsElement.classList.add("hidden");
         
         // Show name section
@@ -807,7 +807,6 @@
         
         // Load and display quizzes
         await fetchQuizzesFromJson();
-        quizGrid.style.display = 'grid';
         quizGrid.classList.remove("hidden");
         
         // Don't show previous results on quiz selection screen
@@ -824,8 +823,8 @@
       // Reset everything and go back to name entry
       quizContainer.classList.add("hidden");
       resultElement.classList.add("hidden");
-      quizSearch.style.display = 'none';
-      quizGrid.style.display = 'none';
+      quizSearch.classList.add("hidden");
+      quizGrid.classList.add("hidden");
       previousResultsElement.classList.add("hidden");
       mainContainer.classList.remove("taking-quiz");
       
