@@ -1,0 +1,503 @@
+[
+  {
+    "question": "What is the main idea of a story?",
+    "options": ["The most important point the author wants to share", "The characters in the story", "The setting where the story takes place", "The ending of the story"],
+    "answer": "The most important point the author wants to share"
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["Quickly", "Jump", "Run", "Dog"],
+    "answer": "Dog"
+  },
+  {
+    "question": "True or False: A verb is a word that shows action or being.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What does the word \"brave\" mean?",
+    "options": ["Quiet", "Tired", "Strong and fearless", "Scared"],
+    "answer": "Strong and fearless"
+  },
+  {
+    "question": "Which sentence is written correctly?",
+    "options": ["The cat ran fast.", "the Cat Ran Fast", "the cat ran fast", "The cat ran fast"],
+    "answer": "The cat ran fast."
+  },
+  {
+    "question": "What is a synonym for \"happy\"?",
+    "options": ["Angry", "Sleepy", "Glad", "Sad"],
+    "answer": "Glad"
+  },
+  {
+    "question": "True or False: The sun is a star.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What do plants need to grow?",
+    "options": ["Darkness", "Only water", "Water, sunlight, and air", "Rocks and sand"],
+    "answer": "Water, sunlight, and air"
+  },
+  {
+    "question": "Which of these is a continent?",
+    "options": ["Texas", "New York", "Africa", "Florida"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "options": ["Thomas Jefferson", "Benjamin Franklin", "Abraham Lincoln", "George Washington"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "What is the setting of a story?",
+    "options": ["The lesson learned", "The main character", "The problem the characters face", "The time and place where the story happens"],
+    "answer": "The time and place where the story happens"
+  },
+  {
+    "question": "Which word is an adjective?",
+    "options": ["Fast", "Dog", "Tall", "Run"],
+    "answer": "Tall"
+  },
+  {
+    "question": "True or False: A period (.) goes at the end of a question.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "What does \"predict\" mean?",
+    "options": ["To draw a picture", "To ask a question", "To tell a story", "To guess what will happen next"],
+    "answer": "To guess what will happen next"
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "options": ["Running in the park", "The big red ball", "The dog barks loudly.", "Happy little girl"],
+    "answer": "The dog barks loudly."
+  },
+  {
+    "question": "What is the force that pulls objects toward the ground?",
+    "options": ["Wind", "Electricity", "Magnetism", "Gravity"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "True or False: The Earth has one moon.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What do you call a person who studies rocks?",
+    "options": ["Chemist", "Astronomer", "Geologist", "Biologist"],
+    "answer": "Geologist"
+  },
+  {
+    "question": "Which of these is a state in the United States?",
+    "options": ["Mexico", "England", "Canada", "California"],
+    "answer": "California"
+  },
+  {
+    "question": "What is a map used for?",
+    "options": ["To draw pictures", "To show where places are", "To write a story", "To tell time"],
+    "answer": "To show where places are"
+  },
+  {
+    "question": "What is the moral of a story?",
+    "options": ["The characters", "The title", "The beginning", "The lesson or message"],
+    "answer": "The lesson or message"
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": ["Chair", "Blue", "Sing", "Table"],
+    "answer": "Sing"
+  },
+  {
+    "question": "True or False: Every sentence needs a subject and a verb.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What does \"enormous\" mean?",
+    "options": ["Very loud", "Very fast", "Very big", "Very small"],
+    "answer": "Very big"
+  },
+  {
+    "question": "Which sentence uses correct punctuation?",
+    "options": ["I like to play soccer?", "i like to play soccer", "I like to play soccer.", "I like to play soccer"],
+    "answer": "I like to play soccer."
+  },
+  {
+    "question": "What is the source of energy for Earth?",
+    "options": ["The stars", "The wind", "The Moon", "The Sun"],
+    "answer": "The Sun"
+  },
+  {
+    "question": "True or False: Animals need air to live.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a planet?",
+    "options": ["Star", "Moon", "Mars", "Sun"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What do you call the leader of a city?",
+    "options": ["King", "Governor", "Mayor", "President"],
+    "answer": "Mayor"
+  },
+  {
+    "question": "True or False: The United States has 50 states.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What do you call the person a story is mostly about?",
+    "options": ["The plot", "The author", "The setting", "The main character"],
+    "answer": "The main character"
+  },
+  {
+    "question": "Which word is an adverb?",
+    "options": ["Tree", "Tall", "Dog", "Slowly"],
+    "answer": "Slowly"
+  },
+  {
+    "question": "True or False: A question mark (?) goes at the end of a statement.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "What does \"compare\" mean?",
+    "options": ["To draw a picture", "To tell how things are alike", "To ask a question", "To tell how things are different"],
+    "answer": "To tell how things are alike"
+  },
+  {
+    "question": "Which sentence has a capital letter where it should?",
+    "options": ["the dog is Brown", "The dog is brown.", "the Dog is brown", "the dog is brown"],
+    "answer": "The dog is brown."
+  },
+  {
+    "question": "What do plants give off that humans breathe?",
+    "options": ["Sugar", "Carbon dioxide", "Water", "Oxygen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "True or False: The Earth spins once every day.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a living thing?",
+    "options": ["Car", "Cloud", "Tree", "Rock"],
+    "answer": "Tree"
+  },
+  {
+    "question": "What is the capital city of the United States?",
+    "options": ["Texas", "Florida", "Washington, D.C.", "New York"],
+    "answer": "Washington, D.C."
+  },
+  {
+    "question": "True or False: A desert is a very wet place.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "What is the beginning of a story called?",
+    "options": ["The ending", "The middle", "The introduction", "The climax"],
+    "answer": "The introduction"
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["Fast", "Jump", "Sing", "Apple"],
+    "answer": "Apple"
+  },
+  {
+    "question": "True or False: An exclamation mark (!) shows excitement.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What does \"tiny\" mean?",
+    "options": ["Very fast", "Very loud", "Very small", "Very big"],
+    "answer": "Very small"
+  },
+  {
+    "question": "Which sentence is a question?",
+    "options": ["The bird is red", "Where is the bird?", "I see the bird", "The bird flies high."],
+    "answer": "Where is the bird?"
+  },
+  {
+    "question": "What causes day and night?",
+    "options": ["The clouds", "The Sun moving", "The Earth spinning", "The Moon moving around the Earth"],
+    "answer": "The Earth spinning"
+  },
+  {
+    "question": "True or False: Water can be a solid, liquid, or gas.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a type of weather?",
+    "options": ["Forest", "Mountain", "Rain", "River"],
+    "answer": "Rain"
+  },
+  {
+    "question": "What do you call a large body of land surrounded by water?",
+    "options": ["A forest", "A mountain", "A desert", "An island"],
+    "answer": "An island"
+  },
+  {
+    "question": "True or False: Christopher Columbus sailed to America in 1492.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What is the problem in a story called?",
+    "options": ["The theme", "The setting", "The solution", "The conflict"],
+    "answer": "The conflict"
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": ["Soft", "Cat", "Sleep", "Chair"],
+    "answer": "Sleep"
+  },
+  {
+    "question": "True or False: A comma (,) is used to separate items in a list.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What does \"shout\" mean?",
+    "options": ["To run fast", "To whisper", "To sit quietly", "To talk loudly"],
+    "answer": "To talk loudly"
+  },
+  {
+    "question": "Which sentence uses quotation marks correctly?",
+    "options": ["\"Mom said, Clean your room\"", "Mom said \"Clean your room\"", "Mom said, Clean your room.", "Mom said, \"Clean your room.\""],
+    "answer": "Mom said, \"Clean your room.\""
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "options": ["Mars", "Jupiter", "The Sun", "The Moon"],
+    "answer": "The Sun"
+  },
+  {
+    "question": "True or False: Frogs are amphibians.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a mammal?",
+    "options": ["Snake", "Dolphin", "Lizard", "Crocodile"],
+    "answer": "Dolphin"
+  },
+  {
+    "question": "What is a globe?",
+    "options": ["A clock", "A book", "A round model of the Earth", "A flat map"],
+    "answer": "A round model of the Earth"
+  },
+  {
+    "question": "True or False: The Mississippi River is in the United States.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What do you call the end of a story?",
+    "options": ["The setting", "The beginning", "The climax", "The conclusion"],
+    "answer": "The conclusion"
+  },
+  {
+    "question": "Which word is an adjective?",
+    "options": ["Dog", "Run", "Happy", "Sing"],
+    "answer": "Happy"
+  },
+  {
+    "question": "True or False: A noun names a person, place, or thing.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What does \"chilly\" mean?",
+    "options": ["Very bright", "Very cold", "Very hot", "Very loud"],
+    "answer": "Very cold"
+  },
+  {
+    "question": "Which sentence is written correctly?",
+    "options": ["i like to read books", "I like to read books.", "I like to read Books", "I like to read books"],
+    "answer": "I like to read books."
+  },
+  {
+    "question": "What do animals need to survive?",
+    "options": ["Books", "Only sunlight", "Food, water, and air", "Rocks and sand"],
+    "answer": "Food, water, and air"
+  },
+  {
+    "question": "True or False: The Moon makes its own light.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which of these is a type of rock?",
+    "options": ["Glass", "Paper", "Plastic", "Granite"],
+    "answer": "Granite"
+  },
+  {
+    "question": "What do you call someone who studies the stars?",
+    "options": ["Chemist", "Astronomer", "Biologist", "Geologist"],
+    "answer": "Astronomer"
+  },
+  {
+    "question": "True or False: A year has 365 days.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What is the theme of a story?",
+    "options": ["The plot", "The setting", "The big idea or message", "The characters"],
+    "answer": "The big idea or message"
+  },
+  {
+    "question": "Which word is an adverb?",
+    "options": ["Tree", "Dog", "Quickly", "Tall"],
+    "answer": "Quickly"
+  },
+  {
+    "question": "True or False: A sentence always needs a period at the end.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "What does \"glad\" mean?",
+    "options": ["Tired", "Angry", "Happy", "Sad"],
+    "answer": "Happy"
+  },
+  {
+    "question": "Which sentence has correct grammar?",
+    "options": ["She running to the park.", "She runned to the park.", "She run to the park.", "She runs to the park."],
+    "answer": "She runs to the park."
+  },
+  {
+    "question": "What makes the seasons change?",
+    "options": ["The stars", "The Moon moving", "The Sun getting hotter", "The Earth tilting as it goes around the Sun"],
+    "answer": "The Earth tilting as it goes around the Sun"
+  },
+  {
+    "question": "True or False: Birds have feathers.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a source of light?",
+    "options": ["A chair", "A book", "A lamp", "A mirror"],
+    "answer": "A lamp"
+  },
+  {
+    "question": "What do you call a large group of people living together?",
+    "options": ["A team", "A school", "A community", "A family"],
+    "answer": "A community"
+  },
+  {
+    "question": "True or False: The Declaration of Independence was signed in 1776.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What is the plot of a story?",
+    "options": ["The lesson", "The events that happen", "The setting", "The characters"],
+    "answer": "The events that happen"
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["Fast", "Jump", "River", "Swim"],
+    "answer": "River"
+  },
+  {
+    "question": "True or False: An apostrophe (') can show possession.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What does \"rapid\" mean?",
+    "options": ["Small", "Fast", "Quiet", "Slow"],
+    "answer": "Fast"
+  },
+  {
+    "question": "Which sentence uses a comma correctly?",
+    "options": ["I, have a dog and a cat", "I have a dog and, a cat", "I have a dog, and a cat.", "I have a dog and a cat"],
+    "answer": "I have a dog, and a cat."
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Saturn", "Mars", "Earth", "Jupiter"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "True or False: Insects have six legs.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a natural resource?",
+    "options": ["Glass", "Concrete", "Water", "Plastic"],
+    "answer": "Water"
+  },
+  {
+    "question": "What do you call the money used in a country?",
+    "options": ["Trade", "Currency", "Map", "Goods"],
+    "answer": "Currency"
+  },
+  {
+    "question": "True or False: The equator is an imaginary line around the Earth.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What is dialogue in a story?",
+    "options": ["The ending", "The problem", "The words characters say", "The setting"],
+    "answer": "The words characters say"
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": ["Green", "Tree", "Leaf", "Grow"],
+    "answer": "Grow"
+  },
+  {
+    "question": "True or False: A pronoun can replace a noun.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "What does \"calm\" mean?",
+    "options": ["Fast", "Angry", "Peaceful", "Loud"],
+    "answer": "Peaceful"
+  },
+  {
+    "question": "Which sentence is complete?",
+    "options": ["Running fast", "The bird flies.", "Happy children", "The tall tree"],
+    "answer": "The bird flies."
+  },
+  {
+    "question": "What do you call the path the Earth takes around the Sun?",
+    "options": ["Circle", "Tilt", "Orbit", "Spin"],
+    "answer": "Orbit"
+  },
+  {
+    "question": "True or False: Rainbows are caused by sunlight and water.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is a reptile?",
+    "options": ["Mouse", "Bird", "Snake", "Frog"],
+    "answer": "Snake"
+  },
+  {
+    "question": "What is the biggest ocean on Earth?",
+    "options": ["Arctic", "Indian", "Atlantic", "Pacific"],
+    "answer": "Pacific"
+  },
+  {
+    "question": "True or False: Abraham Lincoln was a U.S. president.",
+    "options": ["False", "True"],
+    "answer": "True"
+  }
+]
+

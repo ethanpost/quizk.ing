@@ -110,5 +110,10 @@
   {
     "name": "Test Quiz",
     "file": "test_quiz.json"
+  },
+  {
+    "name": "5th Grade Assessment",
+    "file": "Assessment_001_5th_Grade.json",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_05/Assessment_001_5th_Grade.md"
   }
 ]
