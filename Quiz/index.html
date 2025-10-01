@@ -849,16 +849,16 @@
       const searchParam = urlParams.get('search');
       
       if (searchParam) {
-        // Auto-login with anonymous and apply search
-        currentStudentName = 'anonymous';
+        // Auto-login with Guest and apply search
+        currentStudentName = 'Guest';
         nameSection.classList.add("hidden");
         
-        // Load and display quizzes
-        await fetchQuizzesFromJson();
-        
-        // Show search box and grid
+        // Show search box and grid immediately
         quizSearch.classList.remove("hidden");
         quizGrid.classList.remove("hidden");
+        
+        // Load quizzes first
+        await fetchQuizzesFromJson();
         
         // Set search value and filter
         searchInput.value = searchParam;
