@@ -1,0 +1,223 @@
+[
+  {
+    "question": "According to the video, what was the Golden Hind known for?",
+    "options": ["Successfully capturing Spanish treasure during its voyage", "Being the largest English ship of the 16th century", "Having the most advanced navigation equipment", "Being the first ship to use the tumblehome hull design"],
+    "answer": "Successfully capturing Spanish treasure during its voyage"
+  },
+  {
+    "question": "What materials were primarily used in the construction of 16th-century sailing ships?",
+    "options": ["Pine and Cedar", "Maple and Beech", "Oak and Elm", "Mahogany and Teak"],
+    "answer": "Oak and Elm"
+  },
+  {
+    "question": "What is the keel of a ship?",
+    "options": ["The steering mechanism at the rear", "The thick beam at the bottom running from front to back", "The main sail on the center mast", "The front end of the ship"],
+    "answer": "The thick beam at the bottom running from front to back"
+  },
+  {
+    "question": "How were wooden planks attached to the ship's frame?",
+    "options": ["With modern metal bolts", "Using iron nails at each end and wooden treenails at each frame", "Exclusively with rope bindings", "With copper rivets and adhesive"],
+    "answer": "Using iron nails at each end and wooden treenails at each frame"
+  },
+  {
+    "question": "What is a \"scarf joint\"?",
+    "options": ["A metal bracket supporting the mast", "A rope knot used to connect sails to yards", "A diagonally shaped cut in timber for strong bonds", "A type of sailor's tool"],
+    "answer": "A diagonally shaped cut in timber for strong bonds"
+  },
+  {
+    "question": "What was used to seal gaps between the exterior planks of the ship?",
+    "options": ["Lead sheeting and nails", "Rubber sealant", "Beeswax and linseed oil", "Frayed rope and melted pitch or tar"],
+    "answer": "Frayed rope and melted pitch or tar"
+  },
+  {
+    "question": "What is \"tumblehome\" in ship design?",
+    "options": ["The curve of the bow that cuts through water", "The angle of the mast from vertical", "The shape of the hull that gets narrower as it goes up", "The curvature of the deck for water runoff"],
+    "answer": "The shape of the hull that gets narrower as it goes up"
+  },
+  {
+    "question": "What was placed in the hold to keep the ship balanced upright?",
+    "options": ["Water barrels", "Iron weights", "Cargo", "Ballast (coastal rock material)"],
+    "answer": "Ballast (coastal rock material)"
+  },
+  {
+    "question": "Where was the galley (kitchen) located on the ship?",
+    "options": ["In the center of the main deck", "At the stern near the captain's cabin", "Towards the bow or in the forecastle", "On the orlop deck next to the powder room"],
+    "answer": "Towards the bow or in the forecastle"
+  },
+  {
+    "question": "Why was the oven in the galley enclosed with brick?",
+    "options": ["To allow cooking during storms", "Because fire was a constant concern", "To retain heat better", "To reduce the ship's weight"],
+    "answer": "Because fire was a constant concern"
+  },
+  {
+    "question": "How much beer was issued per sailor per day?",
+    "options": ["Two gallons", "Half a gallon", "One gallon", "One pint"],
+    "answer": "One gallon"
+  },
+  {
+    "question": "What is bilge water?",
+    "options": ["Seawater used for washing", "Water used for cooling the cannons", "Water collected in the bottom of the ship to be pumped out", "Drinking water stored for the voyage"],
+    "answer": "Water collected in the bottom of the ship to be pumped out"
+  },
+  {
+    "question": "What material was used for the ship's pump to remove bilge water?",
+    "options": ["Oak", "Iron", "Copper", "Elm"],
+    "answer": "Elm"
+  },
+  {
+    "question": "Why was elm preferred for the pump's outer pipe?",
+    "options": ["It was more flexible than other woods", "For its rot-resistant qualities", "It was less expensive than alternatives", "It was easier to shape into pipes"],
+    "answer": "For its rot-resistant qualities"
+  },
+  {
+    "question": "What is the orlop deck?",
+    "options": ["The deck reserved for officers", "The highest deck on the ship", "The deck where cannons were placed", "The deck that overlaps the water line"],
+    "answer": "The deck that overlaps the water line"
+  },
+  {
+    "question": "Where was gunpowder stored on the ship?",
+    "options": ["In barrels on the main deck", "In the crow's nest", "In the powder room on the orlop deck", "In the captain's cabin"],
+    "answer": "In the powder room on the orlop deck"
+  },
+  {
+    "question": "What was the Saker?",
+    "options": ["A navigation instrument", "A type of sail", "A steering mechanism", "A model of cannon"],
+    "answer": "A model of cannon"
+  },
+  {
+    "question": "How much did each Saker cannon weigh?",
+    "options": ["3,000 pounds", "2,000 pounds", "1,000 pounds", "500 pounds"],
+    "answer": "2,000 pounds"
+  },
+  {
+    "question": "What was the approximate range of a Saker cannon?",
+    "options": ["Two miles", "Half a mile", "One mile", "1.4 miles"],
+    "answer": "1.4 miles"
+  },
+  {
+    "question": "What was used for steering the ship instead of a ship's wheel?",
+    "options": ["Tiller ropes", "Helm levers", "Whipstaff", "Rudder pedals"],
+    "answer": "Whipstaff"
+  },
+  {
+    "question": "What is a binnacle?",
+    "options": ["A storage space for maps and charts", "A cabinet housing the compass and lantern", "A type of small cannon", "A small cabin for lookouts"],
+    "answer": "A cabinet housing the compass and lantern"
+  },
+  {
+    "question": "How many masts did the model ship have?",
+    "options": ["Five", "Four", "Two", "Three"],
+    "answer": "Three"
+  },
+  {
+    "question": "What are the names of the three main masts?",
+    "options": ["Front, middle, and back masts", "Primary, secondary, and tertiary masts", "Fore, main, and mizzen masts", "Forward, center, and aft masts"],
+    "answer": "Fore, main, and mizzen masts"
+  },
+  {
+    "question": "What is the purpose of standing rigging?",
+    "options": ["To provide sailors a place to stand while working", "To hold masts in place", "To adjust the sails while sailing", "To store extra rope when not in use"],
+    "answer": "To hold masts in place"
+  },
+  {
+    "question": "What are shrouds in ship rigging?",
+    "options": ["Canvas covers for the ship's boats", "Small emergency sails", "Protective covers for the sails when not in use", "Ropes supporting masts from behind"],
+    "answer": "Ropes supporting masts from behind"
+  },
+  {
+    "question": "What are deadeyes used for?",
+    "options": ["Securing cannon barrels", "Warning markers for dangerous waters", "Providing rigging that can be adjusted or tightened", "Decorative wooden carvings"],
+    "answer": "Providing rigging that can be adjusted or tightened"
+  },
+  {
+    "question": "What are ratlines?",
+    "options": ["Emergency rigging if primary rigging fails", "Sections of rope tied to shrouds allowing sailors to climb", "Ropes used to secure cargo in the hold", "Lines used to measure the ship's speed"],
+    "answer": "Sections of rope tied to shrouds allowing sailors to climb"
+  },
+  {
+    "question": "What is a yard on a sailing ship?",
+    "options": ["The distance between masts", "A storage area on deck", "A heavy timber that supports the sail", "A unit of measurement for sail area"],
+    "answer": "A heavy timber that supports the sail"
+  },
+  {
+    "question": "What type of rigging is this ship classified as having?",
+    "options": ["Gaff-rigged", "Square-rigged", "Lateen-rigged", "Bermuda-rigged"],
+    "answer": "Square-rigged"
+  },
+  {
+    "question": "What is a halyard?",
+    "options": ["A type of knot", "A lookout position", "A line for hauling up a yard", "A type of sail"],
+    "answer": "A line for hauling up a yard"
+  },
+  {
+    "question": "What is belaying?",
+    "options": ["Measuring water depth", "Tracking position on a map", "Shouting orders to the crew", "Tying off or securing a rope"],
+    "answer": "Tying off or securing a rope"
+  },
+  {
+    "question": "What is a parrel?",
+    "options": ["A navigation instrument", "A type of cannon shot", "A wooden beads set that wraps around the mast", "A small barrel for drinking water"],
+    "answer": "A wooden beads set that wraps around the mast"
+  },
+  {
+    "question": "How was latitude (north-south position) determined at sea?",
+    "options": ["With early versions of GPS", "By measuring ocean currents", "By tracking the position of celestial bodies", "Using magnetic compass readings"],
+    "answer": "By tracking the position of celestial bodies"
+  },
+  {
+    "question": "What instrument is shown in the video for measuring celestial objects?",
+    "options": ["Chronometer", "Astrolabe", "Quadrant", "Sextant"],
+    "answer": "Astrolabe"
+  },
+  {
+    "question": "How was longitude (east-west position) determined at sea in the 16th century?",
+    "options": ["With atomic clocks", "Using radio signals", "By satellite positioning", "By dead (deduced) reckoning"],
+    "answer": "By dead (deduced) reckoning"
+  },
+  {
+    "question": "How did sailors measure the ship's speed?",
+    "options": ["Using wind speed measurements", "By timing how long it took to pass landmarks", "By throwing a log chip and counting knots", "With a mechanical speedometer"],
+    "answer": "By throwing a log chip and counting knots"
+  },
+  {
+    "question": "What was a traverse board used for?",
+    "options": ["Displaying the captain's orders", "Keeping track of time, direction, and speed", "Planning battle tactics", "Serving food to the crew"],
+    "answer": "Keeping track of time, direction, and speed"
+  },
+  {
+    "question": "How was ocean depth measured?",
+    "options": ["Using water pressure instruments", "Using sonar equipment", "With a sounding or leadline", "By observing wave patterns"],
+    "answer": "With a sounding or leadline"
+  },
+  {
+    "question": "How many four-hour watches divided a 24-hour day on ship?",
+    "options": ["Eight", "Four", "Five", "Six"],
+    "answer": "Six"
+  },
+  {
+    "question": "Where did sailors sleep in the 16th century ships?",
+    "options": ["In dedicated sleeping quarters", "In hammocks", "On mats wherever they could find deck space", "In private cabins"],
+    "answer": "On mats wherever they could find deck space"
+  },
+  {
+    "question": "When did hammocks come into common use aboard sailing ships?",
+    "options": ["In the 18th century", "In the 14th century", "In the early 17th century", "In the 15th century"],
+    "answer": "In the early 17th century"
+  },
+  {
+    "question": "What was the approximate crew size of the Golden Hind?",
+    "options": ["100 people", "60 people", "40 people", "80 people"],
+    "answer": "80 people"
+  },
+  {
+    "question": "What is caulking on a ship?",
+    "options": ["Painting the exterior of the ship", "The process of measuring the hull for repairs", "Sealing gaps between planks with frayed rope and tar", "Replacing damaged sails"],
+    "answer": "Sealing gaps between planks with frayed rope and tar"
+  },
+  {
+    "question": "What is the keelson?",
+    "options": ["The rudder attachment point", "A small auxiliary keel", "A beam sandwiched on top of the floors and keel", "The son of the ship's builder"],
+    "answer": "A beam sandwiched on top of the floors and keel"
+  }
+]
+

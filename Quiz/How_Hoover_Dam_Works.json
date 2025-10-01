@@ -1,0 +1,98 @@
+[
+  {
+    "question": "According to the transcript, why was Hoover Dam built with an arch-gravity design?",
+    "options": ["Because it was the cheapest design to build", "Because it combines two designs for maximum strength", "Because it was aesthetically pleasing", "Because it required less concrete than other designs"],
+    "answer": "Because it combines two designs for maximum strength"
+  },
+  {
+    "question": "What is the height of Hoover Dam from foundation to crest?",
+    "options": ["660 feet", "727 feet", "50 feet", "513 feet"],
+    "answer": "727 feet"
+  },
+  {
+    "question": "What are adits in the context of Hoover Dam's construction?",
+    "options": ["Small dams built inside the main dam", "Horizontal passages that are open at only one end", "Vertical shafts used for ventilation", "Concrete blocks used in dam construction"],
+    "answer": "Horizontal passages that are open at only one end"
+  },
+  {
+    "question": "How much concrete was used in the construction of Hoover Dam itself (not including other structures)?",
+    "options": ["6 million cubic yards", "4,400,000 cubic yards", "3,250,000 cubic yards", "15,900 cubic yards"],
+    "answer": "3,250,000 cubic yards"
+  },
+  {
+    "question": "What is the primary function of the grout curtain in Hoover Dam?",
+    "options": ["To cool the concrete during curing", "To strengthen the dam against earthquakes", "To prevent water seepage through the foundation", "To connect the dam to the canyon walls"],
+    "answer": "To prevent water seepage through the foundation"
+  },
+  {
+    "question": "When was construction of Hoover Dam completed?",
+    "options": ["1931", "1933", "1936", "1987"],
+    "answer": "1936"
+  },
+  {
+    "question": "What is a penstock in Hoover Dam?",
+    "options": ["A valve that controls water flow", "A large pipe that carries water from intakes to turbines", "A concrete block used in dam construction", "A temporary dam used during construction"],
+    "answer": "A large pipe that carries water from intakes to turbines"
+  },
+  {
+    "question": "What was the secondary goal of Hoover Dam that eventually paid for the entire cost of construction?",
+    "options": ["Flood control", "Irrigation water supply", "Electricity generation", "Sediment management"],
+    "answer": "Electricity generation"
+  },
+  {
+    "question": "How many diversion tunnels were built to redirect the river during construction?",
+    "options": ["2", "3", "4", "8"],
+    "answer": "4"
+  },
+  {
+    "question": "What is \"heat of hydration\" and why was it a concern in the construction of Hoover Dam?",
+    "options": ["Heat produced by generators that needed to be dissipated", "Heat generated as concrete cures that can cause cracking", "Heat from the desert environment affecting workers", "Heat from friction in the water turbines"],
+    "answer": "Heat generated as concrete cures that can cause cracking"
+  },
+  {
+    "question": "What is a high-scaler in the context of Hoover Dam's construction?",
+    "options": ["A tall crane used to lift heavy equipment", "A worker who cleaned canyon walls while suspended by ropes", "An engineer who designed the higher portions of the dam", "A specialized measuring device for tall structures"],
+    "answer": "A worker who cleaned canyon walls while suspended by ropes"
+  },
+  {
+    "question": "What is the reservoir created by Hoover Dam called?",
+    "options": ["Lake Powell", "Lake Hoover", "Lake Mead", "Black Canyon Reservoir"],
+    "answer": "Lake Mead"
+  },
+  {
+    "question": "What are keyways in the concrete blocks of Hoover Dam?",
+    "options": ["Special paths for maintenance workers", "Places where keys to the dam facilities are stored", "Locks used to secure equipment", "Corrugations that lock blocks together"],
+    "answer": "Corrugations that lock blocks together"
+  },
+  {
+    "question": "How tall are the intake towers in Hoover Dam?",
+    "options": ["They are approximately 100 feet tall", "The transcript doesn't specify their exact height", "727 feet, the same as the dam", "They are built into the dam, not separate structures"],
+    "answer": "The transcript doesn't specify their exact height"
+  },
+  {
+    "question": "What is the combined water flow capacity of Hoover Dam's spillways?",
+    "options": ["200,000 cubic feet per second", "300,000 cubic feet per second", "400,000 cubic feet per second", "100,000 cubic feet per second"],
+    "answer": "400,000 cubic feet per second"
+  },
+  {
+    "question": "How was concrete transported to the dam site during construction?",
+    "options": ["Through the diversion tunnels", "By boats on the river", "By trucks over temporary bridges", "By cableways spanning the canyon"],
+    "answer": "By cableways spanning the canyon"
+  },
+  {
+    "question": "What is a trash rack in Hoover Dam?",
+    "options": ["A structure that holds back trash in the river", "A metal grate that filters debris from water entering intakes", "A device that collects trash from spillways", "A container for construction waste"],
+    "answer": "A metal grate that filters debris from water entering intakes"
+  },
+  {
+    "question": "In what year did Hoover Dam's electricity generation fully repay the cost of construction?",
+    "options": ["1951", "2000", "1936", "1987"],
+    "answer": "1987"
+  },
+  {
+    "question": "What was used to cool the concrete in Hoover Dam as it cured?",
+    "options": ["Ice blocks mixed into the concrete", "The natural cooling effect of the river", "Water pipes embedded between concrete lifts", "Large fans"],
+    "answer": "Water pipes embedded between concrete lifts"
+  }
+]
+

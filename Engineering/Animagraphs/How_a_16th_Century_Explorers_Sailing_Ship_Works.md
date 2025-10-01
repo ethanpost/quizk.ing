@@ -1,7 +1,12 @@
 ## [16th Century Explorer's Sailing Ship](https://www.youtube.com/watch?v=3pYqXrFx6S8)
 
-> Import this file into [Mochi](https://mochi.cards/) or give it to your favorite AI tool and have it proxy a quiz and check your answers. When importing make sure you select Markdown as the format, "Multiple cards per .md file", and a ```triple backslash``` as the string delimiter. You can use the link to the raw file in GitHub instead of downloading and importing if you prefer.
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
 
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 ### Structure and Construction
 - Keel forms backbone of ship
   - Runs from stem to stern

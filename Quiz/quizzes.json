@@ -135,5 +135,23 @@
     "name": "11th Grade Assessment",
     "file": "Assessment_001_11th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_11/Assessment_001_11th_Grade.md"
+  },
+  {
+    "name": "How Hoover Dam Works",
+    "file": "How_Hoover_Dam_Works.json",
+    "url": "https://www.youtube.com/watch?v=4EdMImlZE2s",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Animagraphs/How_Hoover_Dam_Works.md"
+  },
+  {
+    "name": "How the Lockheed SR-71 Blackbird Works",
+    "file": "How_the_Lockheed_SR-71_Blackbird_Works.json",
+    "url": "https://www.youtube.com/watch?v=gkyVZxtsubM",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Animagraphs/How_the_Lockheed_SR-71_Blackbird_Works.md"
+  },
+  {
+    "name": "How a 16th Century Explorer's Sailing Ship Works",
+    "file": "How_a_16th_Century_Explorers_Sailing_Ship_Works.json",
+    "url": "https://www.youtube.com/watch?v=3pYqXrFx6S8",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Animagraphs/How_a_16th_Century_Explorers_Sailing_Ship_Works.md"
   }
 ]

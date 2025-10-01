@@ -1,0 +1,103 @@
+[
+  {
+    "question": "What was the primary mission of the SR-71 Blackbird?",
+    "options": ["Strategic bombing", "Reconnaissance", "Air combat", "Troop transport"],
+    "answer": "Reconnaissance"
+  },
+  {
+    "question": "What maximum speed could the SR-71 Blackbird sustain?",
+    "options": ["Mach 3.2", "Mach 2.0", "Mach 4.5", "Mach 1.8"],
+    "answer": "Mach 3.2"
+  },
+  {
+    "question": "What was the SR-71's main defense against enemy action?",
+    "options": ["Electronic countermeasures", "Stealth technology", "Altitude and speed", "Onboard weapons systems"],
+    "answer": "Altitude and speed"
+  },
+  {
+    "question": "What percentage of the SR-71's fuselage was occupied by fuel tanks?",
+    "options": ["Half", "One-third", "Three-quarters", "Two-thirds"],
+    "answer": "Two-thirds"
+  },
+  {
+    "question": "What term describes the triangular wing shape of the SR-71?",
+    "options": ["Gamma wing", "Alpha wing", "Omega wing", "Delta wing"],
+    "answer": "Delta wing"
+  },
+  {
+    "question": "What percentage of the SR-71's total lift at speed came from the chines?",
+    "options": ["35%", "20%", "10%", "5%"],
+    "answer": "20%"
+  },
+  {
+    "question": "What is the primary material used for the SR-71's airframe?",
+    "options": ["Carbon fiber", "Steel alloy", "Titanium", "Aluminum"],
+    "answer": "Titanium"
+  },
+  {
+    "question": "At cruising speed, what percentage of thrust came from pressure recovery at the inlet spike?",
+    "options": ["40%", "75%", "25%", "58%"],
+    "answer": "58%"
+  },
+  {
+    "question": "What problem could occur if shock waves became misaligned in the engine inlet?",
+    "options": ["Engine meltdown", "Wing flutter", "Inlet unstart", "Fuel starvation"],
+    "answer": "Inlet unstart"
+  },
+  {
+    "question": "What specialized fuel was developed for the SR-71?",
+    "options": ["Kerosene", "JP-10", "JP-7", "JP-4"],
+    "answer": "JP-7"
+  },
+  {
+    "question": "What chemical was used to ignite the SR-71's fuel?",
+    "options": ["Methyl ethyl ketone", "Triethylborane (TEB)", "Hydrazine", "Hydrogen peroxide"],
+    "answer": "Triethylborane (TEB)"
+  },
+  {
+    "question": "What was unique about the SR-71's tires?",
+    "options": ["They had an unusual tread pattern", "They were filled with water", "They were made of solid rubber", "They contained aluminum powder"],
+    "answer": "They contained aluminum powder"
+  },
+  {
+    "question": "To what pressure were the SR-71's tires inflated?",
+    "options": ["200 psi", "300 psi", "400 psi", "100 psi"],
+    "answer": "400 psi"
+  },
+  {
+    "question": "What flight control surfaces combined the functions of elevators and ailerons on the SR-71?",
+    "options": ["Ruddervators", "Canards", "Flaperons", "Elevons"],
+    "answer": "Elevons"
+  },
+  {
+    "question": "What was the purpose of the \"mixer\" in the SR-71's control system?",
+    "options": ["To mix hydraulic fluids", "To blend roll and pitch commands", "To combine radar signals", "To blend fuel and air"],
+    "answer": "To blend roll and pitch commands"
+  },
+  {
+    "question": "What was the primary navigation system used by the SR-71?",
+    "options": ["LORAN", "GPS", "Astro Inertial Navigation System", "Radar-based navigation"],
+    "answer": "Astro Inertial Navigation System"
+  },
+  {
+    "question": "What was the position of the RSO in the SR-71?",
+    "options": ["Wing station", "Forward cockpit", "Lower fuselage compartment", "Rear cockpit"],
+    "answer": "Rear cockpit"
+  },
+  {
+    "question": "How accurate could the Astro Inertial Navigation System pinpoint the SR-71's location?",
+    "options": ["Within 10 feet", "Within 300 feet", "Within 1 mile", "Within 100 yards"],
+    "answer": "Within 300 feet"
+  },
+  {
+    "question": "What happened to the SR-71 when it was cold?",
+    "options": ["The landing gear would freeze", "The engines wouldn't start", "Fuel leaked from panel gaps", "The radar wouldn't function"],
+    "answer": "Fuel leaked from panel gaps"
+  },
+  {
+    "question": "How much did the SR-71 expand when traveling at speed?",
+    "options": ["One inch", "Half an inch", "Several millimeters", "Several inches"],
+    "answer": "Several inches"
+  }
+]
+
