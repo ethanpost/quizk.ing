@@ -1,0 +1,478 @@
+[
+  {
+    "question": "Which literary device is being used in the sentence: \"The wind whispered through the trees\"?",
+    "options": ["Personification", "Hyperbole", "Metaphor", "Simile"],
+    "answer": "Personification"
+  },
+  {
+    "question": "What is the main function of a thesis statement?",
+    "options": ["To conclude a paragraph", "To provide transition between paragraphs", "To introduce characters", "To state the main idea of an essay"],
+    "answer": "To state the main idea of an essay"
+  },
+  {
+    "question": "Which of the following is a compound sentence?",
+    "options": ["After the dog barked, the cat meowed.", "The dog barked loudly.", "The dog barked, and the cat meowed.", "The dog barked."],
+    "answer": "The dog barked, and the cat meowed."
+  },
+  {
+    "question": "What is the correct order of the steps in the scientific method?",
+    "options": ["Analysis, experiment, hypothesis, question, conclusion", "Experiment, question, hypothesis, conclusion, analysis", "Hypothesis, question, experiment, analysis, conclusion", "Question, hypothesis, experiment, analysis, conclusion"],
+    "answer": "Question, hypothesis, experiment, analysis, conclusion"
+  },
+  {
+    "question": "True or False: All living organisms are made up of cells.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "The three branches of the United States government are:",
+    "options": ["Federal, State, Local", "Democratic, Republican, Independent", "Executive, Judicial, Military", "Legislative, Executive, Judicial"],
+    "answer": "Legislative, Executive, Judicial"
+  },
+  {
+    "question": "Which of the following is a complete sentence?",
+    "options": ["Under the big tree.", "Running through the park.", "Because it was raining.", "She studied for her exam."],
+    "answer": "She studied for her exam."
+  },
+  {
+    "question": "What is the difference between a physical and chemical change?",
+    "options": ["Neither creates new substances", "Chemical changes create new substances, physical changes don't", "Both create new substances", "Physical changes create new substances, chemical changes don't"],
+    "answer": "Chemical changes create new substances, physical changes don't"
+  },
+  {
+    "question": "Which of these is NOT one of the main types of rock?",
+    "options": ["Metamorphic", "Conglomerate", "Sedimentary", "Igneous"],
+    "answer": "Conglomerate"
+  },
+  {
+    "question": "What do we call the main characters in a story?",
+    "options": ["Observers", "Narrators", "Antagonists", "Protagonists"],
+    "answer": "Protagonists"
+  },
+  {
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "options": ["Transpiration", "Digestion", "Photosynthesis", "Respiration"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "Which civilization built the Great Pyramids of Giza?",
+    "options": ["Greeks", "Romans", "Egyptians", "Mesopotamians"],
+    "answer": "Egyptians"
+  },
+  {
+    "question": "True or False: A noun is a person, place, thing, or idea.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "The imaginary line that divides Earth into Northern and Southern Hemispheres is called:",
+    "options": ["International Date Line", "Tropic of Cancer", "Prime Meridian", "Equator"],
+    "answer": "Equator"
+  },
+  {
+    "question": "Which of the following is an example of alliteration?",
+    "options": ["The cake was as sweet as sugar", "The thunder boomed like drums", "The silent owl soared suddenly", "Time flies when you're having fun"],
+    "answer": "The silent owl soared suddenly"
+  },
+  {
+    "question": "What organelle is known as the \"powerhouse of the cell\"?",
+    "options": ["Golgi apparatus", "Nucleus", "Mitochondria", "Ribosome"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "What is the main cause of the seasons on Earth?",
+    "options": ["The Earth's revolution around the sun", "The Earth's rotation", "The Earth's distance from the sun", "The Earth's tilt on its axis"],
+    "answer": "The Earth's tilt on its axis"
+  },
+  {
+    "question": "Which war was fought between the North and South in the United States from 1861-1865?",
+    "options": ["World War I", "Civil War", "Revolutionary War", "War of 1812"],
+    "answer": "Civil War"
+  },
+  {
+    "question": "What is the correct plural form of \"child\"?",
+    "options": ["Children", "Child's", "Childs", "Childes"],
+    "answer": "Children"
+  },
+  {
+    "question": "Which of these is an example of a run-on sentence?",
+    "options": ["I went to the store to buy milk; then I went home.", "I went to the store to buy milk then I went home.", "I went to the store to buy milk.", "I went to the store to buy milk, and then I went home."],
+    "answer": "I went to the store to buy milk then I went home."
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "options": ["Electron", "Cell", "Atom", "Molecule"],
+    "answer": "Atom"
+  },
+  {
+    "question": "True or False: The Articles of Confederation was the first constitution of the United States.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which part of speech describes an action or state of being?",
+    "options": ["Adverb", "Noun", "Adjective", "Verb"],
+    "answer": "Verb"
+  },
+  {
+    "question": "What is the difference between weather and climate?",
+    "options": ["They are the same thing", "Weather happens globally, climate is local", "Weather is short-term, climate is long-term", "Weather is long-term, climate is short-term"],
+    "answer": "Weather is short-term, climate is long-term"
+  },
+  {
+    "question": "Who wrote the Declaration of Independence?",
+    "options": ["Abraham Lincoln", "Benjamin Franklin", "George Washington", "Thomas Jefferson"],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "What is the main conflict type when a character struggles against their own emotions?",
+    "options": ["Character vs. Nature", "Character vs. Society", "Character vs. Self", "Character vs. Character"],
+    "answer": "Character vs. Self"
+  },
+  {
+    "question": "Which of the following is a prefect square?",
+    "options": ["75", "65", "24", "49"],
+    "answer": "49"
+  },
+  {
+    "question": "What are the three states of matter?",
+    "options": ["Liquid, gas, plasma", "Solid, gas, plasma", "Solid, liquid, plasma", "Solid, liquid, gas"],
+    "answer": "Solid, liquid, gas"
+  },
+  {
+    "question": "During which historical period did feudalism dominate European society?",
+    "options": ["Age of Exploration", "Renaissance", "Industrial Revolution", "Middle Ages"],
+    "answer": "Middle Ages"
+  },
+  {
+    "question": "Which of the following sentences uses correct punctuation?",
+    "options": ["\"Let's, eat grandma.\"", "\"Let's eat, grandma.\"", "\"Let's eat. Grandma.\"", "\"Let's eat grandma.\""],
+    "answer": "\"Let's eat, grandma.\""
+  },
+  {
+    "question": "What is the function of the skeletal system?",
+    "options": ["To digest food", "To circulate blood", "To support the body and protect organs", "To produce hormones"],
+    "answer": "To support the body and protect organs"
+  },
+  {
+    "question": "On which continent would you find the Amazon Rainforest?",
+    "options": ["Australia", "Africa", "South America", "Asia"],
+    "answer": "South America"
+  },
+  {
+    "question": "Which of these is NOT a type of figurative language?",
+    "options": ["Simile", "Metaphor", "Exposition", "Hyperbole"],
+    "answer": "Exposition"
+  },
+  {
+    "question": "True or False: All mammals lay eggs.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "Which Amendment to the U.S. Constitution abolished slavery?",
+    "options": ["19th Amendment", "26th Amendment", "13th Amendment", "1st Amendment"],
+    "answer": "13th Amendment"
+  },
+  {
+    "question": "What point of view uses \"I\" and \"we\"?",
+    "options": ["Third person limited", "Second person", "First person", "Third person omniscient"],
+    "answer": "First person"
+  },
+  {
+    "question": "Which of these is an example of potential energy?",
+    "options": ["Wind blowing through trees", "A book sitting on a high shelf", "A baseball being thrown", "A car moving down the highway"],
+    "answer": "A book sitting on a high shelf"
+  },
+  {
+    "question": "Which civilization built the Great Wall of China?",
+    "options": ["Korean", "Japanese", "Mongolian", "Chinese"],
+    "answer": "Chinese"
+  },
+  {
+    "question": "The prefix \"tri-\" means:",
+    "options": ["Five", "Four", "Three", "Two"],
+    "answer": "Three"
+  },
+  {
+    "question": "What is the process by which water vapor turns into liquid?",
+    "options": ["Sublimation", "Precipitation", "Evaporation", "Condensation"],
+    "answer": "Condensation"
+  },
+  {
+    "question": "Which document begins with \"We the People\"?",
+    "options": ["The Bill of Rights", "The Declaration of Independence", "The U.S. Constitution", "The Emancipation Proclamation"],
+    "answer": "The U.S. Constitution"
+  },
+  {
+    "question": "An antonym is:",
+    "options": ["A word that has multiple meanings", "A word that means the same as another word", "A word that sounds the same but has a different meaning", "A word that means the opposite of another word"],
+    "answer": "A word that means the opposite of another word"
+  },
+  {
+    "question": "What force keeps planets in orbit around the sun?",
+    "options": ["Nuclear force", "Electrical force", "Gravitational force", "Magnetic force"],
+    "answer": "Gravitational force"
+  },
+  {
+    "question": "The study of ancient human history through artifacts is called:",
+    "options": ["Geology", "Archaeology", "Paleontology", "Anthropology"],
+    "answer": "Archaeology"
+  },
+  {
+    "question": "Which sentence contains a pronoun?",
+    "options": ["Birds fly south for winter.", "The dog chased the ball.", "He climbed the mountain.", "Sarah walked to school."],
+    "answer": "He climbed the mountain."
+  },
+  {
+    "question": "True or False: Photosynthesis releases oxygen into the atmosphere.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "John Adams", "George Washington"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "Which literary genre tells stories about imaginary future scientific or technological advances?",
+    "options": ["Mystery", "Fantasy", "Historical fiction", "Science fiction"],
+    "answer": "Science fiction"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Brain", "Skin", "Heart", "Liver"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which continents are connected by the Isthmus of Panama?",
+    "options": ["Europe and Asia", "Africa and Asia", "North America and South America", "Australia and Asia"],
+    "answer": "North America and South America"
+  },
+  {
+    "question": "A semicolon is used to:",
+    "options": ["Show possession", "End a sentence", "Join two independent clauses", "Introduce a list"],
+    "answer": "Join two independent clauses"
+  },
+  {
+    "question": "What is the term for a word that imitates the sound it represents?",
+    "options": ["Homonym", "Antonym", "Onomatopoeia", "Synonym"],
+    "answer": "Onomatopoeia"
+  },
+  {
+    "question": "Which of these is NOT a renewable resource?",
+    "options": ["Wind power", "Solar energy", "Hydroelectric power", "Coal"],
+    "answer": "Coal"
+  },
+  {
+    "question": "What was the main cause of World War I?",
+    "options": ["The Great Depression", "The rise of communism", "The bombing of Pearl Harbor", "The assassination of Archduke Franz Ferdinand"],
+    "answer": "The assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "question": "Which verb tense describes an action that started in the past and continues to the present?",
+    "options": ["Future perfect", "Simple past", "Past perfect", "Present perfect"],
+    "answer": "Present perfect"
+  },
+  {
+    "question": "Which of these is NOT one of Newton's Laws of Motion?",
+    "options": ["For every action, there is an equal and opposite reaction", "Force equals mass times acceleration", "Energy cannot be created or destroyed", "An object in motion stays in motion unless acted upon by an outside force"],
+    "answer": "Energy cannot be created or destroyed"
+  },
+  {
+    "question": "The Underground Railroad was:",
+    "options": ["A transcontinental railway", "The first subway system in America", "A secret network helping enslaved people escape to freedom", "A coal mining operation"],
+    "answer": "A secret network helping enslaved people escape to freedom"
+  },
+  {
+    "question": "What is the definition of a preposition?",
+    "options": ["A word that joins clauses or sentences", "A word that shows the relationship between a noun and other words", "A word that names a person, place, thing, or idea", "A word that modifies a verb"],
+    "answer": "A word that shows the relationship between a noun and other words"
+  },
+  {
+    "question": "True or False: All insects have six legs.",
+    "options": ["False", "True"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these ancient civilizations developed the first known writing system?",
+    "options": ["Greece", "China", "Egypt", "Sumer"],
+    "answer": "Sumer"
+  },
+  {
+    "question": "Which of the following is NOT a theme commonly found in literature?",
+    "options": ["Coming of age", "Redemption", "Love", "Punctuation"],
+    "answer": "Punctuation"
+  },
+  {
+    "question": "What is the main function of the respiratory system?",
+    "options": ["To filter waste from the blood", "To exchange oxygen and carbon dioxide", "To pump blood throughout the body", "To digest food"],
+    "answer": "To exchange oxygen and carbon dioxide"
+  },
+  {
+    "question": "Which of these was NOT one of the 13 original colonies?",
+    "options": ["Georgia", "Vermont", "Virginia", "Massachusetts"],
+    "answer": "Vermont"
+  },
+  {
+    "question": "A homograph is:",
+    "options": ["A word that has opposite meaning of another word", "A word that has the same meaning as another word", "A word spelled the same as another word but with different meaning", "A word that sounds like another word but has different spelling"],
+    "answer": "A word spelled the same as another word but with different meaning"
+  },
+  {
+    "question": "Which of these is a characteristic of mammals?",
+    "options": ["Have scales", "Are cold-blooded", "Produce milk for their young", "Lay eggs"],
+    "answer": "Produce milk for their young"
+  },
+  {
+    "question": "The process of a solid changing directly to a gas without becoming a liquid is called:",
+    "options": ["Precipitation", "Evaporation", "Sublimation", "Condensation"],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "Which document declared American independence from Great Britain?",
+    "options": ["The Bill of Rights", "The Constitution", "The Emancipation Proclamation", "The Declaration of Independence"],
+    "answer": "The Declaration of Independence"
+  },
+  {
+    "question": "What is the main purpose of topic sentences in paragraphs?",
+    "options": ["To transition to the next paragraph", "To provide evidence", "To summarize the essay", "To state the main idea of the paragraph"],
+    "answer": "To state the main idea of the paragraph"
+  },
+  {
+    "question": "Which of these animals is an invertebrate?",
+    "options": ["Mouse", "Snake", "Jellyfish", "Frog"],
+    "answer": "Jellyfish"
+  },
+  {
+    "question": "The Industrial Revolution began in which country?",
+    "options": ["France", "United States", "Great Britain", "Germany"],
+    "answer": "Great Britain"
+  },
+  {
+    "question": "An adverb typically modifies:",
+    "options": ["Only nouns and pronouns", "Only verbs", "A noun", "A verb, adjective, or other adverb"],
+    "answer": "A verb, adjective, or other adverb"
+  },
+  {
+    "question": "True or False: The moon produces its own light.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "Which of these historical figures led the movement for Indian independence from British rule?",
+    "options": ["Simon Bolivar", "Nelson Mandela", "Mahatma Gandhi", "Mao Zedong"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Which literary element refers to clues that hint at events that will occur later in the story?",
+    "options": ["Dialogue", "Imagery", "Foreshadowing", "Flashback"],
+    "answer": "Foreshadowing"
+  },
+  {
+    "question": "What is the main function of the circulatory system?",
+    "options": ["To filter waste from the body", "To transport nutrients and oxygen throughout the body", "To breathe in oxygen", "To digest food"],
+    "answer": "To transport nutrients and oxygen throughout the body"
+  },
+  {
+    "question": "Which of these is NOT a basic form of government?",
+    "options": ["Monarchy", "Geography", "Democracy", "Autocracy"],
+    "answer": "Geography"
+  },
+  {
+    "question": "What is the correct way to form a possessive for a singular noun?",
+    "options": ["Add s", "Add s'", "Add 's", "Add '"],
+    "answer": "Add 's"
+  },
+  {
+    "question": "Which planet is known as the \"Red Planet\"?",
+    "options": ["Saturn", "Venus", "Jupiter", "Mars"],
+    "answer": "Mars"
+  },
+  {
+    "question": "The American Civil Rights Movement primarily sought to end:",
+    "options": ["Environmental pollution", "Women's suffrage", "Child labor", "Racial segregation and discrimination"],
+    "answer": "Racial segregation and discrimination"
+  },
+  {
+    "question": "Which of these sentence types gives a command?",
+    "options": ["Exclamatory", "Declarative", "Imperative", "Interrogative"],
+    "answer": "Imperative"
+  },
+  {
+    "question": "What is the process by which rocks are broken down into smaller pieces?",
+    "options": ["Deposition", "Weathering", "Sedimentation", "Erosion"],
+    "answer": "Weathering"
+  },
+  {
+    "question": "Which document outlines the first ten amendments to the U.S. Constitution?",
+    "options": ["The Emancipation Proclamation", "The Articles of Confederation", "The Bill of Rights", "The Declaration of Independence"],
+    "answer": "The Bill of Rights"
+  },
+  {
+    "question": "What do we call the viewpoint that allows the narrator to know the thoughts and feelings of all characters?",
+    "options": ["Second person", "First person", "Third person omniscient", "Third person limited"],
+    "answer": "Third person omniscient"
+  },
+  {
+    "question": "True or False: All living things need oxygen to survive.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Who led the expedition that first circumnavigated the globe?",
+    "options": ["John Cabot", "Ferdinand Magellan", "Christopher Columbus", "Vasco da Gama"],
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "question": "Which of the following is NOT a part of speech?",
+    "options": ["Interjection", "Punctuation", "Preposition", "Conjunction"],
+    "answer": "Punctuation"
+  },
+  {
+    "question": "Which of these is a non-renewable energy source?",
+    "options": ["Wind", "Hydroelectric", "Natural gas", "Solar"],
+    "answer": "Natural gas"
+  },
+  {
+    "question": "What is the study of the Earth's physical features and atmosphere called?",
+    "options": ["Meteorology", "Biology", "Geography", "Geology"],
+    "answer": "Geography"
+  },
+  {
+    "question": "Which transition word signals a contrast or opposite idea?",
+    "options": ["Similarly", "Furthermore", "However", "Consequently"],
+    "answer": "However"
+  },
+  {
+    "question": "What do we call an organism that cannot produce its own food and must consume other organisms?",
+    "options": ["Decomposer", "Producer", "Scavenger", "Consumer"],
+    "answer": "Consumer"
+  },
+  {
+    "question": "The Magna Carta limited the power of:",
+    "options": ["Parliament", "The military", "The King", "The Pope"],
+    "answer": "The King"
+  },
+  {
+    "question": "What is the term for words that sound the same but have different meanings and spellings?",
+    "options": ["Antonyms", "Homophones", "Homonyms", "Synonyms"],
+    "answer": "Homophones"
+  },
+  {
+    "question": "What is the primary function of DNA?",
+    "options": ["To fight disease", "To produce energy", "To store genetic information", "To digest food"],
+    "answer": "To store genetic information"
+  },
+  {
+    "question": "Which continent is home to the most countries?",
+    "options": ["Europe", "South America", "Africa", "Asia"],
+    "answer": "Africa"
+  },
+  {
+    "question": "The climax of a story is:",
+    "options": ["The setting of the story", "The highest point of tension in the story", "The resolution of the story", "The introduction of the main conflict"],
+    "answer": "The highest point of tension in the story"
+  }
+]
+

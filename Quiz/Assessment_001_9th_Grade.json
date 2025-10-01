@@ -1,0 +1,528 @@
+[
+  {
+    "question": "The American Revolution took place during which century?",
+    "options": ["17th century", "18th century", "19th century", "20th century"],
+    "answer": "18th century"
+  },
+  {
+    "question": "Which gas makes up the largest percentage of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Who wrote \"Romeo and Juliet\"?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "The smallest unit of an element that maintains its chemical properties is called a(n):",
+    "options": ["Atom", "Molecule", "Cell", "Enzyme"],
+    "answer": "Atom"
+  },
+  {
+    "question": "The U.S. Constitution was written in what year?",
+    "options": ["1776", "1787", "1800", "1812"],
+    "answer": "1787"
+  },
+  {
+    "question": "Which grammatical term describes a word that modifies a verb?",
+    "options": ["Noun", "Adjective", "Adverb", "Preposition"],
+    "answer": "Adverb"
+  },
+  {
+    "question": "The process by which plants make their own food using sunlight is called:",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "The novel \"To Kill a Mockingbird\" was written by:",
+    "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "Harper Lee", "John Steinbeck"],
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "Which branch of the U.S. government is responsible for interpreting laws?",
+    "options": ["Executive", "Legislative", "Judicial", "Parliamentary"],
+    "answer": "Judicial"
+  },
+  {
+    "question": "The powerhouse of the cell is the:",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "A simile is a figure of speech that:",
+    "options": ["Directly compares two unlike things", "Uses \"like\" or \"as\" to compare two unlike things", "Uses exaggeration for emphasis", "Gives human characteristics to nonhuman things"],
+    "answer": "Uses \"like\" or \"as\" to compare two unlike things"
+  },
+  {
+    "question": "Which of these countries was NOT one of the Allied Powers during World War II?",
+    "options": ["United States", "Soviet Union", "Japan", "Great Britain"],
+    "answer": "Japan"
+  },
+  {
+    "question": "The periodic table organizes elements by:",
+    "options": ["Size", "Atomic number", "Discovery date", "Color"],
+    "answer": "Atomic number"
+  },
+  {
+    "question": "In grammar, a clause that cannot stand alone as a complete sentence is called:",
+    "options": ["Independent clause", "Dependent clause", "Fragment", "Run-on"],
+    "answer": "Dependent clause"
+  },
+  {
+    "question": "The Louisiana Purchase was made during which president's administration?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Andrew Jackson"],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "The main function of red blood cells is to:",
+    "options": ["Fight infection", "Carry oxygen", "Produce antibodies", "Clot blood"],
+    "answer": "Carry oxygen"
+  },
+  {
+    "question": "Which of the following is NOT a theme in the novel \"Lord of the Flies\"?",
+    "options": ["Civilization vs. savagery", "Loss of innocence", "Romantic love", "Power and leadership"],
+    "answer": "Romantic love"
+  },
+  {
+    "question": "The Industrial Revolution began in which country?",
+    "options": ["United States", "France", "Germany", "Great Britain"],
+    "answer": "Great Britain"
+  },
+  {
+    "question": "The part of speech that shows the relationship between a noun or pronoun and other words in a sentence is a:",
+    "options": ["Conjunction", "Preposition", "Interjection", "Pronoun"],
+    "answer": "Preposition"
+  },
+  {
+    "question": "Which scientist is credited with developing the theory of evolution by natural selection?",
+    "options": ["Albert Einstein", "Isaac Newton", "Charles Darwin", "Gregor Mendel"],
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "The Bill of Rights consists of how many amendments to the U.S. Constitution?",
+    "options": ["5", "10", "15", "27"],
+    "answer": "10"
+  },
+  {
+    "question": "A metaphor is a figure of speech that:",
+    "options": ["Directly compares two unlike things", "Uses \"like\" or \"as\" to compare two unlike things", "Uses exaggeration for emphasis", "Gives human characteristics to nonhuman things"],
+    "answer": "Directly compares two unlike things"
+  },
+  {
+    "question": "Which war was fought between the North and South regions of the United States?",
+    "options": ["Revolutionary War", "Civil War", "World War I", "Vietnam War"],
+    "answer": "Civil War"
+  },
+  {
+    "question": "Newton's Second Law of Motion states that force equals:",
+    "options": ["Mass times acceleration", "Mass times velocity", "Energy times time", "Momentum times distance"],
+    "answer": "Mass times acceleration"
+  },
+  {
+    "question": "The protagonist of a story is:",
+    "options": ["The main character", "The villain", "The setting", "The conflict"],
+    "answer": "The main character"
+  },
+  {
+    "question": "Which of these is NOT one of the three branches of the U.S. government?",
+    "options": ["Executive", "Legislative", "Judicial", "Parliamentary"],
+    "answer": "Parliamentary"
+  },
+  {
+    "question": "The primary function of the mitochondria in a cell is:",
+    "options": ["Protein synthesis", "Energy production", "Cell division", "Waste removal"],
+    "answer": "Energy production"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": ["Amelia Earhart", "Sally Ride", "Harriet Tubman", "Eleanor Roosevelt"],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "question": "A verb tense that expresses action that occurred before another past action is:",
+    "options": ["Present perfect", "Past perfect", "Future perfect", "Present continuous"],
+    "answer": "Past perfect"
+  },
+  {
+    "question": "The Vietnam War ended in what year?",
+    "options": ["1965", "1970", "1975", "1980"],
+    "answer": "1975"
+  },
+  {
+    "question": "The Big Bang theory explains:",
+    "options": ["How stars die", "How the universe began", "How planets form", "How black holes work"],
+    "answer": "How the universe began"
+  },
+  {
+    "question": "The author of \"The Great Gatsby\" is:",
+    "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "Mark Twain"],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "The 19th Amendment to the U.S. Constitution granted women the right to:",
+    "options": ["Vote", "Own property", "Equal pay", "Education"],
+    "answer": "Vote"
+  },
+  {
+    "question": "Which of the following is NOT a state of matter?",
+    "options": ["Solid", "Liquid", "Gas", "Element"],
+    "answer": "Element"
+  },
+  {
+    "question": "Personification is a figure of speech that:",
+    "options": ["Directly compares two unlike things", "Uses \"like\" or \"as\" to compare two unlike things", "Uses exaggeration for emphasis", "Gives human characteristics to nonhuman things"],
+    "answer": "Gives human characteristics to nonhuman things"
+  },
+  {
+    "question": "The Civil Rights Act of 1964 primarily addressed:",
+    "options": ["Voting rights", "Racial segregation", "Gender equality", "Immigration reform"],
+    "answer": "Racial segregation"
+  },
+  {
+    "question": "The main source of energy for Earth's ecosystems is:",
+    "options": ["Wind", "The sun", "Water", "Geothermal heat"],
+    "answer": "The sun"
+  },
+  {
+    "question": "A story told from \"first person\" perspective uses which pronouns?",
+    "options": ["He, she, they", "You, your", "I, me, we, us", "It, that, those"],
+    "answer": "I, me, we, us"
+  },
+  {
+    "question": "The Declaration of Independence was primarily written by:",
+    "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "Which of these is NOT a law of thermodynamics?",
+    "options": ["Energy cannot be created or destroyed", "Heat flows from hot to cold", "All motion eventually stops", "Force equals mass times acceleration"],
+    "answer": "Force equals mass times acceleration"
+  },
+  {
+    "question": "The climax of a story is:",
+    "options": ["The beginning", "The most intense point", "The end", "The backstory"],
+    "answer": "The most intense point"
+  },
+  {
+    "question": "The Cold War was primarily a conflict between:",
+    "options": ["The United States and Great Britain", "The United States and the Soviet Union", "France and Germany", "Japan and China"],
+    "answer": "The United States and the Soviet Union"
+  },
+  {
+    "question": "Which of the following is NOT one of the four fundamental forces in physics?",
+    "options": ["Gravity", "Electromagnetic force", "Strong nuclear force", "Centrifugal force"],
+    "answer": "Centrifugal force"
+  },
+  {
+    "question": "In grammar, a complete sentence must have at least:",
+    "options": ["A subject and a verb", "A noun and an adjective", "A verb and an adverb", "A preposition and a noun"],
+    "answer": "A subject and a verb"
+  },
+  {
+    "question": "Which civilization built the pyramids at Giza?",
+    "options": ["Greek", "Roman", "Egyptian", "Mesopotamian"],
+    "answer": "Egyptian"
+  },
+  {
+    "question": "DNA stands for:",
+    "options": ["Deoxyribose Nucleic Acid", "Deoxyribonucleic Acid", "Diribonucleic Acid", "Dioxyribonucleic Acid"],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "\"The Hunger Games\" was written by:",
+    "options": ["J.K. Rowling", "Suzanne Collins", "Stephenie Meyer", "Veronica Roth"],
+    "answer": "Suzanne Collins"
+  },
+  {
+    "question": "The system of checks and balances in the U.S. government ensures that:",
+    "options": ["All citizens have equal rights", "No branch becomes too powerful", "The economy remains stable", "Foreign policy is consistent"],
+    "answer": "No branch becomes too powerful"
+  },
+  {
+    "question": "Acids have a pH:",
+    "options": ["Above 7", "Equal to 7", "Below 7", "Equal to 0"],
+    "answer": "Below 7"
+  },
+  {
+    "question": "Which literary device involves the repetition of consonant sounds at the beginning of words?",
+    "options": ["Assonance", "Alliteration", "Onomatopoeia", "Rhyme"],
+    "answer": "Alliteration"
+  },
+  {
+    "question": "The Great Depression in the United States began after:",
+    "options": ["World War I", "The stock market crash of 1929", "The Civil War", "World War II"],
+    "answer": "The stock market crash of 1929"
+  },
+  {
+    "question": "Which of the following is NOT a type of rock?",
+    "options": ["Igneous", "Sedimentary", "Metamorphic", "Biotic"],
+    "answer": "Biotic"
+  },
+  {
+    "question": "The tone of a piece of writing refers to:",
+    "options": ["The author's attitude toward the subject", "The length of the sentences", "The main character's personality", "The setting of the story"],
+    "answer": "The author's attitude toward the subject"
+  },
+  {
+    "question": "The abolition movement sought to end:",
+    "options": ["Poverty", "Slavery", "Child labor", "Women's suffrage"],
+    "answer": "Slavery"
+  },
+  {
+    "question": "The process of converting a liquid to a gas is called:",
+    "options": ["Condensation", "Evaporation", "Sublimation", "Precipitation"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which of these is NOT a literary genre?",
+    "options": ["Mystery", "Science fiction", "Biography", "Personification"],
+    "answer": "Personification"
+  },
+  {
+    "question": "The first successful American colonies were established in:",
+    "options": ["Florida", "Massachusetts", "Virginia", "California"],
+    "answer": "Virginia"
+  },
+  {
+    "question": "The smallest unit of life is a:",
+    "options": ["Cell", "Atom", "Molecule", "Tissue"],
+    "answer": "Cell"
+  },
+  {
+    "question": "The part of speech that replaces a noun is a:",
+    "options": ["Verb", "Adjective", "Pronoun", "Adverb"],
+    "answer": "Pronoun"
+  },
+  {
+    "question": "The system of government where citizens rule through elected representatives is:",
+    "options": ["Monarchy", "Democracy", "Dictatorship", "Oligarchy"],
+    "answer": "Democracy"
+  },
+  {
+    "question": "Which of the following is a renewable resource?",
+    "options": ["Coal", "Natural gas", "Solar energy", "Petroleum"],
+    "answer": "Solar energy"
+  },
+  {
+    "question": "The antagonist in a story is:",
+    "options": ["The main character", "The character who opposes the protagonist", "The setting", "The narrator"],
+    "answer": "The character who opposes the protagonist"
+  },
+  {
+    "question": "The Articles of Confederation served as America's first:",
+    "options": ["Declaration of independence", "Constitution", "Tax code", "Military document"],
+    "answer": "Constitution"
+  },
+  {
+    "question": "The scientific method begins with:",
+    "options": ["Experimentation", "Data analysis", "Asking a question", "Forming a conclusion"],
+    "answer": "Asking a question"
+  },
+  {
+    "question": "The use of words whose sounds suggest their meaning is called:",
+    "options": ["Onomatopoeia", "Alliteration", "Metaphor", "Hyperbole"],
+    "answer": "Onomatopoeia"
+  },
+  {
+    "question": "The Berlin Wall fell in:",
+    "options": ["1979", "1989", "1999", "2001"],
+    "answer": "1989"
+  },
+  {
+    "question": "Which of the following is TRUE regarding cellular respiration?",
+    "options": ["It releases oxygen", "It converts energy into glucose", "It uses oxygen to break down glucose for energy", "It only occurs in plant cells"],
+    "answer": "It uses oxygen to break down glucose for energy"
+  },
+  {
+    "question": "In grammar, the tense of a verb indicates:",
+    "options": ["Its person", "Its time", "Its mood", "Its voice"],
+    "answer": "Its time"
+  },
+  {
+    "question": "The term \"manifest destiny\" refers to the belief that:",
+    "options": ["All men are created equal", "America should expand across the continent", "America should avoid foreign alliances", "Slavery should be abolished"],
+    "answer": "America should expand across the continent"
+  },
+  {
+    "question": "Which of the following is NOT a part of the cell theory?",
+    "options": ["All living things are made of cells", "Cells are the basic unit of structure and function", "All cells come from pre-existing cells", "Cells contain exactly one nucleus"],
+    "answer": "Cells contain exactly one nucleus"
+  },
+  {
+    "question": "The author of \"1984\" is:",
+    "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "Kurt Vonnegut"],
+    "answer": "George Orwell"
+  },
+  {
+    "question": "The right to a fair and speedy trial is guaranteed in which amendment to the U.S. Constitution?",
+    "options": ["Fourth Amendment", "Fifth Amendment", "Sixth Amendment", "Eighth Amendment"],
+    "answer": "Sixth Amendment"
+  },
+  {
+    "question": "The movement of water molecules through a semi-permeable membrane is called:",
+    "options": ["Diffusion", "Osmosis", "Active transport", "Transpiration"],
+    "answer": "Osmosis"
+  },
+  {
+    "question": "A story's setting includes:",
+    "options": ["The main characters", "The time and place", "The conflict", "The theme"],
+    "answer": "The time and place"
+  },
+  {
+    "question": "Which president delivered the Gettysburg Address?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Andrew Jackson"],
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "The process by which rocks are broken down into smaller pieces is called:",
+    "options": ["Erosion", "Weathering", "Deposition", "Sedimentation"],
+    "answer": "Weathering"
+  },
+  {
+    "question": "The coordinating conjunction that indicates contrast is:",
+    "options": ["And", "Or", "But", "So"],
+    "answer": "But"
+  },
+  {
+    "question": "The first ten amendments to the U.S. Constitution are known as:",
+    "options": ["The Articles of Confederation", "The Bill of Rights", "The Federalist Papers", "The Declaration of Independence"],
+    "answer": "The Bill of Rights"
+  },
+  {
+    "question": "Which organelle is responsible for protein synthesis in a cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Lysosome"],
+    "answer": "Ribosome"
+  },
+  {
+    "question": "\"The Catcher in the Rye\" was written by:",
+    "options": ["F. Scott Fitzgerald", "J.D. Salinger", "Ernest Hemingway", "John Steinbeck"],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "question": "The electoral college is used to elect:",
+    "options": ["Senators", "Representatives", "The President", "Supreme Court Justices"],
+    "answer": "The President"
+  },
+  {
+    "question": "Which of the following is NOT a state of matter at room temperature and normal atmospheric pressure?",
+    "options": ["Solid", "Liquid", "Gas", "Plasma"],
+    "answer": "Plasma"
+  },
+  {
+    "question": "Dramatic irony occurs when:",
+    "options": ["Two characters misunderstand each other", "The audience knows something the characters do not", "A character says one thing but means another", "The outcome of the story is unexpected"],
+    "answer": "The audience knows something the characters do not"
+  },
+  {
+    "question": "The Emancipation Proclamation was issued during which war?",
+    "options": ["Revolutionary War", "War of 1812", "Civil War", "World War I"],
+    "answer": "Civil War"
+  },
+  {
+    "question": "The study of the interactions between organisms and their environment is called:",
+    "options": ["Biology", "Botany", "Ecology", "Geology"],
+    "answer": "Ecology"
+  },
+  {
+    "question": "Which of the following is an example of a compound sentence?",
+    "options": ["John ran to the store.", "John ran to the store, and Mary went to school.", "Because it was raining, John took an umbrella.", "John, who lives next door, went to the store."],
+    "answer": "John ran to the store, and Mary went to school."
+  },
+  {
+    "question": "The Monroe Doctrine declared that:",
+    "options": ["Slavery should be abolished", "Women should have the right to vote", "European powers should not colonize the Americas", "The United States should stay neutral in European affairs"],
+    "answer": "European powers should not colonize the Americas"
+  },
+  {
+    "question": "Which of the following organelles contains the cell's DNA?",
+    "options": ["Mitochondria", "Ribosome", "Nucleus", "Golgi apparatus"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "The author of \"Pride and Prejudice\" is:",
+    "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "George Eliot"],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "The system of government where power is divided between a central authority and constituent political units is called:",
+    "options": ["Confederation", "Federalism", "Unitary system", "Parliamentary system"],
+    "answer": "Federalism"
+  },
+  {
+    "question": "Forces that act on objects are measured in:",
+    "options": ["Watts", "Joules", "Newtons", "Volts"],
+    "answer": "Newtons"
+  },
+  {
+    "question": "A theme in literature refers to:",
+    "options": ["The main character", "The central message or idea", "The time and place", "The sequence of events"],
+    "answer": "The central message or idea"
+  },
+  {
+    "question": "The Supreme Court case Brown v. Board of Education dealt with:",
+    "options": ["Prayer in schools", "Abortion rights", "School segregation", "Freedom of speech"],
+    "answer": "School segregation"
+  },
+  {
+    "question": "The chemical process where electrons are lost or gained is called:",
+    "options": ["Combustion", "Fusion", "Oxidation-reduction", "Hydrolysis"],
+    "answer": "Oxidation-reduction"
+  },
+  {
+    "question": "Words that sound the same but have different meanings and spellings are called:",
+    "options": ["Synonyms", "Antonyms", "Homonyms", "Homophones"],
+    "answer": "Homophones"
+  },
+  {
+    "question": "The Cuban Missile Crisis occurred during which president's administration?",
+    "options": ["Harry Truman", "Dwight Eisenhower", "John F. Kennedy", "Lyndon B. Johnson"],
+    "answer": "John F. Kennedy"
+  },
+  {
+    "question": "The atomic number of an element represents the number of:",
+    "options": ["Protons", "Neutrons", "Electrons", "Protons plus neutrons"],
+    "answer": "Protons"
+  },
+  {
+    "question": "In a work of fiction, the point of view told from an all-knowing perspective is called:",
+    "options": ["First person", "Second person", "Third person limited", "Third person omniscient"],
+    "answer": "Third person omniscient"
+  },
+  {
+    "question": "The Battle of Gettysburg was fought in which state?",
+    "options": ["Virginia", "Maryland", "Pennsylvania", "New York"],
+    "answer": "Pennsylvania"
+  },
+  {
+    "question": "The process by which water vapor changes directly to ice without passing through the liquid state is called:",
+    "options": ["Condensation", "Deposition", "Sublimation", "Precipitation"],
+    "answer": "Deposition"
+  },
+  {
+    "question": "Which of the following is NOT a literary conflict?",
+    "options": ["Person vs. Person", "Person vs. Self", "Person vs. Society", "Person vs. Author"],
+    "answer": "Person vs. Author"
+  },
+  {
+    "question": "The \"Iron Curtain\" was a term used to describe the division between:",
+    "options": ["The Union and Confederate states", "Western Europe and Soviet-controlled Eastern Europe", "The United States and Mexico", "North and South Korea"],
+    "answer": "Western Europe and Soviet-controlled Eastern Europe"
+  },
+  {
+    "question": "The law of conservation of energy states that:",
+    "options": ["Energy can be created but not destroyed", "Energy can be destroyed but not created", "Energy cannot be created or destroyed", "Energy must always increase in a system"],
+    "answer": "Energy cannot be created or destroyed"
+  },
+  {
+    "question": "A comma splice occurs when:",
+    "options": ["Two independent clauses are joined by a comma", "A comma is used before a coordinating conjunction", "A comma is used to separate items in a list", "A comma is used after an introductory phrase"],
+    "answer": "Two independent clauses are joined by a comma"
+  },
+  {
+    "question": "Which war is often called \"The Forgotten War\"?",
+    "options": ["Vietnam War", "Korean War", "Spanish-American War", "Gulf War"],
+    "answer": "Korean War"
+  }
+]
+

@@ -1,0 +1,493 @@
+[
+  {
+    "question": "Which literary device is used when an author gives human qualities to non-human objects?",
+    "options": ["Personification", "Metaphor", "Alliteration", "Simile"],
+    "answer": "Personification"
+  },
+  {
+    "question": "What is the main function of a thesis statement in an essay?",
+    "options": ["To conclude the essay", "To summarize research findings", "To introduce the topic", "To state the author's main argument or position"],
+    "answer": "To state the author's main argument or position"
+  },
+  {
+    "question": "The Scarlet Letter was written by:",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "Nathaniel Hawthorne"],
+    "answer": "Nathaniel Hawthorne"
+  },
+  {
+    "question": "Which of the following is NOT one of Shakespeare's tragedies?",
+    "options": ["The Tempest", "Othello", "Hamlet", "Macbeth"],
+    "answer": "The Tempest"
+  },
+  {
+    "question": "In The Great Gatsby, the green light symbolizes:",
+    "options": ["The American Dream", "Money and wealth", "Jealousy", "Gatsby's dreams and hopes for the future"],
+    "answer": "Gatsby's dreams and hopes for the future"
+  },
+  {
+    "question": "Which literary movement emphasized emotion, individualism, and the glory of nature?",
+    "options": ["Modernism", "Naturalism", "Realism", "Romanticism"],
+    "answer": "Romanticism"
+  },
+  {
+    "question": "What is the purpose of the exposition in a story?",
+    "options": ["To resolve the conflict", "To build to the climax", "To present the main conflict", "To introduce the characters, setting, and basic situation"],
+    "answer": "To introduce the characters, setting, and basic situation"
+  },
+  {
+    "question": "What technique is being used in the following sentence: \"The silky, smooth, soft sand slipped through her fingers\"?",
+    "options": ["Metaphor", "Personification", "Alliteration", "Imagery"],
+    "answer": "Alliteration"
+  },
+  {
+    "question": "Which of the following is an example of a compound-complex sentence?",
+    "options": ["Because I was thirsty, I went to the store.", "I went to the store.", "I went to the store, and I bought milk.", "I went to the store after class, but when I arrived, it was closed."],
+    "answer": "I went to the store after class, but when I arrived, it was closed."
+  },
+  {
+    "question": "The difference between a simile and a metaphor is:",
+    "options": ["Similes are only used in poetry; metaphors are used in prose", "Similes are figurative; metaphors are literal", "Similes use \"like\" or \"as\"; metaphors make a direct comparison", "Similes compare similar things; metaphors compare different things"],
+    "answer": "Similes use \"like\" or \"as\"; metaphors make a direct comparison"
+  },
+  {
+    "question": "What is the term for a word that imitates the sound it represents?",
+    "options": ["Consonance", "Assonance", "Alliteration", "Onomatopoeia"],
+    "answer": "Onomatopoeia"
+  },
+  {
+    "question": "What is iambic pentameter?",
+    "options": ["A rhyme scheme in which every fifth line rhymes", "A type of free verse poetry", "A type of poem with exactly five lines", "A metrical pattern consisting of five iambs per line"],
+    "answer": "A metrical pattern consisting of five iambs per line"
+  },
+  {
+    "question": "True or False: A protagonist is always a hero or morally good character.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "Which of these is NOT one of the Four C's of editing?",
+    "options": ["Connect", "Cut", "Construct", "Clarify"],
+    "answer": "Construct"
+  },
+  {
+    "question": "Which sentence demonstrates correct use of a semicolon?",
+    "options": ["The movie was great; and I loved it.", "The movie was great; because it was funny.", "The movie was great; I loved it.", "The movie was great, I loved it."],
+    "answer": "The movie was great; I loved it."
+  },
+  {
+    "question": "Which of the following is a gerund?",
+    "options": ["Swum", "To swim", "Swimming", "Swam"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Go", "Gl"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": ["Venus", "Neptune", "Jupiter", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the primary function of mitochondria in a cell?",
+    "options": ["Storage of genetic material", "Cell division", "Energy production", "Protein synthesis"],
+    "answer": "Energy production"
+  },
+  {
+    "question": "Which of the following is NOT a type of RNA?",
+    "options": ["Transfer RNA", "Cellular RNA", "Messenger RNA", "Ribosomal RNA"],
+    "answer": "Cellular RNA"
+  },
+  {
+    "question": "Newton's Second Law of Motion states that:",
+    "options": ["Energy can neither be created nor destroyed", "An object in motion stays in motion unless acted upon by an outside force", "For every action, there is an equal and opposite reaction", "Force equals mass times acceleration"],
+    "answer": "Force equals mass times acceleration"
+  },
+  {
+    "question": "What is the difference between a compound and a mixture?",
+    "options": ["Compounds have a fixed composition, mixtures do not", "Compounds can be separated by physical means, mixtures cannot", "Both B and C", "Mixtures can be separated by physical means, compounds cannot"],
+    "answer": "Both B and C"
+  },
+  {
+    "question": "What is the pH of a neutral solution?",
+    "options": ["14", "10", "7", "0"],
+    "answer": "7"
+  },
+  {
+    "question": "Which of the following is an example of potential energy?",
+    "options": ["A person running", "A book sitting on a high shelf", "A ball rolling down a hill", "A car driving on a highway"],
+    "answer": "A book sitting on a high shelf"
+  },
+  {
+    "question": "What is the process by which plants make their own food called?",
+    "options": ["Fermentation", "Transpiration", "Respiration", "Photosynthesis"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "Which of the following is NOT a noble gas?",
+    "options": ["Neon", "Oxygen", "Helium", "Argon"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the smallest unit of an element that still retains its properties?",
+    "options": ["Molecule", "Proton", "Atom", "Electron"],
+    "answer": "Atom"
+  },
+  {
+    "question": "Which body system is responsible for removing waste products from the blood?",
+    "options": ["Circulatory system", "Respiratory system", "Digestive system", "Excretory system"],
+    "answer": "Excretory system"
+  },
+  {
+    "question": "What is the study of heredity and variation in organisms called?",
+    "options": ["Physiology", "Ecology", "Biology", "Genetics"],
+    "answer": "Genetics"
+  },
+  {
+    "question": "True or False: A chemical reaction that releases heat is called endothermic.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "What is the name for a rock formed from the cooling of lava or magma?",
+    "options": ["Metamorphic", "Composite", "Igneous", "Sedimentary"],
+    "answer": "Igneous"
+  },
+  {
+    "question": "What law states that energy cannot be created or destroyed, only transformed?",
+    "options": ["Boyle's Law", "Law of Conservation of Mass", "Law of Conservation of Energy", "Newton's First Law"],
+    "answer": "Law of Conservation of Energy"
+  },
+  {
+    "question": "Which of the following is NOT a fossil fuel?",
+    "options": ["Oil", "Natural gas", "Coal", "Uranium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Hydrogen", "Carbon dioxide", "Nitrogen", "Oxygen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which document begins with \"We the People\"?",
+    "options": ["Gettysburg Address", "Declaration of Independence", "Constitution of the United States", "Bill of Rights"],
+    "answer": "Constitution of the United States"
+  },
+  {
+    "question": "The Cold War was primarily a conflict between:",
+    "options": ["France and Russia", "Great Britain and Germany", "The United States and China", "The United States and the Soviet Union"],
+    "answer": "The United States and the Soviet Union"
+  },
+  {
+    "question": "Which amendment to the U.S. Constitution abolished slavery?",
+    "options": ["19th Amendment", "15th Amendment", "13th Amendment", "14th Amendment"],
+    "answer": "13th Amendment"
+  },
+  {
+    "question": "The Magna Carta limited the power of:",
+    "options": ["Parliament", "The King", "The President", "The Pope"],
+    "answer": "The King"
+  },
+  {
+    "question": "Which of the following was NOT one of the Allied Powers during World War II?",
+    "options": ["Soviet Union", "Japan", "United States", "Great Britain"],
+    "answer": "Japan"
+  },
+  {
+    "question": "What event directly triggered the start of World War I?",
+    "options": ["The bombing of Pearl Harbor", "The invasion of Poland", "The sinking of the Lusitania", "The assassination of Archduke Franz Ferdinand"],
+    "answer": "The assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "question": "Which civilization built the pyramids at Giza?",
+    "options": ["Romans", "Mesopotamians", "Egyptians", "Greeks"],
+    "answer": "Egyptians"
+  },
+  {
+    "question": "The Renaissance began in which country?",
+    "options": ["Spain", "France", "England", "Italy"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which of the following was NOT a cause of the Great Depression?",
+    "options": ["High tariffs restricting trade", "Stock market crash of 1929", "The New Deal policies", "Overproduction of goods"],
+    "answer": "The New Deal policies"
+  },
+  {
+    "question": "The Monroe Doctrine declared that:",
+    "options": ["The U.S. would pursue a policy of isolationism", "European powers should not colonize or interfere with the Americas", "The U.S. would not interfere in European affairs", "Slavery should be abolished in all U.S. territories"],
+    "answer": "European powers should not colonize or interfere with the Americas"
+  },
+  {
+    "question": "What was the main purpose of the Marshall Plan?",
+    "options": ["To establish NATO", "To help Japan recover after the atomic bombings", "To rebuild Western Europe after World War II", "To contain the spread of communism in Asia"],
+    "answer": "To rebuild Western Europe after World War II"
+  },
+  {
+    "question": "The system of government in which power is divided between a central authority and constituent political units is called:",
+    "options": ["Parliamentary democracy", "Totalitarianism", "Federalism", "Autocracy"],
+    "answer": "Federalism"
+  },
+  {
+    "question": "True or False: The U.S. Supreme Court case Brown v. Board of Education upheld the \"separate but equal\" doctrine.",
+    "options": ["False", "True"],
+    "answer": "False"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during most of World War II?",
+    "options": ["Nikita Khrushchev", "Vladimir Lenin", "Leon Trotsky", "Joseph Stalin"],
+    "answer": "Joseph Stalin"
+  },
+  {
+    "question": "What literary technique is used when the narrator has limited knowledge of events?",
+    "options": ["Second-person narration", "First-person narration", "Third-person omniscient narration", "Third-person limited narration"],
+    "answer": "Third-person limited narration"
+  },
+  {
+    "question": "Which of the following would be an example of dramatic irony?",
+    "options": ["An unexpected twist at the end of a story", "Two similar situations have very different outcomes", "The audience knows something important that a character doesn't know", "A character says one thing but means another"],
+    "answer": "The audience knows something important that a character doesn't know"
+  },
+  {
+    "question": "Which of these is an example of a subordinating conjunction?",
+    "options": ["Or", "Because", "And", "But"],
+    "answer": "Because"
+  },
+  {
+    "question": "What is the term for a verb that doesn't need a direct object to complete its meaning?",
+    "options": ["Auxiliary verb", "Linking verb", "Intransitive verb", "Transitive verb"],
+    "answer": "Intransitive verb"
+  },
+  {
+    "question": "In which of Shakespeare's plays does the line \"To be, or not to be\" appear?",
+    "options": ["King Lear", "Macbeth", "Hamlet", "Romeo and Juliet"],
+    "answer": "Hamlet"
+  },
+  {
+    "question": "What is the main difference between dynamic and static characters?",
+    "options": ["Dynamic characters are main characters, static characters are minor", "Dynamic characters have more complex personalities, static characters are simpler", "Dynamic characters speak more, static characters are quiet", "Dynamic characters change throughout the story, static characters remain the same"],
+    "answer": "Dynamic characters change throughout the story, static characters remain the same"
+  },
+  {
+    "question": "Which of the following is an example of a primary source?",
+    "options": ["A biography of Abraham Lincoln", "A documentary about Martin Luther King Jr.", "A diary written by Anne Frank", "A textbook about World War II"],
+    "answer": "A diary written by Anne Frank"
+  },
+  {
+    "question": "What is the common name for sodium chloride?",
+    "options": ["Chalk", "Table salt", "Bleach", "Baking soda"],
+    "answer": "Table salt"
+  },
+  {
+    "question": "What is the process by which liquid water changes to water vapor called?",
+    "options": ["Sublimation", "Condensation", "Precipitation", "Evaporation"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which of the following is NOT a renewable resource?",
+    "options": ["Wind power", "Coal", "Hydropower", "Solar power"],
+    "answer": "Coal"
+  },
+  {
+    "question": "What is the function of white blood cells in the human body?",
+    "options": ["Carry nutrients", "Transport oxygen", "Fight infection", "Clot blood"],
+    "answer": "Fight infection"
+  },
+  {
+    "question": "Which of these animals is NOT a mammal?",
+    "options": ["Elephant", "Alligator", "Whale", "Bat"],
+    "answer": "Alligator"
+  },
+  {
+    "question": "During which historical period did the Industrial Revolution begin?",
+    "options": ["Renaissance", "Middle Ages", "18th century", "Enlightenment"],
+    "answer": "18th century"
+  },
+  {
+    "question": "Which of these countries was NOT part of the original 13 American colonies?",
+    "options": ["Massachusetts", "Vermont", "North Carolina", "Georgia"],
+    "answer": "Vermont"
+  },
+  {
+    "question": "The doctrine of \"separate but equal\" was established in which Supreme Court case?",
+    "options": ["Miranda v. Arizona", "Brown v. Board of Education", "Roe v. Wade", "Plessy v. Ferguson"],
+    "answer": "Plessy v. Ferguson"
+  },
+  {
+    "question": "Which branch of government has the power to declare war according to the U.S. Constitution?",
+    "options": ["State", "Executive", "Legislative", "Judicial"],
+    "answer": "Legislative"
+  },
+  {
+    "question": "What does a periodic table organize?",
+    "options": ["Laboratory procedures", "Scientific theories", "Chemical elements", "Chemical reactions"],
+    "answer": "Chemical elements"
+  },
+  {
+    "question": "What is the study of the Earth's physical features and atmosphere called?",
+    "options": ["Astronomy", "Geography", "Geology", "Meteorology"],
+    "answer": "Geography"
+  },
+  {
+    "question": "Which civilization developed hieroglyphics as a form of writing?",
+    "options": ["Roman", "Greek", "Egyptian", "Mesopotamian"],
+    "answer": "Egyptian"
+  },
+  {
+    "question": "What was the main goal of the Civil Rights Movement in the United States?",
+    "options": ["Religious freedom", "Women's suffrage", "Economic equality", "Ending racial segregation and discrimination"],
+    "answer": "Ending racial segregation and discrimination"
+  },
+  {
+    "question": "What is the formula for calculating speed?",
+    "options": ["Speed = Distance + Time", "Speed = Time ÷ Distance", "Speed = Distance × Time", "Speed = Distance ÷ Time"],
+    "answer": "Speed = Distance ÷ Time"
+  },
+  {
+    "question": "Which of these is a proper noun?",
+    "options": ["Teacher", "Book", "Paris", "City"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What type of figurative language is being used in this phrase: \"The stars danced in the sky\"?",
+    "options": ["Simile", "Metaphor", "Hyperbole", "Personification"],
+    "answer": "Personification"
+  },
+  {
+    "question": "In chemistry, what does the abbreviation pH stand for?",
+    "options": ["Percentage of Hydrogen", "Partial Hydrogen", "Power of Hydrogen", "Potential Hydrogen"],
+    "answer": "Power of Hydrogen"
+  },
+  {
+    "question": "What was the significance of the Missouri Compromise of 1820?",
+    "options": ["It created the territory of Missouri", "It maintained the balance between slave and free states", "It abolished slavery in the North", "It admitted Missouri as a free state"],
+    "answer": "It maintained the balance between slave and free states"
+  },
+  {
+    "question": "True or False: Photosynthesis releases oxygen into the atmosphere.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of the following literary works is an example of an epic poem?",
+    "options": ["Pride and Prejudice", "The Great Gatsby", "The Odyssey", "Romeo and Juliet"],
+    "answer": "The Odyssey"
+  },
+  {
+    "question": "What is the function of a topic sentence in a paragraph?",
+    "options": ["To conclude the paragraph", "To transition to the next paragraph", "To state the main idea of the paragraph", "To provide supporting details"],
+    "answer": "To state the main idea of the paragraph"
+  },
+  {
+    "question": "Which of these is an example of active voice?",
+    "options": ["The ball, it was thrown.", "Throwing of the ball occurred.", "The ball was thrown by John.", "John threw the ball."],
+    "answer": "John threw the ball."
+  },
+  {
+    "question": "What is a common characteristic of Gothic literature?",
+    "options": ["Contemporary urban settings", "Humor and light-hearted themes", "Supernatural elements and atmospheric settings", "Simplistic language and straightforward plots"],
+    "answer": "Supernatural elements and atmospheric settings"
+  },
+  {
+    "question": "Which literary work is considered the first modern novel in English?",
+    "options": ["Great Expectations by Charles Dickens", "Pride and Prejudice by Jane Austen", "Frankenstein by Mary Shelley", "Robinson Crusoe by Daniel Defoe"],
+    "answer": "Robinson Crusoe by Daniel Defoe"
+  },
+  {
+    "question": "What is the Geneva Convention?",
+    "options": ["A summit where the United Nations was formed", "A peace treaty ending World War I", "A set of international treaties concerning the treatment of prisoners of war", "A trade agreement between European nations"],
+    "answer": "A set of international treaties concerning the treatment of prisoners of war"
+  },
+  {
+    "question": "Which of the following is a characteristic of the Enlightenment period?",
+    "options": ["Focus on emotion over reason", "Rejection of scientific methods", "Belief in the power of human reason", "Emphasis on religious authority"],
+    "answer": "Belief in the power of human reason"
+  },
+  {
+    "question": "What is the correct order of the scientific method?",
+    "options": ["Experiment, question, hypothesis, analysis, conclusion", "Question, hypothesis, experiment, analysis, conclusion", "Question, experiment, hypothesis, analysis, conclusion", "Hypothesis, question, experiment, analysis, conclusion"],
+    "answer": "Question, hypothesis, experiment, analysis, conclusion"
+  },
+  {
+    "question": "Which of the following is an example of Newton's Third Law of Motion?",
+    "options": ["A ball rolling down a hill", "A book resting on a table", "A rocket propelling forward as gases are expelled backward", "A car accelerating on a highway"],
+    "answer": "A rocket propelling forward as gases are expelled backward"
+  },
+  {
+    "question": "The policy of extending a country's power and influence through diplomacy or military force is called:",
+    "options": ["Federalism", "Nationalism", "Imperialism", "Isolationism"],
+    "answer": "Imperialism"
+  },
+  {
+    "question": "What is a theme in literature?",
+    "options": ["The sequence of events in a story", "The central message or idea explored in a work", "The main character of a story", "The time and place where a story occurs"],
+    "answer": "The central message or idea explored in a work"
+  },
+  {
+    "question": "Which of these is NOT a component of an ecosystem?",
+    "options": ["Decomposers", "Inventors", "Producers", "Consumers"],
+    "answer": "Inventors"
+  },
+  {
+    "question": "The system of checks and balances in the U.S. government is designed to:",
+    "options": ["Give the President more control over Congress", "Allow the Supreme Court to write laws", "Ensure one branch has ultimate authority", "Prevent any branch from becoming too powerful"],
+    "answer": "Prevent any branch from becoming too powerful"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": ["Dual Nucleic Acid", "Dividing Nucleic Assembly", "Diatomic Nuclear Arrangement", "Deoxyribonucleic Acid"],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "Which of the following is a correct use of a comma?",
+    "options": ["Mary walked to the store and, bought milk.", "Mary walked to the store, and bought milk.", "Mary walked to the store and bought, milk.", "Mary, walked to the store and bought milk."],
+    "answer": "Mary walked to the store, and bought milk."
+  },
+  {
+    "question": "Who is known as the \"Father of Modern Physics\"?",
+    "options": ["Niels Bohr", "Albert Einstein", "Galileo Galilei", "Isaac Newton"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What was the main purpose of the Articles of Confederation?",
+    "options": ["To establish the Bill of Rights", "To create a strong central government", "To form a loose alliance among the states", "To establish the first U.S. Constitution"],
+    "answer": "To form a loose alliance among the states"
+  },
+  {
+    "question": "True or False: Ionic compounds typically have high melting points.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which amendment protects against \"unreasonable searches and seizures\"?",
+    "options": ["Fifth Amendment", "Second Amendment", "Fourth Amendment", "First Amendment"],
+    "answer": "Fourth Amendment"
+  },
+  {
+    "question": "What economic system is characterized by private ownership of the means of production?",
+    "options": ["Feudalism", "Socialism", "Communism", "Capitalism"],
+    "answer": "Capitalism"
+  },
+  {
+    "question": "Which of the following is a characteristic of mammals?",
+    "options": ["Have scales", "Cold-blooded", "Produce milk for their young", "Lay eggs to reproduce"],
+    "answer": "Produce milk for their young"
+  },
+  {
+    "question": "What does it mean when a character is described as \"dynamic\"?",
+    "options": ["They have many different personality traits", "They change or develop throughout the story", "They are the main character", "They are energetic and active"],
+    "answer": "They change or develop throughout the story"
+  },
+  {
+    "question": "What is the primary function of the judicial branch of the U.S. government?",
+    "options": ["Vetoing laws", "Making laws", "Interpreting laws", "Enforcing laws"],
+    "answer": "Interpreting laws"
+  },
+  {
+    "question": "Which of these would be considered a fossil fuel?",
+    "options": ["Wind energy", "Hydroelectric power", "Solar energy", "Natural gas"],
+    "answer": "Natural gas"
+  }
+]
+

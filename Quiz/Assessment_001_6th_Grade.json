@@ -1,0 +1,503 @@
+[
+  {
+    "question": "Which of the following is NOT a branch of the United States government?",
+    "options": ["Legislative", "Parliamentary", "Executive", "Judicial"],
+    "answer": "Parliamentary"
+  },
+  {
+    "question": "The water cycle describes the continuous movement of water on, above, and below Earth's surface. Which process describes water vapor turning into liquid?",
+    "options": ["Evaporation", "Condensation", "Precipitation", "Transpiration"],
+    "answer": "Condensation"
+  },
+  {
+    "question": "What is the main function of the mitochondria in a cell?",
+    "options": ["Protein synthesis", "Energy production", "Cell division", "Waste removal"],
+    "answer": "Energy production"
+  },
+  {
+    "question": "Which literary device involves giving human qualities to non-human things?",
+    "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+    "answer": "Personification"
+  },
+  {
+    "question": "The American Civil War or War Between the States was fought between which years?",
+    "options": ["1776-1783", "1812-1815", "1861-1865", "1914-1918"],
+    "answer": "1861-1865"
+  },
+  {
+    "question": "Which of these is a proper noun?",
+    "options": ["city", "Paris", "building", "mountain"],
+    "answer": "Paris"
+  },
+  {
+    "question": "The process by which plants make their own food using sunlight is called:",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "Which continent is home to the Amazon Rainforest?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "answer": "South America"
+  },
+  {
+    "question": "In a sentence, the subject is:",
+    "options": ["What the sentence is about", "The action in the sentence", "A describing word", "A connecting word"],
+    "answer": "What the sentence is about"
+  },
+  {
+    "question": "The Declaration of Independence was signed in which year?",
+    "options": ["1492", "1620", "1776", "1812"],
+    "answer": "1776"
+  },
+  {
+    "question": "Which of these is NOT a state of matter?",
+    "options": ["Solid", "Liquid", "Gas", "Energy"],
+    "answer": "Energy"
+  },
+  {
+    "question": "The author of \"Charlotte's Web\" is:",
+    "options": ["Roald Dahl", "E.B. White", "J.K. Rowling", "Dr. Seuss"],
+    "answer": "E.B. White"
+  },
+  {
+    "question": "Which of these is a renewable resource?",
+    "options": ["Coal", "Natural gas", "Solar energy", "Petroleum"],
+    "answer": "Solar energy"
+  },
+  {
+    "question": "The imaginary line that divides Earth into Northern and Southern Hemispheres is called:",
+    "options": ["Prime Meridian", "Equator", "Tropic of Cancer", "International Date Line"],
+    "answer": "Equator"
+  },
+  {
+    "question": "Which punctuation mark is used to show possession?",
+    "options": ["Comma", "Apostrophe", "Quotation mark", "Semicolon"],
+    "answer": "Apostrophe"
+  },
+  {
+    "question": "The first president of the United States was:",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "Which of these animals is a mammal?",
+    "options": ["Snake", "Dolphin", "Turtle", "Eagle"],
+    "answer": "Dolphin"
+  },
+  {
+    "question": "A metaphor is:",
+    "options": ["A comparison using \"like\" or \"as\"", "A direct comparison between unlike things", "The repetition of consonant sounds", "An exaggeration for effect"],
+    "answer": "A direct comparison between unlike things"
+  },
+  {
+    "question": "The largest ocean on Earth is:",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which of these is NOT a type of rock?",
+    "options": ["Igneous", "Sedimentary", "Metamorphic", "Volcanic"],
+    "answer": "Volcanic"
+  },
+  {
+    "question": "The Underground Railroad was:",
+    "options": ["The first subway system in America", "A network that helped enslaved people escape to freedom", "A railroad built below the Mason-Dixon Line", "A coal mining transportation system"],
+    "answer": "A network that helped enslaved people escape to freedom"
+  },
+  {
+    "question": "Which of these is a compound sentence?",
+    "options": ["The dog barked.", "The dog barked at the mailman.", "The dog barked, and the mailman ran.", "The barking dog scared the mailman."],
+    "answer": "The dog barked, and the mailman ran."
+  },
+  {
+    "question": "The process of a caterpillar changing into a butterfly is called:",
+    "options": ["Hibernation", "Metamorphosis", "Adaptation", "Evolution"],
+    "answer": "Metamorphosis"
+  },
+  {
+    "question": "Which of these countries is NOT in North America?",
+    "options": ["Canada", "Mexico", "Brazil", "United States"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "A simile is:",
+    "options": ["A comparison using \"like\" or \"as\"", "A direct comparison between unlike things", "The repetition of consonant sounds", "An exaggeration for effect"],
+    "answer": "A comparison using \"like\" or \"as\""
+  },
+  {
+    "question": "The force that pulls objects toward the center of Earth is:",
+    "options": ["Magnetism", "Friction", "Gravity", "Inertia"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "The Civil Rights Movement in the United States primarily took place during which decade?",
+    "options": ["1940s", "1950s", "1960s", "1970s"],
+    "answer": "1960s"
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "options": ["Running to the store.", "Because it was raining.", "The tall tree.", "She walked to school."],
+    "answer": "She walked to school."
+  },
+  {
+    "question": "Which planet is known as the \"Red Planet\"?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "The main purpose of the United Nations is to:",
+    "options": ["Control world trade", "Promote international peace and security", "Govern all countries", "Explore outer space"],
+    "answer": "Promote international peace and security"
+  },
+  {
+    "question": "In the water cycle, what is the term for water falling from clouds to Earth?",
+    "options": ["Condensation", "Evaporation", "Precipitation", "Collection"],
+    "answer": "Precipitation"
+  },
+  {
+    "question": "Which of these is NOT a type of pronoun?",
+    "options": ["Personal", "Possessive", "Adjective", "Relative"],
+    "answer": "Adjective"
+  },
+  {
+    "question": "The Boston Tea Party was a protest against:",
+    "options": ["High coffee prices", "British taxation", "Religious persecution", "Native American policies"],
+    "answer": "British taxation"
+  },
+  {
+    "question": "True or False: All insects have six legs.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is an example of alliteration?",
+    "options": ["The cat and the hat", "She sells seashells by the seashore", "The early bird gets the worm", "As brave as a lion"],
+    "answer": "She sells seashells by the seashore"
+  },
+  {
+    "question": "The Great Wall of China was built primarily to:",
+    "options": ["Attract tourists", "Defend against invasions", "Control flooding", "Create jobs"],
+    "answer": "Defend against invasions"
+  },
+  {
+    "question": "Which of these is a predicate in a sentence?",
+    "options": ["The subject", "A describing word", "What the subject does or is", "A proper noun"],
+    "answer": "What the subject does or is"
+  },
+  {
+    "question": "Which of these animals is a cold-blooded vertebrate?",
+    "options": ["Frog", "Bat", "Whale", "Rabbit"],
+    "answer": "Frog"
+  },
+  {
+    "question": "The main cash crop grown in the Southern colonies before the Civil War was:",
+    "options": ["Corn", "Tobacco", "Cotton", "Wheat"],
+    "answer": "Cotton"
+  },
+  {
+    "question": "Which of these is NOT a part of speech?",
+    "options": ["Noun", "Verb", "Sentence", "Adjective"],
+    "answer": "Sentence"
+  },
+  {
+    "question": "The process of weathering refers to:",
+    "options": ["Predicting the weather", "The breakdown of rocks over time", "The movement of air masses", "Cloud formation"],
+    "answer": "The breakdown of rocks over time"
+  },
+  {
+    "question": "Who wrote \"The Adventures of Tom Sawyer\"?",
+    "options": ["Charles Dickens", "Mark Twain", "Jane Austen", "F. Scott Fitzgerald"],
+    "answer": "Mark Twain"
+  },
+  {
+    "question": "Which of these is a renewable source of energy?",
+    "options": ["Coal", "Oil", "Natural gas", "Wind"],
+    "answer": "Wind"
+  },
+  {
+    "question": "The Bill of Rights consists of how many amendments to the U.S. Constitution?",
+    "options": ["5", "10", "15", "27"],
+    "answer": "10"
+  },
+  {
+    "question": "True or False: The Sun revolves around Earth.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which literary genre tells stories about imaginary future scientific or technological advances?",
+    "options": ["Mystery", "Historical fiction", "Science fiction", "Biography"],
+    "answer": "Science fiction"
+  },
+  {
+    "question": "The three main types of rock are igneous, sedimentary, and:",
+    "options": ["Volcanic", "Granite", "Metamorphic", "Limestone"],
+    "answer": "Metamorphic"
+  },
+  {
+    "question": "Which of these is NOT a continent?",
+    "options": ["Europe", "Australia", "Antarctica", "Caribbean"],
+    "answer": "Caribbean"
+  },
+  {
+    "question": "A verb that helps another verb is called a:",
+    "options": ["Linking verb", "Action verb", "Helping verb", "Main verb"],
+    "answer": "Helping verb"
+  },
+  {
+    "question": "The process by which solid ice changes directly to water vapor is called:",
+    "options": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "The Louisiana Purchase was made during which president's administration?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Andrew Jackson"],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "Which of these is an example of a compound word?",
+    "options": ["Running", "Quickly", "Butterfly", "Beautiful"],
+    "answer": "Butterfly"
+  },
+  {
+    "question": "The study of earthquakes is called:",
+    "options": ["Meteorology", "Geology", "Seismology", "Oceanography"],
+    "answer": "Seismology"
+  },
+  {
+    "question": "Which of these countries is located in Europe?",
+    "options": ["Egypt", "Brazil", "Japan", "France"],
+    "answer": "France"
+  },
+  {
+    "question": "In a food chain, producers are typically:",
+    "options": ["Animals that eat plants", "Animals that eat other animals", "Plants that make their own food", "Decomposers"],
+    "answer": "Plants that make their own food"
+  },
+  {
+    "question": "The main purpose of the Preamble to the Constitution is to:",
+    "options": ["List the rights of citizens", "Explain why the Constitution was written", "Describe how to amend the Constitution", "Name the first president"],
+    "answer": "Explain why the Constitution was written"
+  },
+  {
+    "question": "Which of these is a common theme in literature?",
+    "options": ["Paragraphs", "Chapters", "Coming of age", "Pages"],
+    "answer": "Coming of age"
+  },
+  {
+    "question": "Which of these is NOT a phase of the moon?",
+    "options": ["New moon", "Full moon", "Quarter moon", "Blue moon"],
+    "answer": "Blue moon"
+  },
+  {
+    "question": "The suffix \"-less\" means:",
+    "options": ["More than", "Without", "Before", "Again"],
+    "answer": "Without"
+  },
+  {
+    "question": "Which of these historical figures is associated with the Underground Railroad?",
+    "options": ["Harriet Tubman", "Benjamin Franklin", "Thomas Edison", "Amelia Earhart"],
+    "answer": "Harriet Tubman"
+  },
+  {
+    "question": "True or False: Plants release oxygen during photosynthesis.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of these is an example of a proper adjective?",
+    "options": ["Blue", "American", "Beautiful", "Tall"],
+    "answer": "American"
+  },
+  {
+    "question": "The War of 1812 was fought between the United States and:",
+    "options": ["France", "Spain", "Great Britain", "Mexico"],
+    "answer": "Great Britain"
+  },
+  {
+    "question": "Which of these is NOT a characteristic of living things?",
+    "options": ["Growth", "Reproduction", "Magnetism", "Response to stimuli"],
+    "answer": "Magnetism"
+  },
+  {
+    "question": "The main language spoken in Brazil is:",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "answer": "Portuguese"
+  },
+  {
+    "question": "Which of these is a common conflict in literature?",
+    "options": ["Person vs. person", "Person vs. paragraph", "Person vs. chapter", "Person vs. sentence"],
+    "answer": "Person vs. person"
+  },
+  {
+    "question": "The smallest unit of matter is:",
+    "options": ["Cell", "Molecule", "Atom", "Electron"],
+    "answer": "Atom"
+  },
+  {
+    "question": "Which amendment to the U.S. Constitution abolished slavery?",
+    "options": ["1st Amendment", "13th Amendment", "19th Amendment", "26th Amendment"],
+    "answer": "13th Amendment"
+  },
+  {
+    "question": "Which of these is a coordinating conjunction?",
+    "options": ["Because", "Although", "But", "Since"],
+    "answer": "But"
+  },
+  {
+    "question": "The process of erosion involves:",
+    "options": ["The formation of mountains", "The movement of weathered material", "The creation of new rocks", "The formation of fossils"],
+    "answer": "The movement of weathered material"
+  },
+  {
+    "question": "Who wrote \"The Chronicles of Narnia\"?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling", "Roald Dahl"],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "question": "Which of these is NOT a form of precipitation?",
+    "options": ["Rain", "Snow", "Fog", "Sleet"],
+    "answer": "Fog"
+  },
+  {
+    "question": "The system of government where citizens elect representatives to make laws is called:",
+    "options": ["Monarchy", "Dictatorship", "Republic", "Anarchy"],
+    "answer": "Republic"
+  },
+  {
+    "question": "Which of these is an example of onomatopoeia?",
+    "options": ["The shiny car", "As cold as ice", "Buzz", "The tall building"],
+    "answer": "Buzz"
+  },
+  {
+    "question": "The Wright brothers are famous for:",
+    "options": ["Inventing the telephone", "The first successful airplane flight", "Discovering electricity", "Building the first railroad"],
+    "answer": "The first successful airplane flight"
+  },
+  {
+    "question": "Which of these is NOT a type of simple machine?",
+    "options": ["Lever", "Pulley", "Engine", "Wedge"],
+    "answer": "Engine"
+  },
+  {
+    "question": "The main purpose of the United States Census is to:",
+    "options": ["Collect taxes", "Count the population", "Register voters", "Track immigration"],
+    "answer": "Count the population"
+  },
+  {
+    "question": "Which of these is a common literary device used to hint at future events?",
+    "options": ["Flashback", "Foreshadowing", "Personification", "Alliteration"],
+    "answer": "Foreshadowing"
+  },
+  {
+    "question": "True or False: All mammals lay eggs.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which of these is a plural possessive noun?",
+    "options": ["Child's", "Children", "Children's", "Childs'"],
+    "answer": "Children's"
+  },
+  {
+    "question": "The ancient civilization of Mesopotamia was located in what is now primarily:",
+    "options": ["Egypt", "Greece", "Iraq", "China"],
+    "answer": "Iraq"
+  },
+  {
+    "question": "Which of these is NOT a part of a plant cell?",
+    "options": ["Cell wall", "Chloroplast", "Nucleus", "Flagellum"],
+    "answer": "Flagellum"
+  },
+  {
+    "question": "The four main oceans of the world are the Pacific, Atlantic, Indian, and:",
+    "options": ["Mediterranean", "Caribbean", "Arctic", "Baltic"],
+    "answer": "Arctic"
+  },
+  {
+    "question": "Which of these is an example of a first-person point of view?",
+    "options": ["He walked to the store.", "You should try this recipe.", "I couldn't believe what happened.", "She felt nervous about the test."],
+    "answer": "I couldn't believe what happened."
+  },
+  {
+    "question": "Which of these is a characteristic of mammals?",
+    "options": ["Lay eggs", "Have scales", "Have feathers", "Have hair or fur"],
+    "answer": "Have hair or fur"
+  },
+  {
+    "question": "The Articles of Confederation was the first:",
+    "options": ["Declaration of independence", "Constitution of the United States", "Presidential speech", "Supreme Court decision"],
+    "answer": "Constitution of the United States"
+  },
+  {
+    "question": "Which of these is NOT a type of figurative language?",
+    "options": ["Metaphor", "Simile", "Paragraph", "Hyperbole"],
+    "answer": "Paragraph"
+  },
+  {
+    "question": "The process of a solid changing directly to a gas without becoming a liquid is called:",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Precipitation"],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "Which of these countries is NOT a democracy?",
+    "options": ["Canada", "North Korea", "Australia", "France"],
+    "answer": "North Korea"
+  },
+  {
+    "question": "The main conflict in \"Charlotte's Web\" is:",
+    "options": ["Person vs. nature", "Person vs. society", "Person vs. self", "Person vs. person"],
+    "answer": "Person vs. nature"
+  },
+  {
+    "question": "Which of these is NOT a type of ecosystem?",
+    "options": ["Desert", "Rainforest", "Mountain", "Continent"],
+    "answer": "Continent"
+  },
+  {
+    "question": "The 19th Amendment to the U.S. Constitution gave women the right to:",
+    "options": ["Own property", "Vote", "Serve in the military", "Run for president"],
+    "answer": "Vote"
+  },
+  {
+    "question": "Which of these is a complete thought?",
+    "options": ["When the bell rings.", "The students in the hallway.", "After school today.", "The teacher graded the tests."],
+    "answer": "The teacher graded the tests."
+  },
+  {
+    "question": "The process by which rocks are broken down by water, wind, and ice is called:",
+    "options": ["Erosion", "Weathering", "Deposition", "Sedimentation"],
+    "answer": "Weathering"
+  },
+  {
+    "question": "Who led the Lewis and Clark Expedition?",
+    "options": ["Thomas Jefferson and Benjamin Franklin", "Meriwether Lewis and William Clark", "George Washington and John Adams", "Abraham Lincoln and Andrew Jackson"],
+    "answer": "Meriwether Lewis and William Clark"
+  },
+  {
+    "question": "Which of these is NOT a type of poem?",
+    "options": ["Haiku", "Sonnet", "Limerick", "Biography"],
+    "answer": "Biography"
+  },
+  {
+    "question": "The smallest planet in our solar system is:",
+    "options": ["Earth", "Mars", "Mercury", "Venus"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "The three branches of the U.S. government are:",
+    "options": ["Federal, state, and local", "Executive, legislative, and judicial", "Democratic, Republican, and Independent", "Army, Navy, and Air Force"],
+    "answer": "Executive, legislative, and judicial"
+  },
+  {
+    "question": "Which of these is an example of a run-on sentence?",
+    "options": ["The dog barked.", "The dog barked at the cat.", "The dog barked the cat ran away.", "The dog barked, and the cat ran away."],
+    "answer": "The dog barked the cat ran away."
+  },
+  {
+    "question": "True or False: The Earth's core is made primarily of iron and nickel.",
+    "options": ["True", "False"],
+    "answer": "True"
+  }
+]
+

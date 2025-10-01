@@ -115,5 +115,25 @@
     "name": "5th Grade Assessment",
     "file": "Assessment_001_5th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_05/Assessment_001_5th_Grade.md"
+  },
+  {
+    "name": "6th Grade Assessment",
+    "file": "Assessment_001_6th_Grade.json",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_06/Assessment_001_6th_Grade.md"
+  },
+  {
+    "name": "7th Grade Assessment",
+    "file": "Assessment_001_7th_Grade.json",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_07/Assessment_001_7th_Grade.md"
+  },
+  {
+    "name": "9th Grade Assessment",
+    "file": "Assessment_001_9th_Grade.json",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_09/Assessment_001_9th_Grade.md"
+  },
+  {
+    "name": "11th Grade Assessment",
+    "file": "Assessment_001_11th_Grade.json",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_11/Assessment_001_11th_Grade.md"
   }
 ]
