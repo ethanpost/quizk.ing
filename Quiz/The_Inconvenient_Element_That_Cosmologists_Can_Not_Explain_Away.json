@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the Lithium Discrepancy, according to the transcript?",
+    "options": [
+      "The unexplained abundance of lithium in the universe",
+      "The difference between predicted and observed lithium abundance in the early universe",
+      "The shortage of lithium in modern batteries despite its cosmic abundance",
+      "The disappearance of lithium from stars over billions of years"
+    ],
+    "answer": "The difference between predicted and observed lithium abundance in the early universe"
+  },
+  {
+    "question": "How does the observed amount of lithium in the universe compare to what the Big Bang theory predicts?",
+    "options": [
+      "There is 3 times less lithium observed than predicted",
+      "There is exactly the amount predicted",
+      "There is 3 times more lithium observed than predicted",
+      "The lithium is completely absent when it should be present"
+    ],
+    "answer": "There is 3 times less lithium observed than predicted"
+  },
+  {
+    "question": "What elements were primarily created during the first few minutes after the Big Bang?",
+    "options": [
+      "Oxygen and carbon",
+      "Hydrogen and helium",
+      "Iron and gold",
+      "Lithium and beryllium"
+    ],
+    "answer": "Hydrogen and helium"
+  },
+  {
+    "question": "What was the approximate temperature of the universe one second after the Big Bang began?",
+    "options": [
+      "1 million degrees Celsius",
+      "1 trillion degrees Celsius",
+      "10,000 degrees Celsius",
+      "10 trillion degrees Celsius"
+    ],
+    "answer": "10 trillion degrees Celsius"
+  },
+  {
+    "question": "What is Lithium-7?",
+    "options": [
+      "A lithium atom with 7 protons",
+      "A lithium atom with 7 neutrons",
+      "A lithium atom with 3 protons and 4 neutrons",
+      "A lithium atom with 4 protons and 3 neutrons"
+    ],
+    "answer": "A lithium atom with 3 protons and 4 neutrons"
+  },
+  {
+    "question": "What is unusual about the ratio of Lithium-6 to Lithium-7 in the early universe?",
+    "options": [
+      "There is no Lithium-6 when there should be some",
+      "Lithium-6 is 1000 times more prevalent than it should be",
+      "Lithium-7 is completely absent",
+      "The ratio is exactly as predicted"
+    ],
+    "answer": "Lithium-6 is 1000 times more prevalent than it should be"
+  },
+  {
+    "question": "By mass, what percentage of the early universe was composed of lithium?",
+    "options": [
+      "About 24%",
+      "About 0.00000007%",
+      "About 76%",
+      "About 2%"
+    ],
+    "answer": "About 0.00000007%"
+  },
+  {
+    "question": "What was the composition of the early universe by mass, according to the transcript?",
+    "options": [
+      "90% hydrogen, 10% helium",
+      "50% hydrogen, 50% helium",
+      "Nearly 76% hydrogen, nearly 24% helium",
+      "24% hydrogen, 76% helium"
+    ],
+    "answer": "Nearly 76% hydrogen, nearly 24% helium"
+  },
+  {
+    "question": "What did Stephen Hawking later revise about his views on the Big Bang?",
+    "options": [
+      "He concluded the universe is not expanding",
+      "He suggested there was no singularity at the beginning of the universe",
+      "He decided the Big Bang never happened",
+      "He determined the universe started much later than previously thought"
+    ],
+    "answer": "He suggested there was no singularity at the beginning of the universe"
+  },
+  {
+    "question": "What makes it difficult to observe the exact amounts of lithium in the early universe?",
+    "options": [
+      "Lithium doesn't emit any detectable radiation",
+      "Modern telescopes aren't powerful enough",
+      "All lithium was contained inside stars",
+      "The small amounts of lithium make it hard to detect at great distances"
+    ],
+    "answer": "The small amounts of lithium make it hard to detect at great distances"
+  },
+  {
+    "question": "What method do scientists use to determine the composition of the interstellar medium?",
+    "options": [
+      "Radio wave analysis",
+      "Analyzing the spectrographic data as light passes through it",
+      "Direct sampling through space probes",
+      "Computer simulations based on the Big Bang theory"
+    ],
+    "answer": "Analyzing the spectrographic data as light passes through it"
+  },
+  {
+    "question": "According to the transcript, what is the possible explanation for the lithium problem regarding observations?",
+    "options": [
+      "The lithium has been destroyed by cosmic radiation",
+      "Dark matter interactions have removed the lithium",
+      "Stars may alter their lithium content, making them poor representatives of the universe",
+      "Lithium exists in a different form that current instruments cannot detect"
+    ],
+    "answer": "Stars may alter their lithium content, making them poor representatives of the universe"
+  },
+  {
+    "question": "What properties make lithium useful for batteries and electronic devices?",
+    "options": [
+      "Its high electrochemical potential",
+      "Its resistance to heat",
+      "Its abundance in the universe",
+      "Its interaction with water"
+    ],
+    "answer": "Its high electrochemical potential"
+  },
+  {
+    "question": "At what point after the Big Bang did the strong force become active, allowing protons to bind with neutrons?",
+    "options": [
+      "1000 seconds",
+      "1 second",
+      "100 seconds",
+      "1 million seconds"
+    ],
+    "answer": "100 seconds"
+  },
+  {
+    "question": "What element is described as being unexpectedly overabundant in the universe, similar to the lithium problem but in reverse?",
+    "options": [
+      "Iron",
+      "Carbon",
+      "Helium",
+      "Gold"
+    ],
+    "answer": "Gold"
+  }
+]

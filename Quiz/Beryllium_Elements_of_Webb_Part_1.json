@@ -1,0 +1,140 @@
+[
+  {
+    "question": "What is the primary metal used to make the bulk of Webb telescope mirrors?",
+    "options": [
+      "Gold",
+      "Aluminum",
+      "Beryllium",
+      "Steel"
+    ],
+    "answer": "Beryllium"
+  },
+  {
+    "question": "According to the video, gold on Webb's mirrors is:",
+    "options": [
+      "Only on the surface",
+      "The primary structural material",
+      "Mixed throughout the beryllium",
+      "Used to reduce weight"
+    ],
+    "answer": "Only on the surface"
+  },
+  {
+    "question": "How does beryllium's weight compare to aluminum?",
+    "options": [
+      "It is twice as heavy",
+      "It is two-thirds the weight",
+      "It is the same weight",
+      "It is half the weight"
+    ],
+    "answer": "It is two-thirds the weight"
+  },
+  {
+    "question": "How much stiffer is beryllium compared to steel?",
+    "options": [
+      "2 times stiffer",
+      "4 times stiffer",
+      "8 times stiffer",
+      "6 times stiffer"
+    ],
+    "answer": "6 times stiffer"
+  },
+  {
+    "question": "What happens when identical cantilevers made of different metals are lifted and released?",
+    "options": [
+      "All cantilevers behave identically",
+      "The beryllium cantilever wiggles with less intensity and stops first",
+      "The beryllium cantilever vibrates more intensely",
+      "The beryllium cantilever takes longer to stop moving"
+    ],
+    "answer": "The beryllium cantilever wiggles with less intensity and stops first"
+  },
+  {
+    "question": "What happens to beryllium when cooled below 100 Kelvin?",
+    "options": [
+      "It becomes more flexible",
+      "It becomes brittle and cracks",
+      "It stops shrinking and changing size",
+      "It expands slightly"
+    ],
+    "answer": "It stops shrinking and changing size"
+  },
+  {
+    "question": "What is the coefficient of thermal expansion?",
+    "options": [
+      "How quickly a material heats up or cools down",
+      "How much a material weighs at different temperatures",
+      "How much light a material reflects at different temperatures",
+      "How much a material changes in shape, volume, and density in response to temperature"
+    ],
+    "answer": "How much a material changes in shape, volume, and density in response to temperature"
+  },
+  {
+    "question": "Why are Webb's mirrors slightly larger on Earth than they need to be in space?",
+    "options": [
+      "To allow for adjustments after deployment",
+      "Because they will be the exact size needed once in space's cold environment",
+      "Because the gold coating will be added in space",
+      "To account for damage during launch"
+    ],
+    "answer": "Because they will be the exact size needed once in space's cold environment"
+  },
+  {
+    "question": "What makes machining beryllium challenging?",
+    "options": [
+      "It expands unpredictably during machining",
+      "It is too soft to hold its shape",
+      "It is too heavy to manipulate easily",
+      "It is a powder pressed together requiring very light cuts"
+    ],
+    "answer": "It is a powder pressed together requiring very light cuts"
+  },
+  {
+    "question": "What is the approximate cost of beryllium per pound?",
+    "options": [
+      "$800 to $1,000",
+      "$18,000 to $20,000",
+      "$1,800 to $2,000",
+      "$180 to $200"
+    ],
+    "answer": "$1,800 to $2,000"
+  },
+  {
+    "question": "Why is using lightweight materials like beryllium important for space telescopes?",
+    "options": [
+      "They provide better image quality",
+      "They are more resistant to radiation",
+      "Rockets need a lot of fuel for each pound of payload",
+      "They are easier to manufacture"
+    ],
+    "answer": "Rockets need a lot of fuel for each pound of payload"
+  },
+  {
+    "question": "True or False: Beryllium shrinks more than aluminum when cooled.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is a payload in the context of rocket launches?",
+    "options": [
+      "The protective shell around sensitive equipment",
+      "The carrying capacity of a rocket, including everything being sent to space",
+      "The amount of fuel needed for launch",
+      "The control systems of the rocket"
+    ],
+    "answer": "The carrying capacity of a rocket, including everything being sent to space"
+  },
+  {
+    "question": "What temperature scale is mentioned when discussing beryllium's thermal properties?",
+    "options": [
+      "Fahrenheit",
+      "Rankine",
+      "Kelvin",
+      "Celsius"
+    ],
+    "answer": "Kelvin"
+  }
+]

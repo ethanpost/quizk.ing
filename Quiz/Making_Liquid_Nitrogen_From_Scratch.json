@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What percentage of the atmosphere is nitrogen?",
+    "options": [
+      "78%",
+      "82%",
+      "65%",
+      "71%"
+    ],
+    "answer": "78%"
+  },
+  {
+    "question": "What temperature must the cryocooler reach to liquify nitrogen?",
+    "options": [
+      "-300°C",
+      "-100°C",
+      "-150°C",
+      "Below -200°C"
+    ],
+    "answer": "Below -200°C"
+  },
+  {
+    "question": "What property of liquid oxygen allows it to be separated using magnets?",
+    "options": [
+      "It is diamagnetic",
+      "It is ferromagnetic",
+      "It is radioactive",
+      "It is paramagnetic"
+    ],
+    "answer": "It is paramagnetic"
+  },
+  {
+    "question": "What was the purity level of nitrogen achieved through the membrane system?",
+    "options": [
+      "98.9%",
+      "95.5%",
+      "99.7%",
+      "97.8%"
+    ],
+    "answer": "99.7%"
+  },
+  {
+    "question": "Why does nitrogen create a smoother texture in cold brew compared to CO2?",
+    "options": [
+      "Nitrogen is warmer",
+      "Nitrogen is heavier",
+      "Nitrogen bubbles are larger",
+      "Nitrogen bubbles are smaller"
+    ],
+    "answer": "Nitrogen bubbles are smaller"
+  },
+  {
+    "question": "What causes the cascading bubble effect in Nitro Cold Brew?",
+    "options": [
+      "Chemical reaction with coffee",
+      "Temperature differences",
+      "Magnetic properties of nitrogen",
+      "Upward center flow creating downward outside flow"
+    ],
+    "answer": "Upward center flow creating downward outside flow"
+  },
+  {
+    "question": "True or False: CO2 reacts with water to create acid in beverages.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What was required to convert 50ml of liquid air?",
+    "options": [
+      "45 liters of room air",
+      "25 liters of room air",
+      "15 liters of room air",
+      "35 liters of room air"
+    ],
+    "answer": "35 liters of room air"
+  }
+]

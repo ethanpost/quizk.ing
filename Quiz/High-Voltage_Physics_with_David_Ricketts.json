@@ -1,0 +1,288 @@
+[
+  {
+    "question": "What principle causes like charges to repel and opposite charges to attract?",
+    "options": [
+      "Fundamental electrostatic force",
+      "Ohm's Law",
+      "Gravitational attraction",
+      "Magnetic dipole interaction"
+    ],
+    "answer": "Fundamental electrostatic force"
+  },
+  {
+    "question": "What method was used to generate charge in the first demonstration with the pipes?",
+    "options": [
+      "Chemical reaction",
+      "Triboelectric effect",
+      "Electromagnetic induction",
+      "Thermal excitation"
+    ],
+    "answer": "Triboelectric effect"
+  },
+  {
+    "question": "What happens when an electron is removed from a molecule?",
+    "options": [
+      "The molecule becomes radioactive",
+      "The molecule becomes a negative ion",
+      "The molecule becomes a positive ion",
+      "The molecule becomes electrically neutral"
+    ],
+    "answer": "The molecule becomes a positive ion"
+  },
+  {
+    "question": "Who defined positive charge as what appears when glass is rubbed with silk?",
+    "options": [
+      "Michael Faraday",
+      "Nikola Tesla",
+      "James Clerk Maxwell",
+      "Benjamin Franklin"
+    ],
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "question": "Where does the word \"electricity\" come from?",
+    "options": [
+      "Sanskrit word for \"energy\"",
+      "Greek word for \"amber\"",
+      "Latin word for \"lightning\"",
+      "Ancient Egyptian term for \"power\""
+    ],
+    "answer": "Greek word for \"amber\""
+  },
+  {
+    "question": "What happens in the induction demonstration when a charged rod approaches a metal can?",
+    "options": [
+      "The can becomes magnetized",
+      "The can develops opposite polarity charges on different sides",
+      "The can becomes uniformly charged",
+      "The can repels the rod completely"
+    ],
+    "answer": "The can develops opposite polarity charges on different sides"
+  },
+  {
+    "question": "What limits how much charge can be transferred between two objects?",
+    "options": [
+      "Material composition",
+      "Temperature difference",
+      "Potential difference (voltage)",
+      "Physical separation"
+    ],
+    "answer": "Potential difference (voltage)"
+  },
+  {
+    "question": "How does Lord Kelvin's water dropper generate charge?",
+    "options": [
+      "Through heating and cooling cycles",
+      "Through radioactive decay in metal components",
+      "Through chemical reactions in the water",
+      "Through induced polarization and gravity-driven water drops"
+    ],
+    "answer": "Through induced polarization and gravity-driven water drops"
+  },
+  {
+    "question": "What creates the charge in a Wimshurst machine?",
+    "options": [
+      "Chemical reactions in the metal components",
+      "Heating of the metal components",
+      "Induction between metal foils on the discs",
+      "Friction between rotating discs"
+    ],
+    "answer": "Induction between metal foils on the discs"
+  },
+  {
+    "question": "What was demonstrated using the \"thunder house\" model?",
+    "options": [
+      "How lightning creates thunder",
+      "The protective effect of a lightning rod",
+      "How to build storm-resistant structures",
+      "How sound travels during a thunderstorm"
+    ],
+    "answer": "The protective effect of a lightning rod"
+  },
+  {
+    "question": "What is the key innovation of the Van de Graaff generator according to the lecture?",
+    "options": [
+      "Its spherical dome shape",
+      "Its belt system for moving charge",
+      "Its use of the Faraday cage principle",
+      "Its ability to generate DC current"
+    ],
+    "answer": "Its use of the Faraday cage principle"
+  },
+  {
+    "question": "Why does a Van de Graaff generator have a spherical shape?",
+    "options": [
+      "It makes the device more stable",
+      "It minimizes air breakdown",
+      "It maximizes the surface area for charge collection",
+      "It improves aesthetic appearance"
+    ],
+    "answer": "It minimizes air breakdown"
+  },
+  {
+    "question": "What discovery by Michael Faraday forms the basis of the Ruhmkorff coil?",
+    "options": [
+      "Electrolysis",
+      "Static electricity",
+      "Electromagnetic induction",
+      "Magnetism"
+    ],
+    "answer": "Electromagnetic induction"
+  },
+  {
+    "question": "How does a Ruhmkorff coil multiply voltage?",
+    "options": [
+      "By using magnetic materials",
+      "By increasing the current",
+      "By increasing the pressure inside the coil",
+      "By using a difference in coil turn numbers"
+    ],
+    "answer": "By using a difference in coil turn numbers"
+  },
+  {
+    "question": "Where would you find a Ruhmkorff coil in everyday life?",
+    "options": [
+      "In television sets",
+      "In mobile phones",
+      "In household refrigerators",
+      "In petrol car engines"
+    ],
+    "answer": "In petrol car engines"
+  },
+  {
+    "question": "What causes the air flow in the ion thruster demonstration?",
+    "options": [
+      "Magnetic repulsion",
+      "Heat from the electrical current",
+      "Acceleration of ions from sharp to rounded surfaces",
+      "Centrifugal force from spinning components"
+    ],
+    "answer": "Acceleration of ions from sharp to rounded surfaces"
+  },
+  {
+    "question": "Why does a grape create plasma in a microwave?",
+    "options": [
+      "The water inside boils rapidly",
+      "The size creates resonance with microwave frequency",
+      "The sugar content ignites",
+      "The skin conducts electricity"
+    ],
+    "answer": "The size creates resonance with microwave frequency"
+  },
+  {
+    "question": "What is plasma?",
+    "options": [
+      "A superheated gas",
+      "A form of electromagnetic radiation",
+      "A collection of charged particles",
+      "A type of liquid crystal"
+    ],
+    "answer": "A collection of charged particles"
+  },
+  {
+    "question": "What principle allows the Tesla coil to generate extremely high voltages?",
+    "options": [
+      "Induction",
+      "Friction",
+      "Radiation",
+      "Resonance"
+    ],
+    "answer": "Resonance"
+  },
+  {
+    "question": "Approximately how many volts did the large Tesla coil generate in the final demonstration?",
+    "options": [
+      "500,000 volts",
+      "10,000 volts",
+      "1,000,000 volts",
+      "100,000 volts"
+    ],
+    "answer": "1,000,000 volts"
+  },
+  {
+    "question": "What is the relationship between spark length and voltage in the final demonstration?",
+    "options": [
+      "No relationship was mentioned",
+      "1 meter equals 1 million volts",
+      "1 centimeter equals 1 million volts",
+      "1 meter equals 100,000 volts"
+    ],
+    "answer": "1 meter equals 1 million volts"
+  },
+  {
+    "question": "What happens inside a Faraday cage when exposed to an external electric field?",
+    "options": [
+      "The electric field oscillates inside the cage",
+      "The electric field becomes magnetic inside the cage",
+      "The electric field is zero inside the cage",
+      "The electric field is amplified inside the cage"
+    ],
+    "answer": "The electric field is zero inside the cage"
+  },
+  {
+    "question": "What does the triboelectric series determine?",
+    "options": [
+      "The resistance of materials to electric current",
+      "The conductivity of various substances",
+      "The cost of different electrical materials",
+      "Which materials become positive or negative when rubbed together"
+    ],
+    "answer": "Which materials become positive or negative when rubbed together"
+  },
+  {
+    "question": "In what year did Tesla demonstrate his coil at the Royal Institution?",
+    "options": [
+      "1920",
+      "1890",
+      "1950",
+      "1850"
+    ],
+    "answer": "1890"
+  },
+  {
+    "question": "What makes Gassiot's Fountain visually impressive?",
+    "options": [
+      "The colored dyes used in the demonstration",
+      "The mechanical components inside",
+      "The plasma discharge flowing around the glass",
+      "The water flow patterns"
+    ],
+    "answer": "The plasma discharge flowing around the glass"
+  },
+  {
+    "question": "True or False: The electron was discovered before Benjamin Franklin named positive and negative charge.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "How does a plasma toroid form in the xenon globe demonstration?",
+    "options": [
+      "Through heating the xenon gas",
+      "Through nuclear fusion reactions",
+      "Through pressure changes in the globe",
+      "Through circulating current in a magnetic field"
+    ],
+    "answer": "Through circulating current in a magnetic field"
+  },
+  {
+    "question": "What provides protection to the lecturer during the million-volt Tesla coil demonstration?",
+    "options": [
+      "Distance from the coil",
+      "A Faraday cage",
+      "Insulated gloves and boots",
+      "A rubber suit"
+    ],
+    "answer": "A Faraday cage"
+  },
+  {
+    "question": "True or False: The Wimshurst machine generates charge through friction between its discs.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "question": "What is universal indicator used for?",
+    "options": [
+      "To determine if a substance is acid or alkali",
+      "To measure temperature changes",
+      "To create chemical sculptures",
+      "To produce nylon"
+    ],
+    "answer": "To determine if a substance is acid or alkali"
+  },
+  {
+    "question": "What color does universal indicator turn in strongly acidic conditions?",
+    "options": [
+      "Green",
+      "Purple",
+      "Blue",
+      "Red"
+    ],
+    "answer": "Red"
+  },
+  {
+    "question": "What color does universal indicator turn in neutral conditions?",
+    "options": [
+      "Purple",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Green"
+  },
+  {
+    "question": "What color does thymolphthalein turn in alkaline conditions?",
+    "options": [
+      "Blue",
+      "Red",
+      "Colorless",
+      "Green"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "question": "What happens when acid mixes with alkali?",
+    "options": [
+      "They create a superconductor",
+      "They increase in temperature",
+      "They produce a salt plus water",
+      "They form a gas"
+    ],
+    "answer": "They produce a salt plus water"
+  },
+  {
+    "question": "In the clock reaction demonstration, what causes the sudden color change?",
+    "options": [
+      "Addition of universal indicator",
+      "Depletion of a reactant that was absorbing iodine",
+      "Exposure to oxygen",
+      "A temperature increase"
+    ],
+    "answer": "Depletion of a reactant that was absorbing iodine"
+  },
+  {
+    "question": "What substance was used to make the iodine more visible in the clock reaction?",
+    "options": [
+      "Methylene blue",
+      "Universal indicator",
+      "Starch",
+      "Thymolphthalein"
+    ],
+    "answer": "Starch"
+  },
+  {
+    "question": "What is formed at the interface of the two liquids in the nylon demonstration?",
+    "options": [
+      "Sodium acetate",
+      "Silver",
+      "Phosphorus",
+      "Nylon"
+    ],
+    "answer": "Nylon"
+  },
+  {
+    "question": "What chemical was used to create the silver mirror?",
+    "options": [
+      "Silver nitrate",
+      "Nitrogen dioxide",
+      "Phosphorus",
+      "Sodium acetate"
+    ],
+    "answer": "Silver nitrate"
+  },
+  {
+    "question": "What is contained in hand warmers that produces heat when crystallized?",
+    "options": [
+      "Carbon dioxide",
+      "Phosphorus",
+      "Sodium acetate",
+      "Magnesium"
+    ],
+    "answer": "Sodium acetate"
+  },
+  {
+    "question": "Why does the sodium acetate hand warmer get warm when activated?",
+    "options": [
+      "It reacts with oxygen in the air",
+      "It releases heat as it changes from liquid to solid",
+      "It conducts electricity",
+      "It absorbs heat from the surroundings"
+    ],
+    "answer": "It releases heat as it changes from liquid to solid"
+  },
+  {
+    "question": "According to the lecture, why do most chemical reactions happen?",
+    "options": [
+      "Chemicals move from high energy to low energy states",
+      "All chemical reactions require a catalyst",
+      "Reactions are always driven by temperature changes",
+      "Chemicals always seek to increase their entropy"
+    ],
+    "answer": "Chemicals move from high energy to low energy states"
+  },
+  {
+    "question": "What happens when barium hydroxide and ammonium chloride are mixed?",
+    "options": [
+      "The temperature increases",
+      "They form a solid",
+      "The temperature decreases dramatically",
+      "They produce a bright flame"
+    ],
+    "answer": "The temperature decreases dramatically"
+  },
+  {
+    "question": "What drives a reaction that absorbs energy from its surroundings?",
+    "options": [
+      "Addition of heat",
+      "Increase in entropy",
+      "Decrease in energy",
+      "Presence of a catalyst"
+    ],
+    "answer": "Increase in entropy"
+  },
+  {
+    "question": "What is entropy?",
+    "options": [
+      "The measure of disorder or randomness in a system",
+      "The temperature at which a reaction takes place",
+      "The amount of energy in a chemical reaction",
+      "The speed at which a reaction occurs"
+    ],
+    "answer": "The measure of disorder or randomness in a system"
+  },
+  {
+    "question": "Who discovered the first oscillating reaction?",
+    "options": [
+      "Ira Remsen",
+      "Chris Blackstaff",
+      "Boris Belousov",
+      "Briggs and Rauscher"
+    ],
+    "answer": "Boris Belousov"
+  },
+  {
+    "question": "Why was Belousov's paper on oscillating reactions initially rejected?",
+    "options": [
+      "Another scientist had already published similar findings",
+      "The editors thought such reactions couldn't happen",
+      "His methodology was flawed",
+      "He didn't provide enough data"
+    ],
+    "answer": "The editors thought such reactions couldn't happen"
+  },
+  {
+    "question": "What gas is formed when copper reacts with nitric acid?",
+    "options": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen dioxide"
+    ],
+    "answer": "Nitrogen dioxide"
+  },
+  {
+    "question": "What color is nitrogen dioxide gas?",
+    "options": [
+      "Green",
+      "Dark brown",
+      "Colorless",
+      "Blue"
+    ],
+    "answer": "Dark brown"
+  },
+  {
+    "question": "What color is dinitrogen tetroxide?",
+    "options": [
+      "Blue",
+      "Green",
+      "Colorless",
+      "Dark brown"
+    ],
+    "answer": "Colorless"
+  },
+  {
+    "question": "What happens to the equilibrium between nitrogen dioxide and dinitrogen tetroxide when heated?",
+    "options": [
+      "The reaction stops completely",
+      "A new compound is formed",
+      "More nitrogen dioxide is formed",
+      "More dinitrogen tetroxide is formed"
+    ],
+    "answer": "More nitrogen dioxide is formed"
+  },
+  {
+    "question": "What material becomes a superconductor at very low temperatures?",
+    "options": [
+      "Sodium acetate",
+      "Phosphorus",
+      "Copper",
+      "Yttrium barium copper oxide"
+    ],
+    "answer": "Yttrium barium copper oxide"
+  },
+  {
+    "question": "What property do superconductors have?",
+    "options": [
+      "They have zero electrical resistance",
+      "They conduct heat perfectly",
+      "They dissolve in water",
+      "They glow in the dark"
+    ],
+    "answer": "They have zero electrical resistance"
+  },
+  {
+    "question": "What can Type II superconductors do with magnetic fields?",
+    "options": [
+      "Convert them to electrical energy",
+      "Block them completely",
+      "Both repel and trap them",
+      "Amplify them"
+    ],
+    "answer": "Both repel and trap them"
+  },
+  {
+    "question": "True or False: Chemical reactions can never go backwards.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The reaction between magnesium and carbon dioxide is an example of a fire being extinguished by carbon dioxide.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Oscillating reactions like the Belousov reaction can continue indefinitely.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  }
+]

@@ -411,5 +411,155 @@
     "file": "The_Iliad_and_The_Odyssey_Origins_of_the_Trojan_War.json",
     "url": "https://www.youtube.com/watch?v=NY4W6JusSB0",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Great_Books_Classics/The_Iliad_and_The_Odyssey_Graphic_Novel.md"
+  },
+  {
+    "name": "I Explored the World's First Nuclear Power Plant",
+    "file": "I_Explored_the_Worlds_First_Nuclear_Power_Plant.json",
+    "url": "https://www.youtube.com/watch?v=JVROsxtjoCw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Smarter_Every_Day/I_Explored_the_Worlds_First_Nuclear_Power_Plant.md"
+  },
+  {
+    "name": "Nature's Incredible Rotating Motor",
+    "file": "Natures_Incredible_Rotating_Motor.json",
+    "url": "https://www.youtube.com/watch?v=VPSm9gJkPxU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Smarter_Every_Day/Natures_Incredible_Rotating_Motor.md"
+  },
+  {
+    "name": "The Mystery of Impact Flashes",
+    "file": "The_Mystery_Of_Impact_Flashes.json",
+    "url": "https://www.youtube.com/watch?v=8nilP--GFLY",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Smarter_Every_Day/The_Mystery_Of_Impact_Flashes.md"
+  },
+  {
+    "name": "The Inconvenient Element that Cosmologists Can't Explain Away",
+    "file": "The_Inconvenient_Element_That_Cosmologists_Can_Not_Explain_Away.json",
+    "url": "https://www.youtube.com/watch?v=RYBanZkMmKM",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Astrum/The_Inconvienent_Element_That_Cosmologists_Can_Not_Explain_Away.md"
+  },
+  {
+    "name": "Blood Clotting: The Body's Emergency Response System",
+    "file": "Blood_Clotting.json",
+    "url": "https://www.youtube.com/watch?v=DyyqKpPVg4c",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Discovery_Science/Blood_Clotting.md"
+  },
+  {
+    "name": "Michael Behe: Unraveling the Mystery of Biological Information",
+    "file": "Michael_Behe_Unravels_The_Mystery_Of_Biological_Information.json",
+    "url": "https://www.youtube.com/watch?v=pWZpaAIlZgQ",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Discovery_Science/Michael_Behe_Unravels_The_Mystery_Of_Biological_Information.md"
+  },
+  {
+    "name": "Secrets of the Cell with Michael Behe - Season 1 Compilation",
+    "file": "Secrets_Of_The_Cell.json",
+    "url": "https://www.youtube.com/watch?v=gw94qm4qdn8",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Discovery_Science/Secrets_Of_The_Cell.md"
+  },
+  {
+    "name": "The Robot Repairmen Inside You",
+    "file": "The_Robot_Repairmen_Inside_You.json",
+    "url": "https://www.youtube.com/watch?v=LWouRtlHRmg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Discovery_Science/The_Robot_Repairman_Inside_You.md"
+  },
+  {
+    "name": "The Dawn of Energy Abundance | Too Cheap to Meter",
+    "file": "Too_Cheap_To_Meter.json",
+    "url": "https://www.youtube.com/watch?v=YfApATdLnoI",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Documentary/S3_Too_Cheap_To_Meter.md"
+  },
+  {
+    "name": "I visited the US National Helium Reserve",
+    "file": "I_Visited_The_National_Helium_Reserve.json",
+    "url": "https://www.youtube.com/watch?v=mOy8Xjaa_o8",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Elements/2_I_Visited_The_National_Helium_Reserve.md"
+  },
+  {
+    "name": "Beryllium: Elements of Webb Part 1",
+    "file": "Beryllium_Elements_of_Webb_Part_1.json",
+    "url": "https://www.youtube.com/watch?v=07MKhgCmRTg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Elements/4_Beryllium_Elements_of_Webb_Part_1.md"
+  },
+  {
+    "name": "Beryllium: Elements of Webb Part 2",
+    "file": "Beryllium_Elements_of_Webb_Part_2.json",
+    "url": "https://www.youtube.com/watch?v=B2Q6m8rSzhI",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Elements/4_Beryllium_Elements_of_Webb_Part_2.md"
+  },
+  {
+    "name": "Beryllium: Elements of Webb Part 3",
+    "file": "Beryllium_Elements_of_Webb_Part_3.json",
+    "url": "https://www.youtube.com/watch?v=BoQ8YJEaf_Y",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Elements/4_Beryllium_Elements_of_Webb_Part_3.md"
+  },
+  {
+    "name": "Investigating the Periodic Table with Experiments",
+    "file": "Investigating_the_Periodic_Table_with_Experiments.json",
+    "url": "https://www.youtube.com/watch?v=kqe9tEcZkno",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Elements/Investigating_the_Periodic_Table_with_Experiments.md"
+  },
+  {
+    "name": "The Water Cycle",
+    "file": "The_Water_Cycle.json",
+    "url": "https://www.youtube.com/watch?v=r2dnUvP1JgM",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/General_Science/The_Water_Cycle.md"
+  },
+  {
+    "name": "I Explored the World's First Nuclear Power Plant",
+    "file": "I_Explored_the_Worlds_First_Nuclear_Power_Plant.json",
+    "url": "https://www.youtube.com/watch?v=JVROsxtjoCw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Smarter_Every_Day/I_Explored_the_Worlds_First_Nuclear_Power_Plant.md"
+  },
+  {
+    "name": "Nature's Incredible Rotating Motor",
+    "file": "Natures_Incredible_Rotating_Motor.json",
+    "url": "https://www.youtube.com/watch?v=VPSm9gJkPxU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Smarter_Every_Day/Natures_Incredible_Rotating_Motor.md"
+  },
+  {
+    "name": "The Mystery of Impact Flashes",
+    "file": "The_Mystery_Of_Impact_Flashes.json",
+    "url": "https://www.youtube.com/watch?v=8nilP--GFLY",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Smarter_Every_Day/The_Mystery_Of_Impact_Flashes.md"
+  },
+  {
+    "name": "Chemical Curiosities",
+    "file": "Chemical_Curiosities_The_Royal_Institution.json",
+    "url": "https://www.youtube.com/watch?v=ti_E2ZKZpC4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/The_Royal_Institution/Chemical_Curiosities_The_Royal_Institution.md"
+  },
+  {
+    "name": "High-Voltage Physics Overview",
+    "file": "High-Voltage_Physics_with_David_Ricketts.json",
+    "url": "https://www.youtube.com/watch?v=0WWjCICqDK",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/The_Royal_Institution/High-Voltage_Physics_with_David_Ricketts.md"
+  },
+  {
+    "name": "The Science of Fireworks",
+    "file": "The_Science_of_Fireworks_The_Royal_Institution.json",
+    "url": "https://www.youtube.com/watch?v=rmtK2BgmGCw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/The_Royal_Institution/The_Science_of_Fireworks_The_Royal_Institution.md"
+  },
+  {
+    "name": "The Volcanic Chemistry of Sulfur",
+    "file": "The_Volcanic_Chemistry_of_Sulfur_with_Andrew_Szydlo.json",
+    "url": "https://www.youtube.com/watch?v=3cwcekm6wDQ",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/The_Royal_Institution/The_Volcanic_Chemistry_of_Sulfur_with_Andrew_Szydlo.md"
+  },
+  {
+    "name": "Making Liquid Nitrogen From Scratch",
+    "file": "Making_Liquid_Nitrogen_From_Scratch.json",
+    "url": "https://www.youtube.com/watch?v=dCXkaQa53QQ",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Making_Liquid_Nitrogen_From_Scratch.md"
+  },
+  {
+    "name": "Why does an escalator handrail move faster than the stairs?",
+    "file": "Why_does_an_escalator_handrail_move_faster_than_the_stairs.json",
+    "url": "https://www.youtube.com/watch?v=tZ8ehplVFp4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Why_does_an_escalator_handrail_move_faster_than_the_stairs.md"
+  },
+  {
+    "name": "Why Super Glue Is Perfect For Gluing Skin",
+    "file": "Why_Super_Glue_Is_Perfect_For_Gluing_Skin.json",
+    "url": "https://www.youtube.com/watch?v=Ni82f1-cAXg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Why_Super_Glue_Is_Perfect_For_Gluing_Skin.md"
   }
 ]

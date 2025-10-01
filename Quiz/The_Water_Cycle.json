@@ -1,0 +1,150 @@
+[
+  {
+    "question": "What percentage of Earth's water is found in the ocean?",
+    "options": [
+      "75%",
+      "85%",
+      "Over 95%",
+      "100%"
+    ],
+    "answer": "Over 95%"
+  },
+  {
+    "question": "Water is unique because it is the only substance on Earth that naturally exists in how many states?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What is the process called when the sun's energy warms water on the ocean's surface and turns it into water vapor?",
+    "options": [
+      "Condensation",
+      "Precipitation",
+      "Evaporation",
+      "Transpiration"
+    ],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "As water vapor rises in the atmosphere, what happens to it?",
+    "options": [
+      "It falls back to Earth",
+      "It condenses into tiny liquid water droplets",
+      "It disappears",
+      "It becomes a solid"
+    ],
+    "answer": "It condenses into tiny liquid water droplets"
+  },
+  {
+    "question": "What is the process called when water vapor cools and forms clouds?",
+    "options": [
+      "Evaporation",
+      "Precipitation",
+      "Condensation",
+      "Sublimation"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "question": "What force pulls precipitation down from clouds?",
+    "options": [
+      "Gravity",
+      "Wind",
+      "Magnetism",
+      "Air pressure"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the process called when water leaves plants through tiny holes in the leaves?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Transpiration"
+    ],
+    "answer": "Transpiration"
+  },
+  {
+    "question": "What are the tiny holes in plant leaves called that allow water vapor to escape?",
+    "options": [
+      "Pores",
+      "Stomata",
+      "Vessels",
+      "Capillaries"
+    ],
+    "answer": "Stomata"
+  },
+  {
+    "question": "How long can water stay in glaciers?",
+    "options": [
+      "Hundreds of years",
+      "Thousands of years",
+      "Millions of years",
+      "Billions of years"
+    ],
+    "answer": "Thousands of years"
+  },
+  {
+    "question": "What happens to the total amount of water on Earth over time?",
+    "options": [
+      "It gradually increases",
+      "It gradually decreases",
+      "It stays pretty constant",
+      "It fluctuates dramatically"
+    ],
+    "answer": "It stays pretty constant"
+  },
+  {
+    "question": "Which of the following is NOT mentioned as being impacted by changes in the water cycle?",
+    "options": [
+      "Economy",
+      "Energy production",
+      "International relations",
+      "Agriculture"
+    ],
+    "answer": "International relations"
+  },
+  {
+    "question": "What is groundwater?",
+    "options": [
+      "Water that has evaporated from the ground",
+      "Water that has seeped into the ground",
+      "Water that has frozen in the ground",
+      "Water that has condensed on the ground"
+    ],
+    "answer": "Water that has seeped into the ground"
+  },
+  {
+    "question": "What is an aquifer?",
+    "options": [
+      "A type of cloud formation",
+      "A water treatment facility",
+      "An underground layer of water-bearing rock",
+      "A large body of water on Earth's surface"
+    ],
+    "answer": "An underground layer of water-bearing rock"
+  },
+  {
+    "question": "True or False: The water cycle is a simple, linear process with only one path.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is water vapor?",
+    "options": [
+      "Water in its solid state",
+      "Water in its liquid state",
+      "Water in its gaseous state",
+      "A mixture of water and air"
+    ],
+    "answer": "Water in its gaseous state"
+  }
+]

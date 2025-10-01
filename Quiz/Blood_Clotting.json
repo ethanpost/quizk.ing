@@ -1,0 +1,198 @@
+[
+  {
+    "question": "What is the sophisticated emergency response system that stops bleeding called?",
+    "options": [
+      "The Blood Clotting Cascade",
+      "The Coagulation Cascade",
+      "The Platelet Activation System",
+      "The Fibrin Response Network"
+    ],
+    "answer": "The Blood Clotting Cascade"
+  },
+  {
+    "question": "What are the first responders that arrive at a cut to begin forming a plug?",
+    "options": [
+      "Platelets",
+      "Red blood cells",
+      "Fibrinogen",
+      "White blood cells"
+    ],
+    "answer": "Platelets"
+  },
+  {
+    "question": "What transformation occurs to fibrinogen during the clotting process?",
+    "options": [
+      "It transforms into fibrin",
+      "It becomes plasmin",
+      "It becomes thrombin",
+      "It transforms into platelets"
+    ],
+    "answer": "It transforms into fibrin"
+  },
+  {
+    "question": "What do fibrin molecules do to create a secure barrier?",
+    "options": [
+      "They activate more platelets",
+      "They link end-to-end to create strands forming a mesh",
+      "They dissolve other proteins",
+      "They release chemical signals"
+    ],
+    "answer": "They link end-to-end to create strands forming a mesh"
+  },
+  {
+    "question": "What proteins help prevent excessive clotting?",
+    "options": [
+      "Factors 5 and 8",
+      "Fibrinogen and plasmin",
+      "Anti-thrombin and thrombomodulin",
+      "Platelets and thrombin"
+    ],
+    "answer": "Anti-thrombin and thrombomodulin"
+  },
+  {
+    "question": "What is the protein that dissolves fibrin once its work is done?",
+    "options": [
+      "Fibrinogen",
+      "Anti-thrombin",
+      "Plasmin",
+      "Thrombin"
+    ],
+    "answer": "Plasmin"
+  },
+  {
+    "question": "How many essential proteins contribute to the blood clotting process?",
+    "options": [
+      "21",
+      "5",
+      "12",
+      "8"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What genetic disorder is caused by a mutation in factor 8?",
+    "options": [
+      "Hemophilia",
+      "Malaria resistance",
+      "Sickle cell anemia",
+      "Factor V Leiden thrombophilia"
+    ],
+    "answer": "Hemophilia"
+  },
+  {
+    "question": "What happens in Factor V Leiden thrombophilia?",
+    "options": [
+      "Fibrinogen cannot transform into fibrin",
+      "The protein isn't switched off at proper times",
+      "Excessive bleeding occurs",
+      "Platelets cannot form properly"
+    ],
+    "answer": "The protein isn't switched off at proper times"
+  },
+  {
+    "question": "What are the three possible effects of a mutation?",
+    "options": [
+      "Primary, secondary, and tertiary",
+      "Harmful, neutral, and beneficial",
+      "Genetic, somatic, and gametic",
+      "Acute, chronic, and terminal"
+    ],
+    "answer": "Harmful, neutral, and beneficial"
+  },
+  {
+    "question": "True or False: Sickle cell trait is an example of a mutation that is purely beneficial.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What term describes a system where all parts are necessary and even one missing component will result in system failure?",
+    "options": [
+      "Systematically dependent",
+      "Irreducibly complex",
+      "Fundamentally integrated",
+      "Evolutionarily stable"
+    ],
+    "answer": "Irreducibly complex"
+  },
+  {
+    "question": "What happens when plasminogen is activated?",
+    "options": [
+      "It transforms into fibrinogen",
+      "It causes blood to clot faster",
+      "It becomes plasmin that dissolves fibrin",
+      "It activates more platelets"
+    ],
+    "answer": "It becomes plasmin that dissolves fibrin"
+  },
+  {
+    "question": "How many anti-clotting proteins maintain balance in the blood clotting system?",
+    "options": [
+      "15",
+      "11",
+      "5",
+      "8"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Which of the following is NOT a component of the blood clotting process?",
+    "options": [
+      "Thrombin",
+      "Red blood cells",
+      "Platelets",
+      "Fibrinogen"
+    ],
+    "answer": "Red blood cells"
+  },
+  {
+    "question": "What do platelets release to summon reinforcements?",
+    "options": [
+      "Red blood cells",
+      "Oxygen",
+      "Chemical messengers",
+      "Antibodies"
+    ],
+    "answer": "Chemical messengers"
+  },
+  {
+    "question": "True or False: The blood clotting system requires all of its components to function properly.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What role does thrombin play in the blood clotting process?",
+    "options": [
+      "It forms the initial platelet plug",
+      "It activates fibrinogen to become fibrin",
+      "It dissolves blood clots",
+      "It releases chemical signals after injury"
+    ],
+    "answer": "It activates fibrinogen to become fibrin"
+  },
+  {
+    "question": "What is coagulation?",
+    "options": [
+      "The process of platelets forming an initial plug",
+      "The formation of a fibrin mesh to create a stable clot",
+      "The dissolution of a blood clot after healing",
+      "The initial release of chemical signals after injury"
+    ],
+    "answer": "The formation of a fibrin mesh to create a stable clot"
+  },
+  {
+    "question": "According to the material, what is the relationship between DNA and blood clotting proteins?",
+    "options": [
+      "DNA is produced by blood clotting proteins",
+      "DNA has no direct influence on blood clotting",
+      "DNA contains genetic information that determines protein structure",
+      "DNA is only relevant in cases of genetic disorders"
+    ],
+    "answer": "DNA contains genetic information that determines protein structure"
+  }
+]

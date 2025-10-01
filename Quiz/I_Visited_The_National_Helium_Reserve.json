@@ -1,0 +1,150 @@
+[
+  {
+    "question": "What is helium primarily created by on Earth?",
+    "options": [
+      "Radioactive decay",
+      "Solar radiation",
+      "Volcanic activity",
+      "Chemical reactions"
+    ],
+    "answer": "Radioactive decay"
+  },
+  {
+    "question": "According to the transcript, what happens to helium released into the atmosphere?",
+    "options": [
+      "It gets absorbed by plants",
+      "It falls back to Earth as precipitation",
+      "It eventually escapes into space",
+      "It combines with nitrogen"
+    ],
+    "answer": "It eventually escapes into space"
+  },
+  {
+    "question": "How deep underground is the Bush Dome reservoir?",
+    "options": [
+      "5,000 feet",
+      "3,500 feet",
+      "425 feet",
+      "2,100 feet"
+    ],
+    "answer": "3,500 feet"
+  },
+  {
+    "question": "What metaphor is used to describe how helium is stored in the reservoir?",
+    "options": [
+      "Like gas in a pressurized tank",
+      "Like air in a container",
+      "Like a sponge absorbs water",
+      "Like water in a balloon"
+    ],
+    "answer": "Like a sponge absorbs water"
+  },
+  {
+    "question": "How much helium was injected into the Bush Dome in the 1960s?",
+    "options": [
+      "100 billion cubic feet",
+      "50 billion cubic feet",
+      "10 billion cubic feet",
+      "32 billion cubic feet"
+    ],
+    "answer": "32 billion cubic feet"
+  },
+  {
+    "question": "What is the purity level of helium after processing at the National Helium Reserve?",
+    "options": [
+      "100% pure helium",
+      "95% helium, 5% nitrogen",
+      "50% helium, 50% nitrogen",
+      "80% helium, 20% nitrogen"
+    ],
+    "answer": "80% helium, 20% nitrogen"
+  },
+  {
+    "question": "How long is the pipeline that transports helium from the facility to private plants?",
+    "options": [
+      "425 miles",
+      "3,500 miles",
+      "32 miles",
+      "100 miles"
+    ],
+    "answer": "425 miles"
+  },
+  {
+    "question": "What is expected to happen to the helium shortage in the coming years?",
+    "options": [
+      "It will be permanently resolved",
+      "It will worsen dramatically",
+      "It will be alleviated for a short period",
+      "It will remain unchanged"
+    ],
+    "answer": "It will be alleviated for a short period"
+  },
+  {
+    "question": "How many years of known helium reserves are estimated to exist in the United States?",
+    "options": [
+      "200-300 years",
+      "15-20 years",
+      "30-50 years",
+      "80-100 years"
+    ],
+    "answer": "80-100 years"
+  },
+  {
+    "question": "By what year will the National Helium Reserve be transferred to private entities?",
+    "options": [
+      "2032",
+      "2025",
+      "2021",
+      "2019"
+    ],
+    "answer": "2021"
+  },
+  {
+    "question": "What has stimulated industry to look for more helium resources?",
+    "options": [
+      "New technological advances",
+      "Increases in helium price",
+      "Government incentives",
+      "International pressure"
+    ],
+    "answer": "Increases in helium price"
+  },
+  {
+    "question": "What characteristic of helium makes it useful for leak detection?",
+    "options": [
+      "Its flammability",
+      "Its distinctive odor",
+      "Its ability to escape through small openings",
+      "Its visibility under UV light"
+    ],
+    "answer": "Its ability to escape through small openings"
+  },
+  {
+    "question": "What is an enrichment unit used for at the National Helium Reserve?",
+    "options": [
+      "Converting helium to liquid form",
+      "Cooling helium for storage",
+      "Adding nitrogen to helium",
+      "Removing impurities from helium gas"
+    ],
+    "answer": "Removing impurities from helium gas"
+  },
+  {
+    "question": "True or False: The transcript states that party balloons are a major cause of helium shortages.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What was the original purpose of the Bush Dome before it stored helium?",
+    "options": [
+      "Military bunker",
+      "Natural gas reservoir",
+      "Water reservoir",
+      "Oil storage"
+    ],
+    "answer": "Natural gas reservoir"
+  }
+]

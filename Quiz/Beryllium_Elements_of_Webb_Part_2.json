@@ -1,0 +1,148 @@
+[
+  {
+    "question": "Where was the beryllium for the James Webb Space Telescope mined?",
+    "options": [
+      "Near Delta, Utah",
+      "Near Phoenix, Arizona",
+      "Near Boulder, Colorado",
+      "Near Reno, Nevada"
+    ],
+    "answer": "Near Delta, Utah"
+  },
+  {
+    "question": "What percentage of the world's beryllium came from the Utah deposit described in the transcript?",
+    "options": [
+      "75%",
+      "90%",
+      "95%",
+      "100%"
+    ],
+    "answer": "90%"
+  },
+  {
+    "question": "Why was beryllium chosen for Webb's mirrors?",
+    "options": [
+      "Because it reflects light better than any other material",
+      "Because it is cheap and readily available",
+      "Because it is lightweight, strong, and dimensionally stable",
+      "Because it can be easily shaped into precise curves"
+    ],
+    "answer": "Because it is lightweight, strong, and dimensionally stable"
+  },
+  {
+    "question": "What is the concentration of beryllium in the ore?",
+    "options": [
+      "1%",
+      "0.5%",
+      "2.5%",
+      "0.25%"
+    ],
+    "answer": "0.25%"
+  },
+  {
+    "question": "How many pounds of beryllium are in a ton of ore?",
+    "options": [
+      "2 pounds",
+      "10 pounds",
+      "5 pounds",
+      "25 pounds"
+    ],
+    "answer": "5 pounds"
+  },
+  {
+    "question": "True or False: Beryllium is found in metallic form in the ground.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the first step in accessing the beryllium ore?",
+    "options": [
+      "Washing the surface soil with chemicals",
+      "Removing volcanic rock on top of the ore seam",
+      "Drilling deep holes into the ground",
+      "Heating the ground to separate the beryllium"
+    ],
+    "answer": "Removing volcanic rock on top of the ore seam"
+  },
+  {
+    "question": "How much rock must be processed to obtain one pound of beryllium?",
+    "options": [
+      "2 tons",
+      "3 tons",
+      "4 tons",
+      "1 ton"
+    ],
+    "answer": "4 tons"
+  },
+  {
+    "question": "What form does the beryllium take after initial processing?",
+    "options": [
+      "Small pebbles",
+      "Crystalline sheets",
+      "Liquid metal",
+      "Powder"
+    ],
+    "answer": "Powder"
+  },
+  {
+    "question": "What is meant by \"dimensionally stable\" in the context of beryllium?",
+    "options": [
+      "It has a uniform crystal structure",
+      "It maintains a consistent density",
+      "It can be precisely measured",
+      "It doesn't warp when operating at cold temperatures"
+    ],
+    "answer": "It doesn't warp when operating at cold temperatures"
+  },
+  {
+    "question": "How deep did miners have to dig to reach the beryllium ore seam?",
+    "options": [
+      "300 feet",
+      "200 feet",
+      "400 feet",
+      "100 feet"
+    ],
+    "answer": "400 feet"
+  },
+  {
+    "question": "True or False: Beryllium for the James Webb Space Telescope was mined from multiple locations around the world.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the shape of the high-concentration beryllium deposit described in the transcript?",
+    "options": [
+      "A vertical column",
+      "A spherical pocket",
+      "A 10-foot tall diagonal ribbon",
+      "A horizontal layer"
+    ],
+    "answer": "A 10-foot tall diagonal ribbon"
+  },
+  {
+    "question": "What was the starting size of the beryllium blocks for Webb's mirrors?",
+    "options": [
+      "6 feet tall, 6 feet wide, 3 inches thick",
+      "5 feet tall, 5 feet wide, 2 inches thick",
+      "4 feet tall, 4 feet wide, 1.5 inches thick",
+      "3 feet tall, 3 feet wide, 1 inch thick"
+    ],
+    "answer": "5 feet tall, 5 feet wide, 2 inches thick"
+  },
+  {
+    "question": "How was beryllium originally deposited in the ground?",
+    "options": [
+      "Through crystallization of underground lakes",
+      "Through plant decomposition",
+      "Through meteor impacts",
+      "Through hydrothermally deposition millions of years ago"
+    ],
+    "answer": "Through hydrothermally deposition millions of years ago"
+  }
+]

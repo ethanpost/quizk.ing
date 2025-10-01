@@ -1,0 +1,212 @@
+[
+  {
+    "question": "What is the primary focus of this episode about cellular machines?",
+    "options": [
+      "How cells communicate with each other",
+      "How cells produce energy",
+      "How cells make repairs to damaged components",
+      "How cells build new proteins"
+    ],
+    "answer": "How cells make repairs to damaged components"
+  },
+  {
+    "question": "According to the video, where are repair machines found in the cell?",
+    "options": [
+      "Only in the cytoplasm",
+      "Throughout the cell including the nucleus, cytoplasm, and cell membrane",
+      "Only in the nucleus",
+      "Only in the cell membrane"
+    ],
+    "answer": "Throughout the cell including the nucleus, cytoplasm, and cell membrane"
+  },
+  {
+    "question": "What molecular machine is responsible for unzipping DNA strands before replication?",
+    "options": [
+      "Ligase",
+      "Helicase",
+      "Proteosome",
+      "Polymerase"
+    ],
+    "answer": "Helicase"
+  },
+  {
+    "question": "What is the function of polymerase in DNA replication?",
+    "options": [
+      "It breaks down damaged DNA strands",
+      "It wraps around DNA to stabilize it",
+      "It tags damaged DNA for repair",
+      "It adds complementary nucleotides to the growing new strand"
+    ],
+    "answer": "It adds complementary nucleotides to the growing new strand"
+  },
+  {
+    "question": "What weakness does polymerase have during DNA replication?",
+    "options": [
+      "It cannot hold onto DNA tightly for long periods",
+      "It adds nucleotides too slowly",
+      "It only works at certain temperatures",
+      "It cannot recognize errors in the sequence"
+    ],
+    "answer": "It cannot hold onto DNA tightly for long periods"
+  },
+  {
+    "question": "What molecular structure helps polymerase maintain its grip on DNA?",
+    "options": [
+      "Ubiquitin",
+      "Helicase",
+      "Clamp",
+      "Ligase"
+    ],
+    "answer": "Clamp"
+  },
+  {
+    "question": "What machine is responsible for positioning the clamp around DNA?",
+    "options": [
+      "Proteosome",
+      "Clamp loader",
+      "Helicase",
+      "Polymerase"
+    ],
+    "answer": "Clamp loader"
+  },
+  {
+    "question": "What happens when polymerase detects an incorrect nucleotide during replication?",
+    "options": [
+      "It calls for the cell to self-destruct",
+      "It continues replication and a separate enzyme fixes it later",
+      "It stops replication completely",
+      "It steps back, cuts off the incorrect nucleotide, and continues"
+    ],
+    "answer": "It steps back, cuts off the incorrect nucleotide, and continues"
+  },
+  {
+    "question": "Which cellular component breaks down damaged proteins?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Proteosome",
+      "Ribosome"
+    ],
+    "answer": "Proteosome"
+  },
+  {
+    "question": "How does the proteosome identify which proteins to break down?",
+    "options": [
+      "By their location in the cell",
+      "By measuring their electrical charge",
+      "By their size",
+      "By detecting a specific tag called ubiquitin"
+    ],
+    "answer": "By detecting a specific tag called ubiquitin"
+  },
+  {
+    "question": "What happens to the proteins after they are broken down by the proteosome?",
+    "options": [
+      "They are stored in vesicles",
+      "They are reduced to amino acids that can be reused",
+      "They are expelled from the cell as waste",
+      "They are converted to energy"
+    ],
+    "answer": "They are reduced to amino acids that can be reused"
+  },
+  {
+    "question": "What percentage of active muscle cells can have tears in their membranes at any one time?",
+    "options": [
+      "50%",
+      "5%",
+      "10%",
+      "1%"
+    ],
+    "answer": "10%"
+  },
+  {
+    "question": "What signals to the cell that membrane repair is needed?",
+    "options": [
+      "Change in cell temperature",
+      "Abnormal amount of calcium flowing in",
+      "Decrease in oxygen levels",
+      "Increase in carbon dioxide"
+    ],
+    "answer": "Abnormal amount of calcium flowing in"
+  },
+  {
+    "question": "How long can cells with holes in their membranes survive without repair?",
+    "options": [
+      "A few weeks",
+      "A few days",
+      "A few minutes",
+      "A few hours"
+    ],
+    "answer": "A few minutes"
+  },
+  {
+    "question": "What is the material that creates patches to repair cell membrane tears?",
+    "options": [
+      "Nucleotides",
+      "Hollow spheres made of membrane material",
+      "Calcium deposits",
+      "Proteins"
+    ],
+    "answer": "Hollow spheres made of membrane material"
+  },
+  {
+    "question": "What disease is linked to defective proteosome systems?",
+    "options": [
+      "Heart disease",
+      "Influenza",
+      "Diabetes",
+      "Parkinson's disease"
+    ],
+    "answer": "Parkinson's disease"
+  },
+  {
+    "question": "According to the video, what is the relationship between humans and machines?",
+    "options": [
+      "Machines are superior to humans in all aspects",
+      "Humans are just complex machines",
+      "Humans and machines have no similarities",
+      "Humans contain machines but exist for their own purposes, while machines exist for something else"
+    ],
+    "answer": "Humans contain machines but exist for their own purposes, while machines exist for something else"
+  },
+  {
+    "question": "What is nucleotide in the context of DNA?",
+    "options": [
+      "A machine that unzips DNA",
+      "The energy source for DNA replication",
+      "One of four chemicals that make up DNA's code",
+      "A protein that repairs DNA"
+    ],
+    "answer": "One of four chemicals that make up DNA's code"
+  },
+  {
+    "question": "What is ligase's function in DNA repair?",
+    "options": [
+      "It stitches patches into repaired DNA",
+      "It adds new nucleotides to DNA",
+      "It detects errors in DNA sequence",
+      "It cuts out damaged DNA sections"
+    ],
+    "answer": "It stitches patches into repaired DNA"
+  },
+  {
+    "question": "What percentage of heart muscle cells can have disrupted membranes?",
+    "options": [
+      "50%",
+      "25%",
+      "5%",
+      "12%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "question": "According to the video, what conclusion is drawn about cellular repair systems?",
+    "options": [
+      "They operate randomly with no specific purpose",
+      "They evolved gradually over millions of years",
+      "They are unnecessary in most modern cells",
+      "They show evidence of forethought and purposeful planning"
+    ],
+    "answer": "They show evidence of forethought and purposeful planning"
+  }
+]

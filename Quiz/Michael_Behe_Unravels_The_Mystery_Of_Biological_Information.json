@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is described as \"the most valuable product on planet Earth\" at the beginning of the presentation?",
+    "options": [
+      "Information",
+      "Gold",
+      "DNA",
+      "Oil"
+    ],
+    "answer": "Information"
+  },
+  {
+    "question": "What is the fundamental unit of information according to the presentation?",
+    "options": [
+      "A protein",
+      "A single simple decision",
+      "A gene",
+      "A base pair"
+    ],
+    "answer": "A single simple decision"
+  },
+  {
+    "question": "How many chemicals are used to store information in DNA?",
+    "options": [
+      "Twenty",
+      "Two",
+      "Four",
+      "Three"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "What is a gene?",
+    "options": [
+      "The building block of cells",
+      "A segment of DNA that contains instructions to make a single kind of protein",
+      "A type of RNA that copies DNA",
+      "A chemical signal that switches proteins on and off"
+    ],
+    "answer": "A segment of DNA that contains instructions to make a single kind of protein"
+  },
+  {
+    "question": "Which machine reads the code in mRNA to produce proteins?",
+    "options": [
+      "DNA polymerase",
+      "ATP synthase",
+      "Ribosome",
+      "RNA polymerase"
+    ],
+    "answer": "Ribosome"
+  },
+  {
+    "question": "Approximately how many different proteins can human DNA manufacture?",
+    "options": [
+      "200,000",
+      "10,000",
+      "20,000",
+      "2,000"
+    ],
+    "answer": "20,000"
+  },
+  {
+    "question": "What is ATP synthase?",
+    "options": [
+      "A chemical that forms DNA base pairs",
+      "A rotary motor that harvests energy for cells",
+      "A type of messenger RNA",
+      "A control protein that switches genes on and off"
+    ],
+    "answer": "A rotary motor that harvests energy for cells"
+  },
+  {
+    "question": "What is the function of kinesin proteins?",
+    "options": [
+      "They repair damaged DNA",
+      "They copy DNA into RNA",
+      "They transport cargo across the cell",
+      "They produce energy for the cell"
+    ],
+    "answer": "They transport cargo across the cell"
+  },
+  {
+    "question": "How do cells know when to activate specific genes?",
+    "options": [
+      "Through mechanical pressure",
+      "Through chemical and electrical signals",
+      "Through direct sunlight exposure",
+      "Through random chemical reactions"
+    ],
+    "answer": "Through chemical and electrical signals"
+  },
+  {
+    "question": "Approximately how many base pairs are in human DNA?",
+    "options": [
+      "3 million",
+      "300 million",
+      "3 billion",
+      "30 million"
+    ],
+    "answer": "3 billion"
+  },
+  {
+    "question": "In the bone development example, what forms before the actual bone in the womb?",
+    "options": [
+      "Muscle tissue",
+      "Cartilage",
+      "Minerals",
+      "Marrow"
+    ],
+    "answer": "Cartilage"
+  },
+  {
+    "question": "What is the purpose of growth plates in bones?",
+    "options": [
+      "To produce blood cells",
+      "To enable the bone to elongate while maintaining strength",
+      "To provide attachment points for muscles",
+      "To store minerals for later use"
+    ],
+    "answer": "To enable the bone to elongate while maintaining strength"
+  },
+  {
+    "question": "What does the presenter identify as a \"chicken and egg\" problem regarding the origin of life?",
+    "options": [
+      "The question of whether cells or organs developed first",
+      "The dependency of DNA instructions on proteins while proteins cannot be made without DNA",
+      "The evolutionary relationship between birds and reptiles",
+      "The need for both male and female organisms to reproduce"
+    ],
+    "answer": "The dependency of DNA instructions on proteins while proteins cannot be made without DNA"
+  },
+  {
+    "question": "According to the presenter, what does well-designed source code imply?",
+    "options": [
+      "Self-organizing principles of matter",
+      "A skilled designer or intelligent agent",
+      "Random chemical reactions",
+      "Gradual evolution over millions of years"
+    ],
+    "answer": "A skilled designer or intelligent agent"
+  },
+  {
+    "question": "What produces the components of blood in the human body?",
+    "options": [
+      "The kidneys",
+      "Bone marrow",
+      "The heart",
+      "The liver"
+    ],
+    "answer": "Bone marrow"
+  },
+  {
+    "question": "How many different types of human cells can be formed from the proteins coded in DNA?",
+    "options": [
+      "About 200",
+      "About 20,000",
+      "About 20",
+      "About 2,000"
+    ],
+    "answer": "About 200"
+  },
+  {
+    "question": "What is RNA polymerase?",
+    "options": [
+      "A chemical that forms base pairs in DNA",
+      "A machine that copies selected portions of DNA into messenger RNA",
+      "A type of protein that builds cell membranes",
+      "A control element that switches genes on and off"
+    ],
+    "answer": "A machine that copies selected portions of DNA into messenger RNA"
+  },
+  {
+    "question": "According to the presentation, how many pages would it take to print the information in human DNA in book form?",
+    "options": [
+      "About 100,000 pages",
+      "About 10 million pages",
+      "About 1 million pages",
+      "About 10,000 pages"
+    ],
+    "answer": "About 1 million pages"
+  },
+  {
+    "question": "What enables cells to play different roles at different times?",
+    "options": [
+      "Environmental pressure",
+      "Switching specific genes on and off",
+      "Cell division",
+      "Random mutations"
+    ],
+    "answer": "Switching specific genes on and off"
+  },
+  {
+    "question": "What is true about the timing of bone growth in humans?",
+    "options": [
+      "Growth occurs only during childhood",
+      "Different bones develop in different ways and at different times",
+      "All bones grow at the same rate throughout life",
+      "Bone growth is completely random and unpredictable"
+    ],
+    "answer": "Different bones develop in different ways and at different times"
+  }
+]

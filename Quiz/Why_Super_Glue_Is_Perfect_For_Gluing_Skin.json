@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Why does superglue stick so well to most surfaces but not to certain plastics?",
+    "options": [
+      "Superglue requires a porous surface, which these plastics lack",
+      "These plastics are chemically inert and don't provide reactive sites",
+      "Superglue cannot polymerize in the presence of plastic polymers",
+      "These plastics have a natural oil that prevents adhesion"
+    ],
+    "answer": "These plastics are chemically inert and don't provide reactive sites"
+  },
+  {
+    "question": "What is the primary mechanism that triggers superglue to begin polymerizing?",
+    "options": [
+      "Heat activation",
+      "Exposure to air",
+      "Exposure to water/moisture",
+      "UV light exposure"
+    ],
+    "answer": "Exposure to water/moisture"
+  },
+  {
+    "question": "When superglue sets on cotton, what causes it to heat up significantly?",
+    "options": [
+      "The cotton fibers break down and release energy",
+      "A chemical reaction with dyes in the cotton",
+      "The rapid polymerization reaction releases heat over a large surface area",
+      "Trapped air in the cotton creates friction"
+    ],
+    "answer": "The rapid polymerization reaction releases heat over a large surface area"
+  },
+  {
+    "question": "What modification was made to standard superglue to create medical-grade versions?",
+    "options": [
+      "Adding antiseptic compounds",
+      "Reducing the polymer chain length",
+      "Adding flexible elastomers",
+      "Increasing the number of carbons in the alkyl chain"
+    ],
+    "answer": "Increasing the number of carbons in the alkyl chain"
+  },
+  {
+    "question": "What is a key weakness of superglue bonds?",
+    "options": [
+      "They break down quickly in humid environments",
+      "They are brittle and weak against impact and shear forces",
+      "They cannot withstand temperatures above room temperature",
+      "They lose strength after about 24 hours"
+    ],
+    "answer": "They are brittle and weak against impact and shear forces"
+  },
+  {
+    "question": "How was Harry Coover first working with cyanoacrylate when he discovered it in 1942?",
+    "options": [
+      "He was trying to develop a clear plastic for gun sights",
+      "He was developing medical adhesives for battlefield wounds",
+      "He was working on a plastic for airplane canopies",
+      "He was developing quick-drying glues for industrial use"
+    ],
+    "answer": "He was trying to develop a clear plastic for gun sights"
+  },
+  {
+    "question": "What makes skin particularly ideal for superglue to adhere to?",
+    "options": [
+      "The oils in skin slow down the polymerization process",
+      "Skin proteins like collagen have negative regions that initiate polymerization",
+      "Skin has an acidic pH that accelerates curing",
+      "The melanin in skin creates a stronger chemical bond"
+    ],
+    "answer": "Skin proteins like collagen have negative regions that initiate polymerization"
+  },
+  {
+    "question": "What is the recommended method for removing superglue from skin?",
+    "options": [
+      "Hot water and soap",
+      "Vegetable oil",
+      "Acetone (nail polish remover)",
+      "Hydrogen peroxide"
+    ],
+    "answer": "Acetone (nail polish remover)"
+  },
+  {
+    "question": "What temperature is required to break down cyanoacrylate plastic back into monomers?",
+    "options": [
+      "100 degrees Celsius",
+      "150 degrees Celsius",
+      "210 degrees Celsius",
+      "300 degrees Celsius"
+    ],
+    "answer": "210 degrees Celsius"
+  },
+  {
+    "question": "Which problem had to be overcome to use cyanoacrylate as a recyclable plastic?",
+    "options": [
+      "Its brittleness and tendency to stick to everything",
+      "It releases toxic fumes when recycled",
+      "It couldn't be melted without significant degradation",
+      "It absorbs too much water from the environment"
+    ],
+    "answer": "Its brittleness and tendency to stick to everything"
+  },
+  {
+    "question": "What substance is commonly used by DIYers to speed up superglue setting?",
+    "options": [
+      "Baking soda",
+      "Table salt",
+      "Vinegar",
+      "Cornstarch"
+    ],
+    "answer": "Baking soda"
+  },
+  {
+    "question": "Why doesn't superglue work on polyethylene and polypropylene plastics?",
+    "options": [
+      "These plastics contain chemicals that inhibit polymerization",
+      "They are too smooth for mechanical adhesion",
+      "They dissolve the monomers before polymerization can occur",
+      "They are hydrophobic and chemically inert"
+    ],
+    "answer": "They are hydrophobic and chemically inert"
+  },
+  {
+    "question": "What is the estimated tensile strength of superglue?",
+    "options": [
+      "5 mega pascals",
+      "15 mega pascals",
+      "25 mega pascals",
+      "50 mega pascals"
+    ],
+    "answer": "25 mega pascals"
+  },
+  {
+    "question": "How do longer polymer chains improve medical-grade superglue?",
+    "options": [
+      "They make it more waterproof",
+      "They can absorb stress better without breaking",
+      "They release antibacterial compounds",
+      "They are more compatible with human tissue proteins"
+    ],
+    "answer": "They can absorb stress better without breaking"
+  },
+  {
+    "question": "When was medical-grade superglue (Dermabond) finally approved by the FDA?",
+    "options": [
+      "1964",
+      "1978",
+      "1998",
+      "2008"
+    ],
+    "answer": "1998"
+  },
+  {
+    "question": "What characteristic of polymerization makes superglue stronger in tension than in shear?",
+    "options": [
+      "The polymer chains have directionality like wood grain",
+      "The polymers form crosslinks that resist pulling but not sliding",
+      "Tension distributes force more evenly than shear does",
+      "Superglue forms weaker bonds at the edges of surfaces"
+    ],
+    "answer": "The polymer chains have directionality like wood grain"
+  },
+  {
+    "question": "What initially delayed Harry Coover in developing medical superglue?",
+    "options": [
+      "Safety concerns about toxicity",
+      "Patent disputes with competing companies",
+      "Inability to solve the heat release problem",
+      "Bureaucratic red tape in the approval process"
+    ],
+    "answer": "Bureaucratic red tape in the approval process"
+  }
+]

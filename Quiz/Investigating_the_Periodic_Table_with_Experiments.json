@@ -1,0 +1,202 @@
+[
+  {
+    "question": "According to the lecture, what is the International Year of the Periodic Table celebrating?",
+    "options": [
+      "The 150th anniversary of Mendeleev's periodic table",
+      "The discovery of the first element",
+      "The 200th anniversary of the first periodic table",
+      "The discovery of noble gases"
+    ],
+    "answer": "The 150th anniversary of Mendeleev's periodic table"
+  },
+  {
+    "question": "What makes hydrogen unique compared to all other elements?",
+    "options": [
+      "It is the only element that exists as a gas",
+      "It is the only element that forms water when combined with oxygen",
+      "It is the only element that explodes in air",
+      "It is the only element with just one proton in its nucleus"
+    ],
+    "answer": "It is the only element with just one proton in its nucleus"
+  },
+  {
+    "question": "What characteristic do all Group 1 elements share in their atomic structure?",
+    "options": [
+      "They all have one electron in their outermost shell",
+      "They all have one neutron",
+      "They all have one electron shell total",
+      "They all have one proton"
+    ],
+    "answer": "They all have one electron in their outermost shell"
+  },
+  {
+    "question": "What happens when sodium metal is added to water?",
+    "options": [
+      "It sinks and reacts slowly",
+      "Nothing happens",
+      "It floats and reacts vigorously, potentially with flames",
+      "It dissolves quietly"
+    ],
+    "answer": "It floats and reacts vigorously, potentially with flames"
+  },
+  {
+    "question": "What is the recent discovery about why sodium explodes in water?",
+    "options": [
+      "The water molecules break apart violently",
+      "The sodium atoms split apart in a nuclear reaction",
+      "The hydrogen gas produced is what causes the explosion",
+      "A Coulombic explosion occurs as the sodium becomes increasingly positively charged"
+    ],
+    "answer": "A Coulombic explosion occurs as the sodium becomes increasingly positively charged"
+  },
+  {
+    "question": "What is the formula for magnesium oxide?",
+    "options": [
+      "Mg₂O",
+      "Mg₂O₃",
+      "MgO",
+      "MgO₂"
+    ],
+    "answer": "MgO"
+  },
+  {
+    "question": "Why are the noble gases so unreactive?",
+    "options": [
+      "They have no electrons",
+      "They have full outer electron shells",
+      "They are too light",
+      "They have too many protons"
+    ],
+    "answer": "They have full outer electron shells"
+  },
+  {
+    "question": "What was unique about Mendeleev's periodic table compared to previous attempts?",
+    "options": [
+      "He arranged elements alphabetically",
+      "He arranged elements by atomic weight",
+      "He included all known elements",
+      "He left gaps for undiscovered elements and predicted their properties"
+    ],
+    "answer": "He left gaps for undiscovered elements and predicted their properties"
+  },
+  {
+    "question": "What is the name given to Group 17 elements and why?",
+    "options": [
+      "Noble gases, because they were used by nobility",
+      "Transition metals, because they transition between states",
+      "Halogens, because they are \"salt makers\"",
+      "Alkali metals, because they form alkaline solutions"
+    ],
+    "answer": "Halogens, because they are \"salt makers\""
+  },
+  {
+    "question": "What is unusual about the noble gases compared to other elements?",
+    "options": [
+      "They exist as individual atoms rather than molecules",
+      "They are all radioactive",
+      "They are all metals",
+      "They are all synthetic elements"
+    ],
+    "answer": "They exist as individual atoms rather than molecules"
+  },
+  {
+    "question": "What is the third most abundant gas in Earth's atmosphere?",
+    "options": [
+      "Helium",
+      "Carbon dioxide",
+      "Argon",
+      "Oxygen"
+    ],
+    "answer": "Argon"
+  },
+  {
+    "question": "What happens when hydrogen gas is exposed to a flame?",
+    "options": [
+      "It turns into helium",
+      "It explodes, combining with oxygen to form water",
+      "Nothing happens",
+      "It extinguishes the flame"
+    ],
+    "answer": "It explodes, combining with oxygen to form water"
+  },
+  {
+    "question": "What is the thermite reaction?",
+    "options": [
+      "A reaction between hydrogen and oxygen",
+      "A reaction between carbon and oxygen",
+      "A reaction between water and calcium oxide",
+      "A reaction between aluminum and iron oxide producing molten iron"
+    ],
+    "answer": "A reaction between aluminum and iron oxide producing molten iron"
+  },
+  {
+    "question": "How does the acidity of oxides change as you move across the periodic table from left to right?",
+    "options": [
+      "Acidity follows no pattern",
+      "Acidity remains constant",
+      "Oxides become more alkaline",
+      "Oxides become more acidic"
+    ],
+    "answer": "Oxides become more acidic"
+  },
+  {
+    "question": "What is the origin of the name \"phosphorus\"?",
+    "options": [
+      "It means \"salt maker\"",
+      "It means \"burning stone\"",
+      "It means \"lazy\"",
+      "It means \"light bringer\""
+    ],
+    "answer": "It means \"light bringer\""
+  },
+  {
+    "question": "What is the origin of the name \"argon\"?",
+    "options": [
+      "It means \"lazy\" or \"inactive\"",
+      "It means \"noble\"",
+      "It means \"colorless\"",
+      "It means \"gas\""
+    ],
+    "answer": "It means \"lazy\" or \"inactive\""
+  },
+  {
+    "question": "What determines the strength of metallic bonds?",
+    "options": [
+      "The atomic weight of the element",
+      "The temperature of the metal",
+      "The number of electrons available for bonding",
+      "The number of neutrons in the atom"
+    ],
+    "answer": "The number of electrons available for bonding"
+  },
+  {
+    "question": "What is the atomic number of an element?",
+    "options": [
+      "The number of protons in the nucleus",
+      "The total number of protons and neutrons",
+      "The mass of the atom",
+      "The number of electrons in the atom"
+    ],
+    "answer": "The number of protons in the nucleus"
+  },
+  {
+    "question": "What happens to the mass when iron wool burns in air?",
+    "options": [
+      "The mass stays exactly the same",
+      "The mass increases due to oxygen combining with the iron",
+      "The mass decreases",
+      "The mass fluctuates randomly"
+    ],
+    "answer": "The mass increases due to oxygen combining with the iron"
+  },
+  {
+    "question": "What is the formula for the oxide formed when lithium reacts with oxygen?",
+    "options": [
+      "Li₂O",
+      "LiO",
+      "Li₂O₃",
+      "LiO₂"
+    ],
+    "answer": "Li₂O"
+  }
+]

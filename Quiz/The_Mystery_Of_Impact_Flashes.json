@@ -1,0 +1,142 @@
+[
+  {
+    "question": "According to the transcript, what did Destin observe when a polycarbonate rod hit a stainless steel plate at high velocity?",
+    "options": [
+      "A directional flash like a \"little bitty bomb\"",
+      "No visible light at all",
+      "An explosion of the rod",
+      "A blue flash"
+    ],
+    "answer": "A directional flash like a \"little bitty bomb\""
+  },
+  {
+    "question": "What is triboluminescence?",
+    "options": [
+      "Light produced from an impact between two metals",
+      "Light produced when crystalline materials are fractured",
+      "Light produced from heating gases",
+      "Light produced by static electricity"
+    ],
+    "answer": "Light produced when crystalline materials are fractured"
+  },
+  {
+    "question": "Which of the following was NOT mentioned as producing an impact flash in the transcript?",
+    "options": [
+      "Glass spheres colliding",
+      "Ceramic plates hitting each other",
+      "Leather baseball hitting a leather glove",
+      "Bullets hitting other bullets"
+    ],
+    "answer": "Ceramic plates hitting each other"
+  },
+  {
+    "question": "What experiment did Destin use to demonstrate adiabatic compression?",
+    "options": [
+      "Hitting wintergreen lifesavers with a hammer",
+      "Smashing two glass marbles together",
+      "Using a fire syringe with cotton inside",
+      "Firing a bullet at a steel plate"
+    ],
+    "answer": "Using a fire syringe with cotton inside"
+  },
+  {
+    "question": "Who developed the Taylor Impact Test in 1947?",
+    "options": [
+      "Brett Taylor",
+      "Dr. Ken Taylor",
+      "Gavin and Dan Taylor",
+      "GI Taylor"
+    ],
+    "answer": "GI Taylor"
+  },
+  {
+    "question": "What was unusual about the light flash when the polycarbonate rod hit the steel plate?",
+    "options": [
+      "It lasted for several seconds",
+      "It created a rainbow of colors",
+      "It seemed to have a specific direction to it",
+      "It was completely silent"
+    ],
+    "answer": "It seemed to have a specific direction to it"
+  },
+  {
+    "question": "What is a \"sabot\" as mentioned in the transcript?",
+    "options": [
+      "A special type of impact testing surface",
+      "A material that produces light when fractured",
+      "A device that fills space between projectile and barrel",
+      "A type of high-speed camera"
+    ],
+    "answer": "A device that fills space between projectile and barrel"
+  },
+  {
+    "question": "By the end of the video, what did Destin believe was the most likely explanation for many of the impact flashes?",
+    "options": [
+      "Mechanoluminescence",
+      "Adiabatic compression of gases",
+      "Triboluminescence",
+      "Electrostatic discharge"
+    ],
+    "answer": "Adiabatic compression of gases"
+  },
+  {
+    "question": "What happened when Destin tested impacts in an oxygen-rich environment?",
+    "options": [
+      "The flashes appeared to be bigger/brighter",
+      "The projectiles moved significantly slower",
+      "The flashes completely disappeared",
+      "The impacts created small explosions"
+    ],
+    "answer": "The flashes appeared to be bigger/brighter"
+  },
+  {
+    "question": "What future experiment did Destin suggest to confirm his gas compression theory?",
+    "options": [
+      "Testing impacts in a vacuum chamber",
+      "Testing impacts at extremely low temperatures",
+      "Testing impacts underwater",
+      "Testing impacts with radioactive materials"
+    ],
+    "answer": "Testing impacts in a vacuum chamber"
+  },
+  {
+    "question": "What is obliquity in relation to impact?",
+    "options": [
+      "The temperature created during impact",
+      "The mass difference between colliding objects",
+      "The speed at which objects collide",
+      "The angle of impact that deviates from perpendicular"
+    ],
+    "answer": "The angle of impact that deviates from perpendicular"
+  },
+  {
+    "question": "What material produced the most impressive flash according to Destin?",
+    "options": [
+      "Glass",
+      "Polycarbonate",
+      "Metal",
+      "Wood"
+    ],
+    "answer": "Polycarbonate"
+  },
+  {
+    "question": "What happens during adiabatic compression?",
+    "options": [
+      "The system maintains a constant temperature",
+      "The system loses heat to the environment rapidly",
+      "Heat freely enters and exits the system",
+      "Heat doesn't enter or exit the system, causing temperature to rise"
+    ],
+    "answer": "Heat doesn't enter or exit the system, causing temperature to rise"
+  },
+  {
+    "question": "Where did Destin see impact flashes when hitting wintergreen lifesavers?",
+    "options": [
+      "Only on the hammer surface",
+      "At the impact point and on the opposite side where it was fracturing",
+      "In a circular pattern around the impact",
+      "Only at the point of impact"
+    ],
+    "answer": "At the impact point and on the opposite side where it was fracturing"
+  }
+]

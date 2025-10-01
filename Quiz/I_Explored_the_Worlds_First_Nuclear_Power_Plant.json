@@ -1,0 +1,70 @@
+[
+  {
+    "question": "What is the primary fuel used in EBR-1?",
+    "options": [
+      "Plutonium-239",
+      "Neptunium-239",
+      "Uranium-238",
+      "Uranium-235"
+    ],
+    "answer": "Uranium-235"
+  },
+  {
+    "question": "What is the purpose of a breeder reactor?",
+    "options": [
+      "To slow down neutrons",
+      "To generate steam",
+      "To produce electricity only",
+      "To convert non-fissile isotopes into fissile isotopes"
+    ],
+    "answer": "To convert non-fissile isotopes into fissile isotopes"
+  },
+  {
+    "question": "What is the role of fast neutrons in EBR-1?",
+    "options": [
+      "To slow down the reaction",
+      "To produce argon gas",
+      "To initiate fission in U-235",
+      "To cool the reactor"
+    ],
+    "answer": "To initiate fission in U-235"
+  },
+  {
+    "question": "What does NAK stand for?",
+    "options": [
+      "Nuclear Alkaline Coolant",
+      "Neutron-Activated Kinetics",
+      "Sodium-Potassium Alloy",
+      "Nitrogen-Argon-Krypton"
+    ],
+    "answer": "Sodium-Potassium Alloy"
+  },
+  {
+    "question": "What is the function of the breeding blanket in EBR-1?",
+    "options": [
+      "To store nuclear waste",
+      "To produce steam",
+      "To cool the reactor",
+      "To reflect neutrons back into the core"
+    ],
+    "answer": "To reflect neutrons back into the core"
+  },
+  {
+    "question": "True or False: EBR-1 was the first nuclear reactor to generate electricity.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the purpose of the scram system in EBR-1?",
+    "options": [
+      "To cool the liquid metal coolant",
+      "To increase the reactor's power output",
+      "To initiate the breeding process",
+      "To shut down the reactor in an emergency"
+    ],
+    "answer": "To shut down the reactor in an emergency"
+  }
+]

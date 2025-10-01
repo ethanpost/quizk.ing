@@ -1,0 +1,150 @@
+[
+  {
+    "question": "What is the percentage of beryllium found in rocks with the highest concentrations?",
+    "options": [
+      "0.25 percent",
+      "0.025 percent",
+      "2.5 percent",
+      "25 percent"
+    ],
+    "answer": "0.25 percent"
+  },
+  {
+    "question": "What two elements primarily make up a forming star?",
+    "options": [
+      "Helium and lithium",
+      "Hydrogen and helium",
+      "Hydrogen and oxygen",
+      "Beryllium and hydrogen"
+    ],
+    "answer": "Hydrogen and helium"
+  },
+  {
+    "question": "What process brings a star to life?",
+    "options": [
+      "Nuclear fission",
+      "Iron accumulation",
+      "Cosmic ray spallation",
+      "Hydrogen fusion"
+    ],
+    "answer": "Hydrogen fusion"
+  },
+  {
+    "question": "What happens when a star runs out of hydrogen?",
+    "options": [
+      "It turns into a black hole",
+      "It starts producing beryllium",
+      "It begins fusing helium atoms",
+      "It immediately explodes"
+    ],
+    "answer": "It begins fusing helium atoms"
+  },
+  {
+    "question": "What element marks the end of fusion in a star?",
+    "options": [
+      "Carbon",
+      "Iron",
+      "Helium",
+      "Beryllium"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "question": "What happens when too much iron accumulates in a star?",
+    "options": [
+      "The star becomes a white dwarf",
+      "The star produces beryllium",
+      "The star dies",
+      "The star becomes a red giant"
+    ],
+    "answer": "The star dies"
+  },
+  {
+    "question": "What is a supernova?",
+    "options": [
+      "A process that creates beryllium directly",
+      "The birth of a new star",
+      "A type of cosmic ray",
+      "The explosive death of a star"
+    ],
+    "answer": "The explosive death of a star"
+  },
+  {
+    "question": "When are more than half the elements in the periodic table made?",
+    "options": [
+      "During hydrogen fusion",
+      "During cosmic ray spallation",
+      "During initial star formation",
+      "During a supernova"
+    ],
+    "answer": "During a supernova"
+  },
+  {
+    "question": "Why isn't beryllium made during normal stellar fusion?",
+    "options": [
+      "It requires too much energy",
+      "It is too dense",
+      "It is too unstable",
+      "It is too stable"
+    ],
+    "answer": "It is too unstable"
+  },
+  {
+    "question": "What is cosmic ray spallation?",
+    "options": [
+      "When cosmic rays transform iron into heavier elements",
+      "When cosmic rays create new stars",
+      "When cosmic rays hit elements causing them to break into smaller particles",
+      "When cosmic rays fuse with hydrogen"
+    ],
+    "answer": "When cosmic rays hit elements causing them to break into smaller particles"
+  },
+  {
+    "question": "What is beryllium's atomic mass?",
+    "options": [
+      "8",
+      "12",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "True or False: Beryllium is one of the most common elements in the universe.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What telescope is mentioned as using beryllium?",
+    "options": [
+      "Spitzer Space Telescope",
+      "Kepler Space Telescope",
+      "James Webb Space Telescope",
+      "Hubble Space Telescope"
+    ],
+    "answer": "James Webb Space Telescope"
+  },
+  {
+    "question": "What process powers stars and creates the light we see?",
+    "options": [
+      "Radioactive decay",
+      "Nuclear fusion",
+      "Cosmic ray spallation",
+      "Nuclear fission"
+    ],
+    "answer": "Nuclear fusion"
+  },
+  {
+    "question": "What happens to a star as it creates larger elements?",
+    "options": [
+      "It becomes less dense",
+      "It expands and cools",
+      "It contracts and gets hotter",
+      "It immediately explodes"
+    ],
+    "answer": "It contracts and gets hotter"
+  }
+]

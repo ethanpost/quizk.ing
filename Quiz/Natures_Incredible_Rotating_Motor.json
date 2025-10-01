@@ -1,0 +1,150 @@
+[
+  {
+    "question": "According to the video, what is the flagellar motor?",
+    "options": [
+      "A theoretical model of bacterial propulsion",
+      "A man-made microscopic motor for medical applications",
+      "A motor found in human cells",
+      "A molecular machine made of proteins that rotates the flagellum of bacteria"
+    ],
+    "answer": "A molecular machine made of proteins that rotates the flagellum of bacteria"
+  },
+  {
+    "question": "What provides the energy for the flagellar motor?",
+    "options": [
+      "Bacterial metabolism",
+      "Solar energy",
+      "ATP molecules",
+      "Proton gradient (hydrogen ions)"
+    ],
+    "answer": "Proton gradient (hydrogen ions)"
+  },
+  {
+    "question": "How does the flagellar motor change directions?",
+    "options": [
+      "By changing the rotation speed of all components",
+      "By generating a new flagellum on the opposite side",
+      "By completely disassembling and reassembling in reverse",
+      "By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it"
+    ],
+    "answer": "By the red protein (Fly-G) turning 180 degrees and pulling the Mot-AB with it"
+  },
+  {
+    "question": "What is the term for bacterial movement toward food sources or away from threats?",
+    "options": [
+      "Bacterial navigation",
+      "Flagellar migration",
+      "Locomotaxis",
+      "Chemotaxis"
+    ],
+    "answer": "Chemotaxis"
+  },
+  {
+    "question": "What is Mot-AB in the flagellar motor?",
+    "options": [
+      "The protein that controls direction",
+      "The sensor that detects chemicals",
+      "The small gear that harnesses proton energy",
+      "The main shaft"
+    ],
+    "answer": "The small gear that harnesses proton energy"
+  },
+  {
+    "question": "When the flagellar motor rotates counterclockwise (viewed from outside), what happens to the bacteria?",
+    "options": [
+      "It moves backward",
+      "It stops moving completely",
+      "It tumbles randomly",
+      "It swims straight forward"
+    ],
+    "answer": "It swims straight forward"
+  },
+  {
+    "question": "When the flagellar motor rotates clockwise, what happens to the flagella bundle?",
+    "options": [
+      "It straightens out completely",
+      "It tightens, causing faster forward movement",
+      "It detaches from the bacteria",
+      "It opens up, causing the bacteria to tumble"
+    ],
+    "answer": "It opens up, causing the bacteria to tumble"
+  },
+  {
+    "question": "What is CHeY?",
+    "options": [
+      "The main structural component of flagella",
+      "An enzyme that breaks down the flagellar motor",
+      "A proton pump in the bacterial membrane",
+      "A protein that binds to the motor and triggers clockwise rotation"
+    ],
+    "answer": "A protein that binds to the motor and triggers clockwise rotation"
+  },
+  {
+    "question": "What are the three main steps used by researchers to study the flagellar motor?",
+    "options": [
+      "Collection, Isolation, Microscopy",
+      "Cultivation, Modification, Observation",
+      "Transformation, Expression, Purification",
+      "Extraction, Purification, Analysis"
+    ],
+    "answer": "Transformation, Expression, Purification"
+  },
+  {
+    "question": "What type of microscopy was used to image the flagellar motor?",
+    "options": [
+      "Cryo-electron microscopy",
+      "Atomic force microscopy",
+      "Light microscopy",
+      "Scanning electron microscopy"
+    ],
+    "answer": "Cryo-electron microscopy"
+  },
+  {
+    "question": "How many small gears (Mot-AB) can the flagellar motor employ?",
+    "options": [
+      "Hundreds",
+      "Only 1",
+      "Up to 5",
+      "Up to 11-13"
+    ],
+    "answer": "Up to 11-13"
+  },
+  {
+    "question": "How is the movement pattern of bacteria described in the video?",
+    "options": [
+      "Zigzag pattern",
+      "Straight-line movement",
+      "Circular movement",
+      "Biased random walk"
+    ],
+    "answer": "Biased random walk"
+  },
+  {
+    "question": "What structure are scientists studying as a possible evolutionary precursor to the flagellar motor?",
+    "options": [
+      "Bacterial ribosomes",
+      "Protein pumps",
+      "Type 3 secretion system",
+      "Mitochondria"
+    ],
+    "answer": "Type 3 secretion system"
+  },
+  {
+    "question": "True or False: The flagellar motor can only rotate in one direction.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens when multiple flagella on a bacteria are rotating counterclockwise?",
+    "options": [
+      "They work independently, causing jerky movement",
+      "They cause the bacteria to spin in place",
+      "They cancel each other out, stopping movement",
+      "They form a bundle, pushing the bacteria straight forward"
+    ],
+    "answer": "They form a bundle, pushing the bacteria straight forward"
+  }
+]

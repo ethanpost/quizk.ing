@@ -1,0 +1,158 @@
+[
+  {
+    "question": "What is energy according to the video?",
+    "options": [
+      "A type of matter",
+      "The fundamental cost of the universe",
+      "Only electrical power",
+      "Just mechanical motion"
+    ],
+    "answer": "The fundamental cost of the universe"
+  },
+  {
+    "question": "Which historical development first enabled the Industrial Revolution?",
+    "options": [
+      "Oil discovery",
+      "Coal usage",
+      "Nuclear power",
+      "Solar panels"
+    ],
+    "answer": "Coal usage"
+  },
+  {
+    "question": "What was the primary advantage of oil over previous energy sources?",
+    "options": [
+      "It was completely clean",
+      "It was infinitely abundant",
+      "It could be stored and transported in liquid form",
+      "It produced no CO2"
+    ],
+    "answer": "It could be stored and transported in liquid form"
+  },
+  {
+    "question": "What event significantly impacted nuclear power development in the US?",
+    "options": [
+      "The Manhattan Project",
+      "Three Mile Island incident",
+      "The invention of solar panels",
+      "The oil crisis"
+    ],
+    "answer": "Three Mile Island incident"
+  },
+  {
+    "question": "What is a tokamak?",
+    "options": [
+      "A type of solar panel",
+      "A donut-shaped fusion reactor using magnetic confinement",
+      "A coal mining technique",
+      "A type of battery storage"
+    ],
+    "answer": "A donut-shaped fusion reactor using magnetic confinement"
+  },
+  {
+    "question": "What is the primary advantage of SMRs (Small Modular Reactors)?",
+    "options": [
+      "They are more powerful than traditional reactors",
+      "They can be mass-produced and easily transported",
+      "They don't use nuclear fuel",
+      "They don't require any safety systems"
+    ],
+    "answer": "They can be mass-produced and easily transported"
+  },
+  {
+    "question": "According to the video, what is the relationship between energy consumption and prosperity?",
+    "options": [
+      "They are inversely related",
+      "They are directly correlated",
+      "There is no relationship",
+      "Energy reduces prosperity"
+    ],
+    "answer": "They are directly correlated"
+  },
+  {
+    "question": "What is the main challenge for fusion power according to the video?",
+    "options": [
+      "Finding fuel sources",
+      "Safety concerns",
+      "Making it commercially viable",
+      "Getting government approval"
+    ],
+    "answer": "Making it commercially viable"
+  },
+  {
+    "question": "True or False: The video suggests that energy conservation should be our primary focus for the future.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the video's perspective on energy abundance and environmental protection?",
+    "options": [
+      "They are mutually exclusive goals",
+      "Energy abundance can help solve environmental problems",
+      "Environmental protection requires using less energy",
+      "Neither is important for the future"
+    ],
+    "answer": "Energy abundance can help solve environmental problems"
+  },
+  {
+    "question": "What percentage of electricity cost comes from transmission according to the video?",
+    "options": [
+      "25%",
+      "35%",
+      "50%",
+      "75%"
+    ],
+    "answer": "50%"
+  },
+  {
+    "question": "What was considered an impossible battery cost target that has now been achieved?",
+    "options": [
+      "Under $200 per kilowatt hour",
+      "Under $150 per kilowatt hour",
+      "Under $100 per kilowatt hour",
+      "Under $50 per kilowatt hour"
+    ],
+    "answer": "Under $100 per kilowatt hour"
+  },
+  {
+    "question": "How are batteries changing the traditional power grid model?",
+    "options": [
+      "By making the grid obsolete",
+      "By enabling two-way power flow",
+      "By reducing total power consumption",
+      "By eliminating the need for transmission lines"
+    ],
+    "answer": "By enabling two-way power flow"
+  },
+  {
+    "question": "What is the current utilization rate of most power lines on the grid?",
+    "options": [
+      "Over 90%",
+      "Around 75%",
+      "Under 50%",
+      "Around 25%"
+    ],
+    "answer": "Under 50%"
+  },
+  {
+    "question": "What is the primary benefit of collocating battery storage with power generation?",
+    "options": [
+      "It reduces construction costs",
+      "It eliminates the need for maintenance",
+      "It circumvents transmission congestion",
+      "It increases power output"
+    ],
+    "answer": "It circumvents transmission congestion"
+  },
+  {
+    "question": "True or False: According to the video, battery storage is considered the key unlock for the energy transition.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  }
+]

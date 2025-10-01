@@ -1,0 +1,232 @@
+[
+  {
+    "question": "According to the lecture, what was used in the ancient Chinese recipe for gunpowder before charcoal?",
+    "options": [
+      "Oil",
+      "Resin",
+      "Honey",
+      "Wax"
+    ],
+    "answer": "Honey"
+  },
+  {
+    "question": "What is the chemical name for saltpeter?",
+    "options": [
+      "Potassium nitrate",
+      "Sodium chloride",
+      "Sodium nitrate",
+      "Potassium chlorate"
+    ],
+    "answer": "Potassium nitrate"
+  },
+  {
+    "question": "What are the optimal proportions for gunpowder?",
+    "options": [
+      "75% potassium nitrate, 15% charcoal, 10% sulfur",
+      "80% potassium nitrate, 10% charcoal, 10% sulfur",
+      "50% potassium nitrate, 25% charcoal, 25% sulfur",
+      "60% potassium nitrate, 30% charcoal, 10% sulfur"
+    ],
+    "answer": "75% potassium nitrate, 15% charcoal, 10% sulfur"
+  },
+  {
+    "question": "What makes charcoal special compared to pure carbon (like graphite) for making gunpowder?",
+    "options": [
+      "It produces less smoke",
+      "It is more flammable",
+      "It burns at a higher temperature",
+      "It has a sponge-like structure that holds other ingredients"
+    ],
+    "answer": "It has a sponge-like structure that holds other ingredients"
+  },
+  {
+    "question": "In the hydrogen and oxygen balloon experiment, which mixture produced the loudest bang?",
+    "options": [
+      "Equal parts hydrogen and oxygen",
+      "Mostly hydrogen with a little oxygen",
+      "Mostly oxygen with a little hydrogen",
+      "Two parts hydrogen to one part oxygen"
+    ],
+    "answer": "Two parts hydrogen to one part oxygen"
+  },
+  {
+    "question": "What two factors increase the rate of chemical reactions in fireworks?",
+    "options": [
+      "Temperature and density",
+      "Humidity and pressure",
+      "Density and light",
+      "Pressure and light"
+    ],
+    "answer": "Temperature and density"
+  },
+  {
+    "question": "What is the term for the process where increasing temperature accelerates reaction rate in confined spaces?",
+    "options": [
+      "Thermal cascade",
+      "Thermal runaway",
+      "Thermal expansion",
+      "Thermal acceleration"
+    ],
+    "answer": "Thermal runaway"
+  },
+  {
+    "question": "What metal produces a red color in fireworks?",
+    "options": [
+      "Strontium",
+      "Barium",
+      "Sodium",
+      "Copper"
+    ],
+    "answer": "Strontium"
+  },
+  {
+    "question": "What metal produces a green color in fireworks?",
+    "options": [
+      "Copper",
+      "Sodium",
+      "Calcium",
+      "Barium"
+    ],
+    "answer": "Barium"
+  },
+  {
+    "question": "What metal produces a blue color in fireworks?",
+    "options": [
+      "Strontium",
+      "Sodium",
+      "Copper",
+      "Calcium"
+    ],
+    "answer": "Copper"
+  },
+  {
+    "question": "What is the name of the charge that propels a shell into the sky?",
+    "options": [
+      "Explosive charge",
+      "Propellant charge",
+      "Lifting charge",
+      "Bursting charge"
+    ],
+    "answer": "Lifting charge"
+  },
+  {
+    "question": "What is the name of the charge that breaks apart the shell at its highest point?",
+    "options": [
+      "Bursting charge",
+      "Breaking charge",
+      "Splitting charge",
+      "Explosive charge"
+    ],
+    "answer": "Bursting charge"
+  },
+  {
+    "question": "What are the compressed pyrotechnic mixtures inside shells called?",
+    "options": [
+      "Emitters",
+      "Sparks",
+      "Stars",
+      "Pellets"
+    ],
+    "answer": "Stars"
+  },
+  {
+    "question": "What is the most primitive type of fuse mentioned in the lecture?",
+    "options": [
+      "Quick match",
+      "Black match",
+      "Plastic igniter cord",
+      "Visco"
+    ],
+    "answer": "Black match"
+  },
+  {
+    "question": "What type of fuse continues to burn underwater?",
+    "options": [
+      "Quick match",
+      "Visco",
+      "Black match",
+      "Plastic igniter cord"
+    ],
+    "answer": "Plastic igniter cord"
+  },
+  {
+    "question": "How are modern professional firework displays typically ignited?",
+    "options": [
+      "With electric igniters",
+      "With black match fuses",
+      "With plastic igniter cord",
+      "With visco fuses"
+    ],
+    "answer": "With electric igniters"
+  },
+  {
+    "question": "What causes the whistling sound in some fireworks?",
+    "options": [
+      "Metal particles vibrating at high frequency",
+      "Burning composition in a tube of changing length",
+      "Rapid rotation of the firework",
+      "Air escaping through small holes"
+    ],
+    "answer": "Burning composition in a tube of changing length"
+  },
+  {
+    "question": "Who accidentally discovered nitrocellulose?",
+    "options": [
+      "Guy Fawkes",
+      "Antoine Lavoisier",
+      "Christian Friedrich Schönbein",
+      "Alfred Nobel"
+    ],
+    "answer": "Christian Friedrich Schönbein"
+  },
+  {
+    "question": "What acids were used to create nitrocellulose?",
+    "options": [
+      "Nitric and sulfuric acids",
+      "Sulfuric and phosphoric acids",
+      "Hydrochloric and sulfuric acids",
+      "Nitric and hydrochloric acids"
+    ],
+    "answer": "Nitric and sulfuric acids"
+  },
+  {
+    "question": "What advantage does nitrocellulose have over traditional gunpowder?",
+    "options": [
+      "It is more stable",
+      "It burns more slowly",
+      "It is less expensive",
+      "It produces no smoke"
+    ],
+    "answer": "It produces no smoke"
+  },
+  {
+    "question": "Which category of fireworks includes all shells of any size?",
+    "options": [
+      "Category 3",
+      "Category 1",
+      "Category 4",
+      "Category 2"
+    ],
+    "answer": "Category 4"
+  },
+  {
+    "question": "What is the approximate height reached by an 8-inch shell?",
+    "options": [
+      "1000 feet",
+      "500 feet",
+      "2000 feet",
+      "1500 feet"
+    ],
+    "answer": "1000 feet"
+  },
+  {
+    "question": "What is an oxidizer in pyrotechnics?",
+    "options": [
+      "A substance that reduces smoke",
+      "A substance that provides concentrated oxygen",
+      "A substance that slows down combustion",
+      "A substance that produces colored flames"
+    ],
+    "answer": "A substance that provides concentrated oxygen"
+  }
+]
