@@ -27,7 +27,9 @@ A static quiz application perfect for GitHub Pages hosting.
   },
   {
     "name": "Science Trivia", 
-    "file": "quiz2.json"
+    "file": "quiz2.json",
+    "url": "https://www.youtube.com/watch?v=example",
+    "sourceUrl": "https://github.com/username/repo/blob/main/path/to/source.md"
   },
   {
     "name": "Your New Quiz",
@@ -35,6 +37,8 @@ A static quiz application perfect for GitHub Pages hosting.
   }
 ]
 ```
+
+Note: `url` and `sourceUrl` fields are optional and can be used to link to source material.
 
 ## Quiz File Format
 
