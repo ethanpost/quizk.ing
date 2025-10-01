@@ -129,6 +129,25 @@
       margin: 0;
       color: #333;
       font-size: 1.1em;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .video-icon {
+      flex-shrink: 0;
+      width: 28px;
+      height: 28px;
+      cursor: pointer;
+      transition: transform 0.2s ease, opacity 0.2s ease;
+      opacity: 0.7;
+    }
+    .video-icon:hover {
+      transform: scale(1.1);
+      opacity: 1;
+    }
+    .quiz-item-name {
+      flex-grow: 1;
     }
     .option {
       padding: 10px;
@@ -391,8 +410,36 @@
       quizzes.forEach(quiz => {
         const quizItem = document.createElement("div");
         quizItem.className = "quiz-item";
-        quizItem.innerHTML = `<h3>${quiz.name}</h3>`;
-        quizItem.addEventListener("click", () => loadQuiz(quiz.file));
+        
+        // Build the HTML with optional video icon
+        let videoIconHtml = '';
+        if (quiz.url) {
+          videoIconHtml = `
+            <svg class="video-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#dc3545" stroke-width="2"/>
+              <path d="M10 8.5L16 12L10 15.5V8.5Z" fill="#dc3545" stroke="#dc3545" stroke-width="1.5" stroke-linejoin="round"/>
+            </svg>
+          `;
+        }
+        
+        quizItem.innerHTML = `
+          <h3>
+            <span class="quiz-item-name">${quiz.name}</span>
+            ${videoIconHtml}
+          </h3>
+        `;
+        
+        // Add click handler for the quiz item
+        quizItem.addEventListener("click", (e) => {
+          // Check if the click was on the video icon
+          if (e.target.closest('.video-icon')) {
+            e.stopPropagation();
+            window.open(quiz.url, '_blank');
+          } else {
+            loadQuiz(quiz.file);
+          }
+        });
+        
         quizGrid.appendChild(quizItem);
       });
     }

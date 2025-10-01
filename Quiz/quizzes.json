@@ -1,75 +1,93 @@
 [
   {
     "name": "The Secret Life of Components 01 - Chain",
-    "file": "The_Secret_Life_Of_Components-01-Chain.json"
+    "file": "The_Secret_Life_Of_Components-01-Chain.json",
+    "url": "https://www.youtube.com/watch?v=FZN0PBBzEHw"
   },
   {
     "name": "The Secret Life of Components 02 - LEDs",
-    "file": "The_Secret_Life_Of_Components-02-LEDs.json"
+    "file": "The_Secret_Life_Of_Components-02-LEDs.json",
+    "url": "https://www.youtube.com/watch?v=yvcITqw5iDY"
   },
   {
     "name": "The Secret Life of Components 03 - Hinges",
-    "file": "The_Secret_Life_Of_Components-03-Hinges.json"
+    "file": "The_Secret_Life_Of_Components-03-Hinges.json",
+    "url": "https://www.youtube.com/watch?v=xo1oKkvCQUg"
   },
   {
     "name": "The Secret Life of Components 04 - Switches",
-    "file": "The_Secret_Life_Of_Components-04-Switches.json"
+    "file": "The_Secret_Life_Of_Components-04-Switches.json",
+    "url": "https://www.youtube.com/watch?v=bno0HeQfxrU"
   },
   {
     "name": "The Secret Life of Components 05 - Springs",
-    "file": "The_Secret_Life_Of_Components-05-Springs.json"
+    "file": "The_Secret_Life_Of_Components-05-Springs.json",
+    "url": "https://www.youtube.com/watch?v=dethuGX2IGs"
   },
   {
     "name": "The Secret Life of Components 06 - Connectors",
-    "file": "The_Secret_Life_Of_Components-06-Connectors.json"
+    "file": "The_Secret_Life_Of_Components-06-Connectors.json",
+    "url": "https://www.youtube.com/watch?v=q43tZ6DjuIE"
   },
   {
     "name": "The Secret Life of Components 07 - Glue",
-    "file": "The_Secret_Life_Of_Components-07-Glue.json"
+    "file": "The_Secret_Life_Of_Components-07-Glue.json",
+    "url": "https://www.youtube.com/watch?v=qDwdFmU6A_w"
   },
   {
     "name": "The Secret Life of Components 08 - Bearings",
-    "file": "The_Secret_Life_Of_Components-08-Bearings.json"
+    "file": "The_Secret_Life_Of_Components-08-Bearings.json",
+    "url": "https://www.youtube.com/watch?v=LyRzGFHWnIU"
   },
   {
     "name": "The Secret Life of Components 09 - Sensors",
-    "file": "The_Secret_Life_Of_Components-09-Sensors.json"
+    "file": "The_Secret_Life_Of_Components-09-Sensors.json",
+    "url": "https://www.youtube.com/watch?v=FNnP84tTSFY"
   },
   {
     "name": "The Secret Life of Components 10 - Linkages and Mechanisms",
-    "file": "The_Secret_Life_Of_Components-10-Linkages_and_Mechanisms.json"
+    "file": "The_Secret_Life_Of_Components-10-Linkages_and_Mechanisms.json",
+    "url": "https://www.youtube.com/watch?v=MeJnwa-T-oQ"
   },
   {
     "name": "The Secret Life of Components 11 - Motors",
-    "file": "The_Secret_Life_Of_Components-11-Motors.json"
+    "file": "The_Secret_Life_Of_Components-11-Motors.json",
+    "url": "https://www.youtube.com/watch?v=XH2bykD70jI"
   },
   {
     "name": "The Secret Life of Components 12 - Screw Threads",
-    "file": "The_Secret_Life_Of_Components-12-Screw_Threads.json"
+    "file": "The_Secret_Life_Of_Components-12-Screw_Threads.json",
+    "url": "https://www.youtube.com/watch?v=yGdszxGiB1A"
   },
   {
     "name": "The Secret Life of Components 13 - Prototypes",
-    "file": "The_Secret_Life_Of_Components-13-Prototypes.json"
+    "file": "The_Secret_Life_Of_Components-13-Prototypes.json",
+    "url": "https://www.youtube.com/watch?v=uY1ZbLlQwqE"
   },
   {
     "name": "The Secret Life of Components 14 - Pneumatics",
-    "file": "The_Secret_Life_Of_Components-14-Pneumatics.json"
+    "file": "The_Secret_Life_Of_Components-14-Pneumatics.json",
+    "url": "https://www.youtube.com/watch?v=4N0OYChWUGg"
   },
   {
     "name": "The Secret Life of Components 15 - Solenoids and Relays",
-    "file": "The_Secret_Life_Of_Components-15-Solenoids_and_Relays.json"
+    "file": "The_Secret_Life_Of_Components-15-Solenoids_and_Relays.json",
+    "url": "https://www.youtube.com/watch?v=fdj_g_1tj4c"
   },
   {
     "name": "The Secret Life of Components 16 - Hole Cutting",
-    "file": "The_Secret_Life_Of_Components-16-Hole_Cutting.json"
+    "file": "The_Secret_Life_Of_Components-16-Hole_Cutting.json",
+    "url": "https://www.youtube.com/watch?v=HFq7DDNs3qc"
   },
   {
     "name": "The Secret Life of Components 17 - PLCs",
-    "file": "The_Secret_Life_Of_Components-17-PLCs.json"
+    "file": "The_Secret_Life_Of_Components-17-PLCs.json",
+    "url": "https://www.youtube.com/watch?v=heDQbZc8aX0"
   },
   {
     "name": "The Secret Life of Components 18 - Gears",
-    "file": "The_Secret_Life_Of_Components-18-Gears.json"
+    "file": "The_Secret_Life_Of_Components-18-Gears.json",
+    "url": "https://www.youtube.com/watch?v=raMCWfltyRs"
   },
   {
     "name": "Test Quiz",
