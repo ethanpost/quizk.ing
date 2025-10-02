@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What makes Titan unique among moons in the solar system?",
+    "options": [
+      "It has the strongest magnetic field",
+      "It has a thick atmosphere",
+      "It has the most craters",
+      "It has the largest size"
+    ],
+    "answer": "It has a thick atmosphere"
+  },
+  {
+    "question": "What is Titan's atmosphere primarily composed of?",
+    "options": [
+      "Water vapor and ammonia",
+      "Hydrogen and helium",
+      "Nitrogen and methane",
+      "Oxygen and carbon dioxide"
+    ],
+    "answer": "Nitrogen and methane"
+  },
+  {
+    "question": "How does Titan's atmosphere density compare to Earth's?",
+    "options": [
+      "Ten times as dense",
+      "Half as dense",
+      "Twice as dense",
+      "Four times as dense"
+    ],
+    "answer": "Four times as dense"
+  },
+  {
+    "question": "What creates the reverse greenhouse effect on Titan?",
+    "options": [
+      "The nitrogen creates a cooling layer",
+      "The methane absorbs all incoming radiation",
+      "The thick atmosphere blocks heat from the Sun",
+      "The ice surface reflects all light"
+    ],
+    "answer": "The thick atmosphere blocks heat from the Sun"
+  },
+  {
+    "question": "What type of liquid flows on Titan's surface?",
+    "options": [
+      "Ethane",
+      "Water",
+      "Ammonia",
+      "Methane"
+    ],
+    "answer": "Methane"
+  },
+  {
+    "question": "What makes Titan similar to Earth?",
+    "options": [
+      "It has the same surface temperature",
+      "It has an active hydrological cycle",
+      "It has the same gravity",
+      "It has the same atmospheric composition"
+    ],
+    "answer": "It has an active hydrological cycle"
+  },
+  {
+    "question": "What forms the dunes on Titan's equator?",
+    "options": [
+      "Ice crystals from the atmosphere",
+      "Volcanic ash from eruptions",
+      "Granular organic material from the sky",
+      "Silicate sand blown by wind"
+    ],
+    "answer": "Granular organic material from the sky"
+  },
+  {
+    "question": "Where is Titan's subsurface water ocean located?",
+    "options": [
+      "In the core",
+      "At the surface",
+      "Beneath the ice surface",
+      "In the atmosphere"
+    ],
+    "answer": "Beneath the ice surface"
+  },
+  {
+    "question": "What prevents Titan's subsurface water from freezing?",
+    "options": [
+      "Tidal forces",
+      "High pressure",
+      "Radioactive heating",
+      "Salt content"
+    ],
+    "answer": "Salt content"
+  },
+  {
+    "question": "What was the name of the lander that first reached Titan's surface?",
+    "options": [
+      "Perseverance",
+      "Dragonfly",
+      "Huygens",
+      "Cassini"
+    ],
+    "answer": "Huygens"
+  },
+  {
+    "question": "When was the Cassini mission launched?",
+    "options": [
+      "2017",
+      "2007",
+      "1997",
+      "1987"
+    ],
+    "answer": "1997"
+  },
+  {
+    "question": "How long did Huygens spend descending to Titan's surface?",
+    "options": [
+      "5 hours",
+      "1 hour",
+      "30 minutes",
+      "2.5 hours"
+    ],
+    "answer": "2.5 hours"
+  },
+  {
+    "question": "What did Huygens land in on Titan?",
+    "options": [
+      "An ice field",
+      "A dried riverbed",
+      "A methane lake",
+      "A rocky crater"
+    ],
+    "answer": "A dried riverbed"
+  },
+  {
+    "question": "What type of vehicle is Dragonfly?",
+    "options": [
+      "A balloon",
+      "A helicopter/octocopter",
+      "A traditional rover",
+      "A lander"
+    ],
+    "answer": "A helicopter/octocopter"
+  },
+  {
+    "question": "When is Dragonfly scheduled to launch?",
+    "options": [
+      "July 2032",
+      "July 2026",
+      "July 2028",
+      "July 2030"
+    ],
+    "answer": "July 2028"
+  },
+  {
+    "question": "What rocket will launch Dragonfly?",
+    "options": [
+      "Delta IV Heavy",
+      "Atlas V",
+      "SLS",
+      "SpaceX Falcon Heavy"
+    ],
+    "answer": "SpaceX Falcon Heavy"
+  },
+  {
+    "question": "How much does Dragonfly weigh on Earth?",
+    "options": [
+      "550 kg",
+      "250 kg",
+      "350 kg",
+      "450 kg"
+    ],
+    "answer": "450 kg"
+  },
+  {
+    "question": "What is Titan's gravity compared to Earth's?",
+    "options": [
+      "28%",
+      "21%",
+      "14%",
+      "7%"
+    ],
+    "answer": "14%"
+  },
+  {
+    "question": "How many propeller blades does Dragonfly have?",
+    "options": [
+      "Ten",
+      "Eight",
+      "Four",
+      "Six"
+    ],
+    "answer": "Eight"
+  },
+  {
+    "question": "What is Dragonfly's power source?",
+    "options": [
+      "Fuel cells",
+      "Nuclear reactor",
+      "Solar panels",
+      "Radioisotope thermoelectric generator"
+    ],
+    "answer": "Radioisotope thermoelectric generator"
+  },
+  {
+    "question": "What radioactive element does Dragonfly use for power?",
+    "options": [
+      "Thorium",
+      "Radium",
+      "Plutonium",
+      "Uranium"
+    ],
+    "answer": "Plutonium"
+  },
+  {
+    "question": "How long will Dragonfly's journey to Titan take?",
+    "options": [
+      "8 years",
+      "3 years",
+      "4 years",
+      "6 years"
+    ],
+    "answer": "6 years"
+  },
+  {
+    "question": "When will Dragonfly arrive at Saturn?",
+    "options": [
+      "2036",
+      "2034",
+      "2032",
+      "2030"
+    ],
+    "answer": "2034"
+  },
+  {
+    "question": "What type of entry will Dragonfly use to reach Titan?",
+    "options": [
+      "Powered landing",
+      "Aerobraking maneuver",
+      "Direct ballistic entry",
+      "Orbital insertion then gradual descent"
+    ],
+    "answer": "Direct ballistic entry"
+  },
+  {
+    "question": "How long will Dragonfly's heating phase last during entry?",
+    "options": [
+      "20 minutes",
+      "12 minutes",
+      "3 minutes",
+      "6 minutes"
+    ],
+    "answer": "6 minutes"
+  },
+  {
+    "question": "How long will Dragonfly spend on its first parachute?",
+    "options": [
+      "60 minutes",
+      "40 minutes",
+      "100 minutes",
+      "80 minutes"
+    ],
+    "answer": "80 minutes"
+  },
+  {
+    "question": "At what altitude will Dragonfly cut loose from its parachute?",
+    "options": [
+      "2.0 km",
+      "3.0 km",
+      "1.3 km",
+      "0.5 km"
+    ],
+    "answer": "1.3 km"
+  },
+  {
+    "question": "What is the name of Dragonfly's landing region?",
+    "options": [
+      "Utopia",
+      "Olympus",
+      "Arrakis",
+      "Shangri-La"
+    ],
+    "answer": "Shangri-La"
+  },
+  {
+    "question": "What novel inspired the name of Dragonfly's landing region?",
+    "options": [
+      "Foundation",
+      "Lost Horizon",
+      "The Martian",
+      "Dune"
+    ],
+    "answer": "Lost Horizon"
+  },
+  {
+    "question": "What are Titan's dunes made of?",
+    "options": [
+      "Ice crystals",
+      "Volcanic ash",
+      "Silicate sand",
+      "Solid hydrocarbons"
+    ],
+    "answer": "Solid hydrocarbons"
+  },
+  {
+    "question": "How wide are Titan's dunes on average?",
+    "options": [
+      "3-4 km",
+      "2-3 km",
+      "1-2 km",
+      "0.5-1 km"
+    ],
+    "answer": "1-2 km"
+  },
+  {
+    "question": "How tall are Titan's dunes?",
+    "options": [
+      "200 meters",
+      "150 meters",
+      "50 meters",
+      "100 meters"
+    ],
+    "answer": "100 meters"
+  },
+  {
+    "question": "What is Dragonfly's primary scientific instrument?",
+    "options": [
+      "Spectrometer",
+      "Magnetometer",
+      "Drill",
+      "Camera"
+    ],
+    "answer": "Drill"
+  },
+  {
+    "question": "How does Dragonfly analyze collected samples?",
+    "options": [
+      "Chemical titration",
+      "Microscopic examination",
+      "X-ray diffraction",
+      "Laser breakdown and oven vaporization"
+    ],
+    "answer": "Laser breakdown and oven vaporization"
+  },
+  {
+    "question": "What is Dragonfly searching for specifically?",
+    "options": [
+      "Mineral resources",
+      "Bio-signatures of primitive life",
+      "Water molecules",
+      "Methane deposits"
+    ],
+    "answer": "Bio-signatures of primitive life"
+  },
+  {
+    "question": "How long will Dragonfly's mission last?",
+    "options": [
+      "5 Earth years",
+      "2 Earth years",
+      "1 Earth year",
+      "3 Earth years"
+    ],
+    "answer": "3 Earth years"
+  },
+  {
+    "question": "How many Titan days equal Dragonfly's mission duration?",
+    "options": [
+      "900",
+      "500",
+      "764",
+      "600"
+    ],
+    "answer": "764"
+  },
+  {
+    "question": "How far will Dragonfly travel during its mission?",
+    "options": [
+      "250 km",
+      "100 km",
+      "150 km",
+      "180 km"
+    ],
+    "answer": "180 km"
+  },
+  {
+    "question": "How many unique sites will Dragonfly explore?",
+    "options": [
+      "30",
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "How often will Dragonfly lift off?",
+    "options": [
+      "Every month",
+      "Every Earth day",
+      "Every Titan day",
+      "Every week"
+    ],
+    "answer": "Every Titan day"
+  },
+  {
+    "question": "How long is one Titan day in Earth days?",
+    "options": [
+      "8 Earth days",
+      "20 Earth days",
+      "12 Earth days",
+      "16 Earth days"
+    ],
+    "answer": "16 Earth days"
+  },
+  {
+    "question": "What crater will Dragonfly investigate in its final days?",
+    "options": [
+      "Utopia",
+      "Selk",
+      "Arrakis",
+      "Shangri-La"
+    ],
+    "answer": "Selk"
+  },
+  {
+    "question": "Why won't Dragonfly visit Titan's methane seas?",
+    "options": [
+      "They're frozen solid",
+      "They don't exist",
+      "They're too dangerous",
+      "They've retreated to the North Pole"
+    ],
+    "answer": "They've retreated to the North Pole"
+  },
+  {
+    "question": "Why is landing at Titan's polar regions difficult?",
+    "options": [
+      "Too far from communication",
+      "Too cold",
+      "Too windy",
+      "Too risky and technically challenging"
+    ],
+    "answer": "Too risky and technically challenging"
+  },
+  {
+    "question": "What makes carbon-based grains on Titan organic compounds?",
+    "options": [
+      "They contain nitrogen",
+      "They contain carbon",
+      "They contain oxygen",
+      "They contain water"
+    ],
+    "answer": "They contain carbon"
+  },
+  {
+    "question": "What theory suggests Titan's conditions are similar to early Earth?",
+    "options": [
+      "The greenhouse effect theory",
+      "The primordial soup theory",
+      "The tidal heating theory",
+      "The impact theory"
+    ],
+    "answer": "The primordial soup theory"
+  },
+  {
+    "question": "True or False: Titan is the only moon in the solar system with a thick atmosphere.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Dragonfly will use solar panels for power.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Titan has flowing rivers and lakes of methane.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Dragonfly will land directly without using parachutes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Titan's surface is made of ice frozen as hard as granite rock.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  }
+]

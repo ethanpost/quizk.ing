@@ -456,3 +456,91 @@ D) The project was deemed too risky for spacecraft safety
 
 C) Due to technical issues with the piston, underestimated costs, and budget constraints
 
+///
+
+## Answer Key
+
+**Question 1:** What is the current annual production rate of plutonium-238 in the United States?
+- **Answer:** A) 550 grams
+- **Explanation:** The United States currently produces 550 grams of plutonium-238 per year, with a goal to increase production to 1.5 kilograms annually.
+
+**Question 2:** What characteristic makes plutonium-238 different from weapons-grade plutonium-239?
+- **Answer:** D) It has one fewer neutron
+- **Explanation:** Plutonium-238 has one fewer neutron than plutonium-239, which prevents it from sustaining chain reactions, making it safe for space missions while still providing reliable heat.
+
+**Question 3:** How long is the half-life of plutonium-238?
+- **Answer:** D) 88 years
+- **Explanation:** Plutonium-238 has a half-life of 88 years, meaning it takes 88 years for half of the material to decay, providing long-term power for deep space missions.
+
+**Question 4:** Which mission was forced to use solar panels instead of plutonium-238 due to the shortage?
+- **Answer:** A) Europa Clipper
+- **Explanation:** Due to the critical shortage of plutonium-238, the Europa Clipper mission had to be redesigned to use solar panels instead of the more reliable RTG power system.
+
+**Question 5:** What type of radiation does plutonium-238 primarily emit that makes it suitable for space missions?
+- **Answer:** C) Alpha particles
+- **Explanation:** Plutonium-238 emits alpha particles (helium nuclei), which are easily shielded and generate heat without the dangerous penetrating radiation of gamma rays or neutrons.
+
+**Question 6:** When did the United States stop producing weapons-grade plutonium, which affected plutonium-238 availability?
+- **Answer:** D) 1988
+- **Explanation:** The US halted weapons-grade plutonium production in 1988, which also ended the production of plutonium-238 as a byproduct, creating the current shortage.
+
+**Question 7:** What is the targeted annual production goal for plutonium-238 in the U.S.?
+- **Answer:** D) 1.5 kilograms
+- **Explanation:** The Department of Energy aims to increase production from the current 550 grams to 1.5 kilograms per year to meet future mission requirements.
+
+**Question 8:** How much plutonium-238 does the Dragonfly mission require?
+- **Answer:** A) 4.8 kilograms
+- **Explanation:** The Dragonfly mission to Saturn's moon Titan requires 4.8 kilograms of plutonium-238, representing a significant portion of the remaining US stockpile.
+
+**Question 9:** What element is used as the source material to produce plutonium-238?
+- **Answer:** D) Neptunium
+- **Explanation:** Neptunium-237 from Cold War stockpiles is irradiated in nuclear reactors to produce plutonium-238 through neutron bombardment and beta decay.
+
+**Question 10:** What is the efficiency of traditional radioisotope thermoelectric generators?
+- **Answer:** D) 6-7%
+- **Explanation:** Current RTGs convert only 6-7% of the heat from plutonium-238 into electricity, with most energy lost as waste heat.
+
+**Question 11:** What effect is used to convert heat from plutonium-238 into electricity in RTGs?
+- **Answer:** C) Seebeck effect
+- **Explanation:** The Seebeck effect occurs when temperature differences between two semiconductors create an electric current, which is how RTGs convert heat to electricity.
+
+**Question 12:** What was the proposed efficiency of the canceled Advanced Stirling Radioisotope Generator?
+- **Answer:** D) 30%
+- **Explanation:** The Advanced Stirling Radioisotope Generator project aimed for 30% efficiency (five times better than current RTGs) but was canceled due to technical and budget issues.
+
+**Question 13:** When did NASA and the Department of Energy restart plutonium-238 production?
+- **Answer:** A) 2015
+- **Explanation:** After recognizing the critical shortage, NASA and the DOE restarted plutonium-238 production in 2015 using neptunium-237 from Cold War stockpiles.
+
+**Question 14:** What is a key challenge in the production of plutonium-238 from neptunium?
+- **Answer:** A) 85% of neptunium-238 is destroyed during production
+- **Explanation:** The production process is inefficient because 85% of the neptunium-238 is destroyed by neutron-triggered fission during irradiation, making it a complex statistical process.
+
+**Question 15:** Which of the following missions did NOT use plutonium-238 as a power source?
+- **Answer:** B) Hubble Space Telescope
+- **Explanation:** The Hubble Space Telescope uses solar panels for power since it operates in Earth orbit where solar power is effective, unlike deep space missions that require RTGs.
+
+**Question 16:** What is the acceptable half-life range for a nuclear fuel to be considered suitable for space missions?
+- **Answer:** A) 15-100 years
+- **Explanation:** Space missions require nuclear fuels with half-lives between 15-100 years to provide reliable power throughout the mission duration without being too short or too long.
+
+**Question 17:** What is the form of plutonium-238 used in spacecraft?
+- **Answer:** C) Plutonium oxide ceramic pellets
+- **Explanation:** Plutonium-238 is processed into ceramic oxide pellets that are resistant to launch accidents and re-entry conditions, making them safer for space applications.
+
+**Question 18:** What material is used to encapsulate the plutonium oxide pellets in RTGs?
+- **Answer:** C) Iridium
+- **Explanation:** Iridium is used to encapsulate the plutonium oxide pellets because it provides excellent protection against corrosion and radiation while maintaining structural integrity.
+
+**Question 19:** What is the primary reason polonium-210 is not suitable for most space missions despite its high power output?
+- **Answer:** B) Its half-life is too short (138 days)
+- **Explanation:** While polonium-210 generates 140 watts per gram, its half-life of only 138 days makes it unsuitable for long-duration space missions that require years of reliable power.
+
+**Question 20:** How does the Stirling cycle operate to generate electricity from plutonium-238's heat?
+- **Answer:** B) By alternating compressing and expanding gas in a sealed system to drive a generator
+- **Explanation:** Stirling engines use a sealed gas that is alternately compressed and expanded by temperature differences, converting heat into mechanical work that drives a generator.
+
+**Question 21:** Why did NASA cancel the Advanced Stirling Radioisotope Generator project in 2013?
+- **Answer:** C) Due to technical issues with the piston, underestimated costs, and budget constraints
+- **Explanation:** The project was canceled due to technical problems with the piston mechanism, cost overruns, and budget constraints, despite its potential for much higher efficiency than traditional RTGs.
+
