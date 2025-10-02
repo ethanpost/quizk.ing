@@ -1,5 +1,7 @@
 # [How Nasa Will Land on Titan](https://www.youtube.com/watch?v=qqndbveA3Tw)
 
+Also consider reading the Wikipedia article found [here](https://en.wikipedia.org/wiki/Dragonfly_(Titan_space_probe)).
+
 ### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
 
 ### You can also import this file into [Mochi](https://mochi.cards/).
