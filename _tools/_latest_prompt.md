@@ -1,4 +1,4 @@
-Use the transcript in this file to complete this task to the best of your ability. Think carefully about the problem.
+Use the transcript to complete the task to the best of your ability. Think carefully about the problem.
 
 You will create a new Markdown file.
 
