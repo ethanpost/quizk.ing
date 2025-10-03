@@ -1,4 +1,12 @@
-# From Flat to 3D: Adding and Subtracting Features in CAD - Quiz
+# [From Flat to 3D: Adding and Subtracting Features in CAD - Quiz](https://www.youtube.com/watch?v=QE1BqjvIQY4)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Outline
 
@@ -66,17 +74,17 @@ What is the main purpose of adding dimension to CAD parts?
 
 ---
 
-A) To make them look more professional
+A) To improve rendering speed
 
-B) To create 3D features and complexity
+B) To reduce file size 
 
-C) To reduce file size
+C) To create 3D features and complexity
 
-D) To improve rendering speed
+D) To make them look more professional
 
 ---
 
-To create 3D features and complexity
+C) To create 3D features and complexity
 
 ///
 
@@ -84,17 +92,17 @@ What are the two key operations available in the extrude process?
 
 ---
 
-A) Add and remove
+A) Create and delete
 
 B) Join and cut
 
-C) Create and delete
+C) Build and destroy
 
-D) Build and destroy
+D) Add and remove
 
 ---
 
-Join and cut
+B) Join and cut
 
 ///
 
@@ -102,17 +110,17 @@ What does the join operation do in CAD?
 
 ---
 
-A) Connects two separate bodies
+A) Creates a new sketch
 
-B) Adds material to an existing body
+B) Removes material from a body
 
-C) Removes material from a body
+C) Connects two separate bodies
 
-D) Creates a new sketch
+D) Adds material to an existing body
 
 ---
 
-Adds material to an existing body
+D) Adds material to an existing body
 
 ///
 
@@ -120,17 +128,17 @@ What does the cut operation do in CAD?
 
 ---
 
-A) Divides a body into two parts
+A) Creates construction lines
 
-B) Adds material to an existing body
+B) Divides a body into two parts
 
-C) Subtracts material from an existing body
+C) Adds material to an existing body
 
-D) Creates construction lines
+D) Subtracts material from an existing body
 
 ---
 
-Subtracts material from an existing body
+D) Subtracts material from an existing body
 
 ///
 
@@ -138,17 +146,17 @@ Where should you create a sketch when adding 3D features to an existing part?
 
 ---
 
-A) On the origin planes
+A) In a separate file
 
-B) On the actual object surface
+B) On construction lines
 
-C) In a separate file
+C) On the actual object surface
 
-D) On construction lines
+D) On the origin planes
 
 ---
 
-On the actual object surface
+C) On the actual object surface
 
 ///
 
@@ -156,17 +164,17 @@ What indicates that a sketch is fully constrained and robust?
 
 ---
 
-A) All lines turn blue
+A) All lines turn red
 
-B) All lines turn black
+B) All lines turn green
 
-C) All lines turn green
+C) All lines turn black
 
-D) All lines turn red
+D) All lines turn blue
 
 ---
 
-All lines turn black
+C) All lines turn black
 
 ///
 
@@ -174,17 +182,17 @@ In the demonstration, what diameter was set for the holes?
 
 ---
 
-A) 10 mm
+A) 15 mm
 
-B) 12 mm
+B) 20 mm
 
-C) 15 mm
+C) 10 mm
 
-D) 20 mm
+D) 12 mm
 
 ---
 
-12 mm
+D) 12 mm
 
 ///
 
@@ -192,17 +200,17 @@ What happens to the sketch after a successful extrude operation?
 
 ---
 
-A) It remains visible
+A) It becomes editable
 
 B) It disappears
 
 C) It turns red
 
-D) It becomes editable
+D) It remains visible
 
 ---
 
-It disappears
+B) It disappears
 
 ///
 
@@ -210,17 +218,17 @@ When using the join operation, what happens to the number of bodies?
 
 ---
 
-A) A new body is created
+A) The body is deleted
 
-B) The number of bodies increases
+B) It remains one unified body
 
-C) It remains one unified body
+C) The number of bodies increases
 
-D) The body is deleted
+D) A new body is created
 
 ---
 
-It remains one unified body
+B) It remains one unified body
 
 ///
 
@@ -228,17 +236,17 @@ How do you re-show a sketch that has disappeared after an extrude operation?
 
 ---
 
-A) Press Ctrl+Z
+A) Right-click and select "show"
 
-B) Click the eyeball icon
+B) Double-click the body
 
-C) Double-click the body
+C) Click the eyeball icon
 
-D) Right-click and select "show"
+D) Press Ctrl+Z
 
 ---
 
-Click the eyeball icon
+C) Click the eyeball icon
 
 ///
 
@@ -246,17 +254,17 @@ What happens when you drag the extrude direction upward?
 
 ---
 
-A) It switches to cut operation
+A) The operation is cancelled
 
-B) It switches to join operation
+B) Nothing changes
 
-C) Nothing changes
+C) It switches to join operation
 
-D) The operation is cancelled
+D) It switches to cut operation
 
 ---
 
-It switches to join operation
+C) It switches to join operation
 
 ///
 
@@ -264,17 +272,17 @@ What color indicates a cut operation is being performed?
 
 ---
 
-A) Blue
+A) Yellow
 
-B) Green
+B) Red
 
-C) Red
+C) Blue
 
-D) Yellow
+D) Green
 
 ---
 
-Red
+B) Red
 
 ///
 
@@ -282,17 +290,17 @@ What angle was set between the construction lines in the demonstration?
 
 ---
 
-A) 30 degrees
+A) 90 degrees
 
-B) 45 degrees
+B) 30 degrees
 
 C) 60 degrees
 
-D) 90 degrees
+D) 45 degrees
 
 ---
 
-45 degrees
+D) 45 degrees
 
 ///
 
@@ -300,17 +308,17 @@ What is the purpose of construction lines in CAD sketching?
 
 ---
 
-A) To add visual appeal
+A) To separate features
 
-B) For dimensioning and constraints
+B) To create holes
 
-C) To create holes
+C) For dimensioning and constraints
 
-D) To separate features
+D) To add visual appeal
 
 ---
 
-For dimensioning and constraints
+C) For dimensioning and constraints
 
 ///
 
@@ -320,15 +328,15 @@ When multiple bodies exist, what can you select in the extrude operation?
 
 A) Only the first body
 
-B) Only the last body
+B) Which object to cut or not cut
 
-C) Which object to cut or not cut
+C) All bodies automatically
 
-D) All bodies automatically
+D) Only the last body
 
 ---
 
-Which object to cut or not cut
+B) Which object to cut or not cut
 
 ///
 
@@ -336,50 +344,50 @@ What does it mean when the instructor says "everything is now robust"?
 
 ---
 
-A) The design is strong
+A) The operation is complete
 
-B) The sketch is fully constrained
+B) The material is thick
 
-C) The material is thick
+C) The design is strong
 
-D) The operation is complete
+D) The sketch is fully constrained
 
 ---
 
-The sketch is fully constrained
+D) The sketch is fully constrained
 
 ///
 
 ## Master Answer Key
 
-1. B – Adding dimension to CAD parts creates 3D features and complexity, moving beyond flat designs to more sophisticated parts.
+1. C – Adding dimension to CAD parts creates 3D features and complexity, moving beyond flat designs to more sophisticated parts.
 
 2. B – Join and cut are the two main operations in the extrude process, allowing you to either add or subtract material.
 
-3. B – The join operation adds material to an existing body, creating features like pins or protrusions.
+3. D – The join operation adds material to an existing body, creating features like pins or protrusions.
 
-4. C – The cut operation subtracts material from an existing body, creating holes or removing sections.
+4. D – The cut operation subtracts material from an existing body, creating holes or removing sections.
 
-5. B – Sketches for 3D features should be created on the actual object surface, not on origin planes, to properly interface with the existing geometry.
+5. C – Sketches for 3D features should be created on the actual object surface, not on origin planes, to properly interface with the existing geometry.
 
-6. B – When all lines turn black, it indicates the sketch is fully constrained with proper dimensions and relationships.
+6. C – When all lines turn black, it indicates the sketch is fully constrained with proper dimensions and relationships.
 
-7. B – The holes in the demonstration were set to 12 mm diameter for the washer design.
+7. D – The holes in the demonstration were set to 12 mm diameter for the washer design.
 
 8. B – Sketches disappear after successful extrude operations, which is normal behavior in CAD software.
 
-9. C – The join operation keeps everything as one unified body rather than creating separate components.
+9. B – The join operation keeps everything as one unified body rather than creating separate components.
 
-10. B – The eyeball icon is used to toggle sketch visibility, allowing you to re-show sketches that have disappeared.
+10. C – The eyeball icon is used to toggle sketch visibility, allowing you to re-show sketches that have disappeared.
 
-11. B – Dragging the extrude direction upward switches the operation to join, while downward switches to cut.
+11. C – Dragging the extrude direction upward switches the operation to join, while downward switches to cut.
 
-12. C – Red color indicates a cut operation is being performed, providing visual feedback about the operation type.
+12. B – Red color indicates a cut operation is being performed, providing visual feedback about the operation type.
 
-13. B – The construction lines were set at 45 degrees to create the desired angular relationship in the design.
+13. D – The construction lines were set at 45 degrees to create the desired angular relationship in the design.
 
-14. B – Construction lines serve as reference geometry for dimensioning and applying constraints to create robust sketches.
+14. C – Construction lines serve as reference geometry for dimensioning and applying constraints to create robust sketches.
 
-15. C – When multiple bodies exist, you can select which specific object you want to cut or not cut during the operation.
+15. B – When multiple bodies exist, you can select which specific object you want to cut or not cut during the operation.
 
-16. B – "Robust" refers to a sketch being fully constrained with all necessary dimensions and relationships properly defined.
+16. D – "Robust" refers to a sketch being fully constrained with all necessary dimensions and relationships properly defined.

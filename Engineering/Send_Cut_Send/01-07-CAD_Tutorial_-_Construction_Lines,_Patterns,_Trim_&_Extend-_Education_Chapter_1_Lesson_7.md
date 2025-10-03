@@ -1,4 +1,12 @@
-# CAD Tutorial: Construction Lines, Patterns, Trim & Extend - Lesson 7
+# [CAD Tutorial: Construction Lines, Patterns, Trim & Extend - Lesson 7](https://www.youtube.com/watch?v=6J4zy_D-lWE)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Multiple Approaches to CAD Design
 
@@ -107,17 +115,17 @@
 
 ---
 
-A) Always use the simplest method available
+A) Follow exact procedures for consistency
 
 B) There's always more than one way to design a part
 
-C) Follow exact procedures for consistency
+C) Avoid using advanced tools when possible
 
-D) Avoid using advanced tools when possible
+D) Always use the simplest method available
 
 ---
 
-There's always more than one way to design a part
+B) There's always more than one way to design a part
 
 ///
 
@@ -125,17 +133,17 @@ There's always more than one way to design a part
 
 ---
 
-A) Drawing two separate circles with dimensions
+A) Using construction lines
 
-B) Using the offset tool
+B) Drawing two separate circles with dimensions
 
-C) Using construction lines
+C) Using the offset tool
 
 D) Using the trim tool
 
 ---
 
-Using the offset tool
+C) Using the offset tool
 
 ///
 
@@ -143,17 +151,17 @@ Using the offset tool
 
 ---
 
-A) They appear thicker than regular lines
+A) They appear with arrows at the ends
 
-B) They appear as dotted lines
+B) They appear in different colors
 
-C) They appear in different colors
+C) They appear thicker than regular lines
 
-D) They appear with arrows at the ends
+D) They appear as dotted lines
 
 ---
 
-They appear as dotted lines
+D) They appear as dotted lines
 
 ///
 
@@ -161,13 +169,13 @@ They appear as dotted lines
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-False
+A) False
 
 ///
 
@@ -175,17 +183,17 @@ False
 
 ---
 
-A) 2 features
+A) 6 features
 
-B) 3 features
+B) 4 features
 
-C) 4 features
+C) 3 features
 
-D) 6 features
+D) 2 features
 
 ---
 
-3 features
+C) 3 features
 
 ///
 
@@ -193,17 +201,17 @@ D) 6 features
 
 ---
 
-A) It creates more accurate dimensions
+A) It creates smoother curves
 
 B) It automatically maintains concentric relationship
 
 C) It uses less memory
 
-D) It creates smoother curves
+D) It creates more accurate dimensions
 
 ---
 
-It automatically maintains concentric relationship
+B) It automatically maintains concentric relationship
 
 ///
 
@@ -211,17 +219,17 @@ It automatically maintains concentric relationship
 
 ---
 
-A) Modify section
+A) Dimension toolbar
 
 B) Create section
 
-C) Sketch palette
+C) Modify section
 
-D) Dimension toolbar
+D) Sketch palette
 
 ---
 
-Create section
+B) Create section
 
 ///
 
@@ -229,17 +237,17 @@ Create section
 
 ---
 
-A) Nothing changes
+A) The dimensions are automatically updated
 
-B) The constraint relationship is lost
+B) Nothing changes
 
 C) Both circles disappear
 
-D) The dimensions are automatically updated
+D) The constraint relationship is lost
 
 ---
 
-The constraint relationship is lost
+D) The constraint relationship is lost
 
 ///
 
@@ -247,13 +255,13 @@ The constraint relationship is lost
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -261,17 +269,17 @@ True
 
 ---
 
-A) Circle pattern
+A) Linear pattern
 
 B) Mirror pattern
 
-C) Rectangular pattern
+C) Circle pattern
 
-D) Linear pattern
+D) Rectangular pattern
 
 ---
 
-Rectangular pattern
+D) Rectangular pattern
 
 ///
 
@@ -279,17 +287,17 @@ Rectangular pattern
 
 ---
 
-A) Extend
+A) Pattern
 
-B) Offset
+B) Mirror
 
-C) Mirror
+C) Extend
 
-D) Pattern
+D) Offset
 
 ---
 
-Extend
+C) Extend
 
 ///
 
@@ -297,17 +305,17 @@ Extend
 
 ---
 
-A) 90 degrees
+A) 360 degrees
 
-B) 120 degrees
+B) 90 degrees
 
 C) 180 degrees
 
-D) 360 degrees
+D) 120 degrees
 
 ---
 
-120 degrees
+D) 120 degrees
 
 ///
 
@@ -315,17 +323,17 @@ D) 360 degrees
 
 ---
 
-A) Vertical constraint
+A) Horizontal constraint
 
-B) Horizontal constraint
+B) Tangent constraint
 
 C) Concentric constraint
 
-D) Tangent constraint
+D) Vertical constraint
 
 ---
 
-Concentric constraint
+C) Concentric constraint
 
 ///
 
@@ -333,13 +341,13 @@ Concentric constraint
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -347,17 +355,17 @@ True
 
 ---
 
-A) To reduce file size
+A) To speed up processing
 
 B) To improve visibility and ease of modification
 
-C) To increase accuracy
+C) To reduce file size
 
-D) To speed up processing
+D) To increase accuracy
 
 ---
 
-To improve visibility and ease of modification
+B) To improve visibility and ease of modification
 
 ///
 
@@ -365,17 +373,17 @@ To improve visibility and ease of modification
 
 ---
 
-A) Using the offset tool
+A) Using construction lines
 
-B) Drawing two separate circles with dimensions
+B) Using the mirror tool
 
-C) Using construction lines
+C) Drawing two separate circles with dimensions
 
-D) Using the mirror tool
+D) Using the offset tool
 
 ---
 
-Drawing two separate circles with dimensions
+C) Drawing two separate circles with dimensions
 
 ///
 
@@ -383,17 +391,17 @@ Drawing two separate circles with dimensions
 
 ---
 
-A) It remains unchanged
+A) It becomes undefined
 
 B) It changes proportionally
 
-C) It maintains the offset relationship
+C) It remains unchanged
 
-D) It becomes undefined
+D) It maintains the offset relationship
 
 ---
 
-It maintains the offset relationship
+D) It maintains the offset relationship
 
 ///
 
@@ -401,13 +409,13 @@ It maintains the offset relationship
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -415,17 +423,17 @@ True
 
 ---
 
-A) Draw complete shapes and then trim
+A) Use only circle patterns
 
-B) Draw half and use mirror tool
+B) Draw complete shapes and then trim
 
-C) Use only circle patterns
+C) Draw each feature individually
 
-D) Draw each feature individually
+D) Draw half and use mirror tool
 
 ---
 
-Draw half and use mirror tool
+D) Draw half and use mirror tool
 
 ///
 
@@ -433,58 +441,39 @@ Draw half and use mirror tool
 
 ---
 
-A) Rectangular pattern
+A) Mirror pattern
 
 B) Circle pattern
 
-C) Mirror pattern
+C) Linear pattern
 
-D) Linear pattern
+D) Rectangular pattern
 
 ---
 
-Circle pattern
+B) Circle pattern
 
 ///
 
 ## Master Answer Key
 
-1. B – The lesson emphasizes that there are multiple valid approaches to achieve the same CAD design result, encouraging students to find what works best for them.
-
-2. B – The offset tool automatically creates a concentric constraint, maintaining the relationship between the outer and inner circles.
-
-3. B – Construction lines are visually distinguished by appearing as dotted lines, making them easy to identify as reference geometry.
-
-4. B – Construction lines are specifically designed not to affect final profiles during extrusion, which is their key advantage.
-
-5. B – A circle pattern with quantity 3 creates 3 total features: the original plus 2 additional copies.
-
-6. B – The offset tool's main advantage is automatically maintaining the concentric relationship between circles, unlike manual dimensioning.
-
-7. B – The circle pattern tool is located in the create section of the toolbar, along with other pattern tools.
-
-8. B – Trimming lines created with offset tool can break the constraint relationship, requiring re-establishment of dimensions.
-
-9. A – The trim tool is specifically mentioned as useful for cleaning up drawings to improve visibility and ease of modification.
-
-10. C – Rectangular patterns create grid-like arrangements in two axes, while circle patterns create radial arrangements.
-
-11. A – The extend tool is described as the exact opposite of trim, allowing lines to be lengthened rather than shortened.
-
-12. B – Three keys are spaced at 120-degree intervals (360° ÷ 3 = 120°), creating equal spacing around the circle.
-
-13. C – The offset tool automatically creates concentric constraints, ensuring circles share the same center point.
-
-14. A – Construction lines remain fully functional as reference points for constraints despite not affecting profiles.
-
-15. B – Cleaning up drawings improves visibility and makes future modifications easier, as explicitly stated in the lesson.
-
-16. B – Drawing two separate circles requires manual constraint management, unlike the automatic constraints of the offset tool.
-
-17. C – The offset method maintains the dimensional relationship, so changing the outer circle automatically adjusts the inner circle.
-
-18. A – The extend tool can connect separate profiles by extending lines to meet other geometry.
-
-19. B – Drawing half a feature and using the mirror tool is more efficient than drawing complete symmetrical shapes.
-
-20. B – Circle patterns allow specification of both quantity (number of copies) and distribution (angle range) around a center point.
+1. B – The lesson emphasizes that there are multiple valid approaches to achieve the same CAD design result
+2. C – The offset tool automatically creates a concentric constraint
+3. D – Construction lines appear as dotted lines
+4. A – Construction lines do not affect final profiles during extrusion
+5. C – A circle pattern with quantity 3 creates 3 total features
+6. B – The offset tool automatically maintains concentric relationship
+7. B – The circle pattern tool is located in the create section
+8. D – Trimming offset lines breaks the constraint relationship
+9. B – The trim tool can be used to clean up drawings
+10. D – Rectangular patterns create grid-like arrangements
+11. C – The extend tool is the opposite of trim
+12. D – Three keys are spaced at 120-degree intervals
+13. C – The offset tool creates concentric constraints
+14. B – Construction lines can be used as reference points
+15. B – Cleaning up improves visibility and ease of modification
+16. C – Drawing separate circles requires manual constraint management
+17. D – The offset method maintains dimensional relationships
+18. B – The extend tool can connect separate profiles
+19. D – Drawing half and using mirror is recommended for symmetry
+20. B – Circle patterns specify both quantity and distribution angle

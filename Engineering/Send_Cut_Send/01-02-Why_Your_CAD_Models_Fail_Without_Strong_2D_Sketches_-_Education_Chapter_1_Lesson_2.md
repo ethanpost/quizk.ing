@@ -1,4 +1,12 @@
-# Why Your CAD Models Fail Without Strong 2D Sketches - Education Chapter 1 Lesson 2
+# [Why Your CAD Models Fail Without Strong 2D Sketches - Education Chapter 1 Lesson 2](https://www.youtube.com/watch?v=2dpZifAUzAE)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Outline
 
@@ -51,17 +59,17 @@ What is the biggest mistake people make when starting CAD?
 
 ---
 
-A) Starting with 2D instead of 3D
+A) Not learning the basics
 
-B) Going straight into 3D
+B) Using the wrong software
 
-C) Not learning the basics
+C) Going straight into 3D
 
-D) Using the wrong software
+D) Starting with 2D instead of 3D
 
 ---
 
-B) Going straight into 3D
+C) Going straight into 3D
 
 ///
 
@@ -69,17 +77,17 @@ What does 2D stand for in CAD?
 
 ---
 
-A) Two directions
+A) Two drawings
 
-B) Two dimensions
+B) Two directions
 
 C) Two designs
 
-D) Two drawings
+D) Two dimensions
 
 ---
 
-B) Two dimensions
+D) Two dimensions
 
 ///
 
@@ -87,17 +95,17 @@ How is 2D CAD best conceptualized?
 
 ---
 
-A) Like building a house
+A) Like creating a sculpture
 
-B) Like drawing on a flat piece of paper
+B) Like writing code
 
-C) Like creating a sculpture
+C) Like drawing on a flat piece of paper
 
-D) Like writing code
+D) Like building a house
 
 ---
 
-B) Like drawing on a flat piece of paper
+C) Like drawing on a flat piece of paper
 
 ///
 
@@ -105,17 +113,17 @@ In the lesson's example, how many circles are needed to create a washer in 2D?
 
 ---
 
-A) One circle
+A) Four circles
 
-B) Two circles
+B) Three circles
 
-C) Three circles
+C) Two circles
 
-D) Four circles
+D) One circle
 
 ---
 
-B) Two circles
+C) Two circles
 
 ///
 
@@ -123,13 +131,13 @@ What happens when you add thickness to a 2D sketch?
 
 ---
 
-A) It becomes a 2D model
+A) It becomes a template
 
 B) It becomes a 3D model
 
 C) It becomes a blueprint
 
-D) It becomes a template
+D) It becomes a 2D model
 
 ---
 
@@ -141,17 +149,17 @@ According to the lesson, what is 3D CAD like?
 
 ---
 
-A) A digital calculator
+A) A digital library
 
-B) A digital workbench
+B) A digital camera
 
-C) A digital library
+C) A digital workbench
 
-D) A digital camera
+D) A digital calculator
 
 ---
 
-B) A digital workbench
+C) A digital workbench
 
 ///
 
@@ -159,17 +167,17 @@ In the foundation analogy, what does 2D represent?
 
 ---
 
-A) The house
+A) The walls
 
-B) The foundation
+B) The roof
 
-C) The roof
+C) The house
 
-D) The walls
+D) The foundation
 
 ---
 
-B) The foundation
+D) The foundation
 
 ///
 
@@ -177,13 +185,13 @@ In the foundation analogy, what does 3D represent?
 
 ---
 
-A) The foundation
+A) The driveway
 
 B) The house
 
-C) The basement
+C) The foundation
 
-D) The driveway
+D) The basement
 
 ---
 
@@ -195,17 +203,17 @@ What happens to a house built on a poor foundation?
 
 ---
 
-A) It stays strong forever
+A) It becomes more valuable
 
-B) It falls apart in 10 years
+B) It requires no maintenance
 
-C) It becomes more valuable
+C) It falls apart in 10 years
 
-D) It requires no maintenance
+D) It stays strong forever
 
 ---
 
-B) It falls apart in 10 years
+C) It falls apart in 10 years
 
 ///
 
@@ -213,17 +221,17 @@ What is the core principle emphasized throughout this lesson?
 
 ---
 
-A) 3D drives 2D
+A) Neither matters
 
-B) 2D drives 3D
+B) Both are equally important
 
-C) Both are equally important
+C) 3D drives 2D
 
-D) Neither matters
+D) 2D drives 3D
 
 ---
 
-B) 2D drives 3D
+D) 2D drives 3D
 
 ///
 
@@ -231,17 +239,17 @@ What will the next lesson focus on?
 
 ---
 
-A) Advanced 3D modeling
+A) Complex assemblies
 
-B) Origins and planes
+B) Rendering techniques
 
-C) Complex assemblies
+C) Origins and planes
 
-D) Rendering techniques
+D) Advanced 3D modeling
 
 ---
 
-B) Origins and planes
+C) Origins and planes
 
 ///
 
@@ -249,13 +257,13 @@ True or False: The lesson states that 3D modeling is like running before learnin
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-A) True
+B) True
 
 ///
 
@@ -263,13 +271,13 @@ True or False: A washer in 2D CAD requires only one circle.
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-B) False
+A) False
 
 ///
 
@@ -277,42 +285,42 @@ True or False: Poor 2D sketches will result in poor 3D models.
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-A) True
+B) True
 
 ///
 
 ## Master Answer Key
 
-1. B – Going straight into 3D is the biggest mistake because it skips the foundational 2D skills needed for quality models.
+1. C – Going straight into 3D is the biggest mistake because it skips the foundational 2D skills needed for quality models.
 
-2. B – 2D stands for "two dimensions," referring to the flat, two-dimensional nature of sketches.
+2. D – 2D stands for "two dimensions," referring to the flat, two-dimensional nature of sketches.
 
-3. B – 2D CAD is best thought of as drawing on a flat piece of paper, which helps visualize the sketching process.
+3. C – 2D CAD is best thought of as drawing on a flat piece of paper, which helps visualize the sketching process.
 
-4. B – A washer in 2D requires two circles (inner and outer) to represent the hole and outer edge.
+4. C – A washer in 2D requires two circles (inner and outer) to represent the hole and outer edge.
 
 5. B – Adding thickness to a 2D sketch transforms it into a 3D model by giving it depth.
 
-6. B – 3D CAD is described as a digital workbench where parts are created and modified.
+6. C – 3D CAD is described as a digital workbench where parts are created and modified.
 
-7. B – In the foundation analogy, 2D sketches represent the foundation that everything else is built upon.
+7. D – In the foundation analogy, 2D sketches represent the foundation that everything else is built upon.
 
 8. B – 3D models represent the house that is built on the 2D foundation.
 
-9. B – A house built on a poor foundation will fall apart in about 10 years, just like poor 2D sketches lead to failing 3D models.
+9. C – A house built on a poor foundation will fall apart in about 10 years, just like poor 2D sketches lead to failing 3D models.
 
-10. B – The core principle is "2D drives 3D," meaning the quality of 2D sketches determines the quality of 3D models.
+10. D – The core principle is "2D drives 3D," meaning the quality of 2D sketches determines the quality of 3D models.
 
-11. B – The next lesson will focus on origins and planes, which are fundamental building blocks of 2D CAD.
+11. C – The next lesson will focus on origins and planes, which are fundamental building blocks of 2D CAD.
 
-12. A – True, the lesson uses this analogy to emphasize that 3D modeling requires mastering 2D skills first.
+12. B – True, the lesson uses this analogy to emphasize that 3D modeling requires mastering 2D skills first.
 
-13. B – False, a washer requires two circles (inner and outer) to properly represent its geometry.
+13. A – False, a washer requires two circles (inner and outer) to properly represent its geometry.
 
-14. A – True, poor 2D sketches will inevitably lead to poor 3D models that break or fail.
+14. B – True, poor 2D sketches will inevitably lead to poor 3D models that break or fail.

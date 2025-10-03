@@ -1,4 +1,12 @@
-# The History of CAD - Education Chapter 1 Lesson 1
+# [The History of CAD - Education Chapter 1 Lesson 1](https://www.youtube.com/watch?v=WLV-v10Khic)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Course Introduction
 
@@ -92,17 +100,17 @@
 
 ---
 
-A) To learn advanced 3D modeling techniques
+A) To master parametric design principles
 
-B) To set the foundation for understanding CAD
+B) To create complex mechanical assemblies
 
-C) To create complex mechanical assemblies
+C) To set the foundation for understanding CAD
 
-D) To master parametric design principles
+D) To learn advanced 3D modeling techniques
 
 ---
 
-To set the foundation for understanding CAD
+C
 
 ///
 
@@ -110,17 +118,17 @@ To set the foundation for understanding CAD
 
 ---
 
-A) A simple bracket
+A) A motor housing
 
 B) A washer with keys
 
 C) A gear assembly
 
-D) A motor housing
+D) A simple bracket
 
 ---
 
-A washer with keys
+B
 
 ///
 
@@ -128,17 +136,17 @@ A washer with keys
 
 ---
 
-A) Computer screens
+A) Wood carving
 
-B) Pen and paper
+B) Clay modeling
 
-C) Clay modeling
+C) Computer screens
 
-D) Wood carving
+D) Pen and paper
 
 ---
 
-Pen and paper
+D
 
 ///
 
@@ -146,17 +154,17 @@ Pen and paper
 
 ---
 
-A) Tools were too expensive
+A) Colors were not available
 
-B) Revisions required starting completely over
+B) Tools were too expensive
 
 C) Drawings were too small
 
-D) Colors were not available
+D) Revisions required starting completely over
 
 ---
 
-Revisions required starting completely over
+D
 
 ///
 
@@ -164,17 +172,17 @@ Revisions required starting completely over
 
 ---
 
-A) Bill Gates
+A) John Walker
 
-B) Ivan Sutherland
+B) Steve Jobs
 
-C) Steve Jobs
+C) Ivan Sutherland
 
-D) John Walker
+D) Bill Gates
 
 ---
 
-Ivan Sutherland
+C
 
 ///
 
@@ -182,17 +190,17 @@ Ivan Sutherland
 
 ---
 
-A) Mouse
+A) Touch screen
 
-B) Keyboard
+B) Light pen
 
-C) Light pen
+C) Mouse
 
-D) Touch screen
+D) Keyboard
 
 ---
 
-Light pen
+B
 
 ///
 
@@ -200,17 +208,17 @@ Light pen
 
 ---
 
-A) 1975
+A) 1990
 
-B) 1982
+B) 1975
 
-C) 1990
+C) 1982
 
 D) 1995
 
 ---
 
-1982
+C
 
 ///
 
@@ -218,17 +226,17 @@ D) 1995
 
 ---
 
-A) It was the first CAD system ever created
+A) It was free to use
 
 B) It was the first CAD software available without government contracts
 
 C) It introduced 3D modeling
 
-D) It was free to use
+D) It was the first CAD system ever created
 
 ---
 
-It was the first CAD software available without government contracts
+B
 
 ///
 
@@ -236,17 +244,17 @@ It was the first CAD software available without government contracts
 
 ---
 
-A) 3 years
+A) 12 years
 
-B) 5 years
+B) 3 years
 
-C) 8 years
+C) 5 years
 
-D) 12 years
+D) 8 years
 
 ---
 
-8 years
+D
 
 ///
 
@@ -254,17 +262,17 @@ D) 12 years
 
 ---
 
-A) Microsoft, Apple, Google
+A) Adobe, Corel, Autodesk
 
-B) SolidWorks, ProE, KIA
+B) IBM, HP, Dell
 
-C) Adobe, Corel, Autodesk
+C) Microsoft, Apple, Google
 
-D) IBM, HP, Dell
+D) SolidWorks, ProE, KIA
 
 ---
 
-SolidWorks, ProE, KIA
+D
 
 ///
 
@@ -272,17 +280,17 @@ SolidWorks, ProE, KIA
 
 ---
 
-A) Design for Manufacturing
+A) Drafting for Mechanics
 
 B) Digital File Management
 
-C) Drafting for Mechanics
+C) Design for Manufacturing
 
 D) Design for Materials
 
 ---
 
-Design for Manufacturing
+C
 
 ///
 
@@ -290,17 +298,17 @@ Design for Manufacturing
 
 ---
 
-A) A method that uses only geometric shapes
+A) A technique for creating 2D drawings only
 
 B) A system where drawings automatically update when parameters change
 
-C) A technique for creating 2D drawings only
+C) A process that requires manual updates for every change
 
-D) A process that requires manual updates for every change
+D) A method that uses only geometric shapes
 
 ---
 
-A system where drawings automatically update when parameters change
+B
 
 ///
 
@@ -308,17 +316,17 @@ A system where drawings automatically update when parameters change
 
 ---
 
-A) Triangles and squares
+A) Points and vectors
 
-B) Lines and circles
+B) Curves and angles
 
-C) Curves and angles
+C) Lines and circles
 
-D) Points and vectors
+D) Triangles and squares
 
 ---
 
-Lines and circles
+C
 
 ///
 
@@ -326,17 +334,17 @@ Lines and circles
 
 ---
 
-A) Photocopiers
+A) Scanners
 
 B) Blueprint machines
 
-C) Printers
+C) Photocopiers
 
-D) Scanners
+D) Printers
 
 ---
 
-Blueprint machines
+B
 
 ///
 
@@ -344,13 +352,13 @@ Blueprint machines
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-False
+A
 
 ///
 
@@ -358,50 +366,50 @@ False
 
 ---
 
-A) Advanced parametric techniques
+A) Manufacturing processes
 
-B) 2D and 3D concepts, focusing on why 2D is most important
+B) Blueprint reading
 
-C) Manufacturing processes
+C) Advanced parametric techniques
 
-D) Blueprint reading
+D) 2D and 3D concepts, focusing on why 2D is most important
 
 ---
 
-2D and 3D concepts, focusing on why 2D is most important
+D
 
 ///
 
 ## Master Answer Key
 
-1. B – The chapter is designed to set the foundation for understanding CAD, establishing the basic building blocks before advancing to more complex topics.
+1. C – The chapter is designed to set the foundation for understanding CAD, establishing the basic building blocks before advancing to more complex topics.
 
 2. B – Students will build a washer with keys throughout the chapter, learning new tools and theories as they progress.
 
-3. B – Before CAD, all technical drawings were created using traditional pen and paper methods.
+3. D – Before CAD, all technical drawings were created using traditional pen and paper methods.
 
-4. B – Revisions were extremely difficult because any mistake required starting the entire drawing over from scratch.
+4. D – Revisions were extremely difficult because any mistake required starting the entire drawing over from scratch.
 
-5. B – Ivan Sutherland is credited as the main pioneer who developed the first CAD system in the 1960s.
+5. C – Ivan Sutherland is credited as the main pioneer who developed the first CAD system in the 1960s.
 
-6. C – Sutherland used a light pen as the input device, allowing users to draw directly on computer screens.
+6. B – Sutherland used a light pen as the input device, allowing users to draw directly on computer screens.
 
-7. B – AutoCAD was first released in 1982, marking a major milestone in CAD accessibility.
+7. C – AutoCAD was first released in 1982, marking a major milestone in CAD accessibility.
 
 8. B – AutoCAD was significant because it was the first CAD software available to people without government contracts.
 
-9. C – AutoCAD dominated the market for approximately 8 years before new competitors emerged.
+9. D – AutoCAD dominated the market for approximately 8 years before new competitors emerged.
 
-10. B – SolidWorks, ProE, and KIA were the major new players that entered the CAD market in the 1990s.
+10. D – SolidWorks, ProE, and KIA were the major new players that entered the CAD market in the 1990s.
 
-11. A – DFM stands for Design for Manufacturing, an approach that considers manufacturing processes during the design phase.
+11. C – DFM stands for Design for Manufacturing, an approach that considers manufacturing processes during the design phase.
 
 12. B – Parametric design allows drawings to automatically update and adjust when design parameters are changed.
 
-13. B – Lines and circles are identified as the basic building blocks that form the foundation of all CAD work.
+13. C – Lines and circles are identified as the basic building blocks that form the foundation of all CAD work.
 
 14. B – Blueprint machines were required to create multiple copies of technical drawings before digital methods.
 
-15. B – The instructor emphasizes that understanding CAD history is important for learning modern CAD principles.
+15. A – The instructor emphasizes that understanding CAD history is important for learning modern CAD principles.
 
-16. B – The next lesson will cover 2D and 3D concepts, with emphasis on why 2D is most important to learn first.
+16. D – The next lesson will cover 2D and 3D concepts, with emphasis on why 2D is most important to learn first.

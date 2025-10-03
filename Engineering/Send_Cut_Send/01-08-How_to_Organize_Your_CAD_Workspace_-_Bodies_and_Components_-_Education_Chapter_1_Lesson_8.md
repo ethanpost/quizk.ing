@@ -1,4 +1,12 @@
-# CAD Workspace Organization - Bodies and Components Quiz
+# [CAD Workspace Organization - Bodies and Components Quiz](https://www.youtube.com/watch?v=lTIhTdpVHYk)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Outline
 
@@ -67,17 +75,17 @@ What is a "body" in CAD terminology?
 
 ---
 
-A) A container that holds other objects
+A) A 2D sketch profile
 
-B) A three-dimensional shape created in CAD
+B) A measurement tool
 
-C) A 2D sketch profile
+C) A three-dimensional shape created in CAD
 
-D) A measurement tool
+D) A container that holds other objects
 
 ---
 
-B) A three-dimensional shape created in CAD
+C) A three-dimensional shape created in CAD
 
 ///
 
@@ -85,17 +93,17 @@ What does the instructor compare a CAD file to in the drawer analogy?
 
 ---
 
-A) A spoon
+A) A knife
 
-B) A fork
+B) A drawer
 
-C) A drawer
+C) A spoon
 
-D) A knife
+D) A fork
 
 ---
 
-C) A drawer
+B) A drawer
 
 ///
 
@@ -103,17 +111,17 @@ When creating an extrude operation, what are the two main operation options?
 
 ---
 
-A) Distance and profile
+A) Symmetric and asymmetric
 
-B) One side and two side
+B) Distance and profile
 
-C) Body and component
+C) One side and two side
 
-D) Symmetric and asymmetric
+D) Body and component
 
 ---
 
-C) Body and component
+D) Body and component
 
 ///
 
@@ -121,13 +129,13 @@ True or False: Bodies created with the "body" option are organized loosely withi
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-A) True
+B) True
 
 ///
 
@@ -135,17 +143,17 @@ What happens to the tree structure when you create a new component instead of a 
 
 ---
 
-A) Nothing changes
+A) The file name changes
 
-B) Bodies disappear from the main level
+B) New profiles are created
 
-C) The file name changes
+C) Nothing changes
 
-D) New profiles are created
+D) Bodies disappear from the main level
 
 ---
 
-B) Bodies disappear from the main level
+D) Bodies disappear from the main level
 
 ///
 
@@ -153,17 +161,17 @@ Why would you want to create separate components for different objects?
 
 ---
 
-A) To save file space
+A) To make the file load faster
 
-B) To apply different rules and properties to each
+B) To reduce complexity
 
-C) To make the file load faster
+C) To apply different rules and properties to each
 
-D) To reduce complexity
+D) To save file space
 
 ---
 
-B) To apply different rules and properties to each
+C) To apply different rules and properties to each
 
 ///
 
@@ -171,17 +179,17 @@ What distance setting does the instructor use for the washer extrusion example?
 
 ---
 
-A) 2 millimeters
+A) 8 millimeters
 
-B) 4 millimeters
+B) 2 millimeters
 
-C) 6 millimeters
+C) 4 millimeters
 
-D) 8 millimeters
+D) 6 millimeters
 
 ---
 
-B) 4 millimeters
+C) 4 millimeters
 
 ///
 
@@ -189,17 +197,17 @@ In the drawer analogy, what represents the master component?
 
 ---
 
-A) Individual utensils
+A) The drawer handle
 
-B) The drawer separators
+B) The entire drawer
 
-C) The entire drawer
+C) Individual utensils
 
-D) The drawer handle
+D) The drawer separators
 
 ---
 
-C) The entire drawer
+B) The entire drawer
 
 ///
 
@@ -207,17 +215,17 @@ What is the main advantage of using components over bodies for organization?
 
 ---
 
-A) Components are easier to create
+A) Components use less memory
 
-B) Components allow for better organization and separate rules
+B) Components are easier to create
 
-C) Components use less memory
+C) Components render faster
 
-D) Components render faster
+D) Components allow for better organization and separate rules
 
 ---
 
-B) Components allow for better organization and separate rules
+D) Components allow for better organization and separate rules
 
 ///
 
@@ -225,13 +233,13 @@ True or False: You can only have one component per CAD file.
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-B) False
+A) False
 
 ///
 
@@ -239,17 +247,17 @@ What does the instructor mention will be important for future sheet metal work?
 
 ---
 
-A) Color coding
+A) Sketch complexity
 
-B) Material-specific properties like K-factor and bend radius
+B) Color coding
 
 C) File naming conventions
 
-D) Sketch complexity
+D) Material-specific properties like K-factor and bend radius
 
 ---
 
-B) Material-specific properties like K-factor and bend radius
+D) Material-specific properties like K-factor and bend radius
 
 ///
 
@@ -257,13 +265,13 @@ Where is the extrude tool located in the CAD interface?
 
 ---
 
-A) Modify section
+A) Assembly section
 
 B) Create section
 
-C) Sketch section
+C) Modify section
 
-D) Assembly section
+D) Sketch section
 
 ---
 
@@ -275,11 +283,11 @@ What happens when you select "new component" during extrusion?
 
 ---
 
-A) A new file is created
+A) The profile is deleted
 
 B) The object is placed in a separate organized section
 
-C) The profile is deleted
+C) A new file is created
 
 D) The distance is reset
 
@@ -293,17 +301,17 @@ In the tree structure, where do you find bodies when using components?
 
 ---
 
-A) At the main file level
+A) They don't appear in the tree
 
-B) Inside the component dropdown
+B) In a separate window
 
-C) In a separate window
+C) Inside the component dropdown
 
-D) They don't appear in the tree
+D) At the main file level
 
 ---
 
-B) Inside the component dropdown
+C) Inside the component dropdown
 
 ///
 
@@ -311,48 +319,48 @@ What does the instructor say about different material thicknesses?
 
 ---
 
-A) They should all be in the same component
+A) They should be avoided
 
-B) They require separate components
+B) They don't matter for organization
 
-C) They don't matter for organization
+C) They require separate components
 
-D) They should be avoided
+D) They should all be in the same component
 
 ---
 
-B) They require separate components
+C) They require separate components
 
 ///
 
 ## Master Answer Key
 
-1. B – A body is a three-dimensional shape created in CAD, as explained in the lesson introduction.
+1. C – A body is a three-dimensional shape created in CAD, as explained in the lesson introduction.
 
-2. C – The instructor uses a drawer as the analogy for a CAD file, which serves as the main container.
+2. B – The instructor uses a drawer as the analogy for a CAD file, which serves as the main container.
 
-3. C – The two main operation options when extruding are "body" and "component" as shown in the dropdown menu.
+3. D – The two main operation options when extruding are "body" and "component" as shown in the dropdown menu.
 
-4. A – True, bodies created with the "body" option are placed loosely within the master file without organization.
+4. B – True, bodies created with the "body" option are placed loosely within the master file without organization.
 
-5. B – When creating components, bodies move from the main level into the component's dropdown structure.
+5. D – When creating components, bodies move from the main level into the component's dropdown structure.
 
-6. B – Separate components allow you to apply different rules and properties to different objects within the same file.
+6. C – Separate components allow you to apply different rules and properties to different objects within the same file.
 
-7. B – The instructor specifically uses 4 millimeters as the distance setting for the washer extrusion example.
+7. C – The instructor specifically uses 4 millimeters as the distance setting for the washer extrusion example.
 
-8. C – The entire drawer represents the master component, which is the main file container.
+8. B – The entire drawer represents the master component, which is the main file container.
 
-9. B – Components provide better organization and allow for separate rules compared to loose bodies.
+9. D – Components provide better organization and allow for separate rules compared to loose bodies.
 
-10. B – False, you can have multiple components within a single CAD file, as demonstrated in the lesson.
+10. A – False, you can have multiple components within a single CAD file, as demonstrated in the lesson.
 
-11. B – Material-specific properties like K-factor and bend radius will be important for future sheet metal work.
+11. D – Material-specific properties like K-factor and bend radius will be important for future sheet metal work.
 
 12. B – The extrude tool is located in the create section of the CAD interface.
 
 13. B – Selecting "new component" places the object in a separate organized section within the file.
 
-14. B – When using components, bodies are found inside the component's dropdown menu in the tree structure.
+14. C – When using components, bodies are found inside the component's dropdown menu in the tree structure.
 
-15. B – Different material thicknesses require separate components to maintain proper organization and rules.
+15. C – Different material thicknesses require separate components to maintain proper organization and rules.

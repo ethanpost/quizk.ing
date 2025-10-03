@@ -1,4 +1,12 @@
-# CAD Basics - Fully Defining Sketches with Dimensions
+# [CAD Basics - Fully Defining Sketches with Dimensions](https://www.youtube.com/watch?v=Dad8iaUkwyY)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Outline
 
@@ -86,17 +94,17 @@ What is the primary goal when creating sketches in CAD software?
 
 ---
 
-A) To make sketches as colorful as possible
+A) To make sketches that are easy to move around
 
 B) To create a fully defined black sketch with no blue objects
 
-C) To use as many constraints as possible
+C) To make sketches as colorful as possible
 
-D) To make sketches that are easy to move around
+D) To use as many constraints as possible
 
 ---
 
-To create a fully defined black sketch with no blue objects
+B) To create a fully defined black sketch with no blue objects
 
 ///
 
@@ -104,17 +112,17 @@ What keyboard shortcut is typically used for the Sketch Dimension tool?
 
 ---
 
-A) S
+A) C
 
-B) D
+B) S
 
-C) C
+C) D
 
 D) M
 
 ---
 
-D
+C) D
 
 ///
 
@@ -122,17 +130,17 @@ When you click on a circle with the Sketch Dimension tool, what type of dimensio
 
 ---
 
-A) Linear distance
+A) Area calculation
 
-B) Diameter or radius
+B) Angle measurement
 
-C) Angle measurement
+C) Linear distance
 
-D) Area calculation
+D) Diameter or radius
 
 ---
 
-Diameter or radius
+D) Diameter or radius
 
 ///
 
@@ -140,17 +148,17 @@ How do you edit an existing dimension in Fusion 360?
 
 ---
 
-A) Right-click and select "Edit"
+A) Use the keyboard shortcut Ctrl+E
 
-B) Press the Delete key
+B) Double-click with the left mouse button
 
-C) Double-click with the left mouse button
+C) Press the Delete key
 
-D) Use the keyboard shortcut Ctrl+E
+D) Right-click and select "Edit"
 
 ---
 
-Double-click with the left mouse button
+B) Double-click with the left mouse button
 
 ///
 
@@ -158,17 +166,17 @@ What happens to your dimensions when you change the unit system in Document Sett
 
 ---
 
-A) They disappear completely
+A) Nothing changes
 
-B) They automatically convert to the new units
+B) They become invalid and must be recreated
 
-C) They become invalid and must be recreated
+C) They automatically convert to the new units
 
-D) Nothing changes
+D) They disappear completely
 
 ---
 
-They automatically convert to the new units
+C) They automatically convert to the new units
 
 ///
 
@@ -176,13 +184,13 @@ True or False: You can perform mathematical calculations directly within dimensi
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B) True
 
 ///
 
@@ -190,17 +198,17 @@ What does a blue line in a sketch indicate?
 
 ---
 
-A) The line is fully defined and cannot be moved
+A) The line is selected for editing
 
 B) The line is undefined and can still be moved
 
-C) The line is selected for editing
+C) The line is locked in position
 
-D) The line is locked in position
+D) The line is fully defined and cannot be moved
 
 ---
 
-The line is undefined and can still be moved
+B) The line is undefined and can still be moved
 
 ///
 
@@ -208,17 +216,17 @@ What is a "profile" in CAD sketching?
 
 ---
 
-A) A user's personal settings
+A) A measurement tool
 
-B) A completely enclosed area that can be selected for 3D object creation
+B) A type of constraint
 
-C) A type of constraint
+C) A completely enclosed area that can be selected for 3D object creation
 
-D) A measurement tool
+D) A user's personal settings
 
 ---
 
-A completely enclosed area that can be selected for 3D object creation
+C) A completely enclosed area that can be selected for 3D object creation
 
 ///
 
@@ -226,17 +234,17 @@ What does the tangent constraint do?
 
 ---
 
-A) Makes two lines parallel to each other
+A) Makes lines perpendicular to each other
 
-B) Creates a single point of contact between a line and circle
+B) Makes two lines parallel to each other
 
 C) Forces two points to occupy the same location
 
-D) Makes lines perpendicular to each other
+D) Creates a single point of contact between a line and circle
 
 ---
 
-Creates a single point of contact between a line and circle
+D) Creates a single point of contact between a line and circle
 
 ///
 
@@ -244,17 +252,17 @@ How many tangent lines can touch a single circle?
 
 ---
 
-A) Only one
+A) None
 
-B) Exactly two
+B) Only one
 
 C) Multiple lines from different directions
 
-D) None
+D) Exactly two
 
 ---
 
-Multiple lines from different directions
+C) Multiple lines from different directions
 
 ///
 
@@ -262,17 +270,17 @@ What happens when you change a dimension in a well-designed parametric sketch?
 
 ---
 
-A) Only that specific element changes
+A) Nothing happens
 
-B) All related geometry updates automatically
+B) The sketch becomes invalid
 
-C) The sketch becomes invalid
+C) Only that specific element changes
 
-D) Nothing happens
+D) All related geometry updates automatically
 
 ---
 
-All related geometry updates automatically
+D) All related geometry updates automatically
 
 ///
 
@@ -280,17 +288,17 @@ Where is the Mirror tool located in Fusion 360?
 
 ---
 
-A) In the Constraints menu
+A) In the Modify menu
 
 B) In the Create menu
 
-C) In the Modify menu
+C) In the Sketch menu
 
-D) In the Sketch menu
+D) In the Constraints menu
 
 ---
 
-In the Create menu
+B) In the Create menu
 
 ///
 
@@ -298,17 +306,17 @@ What does the coincident constraint do?
 
 ---
 
-A) Makes two lines parallel
+A) Creates a tangent relationship
 
-B) Forces two points to occupy the same location in space
+B) Makes two lines parallel
 
-C) Creates a tangent relationship
+C) Forces two points to occupy the same location in space
 
 D) Measures the distance between two points
 
 ---
 
-Forces two points to occupy the same location in space
+C) Forces two points to occupy the same location in space
 
 ///
 
@@ -316,13 +324,13 @@ True or False: The Mirror tool is only available in Sketch mode.
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-False
+A) False
 
 ///
 
@@ -330,17 +338,17 @@ What is the best way to test if a sketch is fully defined?
 
 ---
 
-A) Look at the color of the lines
+A) Check the dimension values
 
-B) Try to drag the blue objects around
+B) Count the number of constraints
 
-C) Count the number of constraints
+C) Try to drag the blue objects around
 
-D) Check the dimension values
+D) Look at the color of the lines
 
 ---
 
-Try to drag the blue objects around
+C) Try to drag the blue objects around
 
 ///
 
@@ -348,17 +356,17 @@ When using the Mirror tool, what do you need to select?
 
 ---
 
-A) Only the object to mirror
+A) The entire sketch
 
 B) Only the mirror line
 
-C) Both the object to mirror and the mirror line
+C) Only the object to mirror
 
-D) The entire sketch
+D) Both the object to mirror and the mirror line
 
 ---
 
-Both the object to mirror and the mirror line
+D) Both the object to mirror and the mirror line
 
 ///
 
@@ -366,17 +374,17 @@ What unit conversion feature is available when typing dimension values?
 
 ---
 
-A) You must manually calculate conversions
+A) Only metric to imperial conversion is supported
 
-B) You can type units directly (e.g., "150mm" when in inches)
+B) You must manually calculate conversions
 
-C) Only metric to imperial conversion is supported
+C) You can type units directly (e.g., "150mm" when in inches)
 
 D) No unit conversion is available
 
 ---
 
-You can type units directly (e.g., "150mm" when in inches)
+C) You can type units directly (e.g., "150mm" when in inches)
 
 ///
 
@@ -384,34 +392,34 @@ You can type units directly (e.g., "150mm" when in inches)
 
 1. B – The primary goal is to create a fully defined black sketch with no blue objects, meaning all geometry is constrained and cannot be moved.
 
-2. B – The default keyboard shortcut for the Sketch Dimension tool is D, though users can customize this to any key they prefer.
+2. C – The default keyboard shortcut for the Sketch Dimension tool is D, though users can customize this to any key they prefer.
 
-3. B – When clicking on a circle, the Sketch Dimension tool automatically creates either a diameter or radius dimension, depending on the circle's position.
+3. D – When clicking on a circle, the Sketch Dimension tool automatically creates either a diameter or radius dimension, depending on the circle's position.
 
-4. C – Double-clicking with the left mouse button opens the dimension for editing, allowing you to change the value directly.
+4. B – Double-clicking with the left mouse button opens the dimension for editing, allowing you to change the value directly.
 
-5. B – Dimensions automatically convert to the new unit system when you change units in Document Settings, maintaining the same physical size.
+5. C – Dimensions automatically convert to the new unit system when you change units in Document Settings, maintaining the same physical size.
 
-6. A – True. Fusion 360 has a built-in calculator that allows mathematical operations directly within dimension values, such as "2 + 2" = "4 in".
+6. B – True. Fusion 360 has a built-in calculator that allows mathematical operations directly within dimension values, such as "2 + 2" = "4 in".
 
 7. B – Blue lines indicate undefined geometry that can still be moved and modified, while black lines are fully defined.
 
-8. B – A profile is a completely enclosed area in a sketch that can be selected to create three-dimensional objects through extrusion.
+8. C – A profile is a completely enclosed area in a sketch that can be selected to create three-dimensional objects through extrusion.
 
-9. B – The tangent constraint creates a single point of contact where a line "barely kisses" the surface of a circle.
+9. D – The tangent constraint creates a single point of contact where a line "barely kisses" the surface of a circle.
 
 10. C – Multiple tangent lines can touch a single circle from different directions, each creating a single point of contact.
 
-11. B – In parametric design, changing one dimension automatically updates all related geometry, maintaining relationships and proportions.
+11. D – In parametric design, changing one dimension automatically updates all related geometry, maintaining relationships and proportions.
 
 12. B – The Mirror tool is located in the Create menu and allows you to create perfect duplications across a specified line.
 
-13. B – The coincident constraint forces two points to occupy the exact same location in space, effectively making them one point.
+13. C – The coincident constraint forces two points to occupy the exact same location in space, effectively making them one point.
 
-14. B – False. The Mirror tool is available in both Sketch mode and Extrude mode, making it versatile for different modeling operations.
+14. A – False. The Mirror tool is available in both Sketch mode and Extrude mode, making it versatile for different modeling operations.
 
-15. B – The best way to test if a sketch is fully defined is to try dragging the blue objects around to see if they can still be moved.
+15. C – The best way to test if a sketch is fully defined is to try dragging the blue objects around to see if they can still be moved.
 
-16. C – When using the Mirror tool, you must select both the object you want to mirror and the line across which to mirror it.
+16. D – When using the Mirror tool, you must select both the object you want to mirror and the line across which to mirror it.
 
-17. B – You can type units directly in dimension values (like "150mm" when working in inches), and Fusion 360 will automatically convert them.
+17. C – You can type units directly in dimension values (like "150mm" when working in inches), and Fusion 360 will automatically convert them.

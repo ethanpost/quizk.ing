@@ -1,4 +1,12 @@
-# Editing 3D Parts in CAD Made Easy - Education Chapter 1 Lesson 9
+# [Editing 3D Parts in CAD Made Easy - Education Chapter 1 Lesson 9](https://www.youtube.com/watch?v=tRIsa-L1UHg)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Overview
 
@@ -81,9 +89,9 @@ This lesson covers how to modify and edit 3D CAD drawings without starting over,
 
 ---
 
-A) To show the file size of the CAD project
+A) To display a step-by-step process of how the design was created
 
-B) To display a step-by-step process of how the design was created
+B) To show the file size of the CAD project
 
 C) To indicate the number of features in the design
 
@@ -91,7 +99,7 @@ D) To show the rendering quality settings
 
 ---
 
-B) To display a step-by-step process of how the design was created
+A) To display a step-by-step process of how the design was created
 
 ///
 
@@ -99,17 +107,17 @@ B) To display a step-by-step process of how the design was created
 
 ---
 
-A) Only through the File menu
+A) Only through the timeline
 
-B) By right-clicking in the tree structure and selecting "Edit Sketch"
+B) Only through the File menu
 
 C) By pressing Ctrl+E
 
-D) Only through the timeline
+D) By right-clicking in the tree structure and selecting "Edit Sketch"
 
 ---
 
-B) By right-clicking in the tree structure and selecting "Edit Sketch"
+D) By right-clicking in the tree structure and selecting "Edit Sketch"
 
 ///
 
@@ -117,17 +125,17 @@ B) By right-clicking in the tree structure and selecting "Edit Sketch"
 
 ---
 
-A) They become highlighted
+A) They move to a different layer
 
-B) They become grayed out
+B) They become highlighted
 
-C) They disappear completely
+C) They become grayed out
 
-D) They move to a different layer
+D) They disappear completely
 
 ---
 
-B) They become grayed out
+C) They become grayed out
 
 ///
 
@@ -135,17 +143,17 @@ B) They become grayed out
 
 ---
 
-A) The ability to create 3D models from 2D sketches
+A) The process of adding dimensions to sketches
 
-B) The ability to make modifications that automatically carry through to the 3D object
+B) The method of organizing CAD files
 
-C) The process of adding dimensions to sketches
+C) The ability to create 3D models from 2D sketches
 
-D) The method of organizing CAD files
+D) The ability to make modifications that automatically carry through to the 3D object
 
 ---
 
-B) The ability to make modifications that automatically carry through to the 3D object
+D) The ability to make modifications that automatically carry through to the 3D object
 
 ///
 
@@ -153,17 +161,17 @@ B) The ability to make modifications that automatically carry through to the 3D 
 
 ---
 
-A) Chamfer
+A) Shell
 
-B) Shell
+B) Fillet
 
-C) Fillet
+C) Extrude
 
-D) Extrude
+D) Chamfer
 
 ---
 
-C) Fillet
+B) Fillet
 
 ///
 
@@ -171,17 +179,17 @@ C) Fillet
 
 ---
 
-A) Fillet creates straight edges, chamfer creates rounded edges
+A) There is no difference between them
 
-B) Fillet creates rounded edges, chamfer creates straight edges
+B) Fillet only works on 2D sketches, chamfer works on 3D objects
 
-C) Fillet only works on 2D sketches, chamfer works on 3D objects
+C) Fillet creates rounded edges, chamfer creates straight edges
 
-D) There is no difference between them
+D) Fillet creates straight edges, chamfer creates rounded edges
 
 ---
 
-B) Fillet creates rounded edges, chamfer creates straight edges
+C) Fillet creates rounded edges, chamfer creates straight edges
 
 ///
 
@@ -189,17 +197,17 @@ B) Fillet creates rounded edges, chamfer creates straight edges
 
 ---
 
-A) Creating 2D sketches
+A) Adding dimensions
 
-B) CNC machining
+B) Creating 2D sketches
 
-C) Adding dimensions
+C) Organizing files
 
-D) Organizing files
+D) CNC machining
 
 ---
 
-B) CNC machining
+D) CNC machining
 
 ///
 
@@ -207,17 +215,17 @@ B) CNC machining
 
 ---
 
-A) A solid block
+A) A straight edge
 
-B) A pocket by offsetting walls
+B) A solid block
 
 C) A rounded corner
 
-D) A straight edge
+D) A pocket by offsetting walls
 
 ---
 
-B) A pocket by offsetting walls
+D) A pocket by offsetting walls
 
 ///
 
@@ -225,17 +233,17 @@ B) A pocket by offsetting walls
 
 ---
 
-A) You cannot modify it after creation
+A) By using the undo command
 
-B) By deleting and recreating it
+B) You cannot modify it after creation
 
-C) By right-clicking on it in the timeline and selecting "Edit Feature"
+C) By deleting and recreating it
 
-D) By using the undo command
+D) By right-clicking on it in the timeline and selecting "Edit Feature"
 
 ---
 
-C) By right-clicking on it in the timeline and selecting "Edit Feature"
+D) By right-clicking on it in the timeline and selecting "Edit Feature"
 
 ///
 
@@ -243,17 +251,17 @@ C) By right-clicking on it in the timeline and selecting "Edit Feature"
 
 ---
 
-A) Shell creates better quality results
+A) Shell requires less computer memory
 
-B) Shell is faster
+B) Shell works on more complex shapes
 
-C) Shell works on more complex shapes
+C) Shell is faster
 
-D) Shell requires less computer memory
+D) Shell creates better quality results
 
 ---
 
-B) Shell is faster
+C) Shell is faster
 
 ///
 
@@ -261,13 +269,13 @@ B) Shell is faster
 
 ---
 
-A) They become highlighted
+A) They move to a different file
 
 B) They become grayed out
 
-C) They are deleted permanently
+C) They become highlighted
 
-D) They move to a different file
+D) They are deleted permanently
 
 ---
 
@@ -281,15 +289,15 @@ B) They become grayed out
 
 A) To show keyboard shortcuts
 
-B) To provide descriptions of each tool's function
+B) To show rendering options
 
-C) To display file information
+C) To provide descriptions of each tool's function
 
-D) To show rendering options
+D) To display file information
 
 ---
 
-B) To provide descriptions of each tool's function
+C) To provide descriptions of each tool's function
 
 ///
 
@@ -297,13 +305,13 @@ B) To provide descriptions of each tool's function
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-B) False
+A) False
 
 ///
 
@@ -311,13 +319,13 @@ B) False
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-A) True
+B) True
 
 ///
 
@@ -325,17 +333,17 @@ A) True
 
 ---
 
-A) The dimension is deleted
+A) The dimension becomes highlighted
 
-B) You can modify the dimension value
+B) The dimension is deleted
 
-C) The dimension becomes highlighted
+C) You can modify the dimension value
 
 D) A new dimension is created
 
 ---
 
-B) You can modify the dimension value
+C) You can modify the dimension value
 
 ///
 
@@ -343,17 +351,17 @@ B) You can modify the dimension value
 
 ---
 
-A) Fillet
+A) Shell
 
-B) Shell
+B) Extrude
 
-C) Chamfer
+C) Fillet
 
-D) Extrude
+D) Chamfer
 
 ---
 
-C) Chamfer
+D) Chamfer
 
 ///
 
@@ -361,52 +369,52 @@ C) Chamfer
 
 ---
 
-A) It makes the file smaller
+A) It renders faster
 
-B) It allows changes without everything failing
+B) It makes the file smaller
 
-C) It renders faster
+C) It allows changes without everything failing
 
 D) It looks more professional
 
 ---
 
-B) It allows changes without everything failing
+C) It allows changes without everything failing
 
 ///
 
 ## Master Answer Key
 
-1. B – The timeline displays a step-by-step process of how the design was created, showing the progression from sketch to final 3D object.
+1. A – The timeline displays a step-by-step process of how the design was created, showing the progression from sketch to final 3D object.
 
-2. B – You can access sketch editing by right-clicking in the tree structure and selecting "Edit Sketch," though the timeline also provides this access.
+2. D – You can access sketch editing by right-clicking in the tree structure and selecting "Edit Sketch," though the timeline also provides this access.
 
-3. B – When editing a sketch, later features become grayed out because the timeline "rewinds" to the point when the sketch was created.
+3. C – When editing a sketch, later features become grayed out because the timeline "rewinds" to the point when the sketch was created.
 
-4. B – Parametric design is the ability to make modifications that automatically carry through to the 3D object, ensuring changes propagate throughout the design.
+4. D – Parametric design is the ability to make modifications that automatically carry through to the 3D object, ensuring changes propagate throughout the design.
 
-5. C – Fillet is the tool that adds rounded corners or radius to edges, creating smooth transitions.
+5. B – Fillet is the tool that adds rounded corners or radius to edges, creating smooth transitions.
 
-6. B – Fillet creates rounded edges while chamfer creates straight edges, typically at angles like 45 degrees.
+6. C – Fillet creates rounded edges while chamfer creates straight edges, typically at angles like 45 degrees.
 
-7. B – The shell tool is particularly useful for CNC machining applications where pockets need to be created efficiently.
+7. D – The shell tool is particularly useful for CNC machining applications where pockets need to be created efficiently.
 
-8. B – The shell tool creates pockets by offsetting walls of a solid body, essentially creating a hollow interior with specified thickness.
+8. D – The shell tool creates pockets by offsetting walls of a solid body, essentially creating a hollow interior with specified thickness.
 
-9. C – You can modify a fillet after creation by right-clicking on it in the timeline and selecting "Edit Feature" to change its parameters.
+9. D – You can modify a fillet after creation by right-clicking on it in the timeline and selecting "Edit Feature" to change its parameters.
 
-10. B – Using shell is faster than creating a sketch and cut extrude for achieving the same pocket effect.
+10. C – Using shell is faster than creating a sketch and cut extrude for achieving the same pocket effect.
 
 11. B – When stepping backwards in the timeline, features created after that point become grayed out, showing they haven't been created yet at that stage.
 
-12. B – Tool tips in the modify dropdown menu provide descriptions of each tool's function to help users understand what each tool does.
+12. C – Tool tips in the modify dropdown menu provide descriptions of each tool's function to help users understand what each tool does.
 
-13. B – False. You can edit sketches both through the tree structure (right-click) and through the timeline, providing multiple access methods.
+13. A – False. You can edit sketches both through the tree structure (right-click) and through the timeline, providing multiple access methods.
 
-14. A – True. Parametric design allows changes to automatically update throughout the entire 3D model, maintaining design consistency.
+14. B – True. Parametric design allows changes to automatically update throughout the entire 3D model, maintaining design consistency.
 
-15. B – Double-clicking on a dimension in sketch editing mode allows you to modify the dimension value directly.
+15. C – Double-clicking on a dimension in sketch editing mode allows you to modify the dimension value directly.
 
-16. C – Chamfer creates straight line edges, typically at 45-degree angles, unlike fillet which creates rounded edges.
+16. D – Chamfer creates straight line edges, typically at 45-degree angles, unlike fillet which creates rounded edges.
 
-17. B – Having a robust sketch at the beginning allows changes to be made without everything failing, supporting the parametric design process.
+17. C – Having a robust sketch at the beginning allows changes to be made without everything failing, supporting the parametric design process.

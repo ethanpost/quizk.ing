@@ -1,4 +1,12 @@
-# CAD Basics - Defining Sketches with Constraints Quiz
+# [CAD Basics - Defining Sketches with Constraints Quiz](https://www.youtube.com/watch?v=snIZb2thyrU)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Outline
 
@@ -87,17 +95,17 @@ What color indicates that a sketch element is fully defined?
 
 ---
 
-A) Blue
+A) Green
 
-B) Red
+B) Black
 
-C) Black
+C) Red
 
-D) Green
+D) Blue
 
 ---
 
-Black
+B
 
 ///
 
@@ -105,13 +113,13 @@ True or False: Constraints are optional rules that can be ignored when creating 
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-False
+A
 
 ///
 
@@ -119,17 +127,17 @@ When using the parallel constraint, which line determines the orientation of the
 
 ---
 
-A) The second line selected
+A) The shorter line
 
-B) The first line selected
+B) The longer line
 
-C) The longer line
+C) The first line selected
 
-D) The shorter line
+D) The second line selected
 
 ---
 
-The first line selected
+C
 
 ///
 
@@ -137,17 +145,17 @@ What is the 45-degree rule used for?
 
 ---
 
-A) Determining line length
+A) Creating perpendicular lines
 
-B) Deciding between horizontal and vertical constraints
+B) Setting parallel relationships
 
-C) Creating perpendicular lines
+C) Determining line length
 
-D) Setting parallel relationships
+D) Deciding between horizontal and vertical constraints
 
 ---
 
-Deciding between horizontal and vertical constraints
+D
 
 ///
 
@@ -155,17 +163,17 @@ Which constraint requires selecting only one line?
 
 ---
 
-A) Parallel
+A) Equal
 
-B) Equal
+B) Perpendicular
 
-C) Horizontal/Vertical
+C) Parallel
 
-D) Perpendicular
+D) Horizontal/Vertical
 
 ---
 
-Horizontal/Vertical
+D
 
 ///
 
@@ -173,17 +181,17 @@ What does the coincident constraint work with?
 
 ---
 
-A) Lines only
+A) Both lines and points
 
-B) Points only
+B) Circles only
 
-C) Circles only
+C) Points only
 
-D) Both lines and points
+D) Lines only
 
 ---
 
-Points only
+C
 
 ///
 
@@ -191,13 +199,13 @@ True or False: When two lines have an equal constraint, changing the length of o
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-True
+B
 
 ///
 
@@ -205,17 +213,17 @@ The midpoint constraint places a point at what location on a line?
 
 ---
 
-A) One-quarter from the end
+A) Three-quarters from the end
 
-B) The exact middle
+B) At either endpoint
 
-C) Three-quarters from the end
+C) The exact middle
 
-D) At either endpoint
+D) One-quarter from the end
 
 ---
 
-The exact middle
+C
 
 ///
 
@@ -223,17 +231,17 @@ Which constraint significantly restricts movement to only up/down and length cha
 
 ---
 
-A) Parallel
+A) Equal
 
-B) Horizontal
+B) Perpendicular
 
-C) Perpendicular
+C) Horizontal
 
-D) Equal
+D) Parallel
 
 ---
 
-Perpendicular
+B
 
 ///
 
@@ -241,17 +249,17 @@ What is the main goal when applying constraints to a sketch?
 
 ---
 
-A) To make sketches colorful
+A) To reduce file size
 
-B) To create a fully defined sketch
+B) To make sketches move faster
 
-C) To make sketches move faster
+C) To create a fully defined sketch
 
-D) To reduce file size
+D) To make sketches colorful
 
 ---
 
-To create a fully defined sketch
+C
 
 ///
 
@@ -259,13 +267,13 @@ True or False: Blue-colored elements in a sketch indicate that they are fully co
 
 ---
 
-A) True
+A) False
 
-B) False
+B) True
 
 ---
 
-False
+A
 
 ///
 
@@ -273,17 +281,17 @@ How many constraints were used to control three features in the lesson example?
 
 ---
 
-A) One
+A) Four
 
-B) Two
+B) One
 
-C) Three
+C) Two
 
-D) Four
+D) Three
 
 ---
 
-Two
+C
 
 ///
 
@@ -291,17 +299,17 @@ What happens to sketch elements when they are fully defined?
 
 ---
 
-A) They turn blue
+A) They disappear
 
-B) They turn red
+B) They turn black
 
-C) They turn black
+C) They turn blue
 
-D) They disappear
+D) They turn red
 
 ---
 
-They turn black
+B
 
 ///
 
@@ -309,17 +317,17 @@ Which constraint would you use to attach a sketch point to the origin?
 
 ---
 
-A) Parallel
+A) Equal
 
-B) Coincident
+B) Parallel
 
-C) Equal
+C) Perpendicular
 
-D) Perpendicular
+D) Coincident
 
 ---
 
-Coincident
+D
 
 ///
 
@@ -333,38 +341,38 @@ B) False
 
 ---
 
-False
+B
 
 ///
 
 ## Master Answer Key
 
-1. C – Black color indicates fully defined elements, while blue indicates undefined elements.
+1. B – Black color indicates fully defined elements, while blue indicates undefined elements.
 
-2. B – Constraints are essential rules that prevent chaos in CAD sketches and cannot be ignored.
+2. A – Constraints are essential rules that prevent chaos in CAD sketches and cannot be ignored.
 
-3. B – The first line selected determines the orientation that the second line will adopt.
+3. C – The first line selected determines the orientation that the second line will adopt.
 
-4. B – The 45-degree rule determines whether a line becomes horizontal (<45°) or vertical (>45°) when using the horizontal/vertical constraint.
+4. D – The 45-degree rule determines whether a line becomes horizontal (<45°) or vertical (>45°) when using the horizontal/vertical constraint.
 
-5. C – The horizontal/vertical constraint only requires selecting one line, unlike parallel, equal, and perpendicular constraints which require two selections.
+5. D – The horizontal/vertical constraint only requires selecting one line, unlike parallel, equal, and perpendicular constraints which require two selections.
 
-6. B – The coincident constraint works specifically with points, allowing you to attach one point to another.
+6. C – The coincident constraint works specifically with points, allowing you to attach one point to another.
 
-7. A – The equal constraint creates a relationship where both lines maintain the same length automatically.
+7. B – The equal constraint creates a relationship where both lines maintain the same length automatically.
 
-8. B – The midpoint constraint places a point at the exact middle of a line, as the name suggests.
+8. C – The midpoint constraint places a point at the exact middle of a line, as the name suggests.
 
-9. C – The perpendicular constraint restricts movement significantly, allowing only vertical movement and length changes.
+9. B – The perpendicular constraint restricts movement significantly, allowing only vertical movement and length changes.
 
-10. B – The main goal of applying constraints is to create a fully defined sketch where all elements are properly constrained.
+10. C – The main goal of applying constraints is to create a fully defined sketch where all elements are properly constrained.
 
-11. B – Blue-colored elements indicate undefined/chaotic elements, not fully constrained ones.
+11. A – Blue-colored elements indicate undefined/chaotic elements, not fully constrained ones.
 
-12. B – Two constraints (parallel and horizontal) were used to control three features (both lines being parallel, both being horizontal).
+12. C – Two constraints (parallel and horizontal) were used to control three features (both lines being parallel, both being horizontal).
 
-13. C – Fully defined elements turn black, indicating they are properly constrained.
+13. B – Fully defined elements turn black, indicating they are properly constrained.
 
-14. B – The coincident constraint is used to attach points together, such as attaching a sketch point to the origin.
+14. D – The coincident constraint is used to attach points together, such as attaching a sketch point to the origin.
 
 15. B – Constraints alone are not sufficient; dimensions are also needed to fully define a sketch.

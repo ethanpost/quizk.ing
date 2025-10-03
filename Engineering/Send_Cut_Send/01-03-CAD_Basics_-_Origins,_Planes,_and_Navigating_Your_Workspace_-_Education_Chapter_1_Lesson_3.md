@@ -1,4 +1,12 @@
-# CAD Basics - Origins, Planes, and Navigating Your Workspace
+# [CAD Basics - Origins, Planes, and Navigating Your Workspace](https://www.youtube.com/watch?v=2dpZifAUzAE)
+
+### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
+### You can also import this file into [Mochi](https://mochi.cards/).
+- When importing make sure you select Markdown as the format.
+- Select "Multiple cards per .md file", 
+- Set a ```triple backslash``` as the string delimiter, like this ///
+- Use the link to the raw file in GitHub instead of downloading and importing if you prefer.
 
 ## Understanding the CAD Workspace
 
@@ -107,11 +115,11 @@
 
 A) A line that extends from the center point
 
-B) A flat surface for drawing
+B) A navigation tool for rotating the view
 
 C) A point in space that serves as the home base
 
-D) A navigation tool for rotating the view
+D) A flat surface for drawing
 
 ---
 
@@ -123,17 +131,17 @@ C) A point in space that serves as the home base
 
 ---
 
-A) Two
+A) Three
 
-B) Three
+B) Two
 
-C) Four
+C) Five
 
-D) Five
+D) Four
 
 ---
 
-B) Three
+A) Three
 
 ///
 
@@ -141,17 +149,17 @@ B) Three
 
 ---
 
-A) A, B, and C
+A) Length, Width, and Height
 
-B) Length, Width, and Height
+B) North, South, and East
 
-C) X, Y, and Z
+C) A, B, and C
 
-D) North, South, and East
+D) X, Y, and Z
 
 ---
 
-C) X, Y, and Z
+D) X, Y, and Z
 
 ///
 
@@ -159,17 +167,17 @@ C) X, Y, and Z
 
 ---
 
-A) XZ plane
+A) XY plane
 
 B) YZ plane
 
-C) XY plane
+C) ZX plane
 
-D) ZX plane
+D) XZ plane
 
 ---
 
-C) XY plane
+A) XY plane
 
 ///
 
@@ -213,9 +221,9 @@ A) The Z-axis
 
 B) The XY plane
 
-C) The XZ plane
+C) The YZ plane
 
-D) The YZ plane
+D) The XZ plane
 
 ---
 
@@ -231,13 +239,13 @@ A) Bottom left corner
 
 B) Bottom right corner
 
-C) Top left corner
+C) Top right corner
 
-D) Top right corner
+D) Top left corner
 
 ---
 
-D) Top right corner
+C) Top right corner
 
 ///
 
@@ -249,13 +257,13 @@ A) It zooms in on the model
 
 B) It rotates the view 90 degrees
 
-C) It resets the view to the default orientation
+C) It hides all the planes
 
-D) It hides all the planes
+D) It resets the view to the default orientation
 
 ---
 
-C) It resets the view to the default orientation
+D) It resets the view to the default orientation
 
 ///
 
@@ -263,11 +271,11 @@ C) It resets the view to the default orientation
 
 ---
 
-A) Hold the left mouse button and drag
+A) Hold the right mouse button and drag
 
 B) Hold the middle mouse button and drag
 
-C) Hold the right mouse button and drag
+C) Hold the left mouse button and drag
 
 D) Scroll the mouse wheel
 
@@ -283,15 +291,15 @@ B) Hold the middle mouse button and drag
 
 A) Hold Shift and drag with the left mouse button
 
-B) Use the scroll wheel
+B) Hold the middle mouse button and drag
 
-C) Hold the middle mouse button and drag
+C) Use the scroll wheel
 
 D) Double-click the left mouse button
 
 ---
 
-B) Use the scroll wheel
+C) Use the scroll wheel
 
 ///
 
@@ -299,17 +307,17 @@ B) Use the scroll wheel
 
 ---
 
-A) Hold the left mouse button and drag
+A) Hold Shift and the middle mouse button, then drag
 
 B) Hold the middle mouse button and drag
 
-C) Hold Shift and the middle mouse button, then drag
+C) Hold the left mouse button and drag
 
 D) Use the scroll wheel while holding Ctrl
 
 ---
 
-C) Hold Shift and the middle mouse button, then drag
+A) Hold Shift and the middle mouse button, then drag
 
 ///
 
@@ -317,17 +325,17 @@ C) Hold Shift and the middle mouse button, then drag
 
 ---
 
-A) Select a plane
+A) Create an origin point
 
-B) Create an origin point
+B) Set up the coordinate system
 
-C) Set up the coordinate system
+C) Choose a view orientation
 
-D) Choose a view orientation
+D) Select a plane
 
 ---
 
-A) Select a plane
+D) Select a plane
 
 ///
 
@@ -351,15 +359,15 @@ A) True
 
 A) International Standards Organization view
 
-B) Isometric view
+B) Integrated System Operation view
 
-C) Integrated System Operation view
+C) Isometric view
 
 D) Internal Structure Overview view
 
 ---
 
-B) Isometric view
+C) Isometric view
 
 ///
 
@@ -371,9 +379,9 @@ A) XY plane only
 
 B) XZ plane or YZ plane
 
-C) All planes are vertical
+C) Only the XY plane is vertical
 
-D) Only the XY plane is vertical
+D) All planes are vertical
 
 ---
 
@@ -385,17 +393,17 @@ B) XZ plane or YZ plane
 
 ---
 
-A) To define the coordinate system
+A) To measure distances
 
-B) To serve as surfaces for drawing sketches
+B) To define the coordinate system
 
-C) To control the view orientation
+C) To serve as surfaces for drawing sketches
 
-D) To measure distances
+D) To control the view orientation
 
 ---
 
-B) To serve as surfaces for drawing sketches
+C) To serve as surfaces for drawing sketches
 
 ///
 
@@ -421,9 +429,9 @@ A) The sketch disappears
 
 B) You exit sketching mode
 
-C) The plane becomes hidden
+C) The origin moves to a new location
 
-D) The origin moves to a new location
+D) The plane becomes hidden
 
 ---
 
@@ -435,11 +443,11 @@ B) You exit sketching mode
 
 1. C – The origin is a point in space that serves as the home base, similar to GPS coordinates, located at (0,0,0) where all axes intersect.
 
-2. B – There are three axes in the CAD coordinate system: X, Y, and Z, which are all perpendicular to each other.
+2. A – There are three axes in the CAD coordinate system: X, Y, and Z, which are all perpendicular to each other.
 
-3. C – The three axes are called X, Y, and Z, representing the three dimensions of 3D space.
+3. D – The three axes are called X, Y, and Z, representing the three dimensions of 3D space.
 
-4. C – The XY plane is created by the intersection of the X and Y axes, representing a horizontal plane.
+4. A – The XY plane is created by the intersection of the X and Y axes, representing a horizontal plane.
 
 5. B – False. The origin point has coordinates of (0,0,0), not (1,1,1).
 
@@ -447,25 +455,25 @@ B) You exit sketching mode
 
 7. B – In the room analogy, the floor represents the XY plane, which is horizontal.
 
-8. D – The view cube is located in the top right corner of the workspace and appears as an interactive cube.
+8. C – The view cube is located in the top right corner of the workspace and appears as an interactive cube.
 
-9. C – The home button resets the view to the default orientation, centering the origin and showing an ISO view.
+9. D – The home button resets the view to the default orientation, centering the origin and showing an ISO view.
 
 10. B – Panning is done by holding the middle mouse button and dragging to move the view left, right, up, or down.
 
-11. B – Zooming is done using the scroll wheel - scroll up to zoom in, scroll down to zoom out.
+11. C – Zooming is done using the scroll wheel - scroll up to zoom in, scroll down to zoom out.
 
-12. C – Rotating requires holding Shift and the middle mouse button, then dragging to rotate the view around the model.
+12. A – Rotating requires holding Shift and the middle mouse button, then dragging to rotate the view around the model.
 
-13. A – Before sketching, you must select a plane (XY, XZ, or YZ) to serve as your drawing surface.
+13. D – Before sketching, you must select a plane (XY, XZ, or YZ) to serve as your drawing surface.
 
 14. A – True. All three axes are perpendicular to each other, meeting at 90-degree angles at the origin.
 
-15. B – ISO view stands for isometric view, which shows the model from a 3D perspective.
+15. C – ISO view stands for isometric view, which shows the model from a 3D perspective.
 
 16. B – For vertical surfaces, you would use either the XZ plane or YZ plane, as these are the vertical planes.
 
-17. B – Planes serve as surfaces for drawing sketches, like "pieces of paper" in 3D space.
+17. C – Planes serve as surfaces for drawing sketches, like "pieces of paper" in 3D space.
 
 18. A – True. For simple projects, the initial choice of plane doesn't matter, but it becomes important for complex assemblies.
 
