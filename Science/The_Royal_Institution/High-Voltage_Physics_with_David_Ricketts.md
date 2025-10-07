@@ -1,4 +1,4 @@
-## [High-Voltage Physics Overview](https://www.youtube.com/watch?v=0WWjCICqDK)
+## [High-Voltage Physics Overview](https://www.youtube.com/watch?v=0WWjCICqDK8)
 
 ### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
 
