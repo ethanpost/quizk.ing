@@ -446,9 +446,20 @@
 
     function filterQuizzes(searchTerm) {
       const term = searchTerm.toLowerCase();
-      const filteredQuizzes = quizList.filter(quiz => 
-        quiz.name.toLowerCase().includes(term)
-      );
+      const filteredQuizzes = quizList.filter(quiz => {
+        // Search in quiz name
+        const nameMatch = quiz.name.toLowerCase().includes(term);
+        
+        // Search in author
+        const authorMatch = quiz.author && quiz.author.toLowerCase().includes(term);
+        
+        // Search in subjects
+        const subjectsMatch = quiz.subjects && quiz.subjects.some(subject => 
+          subject.toLowerCase().includes(term)
+        );
+        
+        return nameMatch || authorMatch || subjectsMatch;
+      });
       displayQuizzes(filteredQuizzes);
     }
 
