@@ -518,7 +518,11 @@
 
     async function loadQuiz(file) {
       try {
-        const response = await fetch(`${file}?t=${Date.now()}`);
+        // Find the quiz in the list to check if it has a folder property
+        const quizInfo = quizList.find(q => q.file === file);
+        const filePath = quizInfo && quizInfo.folder ? `${quizInfo.folder}/${file}` : file;
+        
+        const response = await fetch(`${filePath}?t=${Date.now()}`);
         if (!response.ok) throw new Error("Failed to load quiz");
         quizData = await response.json();
         currentQuestion = 0;
