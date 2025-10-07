@@ -1,0 +1,144 @@
+[
+  {
+    "question": "What color indicates that a sketch element is fully defined?",
+    "options": [
+      "Green",
+      "Black",
+      "Red",
+      "Blue"
+    ],
+    "answer": "Black"
+  },
+  {
+    "question": "True or False: Constraints are optional rules that can be ignored when creating CAD sketches.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "When using the parallel constraint, which line determines the orientation of the other?",
+    "options": [
+      "The shorter line",
+      "The longer line",
+      "The first line selected",
+      "The second line selected"
+    ],
+    "answer": "The first line selected"
+  },
+  {
+    "question": "What is the 45-degree rule used for?",
+    "options": [
+      "Creating perpendicular lines",
+      "Setting parallel relationships",
+      "Determining line length",
+      "Deciding between horizontal and vertical constraints"
+    ],
+    "answer": "Deciding between horizontal and vertical constraints"
+  },
+  {
+    "question": "Which constraint requires selecting only one line?",
+    "options": [
+      "Equal",
+      "Perpendicular",
+      "Parallel",
+      "Horizontal/Vertical"
+    ],
+    "answer": "Horizontal/Vertical"
+  },
+  {
+    "question": "What does the coincident constraint work with?",
+    "options": [
+      "Both lines and points",
+      "Circles only",
+      "Points only",
+      "Lines only"
+    ],
+    "answer": "Points only"
+  },
+  {
+    "question": "True or False: When two lines have an equal constraint, changing the length of one automatically changes the length of the other.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "The midpoint constraint places a point at what location on a line?",
+    "options": [
+      "Three-quarters from the end",
+      "At either endpoint",
+      "The exact middle",
+      "One-quarter from the end"
+    ],
+    "answer": "The exact middle"
+  },
+  {
+    "question": "Which constraint significantly restricts movement to only up/down and length changes?",
+    "options": [
+      "Equal",
+      "Perpendicular",
+      "Horizontal",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "question": "What is the main goal when applying constraints to a sketch?",
+    "options": [
+      "To reduce file size",
+      "To make sketches move faster",
+      "To create a fully defined sketch",
+      "To make sketches colorful"
+    ],
+    "answer": "To create a fully defined sketch"
+  },
+  {
+    "question": "True or False: Blue-colored elements in a sketch indicate that they are fully constrained.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "How many constraints were used to control three features in the lesson example?",
+    "options": [
+      "Four",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "What happens to sketch elements when they are fully defined?",
+    "options": [
+      "They disappear",
+      "They turn black",
+      "They turn blue",
+      "They turn red"
+    ],
+    "answer": "They turn black"
+  },
+  {
+    "question": "Which constraint would you use to attach a sketch point to the origin?",
+    "options": [
+      "Equal",
+      "Parallel",
+      "Perpendicular",
+      "Coincident"
+    ],
+    "answer": "Coincident"
+  },
+  {
+    "question": "True or False: Constraints alone are sufficient to create a fully defined sketch.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  }
+]

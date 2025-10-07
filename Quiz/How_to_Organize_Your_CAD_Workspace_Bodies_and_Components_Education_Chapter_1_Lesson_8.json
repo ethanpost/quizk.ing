@@ -1,0 +1,148 @@
+[
+  {
+    "question": "What is a \"body\" in CAD terminology?",
+    "options": [
+      "A 2D sketch profile",
+      "A measurement tool",
+      "A three-dimensional shape created in CAD",
+      "A container that holds other objects"
+    ],
+    "answer": "A three-dimensional shape created in CAD"
+  },
+  {
+    "question": "What does the instructor compare a CAD file to in the drawer analogy?",
+    "options": [
+      "A knife",
+      "A drawer",
+      "A spoon",
+      "A fork"
+    ],
+    "answer": "A drawer"
+  },
+  {
+    "question": "When creating an extrude operation, what are the two main operation options?",
+    "options": [
+      "Symmetric and asymmetric",
+      "Distance and profile",
+      "One side and two side",
+      "Body and component"
+    ],
+    "answer": "Body and component"
+  },
+  {
+    "question": "True or False: Bodies created with the \"body\" option are organized loosely within the master file.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens to the tree structure when you create a new component instead of a new body?",
+    "options": [
+      "The file name changes",
+      "New profiles are created",
+      "Nothing changes",
+      "Bodies disappear from the main level"
+    ],
+    "answer": "Bodies disappear from the main level"
+  },
+  {
+    "question": "Why would you want to create separate components for different objects?",
+    "options": [
+      "To make the file load faster",
+      "To reduce complexity",
+      "To apply different rules and properties to each",
+      "To save file space"
+    ],
+    "answer": "To apply different rules and properties to each"
+  },
+  {
+    "question": "What distance setting does the instructor use for the washer extrusion example?",
+    "options": [
+      "8 millimeters",
+      "2 millimeters",
+      "4 millimeters",
+      "6 millimeters"
+    ],
+    "answer": "4 millimeters"
+  },
+  {
+    "question": "In the drawer analogy, what represents the master component?",
+    "options": [
+      "The drawer handle",
+      "The entire drawer",
+      "Individual utensils",
+      "The drawer separators"
+    ],
+    "answer": "The entire drawer"
+  },
+  {
+    "question": "What is the main advantage of using components over bodies for organization?",
+    "options": [
+      "Components use less memory",
+      "Components are easier to create",
+      "Components render faster",
+      "Components allow for better organization and separate rules"
+    ],
+    "answer": "Components allow for better organization and separate rules"
+  },
+  {
+    "question": "True or False: You can only have one component per CAD file.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What does the instructor mention will be important for future sheet metal work?",
+    "options": [
+      "Sketch complexity",
+      "Color coding",
+      "File naming conventions",
+      "Material-specific properties like K-factor and bend radius"
+    ],
+    "answer": "Material-specific properties like K-factor and bend radius"
+  },
+  {
+    "question": "Where is the extrude tool located in the CAD interface?",
+    "options": [
+      "Assembly section",
+      "Create section",
+      "Modify section",
+      "Sketch section"
+    ],
+    "answer": "Create section"
+  },
+  {
+    "question": "What happens when you select \"new component\" during extrusion?",
+    "options": [
+      "The profile is deleted",
+      "The object is placed in a separate organized section",
+      "A new file is created",
+      "The distance is reset"
+    ],
+    "answer": "The object is placed in a separate organized section"
+  },
+  {
+    "question": "In the tree structure, where do you find bodies when using components?",
+    "options": [
+      "They don't appear in the tree",
+      "In a separate window",
+      "Inside the component dropdown",
+      "At the main file level"
+    ],
+    "answer": "Inside the component dropdown"
+  },
+  {
+    "question": "What does the instructor say about different material thicknesses?",
+    "options": [
+      "They should be avoided",
+      "They don't matter for organization",
+      "They require separate components",
+      "They should all be in the same component"
+    ],
+    "answer": "They require separate components"
+  }
+]

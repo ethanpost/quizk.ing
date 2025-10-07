@@ -1,0 +1,160 @@
+[
+  {
+    "question": "What is the main purpose of Chapter 1 in this CAD education course?",
+    "options": [
+      "To master parametric design principles",
+      "To create complex mechanical assemblies",
+      "To set the foundation for understanding CAD",
+      "To learn advanced 3D modeling techniques"
+    ],
+    "answer": "To set the foundation for understanding CAD"
+  },
+  {
+    "question": "What project will students be building throughout Chapter 1?",
+    "options": [
+      "A motor housing",
+      "A washer with keys",
+      "A gear assembly",
+      "A simple bracket"
+    ],
+    "answer": "A washer with keys"
+  },
+  {
+    "question": "Before CAD existed, what was the primary method for creating technical drawings?",
+    "options": [
+      "Wood carving",
+      "Clay modeling",
+      "Computer screens",
+      "Pen and paper"
+    ],
+    "answer": "Pen and paper"
+  },
+  {
+    "question": "What was the biggest problem with traditional pen and paper drafting?",
+    "options": [
+      "Colors were not available",
+      "Tools were too expensive",
+      "Drawings were too small",
+      "Revisions required starting completely over"
+    ],
+    "answer": "Revisions required starting completely over"
+  },
+  {
+    "question": "Who is credited with developing the first CAD system in the 1960s?",
+    "options": [
+      "John Walker",
+      "Steve Jobs",
+      "Ivan Sutherland",
+      "Bill Gates"
+    ],
+    "answer": "Ivan Sutherland"
+  },
+  {
+    "question": "What input device did Ivan Sutherland use in his early CAD system?",
+    "options": [
+      "Touch screen",
+      "Light pen",
+      "Mouse",
+      "Keyboard"
+    ],
+    "answer": "Light pen"
+  },
+  {
+    "question": "When was AutoCAD first released?",
+    "options": [
+      "1990",
+      "1975",
+      "1982",
+      "1995"
+    ],
+    "answer": "1982"
+  },
+  {
+    "question": "What made AutoCAD significant in CAD history?",
+    "options": [
+      "It was free to use",
+      "It was the first CAD software available without government contracts",
+      "It introduced 3D modeling",
+      "It was the first CAD system ever created"
+    ],
+    "answer": "It was the first CAD software available without government contracts"
+  },
+  {
+    "question": "How long did AutoCAD dominate the CAD market?",
+    "options": [
+      "12 years",
+      "3 years",
+      "5 years",
+      "8 years"
+    ],
+    "answer": "8 years"
+  },
+  {
+    "question": "Which companies entered the CAD market in the 1990s?",
+    "options": [
+      "Adobe, Corel, Autodesk",
+      "IBM, HP, Dell",
+      "Microsoft, Apple, Google",
+      "SolidWorks, ProE, KIA"
+    ],
+    "answer": "SolidWorks, ProE, KIA"
+  },
+  {
+    "question": "What does DFM stand for?",
+    "options": [
+      "Drafting for Mechanics",
+      "Digital File Management",
+      "Design for Manufacturing",
+      "Design for Materials"
+    ],
+    "answer": "Design for Manufacturing"
+  },
+  {
+    "question": "What is parametric design?",
+    "options": [
+      "A technique for creating 2D drawings only",
+      "A system where drawings automatically update when parameters change",
+      "A process that requires manual updates for every change",
+      "A method that uses only geometric shapes"
+    ],
+    "answer": "A system where drawings automatically update when parameters change"
+  },
+  {
+    "question": "According to the lesson, what are the basic building blocks of CAD?",
+    "options": [
+      "Points and vectors",
+      "Curves and angles",
+      "Lines and circles",
+      "Triangles and squares"
+    ],
+    "answer": "Lines and circles"
+  },
+  {
+    "question": "What was needed to create multiple copies of technical drawings before CAD?",
+    "options": [
+      "Scanners",
+      "Blueprint machines",
+      "Photocopiers",
+      "Printers"
+    ],
+    "answer": "Blueprint machines"
+  },
+  {
+    "question": "True or False: The instructor believes that learning CAD history is not important for understanding modern CAD.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What will be covered in the next lesson?",
+    "options": [
+      "Manufacturing processes",
+      "Blueprint reading",
+      "Advanced parametric techniques",
+      "2D and 3D concepts, focusing on why 2D is most important"
+    ],
+    "answer": "2D and 3D concepts, focusing on why 2D is most important"
+  }
+]

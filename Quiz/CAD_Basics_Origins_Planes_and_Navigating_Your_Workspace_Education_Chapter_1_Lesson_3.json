@@ -1,0 +1,186 @@
+[
+  {
+    "question": "What is the origin in CAD?",
+    "options": [
+      "A line that extends from the center point",
+      "A navigation tool for rotating the view",
+      "A point in space that serves as the home base",
+      "A flat surface for drawing"
+    ],
+    "answer": "A point in space that serves as the home base"
+  },
+  {
+    "question": "How many axes are there in the CAD coordinate system?",
+    "options": [
+      "Three",
+      "Two",
+      "Five",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What are the three axes in CAD called?",
+    "options": [
+      "Length, Width, and Height",
+      "North, South, and East",
+      "A, B, and C",
+      "X, Y, and Z"
+    ],
+    "answer": "X, Y, and Z"
+  },
+  {
+    "question": "Which plane is created by the X and Y axes?",
+    "options": [
+      "XY plane",
+      "YZ plane",
+      "ZX plane",
+      "XZ plane"
+    ],
+    "answer": "XY plane"
+  },
+  {
+    "question": "True or False: The origin point has coordinates of (1,1,1).",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What does the eyeball icon next to the origin control?",
+    "options": [
+      "The size of the origin point",
+      "Whether the origin is visible or hidden",
+      "The color of the origin point",
+      "The position of the origin point"
+    ],
+    "answer": "Whether the origin is visible or hidden"
+  },
+  {
+    "question": "In the room analogy, what does the floor represent?",
+    "options": [
+      "The Z-axis",
+      "The XY plane",
+      "The YZ plane",
+      "The XZ plane"
+    ],
+    "answer": "The XY plane"
+  },
+  {
+    "question": "Where is the view cube located in the workspace?",
+    "options": [
+      "Bottom left corner",
+      "Bottom right corner",
+      "Top right corner",
+      "Top left corner"
+    ],
+    "answer": "Top right corner"
+  },
+  {
+    "question": "What happens when you click the home button on the view cube?",
+    "options": [
+      "It zooms in on the model",
+      "It rotates the view 90 degrees",
+      "It hides all the planes",
+      "It resets the view to the default orientation"
+    ],
+    "answer": "It resets the view to the default orientation"
+  },
+  {
+    "question": "How do you pan the view using the mouse?",
+    "options": [
+      "Hold the right mouse button and drag",
+      "Hold the middle mouse button and drag",
+      "Hold the left mouse button and drag",
+      "Scroll the mouse wheel"
+    ],
+    "answer": "Hold the middle mouse button and drag"
+  },
+  {
+    "question": "How do you zoom in and out using the mouse?",
+    "options": [
+      "Hold Shift and drag with the left mouse button",
+      "Hold the middle mouse button and drag",
+      "Use the scroll wheel",
+      "Double-click the left mouse button"
+    ],
+    "answer": "Use the scroll wheel"
+  },
+  {
+    "question": "How do you rotate the view using the mouse?",
+    "options": [
+      "Hold Shift and the middle mouse button, then drag",
+      "Hold the middle mouse button and drag",
+      "Hold the left mouse button and drag",
+      "Use the scroll wheel while holding Ctrl"
+    ],
+    "answer": "Hold Shift and the middle mouse button, then drag"
+  },
+  {
+    "question": "What must you do before you can start sketching in CAD?",
+    "options": [
+      "Create an origin point",
+      "Set up the coordinate system",
+      "Choose a view orientation",
+      "Select a plane"
+    ],
+    "answer": "Select a plane"
+  },
+  {
+    "question": "True or False: All three axes are perpendicular to each other.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What does ISO view stand for?",
+    "options": [
+      "International Standards Organization view",
+      "Integrated System Operation view",
+      "Isometric view",
+      "Internal Structure Overview view"
+    ],
+    "answer": "Isometric view"
+  },
+  {
+    "question": "Which plane would you use if you wanted to draw something on a vertical wall?",
+    "options": [
+      "XY plane only",
+      "XZ plane or YZ plane",
+      "Only the XY plane is vertical",
+      "All planes are vertical"
+    ],
+    "answer": "XZ plane or YZ plane"
+  },
+  {
+    "question": "What is the purpose of planes in CAD?",
+    "options": [
+      "To measure distances",
+      "To define the coordinate system",
+      "To serve as surfaces for drawing sketches",
+      "To control the view orientation"
+    ],
+    "answer": "To serve as surfaces for drawing sketches"
+  },
+  {
+    "question": "True or False: The initial choice of which plane to sketch on doesn't matter for simple projects.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens when you finish a sketch?",
+    "options": [
+      "The sketch disappears",
+      "You exit sketching mode",
+      "The origin moves to a new location",
+      "The plane becomes hidden"
+    ],
+    "answer": "You exit sketching mode"
+  }
+]

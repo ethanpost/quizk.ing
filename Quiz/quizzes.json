@@ -758,5 +758,93 @@
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Why_Super_Glue_Is_Perfect_For_Gluing_Skin.md",
     "author": "Veritasium",
     "subjects": ["Science", "Chemistry"]
+  },
+  {
+    "name": "The History of CAD - Education Chapter 1 Lesson 1",
+    "file": "The_History_of_CAD_Education_Chapter_1_Lesson_1.json",
+    "url": "https://www.youtube.com/watch?v=WLV-v10Khic",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-01-The_History_of_CAD_-_Education_Chapter_1_Lesson_1.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "Why Your CAD Models Fail Without Strong 2D Sketches - Education Chapter 1 Lesson 2",
+    "file": "Why_Your_CAD_Models_Fail_Without_Strong_2D_Sketches_Education_Chapter_1_Lesson_2.json",
+    "url": "https://www.youtube.com/watch?v=2dpZifAUzAE",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-02-Why_Your_CAD_Models_Fail_Without_Strong_2D_Sketches_-_Education_Chapter_1_Lesson_2.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "CAD Basics - Origins, Planes, and Navigating Your Workspace - Education Chapter 1 Lesson 3",
+    "file": "CAD_Basics_Origins_Planes_and_Navigating_Your_Workspace_Education_Chapter_1_Lesson_3.json",
+    "url": "https://www.youtube.com/watch?v=2dpZifAUzAE",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-03-CAD_Basics_-_Origins,_Planes,_and_Navigating_Your_Workspace_-_Education_Chapter_1_Lesson_3.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "CAD Basics - How to Use the Toolbar (Ribbon) and Timeline - Education Chapter 1 Lesson 4",
+    "file": "CAD_Basics_How_to_Use_the_Toolbar_Ribbon_and_Timeline_Education_Chapter_1_Lesson_4.json",
+    "url": "https://www.youtube.com/watch?v=ftm0BwZ1U-Q",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-04-CAD_Basics_-_How_to_Use_the_Toolbar_(Ribbon)_and_Timeline_-_Education_Chapter_1_Lesson_4.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "CAD Basics - Defining Sketches with Constraints - Education Chapter 1 Lesson 5",
+    "file": "CAD_Basics_Defining_Sketches_with_Constraints_Education_Chapter_1_Lesson_5.json",
+    "url": "https://www.youtube.com/watch?v=snIZb2thyrU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-05-CAD_Basics_-_Defining_Sketches_with_Constraints-_Education_Chapter_1_Lesson_5.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "CAD Basics - Fully Defining Sketches with Dimensions - Education Chapter 1 Lesson 6",
+    "file": "CAD_Basics_Fully_Defining_Sketches_with_Dimensions_Education_Chapter_1_Lesson_6.json",
+    "url": "https://www.youtube.com/watch?v=Dad8iaUkwyY",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-06-CAD_Basics_-_Fully_Defining_Sketches_with_Dimensions-_Education_Chapter_1_Lesson_6.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "CAD Tutorial: Construction Lines, Patterns, Trim & Extend - Education Chapter 1 Lesson 7",
+    "file": "CAD_Tutorial_Construction_Lines_Patterns_Trim_and_Extend_Education_Chapter_1_Lesson_7.json",
+    "url": "https://www.youtube.com/watch?v=6J4zy_D-lWE",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-07-CAD_Tutorial_-_Construction_Lines,_Patterns,_Trim_&_Extend-_Education_Chapter_1_Lesson_7.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Organize Your CAD Workspace - Bodies and Components - Education Chapter 1 Lesson 8",
+    "file": "How_to_Organize_Your_CAD_Workspace_Bodies_and_Components_Education_Chapter_1_Lesson_8.json",
+    "url": "https://www.youtube.com/watch?v=lTIhTdpVHYk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-08-How_to_Organize_Your_CAD_Workspace_-_Bodies_and_Components_-_Education_Chapter_1_Lesson_8.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "Editing 3D Parts in CAD Made Easy - Education Chapter 1 Lesson 9",
+    "file": "Editing_3D_Parts_in_CAD_Made_Easy_Education_Chapter_1_Lesson_9.json",
+    "url": "https://www.youtube.com/watch?v=tRIsa-L1UHg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-09-Editing_3D_Parts_in_CAD_Made_Easy_-_Education_Chapter_1_Lesson_9.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "From Flat to 3D: Adding and Subtracting Features in CAD - Education Chapter 1 Lesson 10",
+    "file": "From_Flat_to_3D_Adding_and_Subtracting_Features_in_CAD_Education_Chapter_1_Lesson_10.json",
+    "url": "https://www.youtube.com/watch?v=QE1BqjvIQY4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-10-From_Flat_to_3D_-_Adding_and_Subtracting_Features_in_CAD_-_Education_Chapter_1_Lesson_10.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "CAD Advanced Tools: Revolve, Sweep, Loft - Education Chapter 1 Lesson 11",
+    "file": "CAD_Advanced_Tools_Revolve_Sweep_Loft_Education_Chapter_1_Lesson_11.json",
+    "url": "https://www.youtube.com/watch?v=EDzfGafYDvY",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/01-11-Revolve,_Sweep,_Loft_-_CAD_Tools_You_Need_to_Know-_Education_Chapter_1_Lesson_11.md",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
   }
 ]

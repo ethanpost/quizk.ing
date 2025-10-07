@@ -1,0 +1,136 @@
+[
+  {
+    "question": "What is the biggest mistake people make when starting CAD?",
+    "options": [
+      "Not learning the basics",
+      "Using the wrong software",
+      "Going straight into 3D",
+      "Starting with 2D instead of 3D"
+    ],
+    "answer": "Going straight into 3D"
+  },
+  {
+    "question": "What does 2D stand for in CAD?",
+    "options": [
+      "Two drawings",
+      "Two directions",
+      "Two designs",
+      "Two dimensions"
+    ],
+    "answer": "Two dimensions"
+  },
+  {
+    "question": "How is 2D CAD best conceptualized?",
+    "options": [
+      "Like creating a sculpture",
+      "Like writing code",
+      "Like drawing on a flat piece of paper",
+      "Like building a house"
+    ],
+    "answer": "Like drawing on a flat piece of paper"
+  },
+  {
+    "question": "In the lesson's example, how many circles are needed to create a washer in 2D?",
+    "options": [
+      "Four circles",
+      "Three circles",
+      "Two circles",
+      "One circle"
+    ],
+    "answer": "Two circles"
+  },
+  {
+    "question": "What happens when you add thickness to a 2D sketch?",
+    "options": [
+      "It becomes a template",
+      "It becomes a 3D model",
+      "It becomes a blueprint",
+      "It becomes a 2D model"
+    ],
+    "answer": "It becomes a 3D model"
+  },
+  {
+    "question": "According to the lesson, what is 3D CAD like?",
+    "options": [
+      "A digital library",
+      "A digital camera",
+      "A digital workbench",
+      "A digital calculator"
+    ],
+    "answer": "A digital workbench"
+  },
+  {
+    "question": "In the foundation analogy, what does 2D represent?",
+    "options": [
+      "The walls",
+      "The roof",
+      "The house",
+      "The foundation"
+    ],
+    "answer": "The foundation"
+  },
+  {
+    "question": "In the foundation analogy, what does 3D represent?",
+    "options": [
+      "The driveway",
+      "The house",
+      "The foundation",
+      "The basement"
+    ],
+    "answer": "The house"
+  },
+  {
+    "question": "What happens to a house built on a poor foundation?",
+    "options": [
+      "It becomes more valuable",
+      "It requires no maintenance",
+      "It falls apart in 10 years",
+      "It stays strong forever"
+    ],
+    "answer": "It falls apart in 10 years"
+  },
+  {
+    "question": "What is the core principle emphasized throughout this lesson?",
+    "options": [
+      "Neither matters",
+      "Both are equally important",
+      "3D drives 2D",
+      "2D drives 3D"
+    ],
+    "answer": "2D drives 3D"
+  },
+  {
+    "question": "What will the next lesson focus on?",
+    "options": [
+      "Complex assemblies",
+      "Rendering techniques",
+      "Origins and planes",
+      "Advanced 3D modeling"
+    ],
+    "answer": "Origins and planes"
+  },
+  {
+    "question": "True or False: The lesson states that 3D modeling is like running before learning to walk.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: A washer in 2D CAD requires only one circle.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Poor 2D sketches will result in poor 3D models.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  }
+]

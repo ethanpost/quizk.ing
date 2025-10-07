@@ -1,0 +1,194 @@
+[
+  {
+    "question": "What is the main philosophy emphasized throughout this CAD lesson?",
+    "options": [
+      "Follow exact procedures for consistency",
+      "There's always more than one way to design a part",
+      "Avoid using advanced tools when possible",
+      "Always use the simplest method available"
+    ],
+    "answer": "There's always more than one way to design a part"
+  },
+  {
+    "question": "Which method automatically creates a concentric constraint between circles?",
+    "options": [
+      "Using construction lines",
+      "Drawing two separate circles with dimensions",
+      "Using the offset tool",
+      "Using the trim tool"
+    ],
+    "answer": "Using the offset tool"
+  },
+  {
+    "question": "What visual characteristic identifies construction lines in CAD?",
+    "options": [
+      "They appear with arrows at the ends",
+      "They appear in different colors",
+      "They appear thicker than regular lines",
+      "They appear as dotted lines"
+    ],
+    "answer": "They appear as dotted lines"
+  },
+  {
+    "question": "True or False: Construction lines affect the final profile when extruding.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "How many total features does a circle pattern with quantity set to 3 create?",
+    "options": [
+      "6 features",
+      "4 features",
+      "3 features",
+      "2 features"
+    ],
+    "answer": "3 features"
+  },
+  {
+    "question": "What is the primary advantage of using the offset tool over drawing two separate circles?",
+    "options": [
+      "It creates smoother curves",
+      "It automatically maintains concentric relationship",
+      "It uses less memory",
+      "It creates more accurate dimensions"
+    ],
+    "answer": "It automatically maintains concentric relationship"
+  },
+  {
+    "question": "Where is the circle pattern tool located in the CAD interface?",
+    "options": [
+      "Dimension toolbar",
+      "Create section",
+      "Modify section",
+      "Sketch palette"
+    ],
+    "answer": "Create section"
+  },
+  {
+    "question": "What happens when you trim a line that was created using the offset tool?",
+    "options": [
+      "The dimensions are automatically updated",
+      "Nothing changes",
+      "Both circles disappear",
+      "The constraint relationship is lost"
+    ],
+    "answer": "The constraint relationship is lost"
+  },
+  {
+    "question": "True or False: The trim tool can be used to clean up drawings for better visibility.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What type of pattern creates a grid-like arrangement of features?",
+    "options": [
+      "Linear pattern",
+      "Mirror pattern",
+      "Circle pattern",
+      "Rectangular pattern"
+    ],
+    "answer": "Rectangular pattern"
+  },
+  {
+    "question": "Which tool is described as \"the exact opposite of trim\"?",
+    "options": [
+      "Pattern",
+      "Mirror",
+      "Extend",
+      "Offset"
+    ],
+    "answer": "Extend"
+  },
+  {
+    "question": "When creating keys on a washer, what angle spacing is used for three keys?",
+    "options": [
+      "360 degrees",
+      "90 degrees",
+      "180 degrees",
+      "120 degrees"
+    ],
+    "answer": "120 degrees"
+  },
+  {
+    "question": "What constraint is automatically created when using the offset tool?",
+    "options": [
+      "Horizontal constraint",
+      "Tangent constraint",
+      "Concentric constraint",
+      "Vertical constraint"
+    ],
+    "answer": "Concentric constraint"
+  },
+  {
+    "question": "True or False: Construction lines can still be used as reference points for constraints.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the main purpose of cleaning up drawings with trim and extend tools?",
+    "options": [
+      "To speed up processing",
+      "To improve visibility and ease of modification",
+      "To reduce file size",
+      "To increase accuracy"
+    ],
+    "answer": "To improve visibility and ease of modification"
+  },
+  {
+    "question": "Which method requires manually managing constraints between circles?",
+    "options": [
+      "Using construction lines",
+      "Using the mirror tool",
+      "Drawing two separate circles with dimensions",
+      "Using the offset tool"
+    ],
+    "answer": "Drawing two separate circles with dimensions"
+  },
+  {
+    "question": "What happens to the inner circle dimension when the outer circle dimension is changed using the offset method?",
+    "options": [
+      "It becomes undefined",
+      "It changes proportionally",
+      "It remains unchanged",
+      "It maintains the offset relationship"
+    ],
+    "answer": "It maintains the offset relationship"
+  },
+  {
+    "question": "True or False: The extend tool can be used to connect separate profiles.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the recommended approach for creating symmetrical features like keys?",
+    "options": [
+      "Use only circle patterns",
+      "Draw complete shapes and then trim",
+      "Draw each feature individually",
+      "Draw half and use mirror tool"
+    ],
+    "answer": "Draw half and use mirror tool"
+  },
+  {
+    "question": "Which tool allows you to specify both quantity and distribution angle for patterns?",
+    "options": [
+      "Mirror pattern",
+      "Circle pattern",
+      "Linear pattern",
+      "Rectangular pattern"
+    ],
+    "answer": "Circle pattern"
+  }
+]

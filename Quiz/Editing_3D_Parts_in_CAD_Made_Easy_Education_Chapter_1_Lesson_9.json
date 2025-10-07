@@ -1,0 +1,168 @@
+[
+  {
+    "question": "What is the primary purpose of the timeline in CAD software?",
+    "options": [
+      "To display a step-by-step process of how the design was created",
+      "To show the file size of the CAD project",
+      "To indicate the number of features in the design",
+      "To show the rendering quality settings"
+    ],
+    "answer": "To display a step-by-step process of how the design was created"
+  },
+  {
+    "question": "How can you access sketch editing in CAD?",
+    "options": [
+      "Only through the timeline",
+      "Only through the File menu",
+      "By pressing Ctrl+E",
+      "By right-clicking in the tree structure and selecting \"Edit Sketch\""
+    ],
+    "answer": "By right-clicking in the tree structure and selecting \"Edit Sketch\""
+  },
+  {
+    "question": "What happens to later features when you edit a sketch?",
+    "options": [
+      "They move to a different layer",
+      "They become highlighted",
+      "They become grayed out",
+      "They disappear completely"
+    ],
+    "answer": "They become grayed out"
+  },
+  {
+    "question": "What is parametric design in CAD?",
+    "options": [
+      "The process of adding dimensions to sketches",
+      "The method of organizing CAD files",
+      "The ability to create 3D models from 2D sketches",
+      "The ability to make modifications that automatically carry through to the 3D object"
+    ],
+    "answer": "The ability to make modifications that automatically carry through to the 3D object"
+  },
+  {
+    "question": "Which tool adds rounded corners to edges?",
+    "options": [
+      "Shell",
+      "Fillet",
+      "Extrude",
+      "Chamfer"
+    ],
+    "answer": "Fillet"
+  },
+  {
+    "question": "What is the main difference between fillet and chamfer?",
+    "options": [
+      "There is no difference between them",
+      "Fillet only works on 2D sketches, chamfer works on 3D objects",
+      "Fillet creates rounded edges, chamfer creates straight edges",
+      "Fillet creates straight edges, chamfer creates rounded edges"
+    ],
+    "answer": "Fillet creates rounded edges, chamfer creates straight edges"
+  },
+  {
+    "question": "The shell tool is particularly useful for which application?",
+    "options": [
+      "Adding dimensions",
+      "Creating 2D sketches",
+      "Organizing files",
+      "CNC machining"
+    ],
+    "answer": "CNC machining"
+  },
+  {
+    "question": "What does the shell tool create?",
+    "options": [
+      "A straight edge",
+      "A solid block",
+      "A rounded corner",
+      "A pocket by offsetting walls"
+    ],
+    "answer": "A pocket by offsetting walls"
+  },
+  {
+    "question": "How can you modify a fillet after it's been created?",
+    "options": [
+      "By using the undo command",
+      "You cannot modify it after creation",
+      "By deleting and recreating it",
+      "By right-clicking on it in the timeline and selecting \"Edit Feature\""
+    ],
+    "answer": "By right-clicking on it in the timeline and selecting \"Edit Feature\""
+  },
+  {
+    "question": "What is the advantage of using shell instead of creating a sketch and cut extrude?",
+    "options": [
+      "Shell requires less computer memory",
+      "Shell works on more complex shapes",
+      "Shell is faster",
+      "Shell creates better quality results"
+    ],
+    "answer": "Shell is faster"
+  },
+  {
+    "question": "When you step backwards in the timeline, what happens to features created after that point?",
+    "options": [
+      "They move to a different file",
+      "They become grayed out",
+      "They become highlighted",
+      "They are deleted permanently"
+    ],
+    "answer": "They become grayed out"
+  },
+  {
+    "question": "What is the purpose of tool tips in the modify dropdown menu?",
+    "options": [
+      "To show keyboard shortcuts",
+      "To show rendering options",
+      "To provide descriptions of each tool's function",
+      "To display file information"
+    ],
+    "answer": "To provide descriptions of each tool's function"
+  },
+  {
+    "question": "True or False: You can only edit sketches by using the timeline.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Parametric design allows changes to automatically update throughout the entire 3D model.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens when you double-click on a dimension in sketch editing mode?",
+    "options": [
+      "The dimension becomes highlighted",
+      "The dimension is deleted",
+      "You can modify the dimension value",
+      "A new dimension is created"
+    ],
+    "answer": "You can modify the dimension value"
+  },
+  {
+    "question": "Which modify tool creates a 45-degree angled edge?",
+    "options": [
+      "Shell",
+      "Extrude",
+      "Fillet",
+      "Chamfer"
+    ],
+    "answer": "Chamfer"
+  },
+  {
+    "question": "What is the main benefit of having a robust sketch at the beginning?",
+    "options": [
+      "It renders faster",
+      "It makes the file smaller",
+      "It allows changes without everything failing",
+      "It looks more professional"
+    ],
+    "answer": "It allows changes without everything failing"
+  }
+]

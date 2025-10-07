@@ -1,0 +1,168 @@
+[
+  {
+    "question": "What is the primary goal when creating sketches in CAD software?",
+    "options": [
+      "To make sketches that are easy to move around",
+      "To create a fully defined black sketch with no blue objects",
+      "To make sketches as colorful as possible",
+      "To use as many constraints as possible"
+    ],
+    "answer": "To create a fully defined black sketch with no blue objects"
+  },
+  {
+    "question": "What keyboard shortcut is typically used for the Sketch Dimension tool?",
+    "options": [
+      "C",
+      "S",
+      "D",
+      "M"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "When you click on a circle with the Sketch Dimension tool, what type of dimension does it automatically create?",
+    "options": [
+      "Area calculation",
+      "Angle measurement",
+      "Linear distance",
+      "Diameter or radius"
+    ],
+    "answer": "Diameter or radius"
+  },
+  {
+    "question": "How do you edit an existing dimension in Fusion 360?",
+    "options": [
+      "Use the keyboard shortcut Ctrl+E",
+      "Double-click with the left mouse button",
+      "Press the Delete key",
+      "Right-click and select \"Edit\""
+    ],
+    "answer": "Double-click with the left mouse button"
+  },
+  {
+    "question": "What happens to your dimensions when you change the unit system in Document Settings?",
+    "options": [
+      "Nothing changes",
+      "They become invalid and must be recreated",
+      "They automatically convert to the new units",
+      "They disappear completely"
+    ],
+    "answer": "They automatically convert to the new units"
+  },
+  {
+    "question": "True or False: You can perform mathematical calculations directly within dimension values in Fusion 360.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What does a blue line in a sketch indicate?",
+    "options": [
+      "The line is selected for editing",
+      "The line is undefined and can still be moved",
+      "The line is locked in position",
+      "The line is fully defined and cannot be moved"
+    ],
+    "answer": "The line is undefined and can still be moved"
+  },
+  {
+    "question": "What is a \"profile\" in CAD sketching?",
+    "options": [
+      "A measurement tool",
+      "A type of constraint",
+      "A completely enclosed area that can be selected for 3D object creation",
+      "A user's personal settings"
+    ],
+    "answer": "A completely enclosed area that can be selected for 3D object creation"
+  },
+  {
+    "question": "What does the tangent constraint do?",
+    "options": [
+      "Makes lines perpendicular to each other",
+      "Makes two lines parallel to each other",
+      "Forces two points to occupy the same location",
+      "Creates a single point of contact between a line and circle"
+    ],
+    "answer": "Creates a single point of contact between a line and circle"
+  },
+  {
+    "question": "How many tangent lines can touch a single circle?",
+    "options": [
+      "None",
+      "Only one",
+      "Multiple lines from different directions",
+      "Exactly two"
+    ],
+    "answer": "Multiple lines from different directions"
+  },
+  {
+    "question": "What happens when you change a dimension in a well-designed parametric sketch?",
+    "options": [
+      "Nothing happens",
+      "The sketch becomes invalid",
+      "Only that specific element changes",
+      "All related geometry updates automatically"
+    ],
+    "answer": "All related geometry updates automatically"
+  },
+  {
+    "question": "Where is the Mirror tool located in Fusion 360?",
+    "options": [
+      "In the Modify menu",
+      "In the Create menu",
+      "In the Sketch menu",
+      "In the Constraints menu"
+    ],
+    "answer": "In the Create menu"
+  },
+  {
+    "question": "What does the coincident constraint do?",
+    "options": [
+      "Creates a tangent relationship",
+      "Makes two lines parallel",
+      "Forces two points to occupy the same location in space",
+      "Measures the distance between two points"
+    ],
+    "answer": "Forces two points to occupy the same location in space"
+  },
+  {
+    "question": "True or False: The Mirror tool is only available in Sketch mode.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the best way to test if a sketch is fully defined?",
+    "options": [
+      "Check the dimension values",
+      "Count the number of constraints",
+      "Try to drag the blue objects around",
+      "Look at the color of the lines"
+    ],
+    "answer": "Try to drag the blue objects around"
+  },
+  {
+    "question": "When using the Mirror tool, what do you need to select?",
+    "options": [
+      "The entire sketch",
+      "Only the mirror line",
+      "Only the object to mirror",
+      "Both the object to mirror and the mirror line"
+    ],
+    "answer": "Both the object to mirror and the mirror line"
+  },
+  {
+    "question": "What unit conversion feature is available when typing dimension values?",
+    "options": [
+      "Only metric to imperial conversion is supported",
+      "You must manually calculate conversions",
+      "You can type units directly (e.g., \"150mm\" when in inches)",
+      "No unit conversion is available"
+    ],
+    "answer": "You can type units directly (e.g., \"150mm\" when in inches)"
+  }
+]

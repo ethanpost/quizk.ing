@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the main purpose of adding dimension to CAD parts?",
+    "options": [
+      "To improve rendering speed",
+      "To reduce file size",
+      "To create 3D features and complexity",
+      "To make them look more professional"
+    ],
+    "answer": "To create 3D features and complexity"
+  },
+  {
+    "question": "What are the two key operations available in the extrude process?",
+    "options": [
+      "Create and delete",
+      "Join and cut",
+      "Build and destroy",
+      "Add and remove"
+    ],
+    "answer": "Join and cut"
+  },
+  {
+    "question": "What does the join operation do in CAD?",
+    "options": [
+      "Creates a new sketch",
+      "Removes material from a body",
+      "Connects two separate bodies",
+      "Adds material to an existing body"
+    ],
+    "answer": "Adds material to an existing body"
+  },
+  {
+    "question": "What does the cut operation do in CAD?",
+    "options": [
+      "Creates construction lines",
+      "Divides a body into two parts",
+      "Adds material to an existing body",
+      "Subtracts material from an existing body"
+    ],
+    "answer": "Subtracts material from an existing body"
+  },
+  {
+    "question": "Where should you create a sketch when adding 3D features to an existing part?",
+    "options": [
+      "In a separate file",
+      "On construction lines",
+      "On the actual object surface",
+      "On the origin planes"
+    ],
+    "answer": "On the actual object surface"
+  },
+  {
+    "question": "What indicates that a sketch is fully constrained and robust?",
+    "options": [
+      "All lines turn red",
+      "All lines turn green",
+      "All lines turn black",
+      "All lines turn blue"
+    ],
+    "answer": "All lines turn black"
+  },
+  {
+    "question": "In the demonstration, what diameter was set for the holes?",
+    "options": [
+      "15 mm",
+      "20 mm",
+      "10 mm",
+      "12 mm"
+    ],
+    "answer": "12 mm"
+  },
+  {
+    "question": "What happens to the sketch after a successful extrude operation?",
+    "options": [
+      "It becomes editable",
+      "It disappears",
+      "It turns red",
+      "It remains visible"
+    ],
+    "answer": "It disappears"
+  },
+  {
+    "question": "When using the join operation, what happens to the number of bodies?",
+    "options": [
+      "The body is deleted",
+      "It remains one unified body",
+      "The number of bodies increases",
+      "A new body is created"
+    ],
+    "answer": "It remains one unified body"
+  },
+  {
+    "question": "How do you re-show a sketch that has disappeared after an extrude operation?",
+    "options": [
+      "Right-click and select \"show\"",
+      "Double-click the body",
+      "Click the eyeball icon",
+      "Press Ctrl+Z"
+    ],
+    "answer": "Click the eyeball icon"
+  },
+  {
+    "question": "What happens when you drag the extrude direction upward?",
+    "options": [
+      "The operation is cancelled",
+      "Nothing changes",
+      "It switches to join operation",
+      "It switches to cut operation"
+    ],
+    "answer": "It switches to join operation"
+  },
+  {
+    "question": "What color indicates a cut operation is being performed?",
+    "options": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "answer": "Red"
+  },
+  {
+    "question": "What angle was set between the construction lines in the demonstration?",
+    "options": [
+      "90 degrees",
+      "30 degrees",
+      "60 degrees",
+      "45 degrees"
+    ],
+    "answer": "45 degrees"
+  },
+  {
+    "question": "What is the purpose of construction lines in CAD sketching?",
+    "options": [
+      "To separate features",
+      "To create holes",
+      "For dimensioning and constraints",
+      "To add visual appeal"
+    ],
+    "answer": "For dimensioning and constraints"
+  },
+  {
+    "question": "When multiple bodies exist, what can you select in the extrude operation?",
+    "options": [
+      "Only the first body",
+      "Which object to cut or not cut",
+      "All bodies automatically",
+      "Only the last body"
+    ],
+    "answer": "Which object to cut or not cut"
+  },
+  {
+    "question": "What does it mean when the instructor says \"everything is now robust\"?",
+    "options": [
+      "The operation is complete",
+      "The material is thick",
+      "The design is strong",
+      "The sketch is fully constrained"
+    ],
+    "answer": "The sketch is fully constrained"
+  }
+]

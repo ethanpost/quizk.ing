@@ -1,0 +1,138 @@
+[
+  {
+    "question": "What is the main focus of this CAD lesson?",
+    "options": [
+      "Understanding assembly design principles",
+      "Working with construction lines only",
+      "Mastering advanced 3D creation tools like revolve, sweep, and loft",
+      "Learning basic sketching techniques"
+    ],
+    "answer": "Mastering advanced 3D creation tools like revolve, sweep, and loft"
+  },
+  {
+    "question": "Which tool is primarily demonstrated in this lesson?",
+    "options": [
+      "Loft",
+      "Revolve",
+      "Sweep",
+      "Extrude"
+    ],
+    "answer": "Revolve"
+  },
+  {
+    "question": "What type of line is required as an axis for the revolve feature?",
+    "options": [
+      "Center line",
+      "Regular sketch line",
+      "Dimension line",
+      "Construction line"
+    ],
+    "answer": "Construction line"
+  },
+  {
+    "question": "What happens when there is space between the construction line and the sketch profile?",
+    "options": [
+      "An error message appears",
+      "The revolve operation fails",
+      "A void or cylinder is created inside",
+      "A solid object is created"
+    ],
+    "answer": "A void or cylinder is created inside"
+  },
+  {
+    "question": "What angle setting creates a full 3D part in the revolve feature?",
+    "options": [
+      "Full",
+      "270 degrees",
+      "90 degrees",
+      "180 degrees"
+    ],
+    "answer": "Full"
+  },
+  {
+    "question": "True or False: The revolve feature is only used for creating cylindrical objects.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the recommended approach for improving CAD skills according to the lesson?",
+    "options": [
+      "Taking detailed measurements with calipers",
+      "Watching more tutorial videos",
+      "Reading advanced CAD manuals",
+      "Practicing with simple household objects"
+    ],
+    "answer": "Practicing with simple household objects"
+  },
+  {
+    "question": "Which objects are specifically mentioned as good practice items?",
+    "options": [
+      "Car parts and engine components",
+      "Computer mouse and keyboard",
+      "Kleenex box and door knob",
+      "Furniture and appliances"
+    ],
+    "answer": "Kleenex box and door knob"
+  },
+  {
+    "question": "What must be mastered before advancing to Chapter 2?",
+    "options": [
+      "Professional design standards",
+      "Advanced assembly techniques",
+      "All CAD software features",
+      "Chapter 1 concepts and skills"
+    ],
+    "answer": "Chapter 1 concepts and skills"
+  },
+  {
+    "question": "What is the main topic of the next chapter?",
+    "options": [
+      "Construction line applications",
+      "Basic sketching fundamentals",
+      "Advanced revolve techniques",
+      "Designing with intent and complex assemblies"
+    ],
+    "answer": "Designing with intent and complex assemblies"
+  },
+  {
+    "question": "True or False: Precision measurements are required when practicing CAD skills with household objects.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens when the sketch profile touches the construction line?",
+    "options": [
+      "The revolve operation stops",
+      "An error occurs",
+      "A solid object is created",
+      "A void is created"
+    ],
+    "answer": "A solid object is created"
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a 3D creation tool in this lesson?",
+    "options": [
+      "Revolve",
+      "Fillet",
+      "Loft",
+      "Extrude"
+    ],
+    "answer": "Fillet"
+  },
+  {
+    "question": "What is the primary purpose of the construction line in the revolve feature?",
+    "options": [
+      "To establish the work plane",
+      "To define the sketch boundaries",
+      "To serve as the axis of rotation",
+      "To create dimensional constraints"
+    ],
+    "answer": "To serve as the axis of rotation"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What is the primary difficulty mentioned when starting out in CAD?",
+    "options": [
+      "Learning keyboard shortcuts",
+      "Creating accurate sketches",
+      "Knowing where tools are located",
+      "Understanding complex tool functions"
+    ],
+    "answer": "Knowing where tools are located"
+  },
+  {
+    "question": "What are the two interchangeable terms used for the interface element containing CAD tools?",
+    "options": [
+      "Interface and Console",
+      "Menu and Panel",
+      "Palette and Window",
+      "Toolbar and Ribbon"
+    ],
+    "answer": "Toolbar and Ribbon"
+  },
+  {
+    "question": "Where is the toolbar/ribbon located in the Fusion interface?",
+    "options": [
+      "Bottom right corner",
+      "Top left corner",
+      "Bottom left corner",
+      "Top right corner"
+    ],
+    "answer": "Top left corner"
+  },
+  {
+    "question": "Which of the following is NOT one of the main menus in the toolbar?",
+    "options": [
+      "Modify",
+      "Create",
+      "Design",
+      "Automate"
+    ],
+    "answer": "Design"
+  },
+  {
+    "question": "What tabs appear above the main menus in the toolbar?",
+    "options": [
+      "File, Edit, View, Help",
+      "Draw, Edit, View, Tools",
+      "Sketch, Dimension, Constrain, Inspect",
+      "Solid, Surface, Mesh, Sheet Metal"
+    ],
+    "answer": "Solid, Surface, Mesh, Sheet Metal"
+  },
+  {
+    "question": "What is the recommended first step for building any part in Autodesk Fusion?",
+    "options": [
+      "Create Revolve",
+      "Create Sweep",
+      "Create Sketch",
+      "Create Extrude"
+    ],
+    "answer": "Create Sketch"
+  },
+  {
+    "question": "What happens when you hover over a tool in the toolbar?",
+    "options": [
+      "The tool is automatically selected",
+      "A menu opens with options",
+      "A quick dialogue description appears",
+      "The tool becomes highlighted"
+    ],
+    "answer": "A quick dialogue description appears"
+  },
+  {
+    "question": "What feature allows you to add frequently used tools to the main toolbar for quick access?",
+    "options": [
+      "Quick Access Toolbar",
+      "Pin to Toolbar",
+      "Add to Favorites",
+      "Customize Ribbon"
+    ],
+    "answer": "Pin to Toolbar"
+  },
+  {
+    "question": "When are sketch tools like lines, circles, and constraints NOT visible in the interface?",
+    "options": [
+      "When using keyboard shortcuts",
+      "When in timeline mode",
+      "When actively sketching",
+      "When not actively sketching"
+    ],
+    "answer": "When not actively sketching"
+  },
+  {
+    "question": "What appears when you create an active sketch and select a plane?",
+    "options": [
+      "A new \"Tools\" tab",
+      "A new \"Create\" tab",
+      "A new \"Design\" tab",
+      "A new \"Sketch\" tab"
+    ],
+    "answer": "A new \"Sketch\" tab"
+  },
+  {
+    "question": "Where does the sketch palette appear when in sketch mode?",
+    "options": [
+      "Bottom of interface",
+      "Top of interface",
+      "Right side of interface",
+      "Left side of interface"
+    ],
+    "answer": "Right side of interface"
+  },
+  {
+    "question": "What is a common mistake users make that causes sketch tools to disappear?",
+    "options": [
+      "Accidentally clicking \"Delete Sketch\"",
+      "Accidentally clicking \"Create Sketch\"",
+      "Accidentally clicking \"Edit Sketch\"",
+      "Accidentally clicking \"Finish Sketch\""
+    ],
+    "answer": "Accidentally clicking \"Finish Sketch\""
+  },
+  {
+    "question": "What are the two methods to reopen a finished sketch?",
+    "options": [
+      "Right-click method and Double-click method",
+      "Browser method and Menu method",
+      "Browser/Tree method and Timeline method",
+      "Tree method and Timeline method"
+    ],
+    "answer": "Browser/Tree method and Timeline method"
+  },
+  {
+    "question": "Where is the timeline/roadmap located in the CAD interface?",
+    "options": [
+      "Top right corner",
+      "Bottom right corner",
+      "Top left corner",
+      "Bottom left corner"
+    ],
+    "answer": "Bottom left corner"
+  },
+  {
+    "question": "What does the timeline/roadmap show?",
+    "options": [
+      "Available keyboard shortcuts",
+      "Current tool settings",
+      "Future actions to be performed",
+      "History of all actions performed to create the current model"
+    ],
+    "answer": "History of all actions performed to create the current model"
+  },
+  {
+    "question": "What happens when you move the timeline marker before a sketch in the history?",
+    "options": [
+      "The sketch becomes editable",
+      "The sketch disappears from the tree as if it never existed",
+      "The sketch becomes highlighted",
+      "The sketch is deleted permanently"
+    ],
+    "answer": "The sketch disappears from the tree as if it never existed"
+  },
+  {
+    "question": "What is the primary benefit of using the timeline for editing?",
+    "options": [
+      "It enables automatic error detection",
+      "It makes sketches load faster",
+      "It allows corrections without starting completely from scratch",
+      "It provides better tool organization"
+    ],
+    "answer": "It allows corrections without starting completely from scratch"
+  }
+]
