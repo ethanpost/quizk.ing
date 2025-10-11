@@ -170,6 +170,7 @@
     "name": "5th Grade Assessment",
     "file": "Assessment_001_5th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_05/Assessment_001_5th_Grade.md",
+    "folder": "Assessments",
     "author": "Ethan Post",
     "subjects": ["Assessment"]
   },
@@ -177,6 +178,7 @@
     "name": "6th Grade Assessment",
     "file": "Assessment_001_6th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_06/Assessment_001_6th_Grade.md",
+    "folder": "Assessments",
     "author": "Ethan Post",
     "subjects": ["Assessment"]
   },
@@ -184,6 +186,7 @@
     "name": "7th Grade Assessment",
     "file": "Assessment_001_7th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_07/Assessment_001_7th_Grade.md",
+    "folder": "Assessments",
     "author": "Ethan Post",
     "subjects": ["Assessment"]
   },
@@ -191,6 +194,7 @@
     "name": "9th Grade Assessment",
     "file": "Assessment_001_9th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_09/Assessment_001_9th_Grade.md",
+    "folder": "Assessments",
     "author": "Ethan Post",
     "subjects": ["Assessment"]
   },
@@ -198,6 +202,7 @@
     "name": "11th Grade Assessment",
     "file": "Assessment_001_11th_Grade.json",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Assessments/Grade_11/Assessment_001_11th_Grade.md",
+    "folder": "Assessments",
     "author": "Ethan Post",
     "subjects": ["Assessment"]
   },
@@ -286,6 +291,7 @@
     "file": "Fab_Academy_Class_01_Project_Management.json",
     "url": "https://www.youtube.com/watch?v=61sHlAc48F4",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_01_Project_Management.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -294,6 +300,7 @@
     "file": "Fab_Academy_Class_02_CAD_Tools.json",
     "url": "https://www.youtube.com/watch?v=-VG06B7RBgc",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_02_Computer_Aided_Design_CAD_Tools.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -302,6 +309,7 @@
     "file": "Fab_Academy_Class_03_Computer_Controlled_Cutting.json",
     "url": "https://www.youtube.com/watch?v=snNmLoBYV4w",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_03_Computer_Controlled_Cutting.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -310,6 +318,7 @@
     "file": "Fab_Academy_Class_04_Embedded_Programming.json",
     "url": "https://www.youtube.com/watch?v=saGrn6gVon8",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_04_Embedded_Programming.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -318,6 +327,7 @@
     "file": "Fab_Academy_Class_05_3D_Scanning_and_Printing.json",
     "url": "https://www.youtube.com/watch?v=AHBIeRzd8rI",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_05_3D_Scanning_and_Printing.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -326,6 +336,7 @@
     "file": "Fab_Academy_Class_06_Electronics_Design.json",
     "url": "https://www.youtube.com/watch?v=_BXuUTGGNpk",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_06_Electronics_Design.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -334,6 +345,7 @@
     "file": "Fab_Academy_Class_07_Computer_Controlled_Machining.json",
     "url": "https://www.youtube.com/watch?v=AIqKrTWyRGw",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_07_Computer_Controlled_Machining.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -342,6 +354,7 @@
     "file": "Fab_Academy_Class_07.5_Electronics_Production.json",
     "url": "https://www.youtube.com/watch?v=Erx03eDmdzk",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_07.5_Electronics_Production.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -350,6 +363,7 @@
     "file": "Fab_Academy_Class_08_Mastering_Input_Devices.json",
     "url": "https://www.youtube.com/watch?v=xO0Dt3ih_hA",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_08_Mastering_Input_Devices.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -358,6 +372,7 @@
     "file": "Fab_Academy_Class_09_Mastering_Output_Devices.json",
     "url": "https://www.youtube.com/watch?v=Go71oRBcG-E",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_09_Mastering_Output_Devices.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -366,6 +381,7 @@
     "file": "Fab_Academy_Class_10_Mastering_Networking_and_Communications.json",
     "url": "https://www.youtube.com/watch?v=ucIDuhC_mLA",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_10_Mastering_Networking_and_Communications.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -374,6 +390,7 @@
     "file": "Fab_Academy_Class_11_Mastering_Mechanical_and_Machine_Design.json",
     "url": "https://www.youtube.com/watch?v=14I2-qX5a4g",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_11_Mastering_Mechanical_and_Machine_Design.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -382,6 +399,7 @@
     "file": "Fab_Academy_Class_12_Mastering_Molding_and_Casting.json",
     "url": "https://www.youtube.com/watch?v=rbwrFknh_Y0",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_12_Mastering_Molding_and_Casting.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -390,6 +408,7 @@
     "file": "Fab_Academy_Class_13_Interface_and_Application_Programming.json",
     "url": "https://www.youtube.com/watch?v=2baDZPkYvc0",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_13_Interface_and_Application_Programming.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -398,6 +417,7 @@
     "file": "Fab_Academy_Class_14_Mastering_System_Integration.json",
     "url": "https://www.youtube.com/watch?v=HKPeZZkqRhQ",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_14_Mastering_System_Integration.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -406,6 +426,7 @@
     "file": "Fab_Academy_Class_14.5_Explore_The_Unexpected.json",
     "url": "https://www.youtube.com/watch?v=sMPNtGyQEUQ",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Fab_Academy/2025_Class_14.5_Explore_The_Unexpected.md",
+    "folder": "Fab_Academy",
     "author": "Fab Academy",
     "subjects": ["Engineering", "Fabrication"]
   },
@@ -875,5 +896,14 @@
     "folder": "Send_Cut_Send",
     "author": "Send Cut Send",
     "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "What WWII Submarines Can Teach About Leadership and Teamwork",
+    "file": "What_WWII_Submarines_Can_Teach_About_Leadership_and_Teamwork.json",
+    "url": "https://www.youtube.com/watch?v=3Ejs-SatFbo",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/TREX_Labs/What_WWII_Submarines_Can_Teach_About_Leadership_and_Teamwork.md",
+    "folder": "TREX_Labs",
+    "author": "TREX Labs",
+    "subjects": ["History", "Leadership"]
   }
 ]
