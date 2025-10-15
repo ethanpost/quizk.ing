@@ -905,5 +905,14 @@
     "folder": "TREX_Labs",
     "author": "TREX Labs",
     "subjects": ["History", "Leadership"]
+  },
+  {
+    "name": "How to Reverse Engineer Parts in CAD - Education Chapter 2 Lesson 1",
+    "file": "How_to_Reverse_Engineer_Parts_in_CAD_Education_Chapter_2_Lesson_1.json",
+    "url": "https://www.youtube.com/watch?v=txfu_dvbf-Q",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-01-How_to_Reverse_Engineer_Parts_in_CAD_-_Education_Chapter_2_Lesson_1.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
   }
 ]

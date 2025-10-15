@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main purpose of reverse engineering in CAD?",
+    "options": [
+      "To improve manufacturing processes",
+      "To analyze existing parts and recreate them in CAD",
+      "To create entirely new designs from scratch",
+      "To reduce material costs"
+    ],
+    "answer": "To analyze existing parts and recreate them in CAD"
+  },
+  {
+    "question": "What type of circuit board is used as the reference part in this lesson?",
+    "options": [
+      "ESP32",
+      "Arduino Mega",
+      "Arduino Uno",
+      "Raspberry Pi"
+    ],
+    "answer": "Arduino Uno"
+  },
+  {
+    "question": "What manufacturing method is chosen for this project?",
+    "options": [
+      "Injection molding",
+      "3D printing",
+      "Laser cutting",
+      "CNC machining"
+    ],
+    "answer": "3D printing"
+  },
+  {
+    "question": "What is the primary reason for choosing 3D printing for this project?",
+    "options": [
+      "It's the fastest manufacturing method",
+      "It produces the highest quality parts",
+      "It has fewer manufacturing rules and constraints",
+      "It's the cheapest manufacturing method"
+    ],
+    "answer": "It has fewer manufacturing rules and constraints"
+  },
+  {
+    "question": "What measurement tool is primarily used in this lesson?",
+    "options": [
+      "Micrometer",
+      "Tape measure",
+      "Caliper",
+      "Ruler"
+    ],
+    "answer": "Caliper"
+  },
+  {
+    "question": "How many mounting holes does the Arduino Uno have?",
+    "options": [
+      "Six",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "When measuring hole positions, what should you add to the edge-to-hole measurement to find the center?",
+    "options": [
+      "Half the diameter",
+      "The circumference",
+      "The diameter",
+      "The radius"
+    ],
+    "answer": "The radius"
+  },
+  {
+    "question": "What is the correct method for measuring center-to-center distance between two holes?",
+    "options": [
+      "Measure from center to center directly",
+      "Measure from inside edge to inside edge and add both radii",
+      "Estimate by eye",
+      "Measure from outside edge to outside edge"
+    ],
+    "answer": "Measure from inside edge to inside edge and add both radii"
+  },
+  {
+    "question": "Which online platforms are mentioned for finding existing CAD models?",
+    "options": [
+      "Fusion 360 and Inventor",
+      "AutoCAD and SolidWorks",
+      "GrabCAD and Thingiverse",
+      "GitHub and Stack Overflow"
+    ],
+    "answer": "GrabCAD and Thingiverse"
+  },
+  {
+    "question": "What file format is typically downloaded from online CAD repositories?",
+    "options": [
+      "PDF file",
+      "DWG file",
+      "STEP file",
+      "STL file"
+    ],
+    "answer": "STEP file"
+  },
+  {
+    "question": "In Fusion 360, where do you upload downloaded CAD files?",
+    "options": [
+      "Browser panel",
+      "Data panel",
+      "Timeline panel",
+      "Sketch panel"
+    ],
+    "answer": "Data panel"
+  },
+  {
+    "question": "What does the instructor recommend regarding detailed measurements?",
+    "options": [
+      "Use automated scanning tools",
+      "Always measure every single detail",
+      "Only measure when absolutely necessary",
+      "Hire professional measurement services"
+    ],
+    "answer": "Only measure when absolutely necessary"
+  },
+  {
+    "question": "What is the key advice given about the reverse engineering process?",
+    "options": [
+      "Use only digital tools",
+      "Always use the most expensive tools",
+      "Measure everything multiple times",
+      "Don't overthink the process"
+    ],
+    "answer": "Don't overthink the process"
+  },
+  {
+    "question": "What color should all features be in a properly defined CAD sketch?",
+    "options": [
+      "Green",
+      "Black",
+      "Red",
+      "Blue"
+    ],
+    "answer": "Black"
+  },
+  {
+    "question": "What are the essential measurements needed for the Arduino Uno board?",
+    "options": [
+      "Only the mounting holes",
+      "Every component on the board",
+      "Outer dimensions and mounting hole details",
+      "Only the outer dimensions"
+    ],
+    "answer": "Outer dimensions and mounting hole details"
+  }
+]

@@ -8,6 +8,12 @@ Be sure to add a final master answer key to the questions at the end of the file
 
 You often use a common letter like B for all of the answers. Make sure the correct answers include As, Bs, Cs, and Ds.
 
+The header should look like this:
+
+    ## [Title of the video](https://www.youtube.com/watch?v=example-video-id)
+
+    ### Take the quiz [here](https://ethanpost.github.io/quizk.ing) by searching for the title.
+
 1. Generate a detailed outline that includes major and minor points from the material in the transcript. Make sure to conclude the outline with a detailed list of terms and thier definitions. Outlines should follow the format of the following example:
 
 ## Ancient Egypt Overview
