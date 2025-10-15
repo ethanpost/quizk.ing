@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main purpose of using joints in CAD assemblies?",
+    "options": [
+      "To reduce file size",
+      "To create references between components",
+      "To improve rendering quality",
+      "To speed up calculations"
+    ],
+    "answer": "To create references between components"
+  },
+  {
+    "question": "Why is it recommended to create a separate main file for the assembly instead of building around the original Arduino?",
+    "options": [
+      "To reduce file complexity",
+      "To allow sharing the Arduino across multiple assemblies",
+      "To improve performance",
+      "To save disk space"
+    ],
+    "answer": "To allow sharing the Arduino across multiple assemblies"
+  },
+  {
+    "question": "Where is the Insert Component command located in Fusion 360?",
+    "options": [
+      "Create menu",
+      "Insert menu",
+      "Modify menu",
+      "Assemble menu"
+    ],
+    "answer": "Insert menu"
+  },
+  {
+    "question": "What does the chain link icon indicate when right-clicking on a component?",
+    "options": [
+      "The component is locked",
+      "The component has a link back to the original file",
+      "The component is corrupted",
+      "The component is hidden"
+    ],
+    "answer": "The component has a link back to the original file"
+  },
+  {
+    "question": "What happens when you click \"Break Link\" on a component?",
+    "options": [
+      "The component is deleted",
+      "The two files are severed and changes won't propagate",
+      "The component is duplicated",
+      "The component is moved to a new location"
+    ],
+    "answer": "The two files are severed and changes won't propagate"
+  },
+  {
+    "question": "What does \"Unground from Parent\" do?",
+    "options": [
+      "Deletes the component",
+      "Removes initial positioning constraints",
+      "Creates a copy of the component",
+      "Hides the component"
+    ],
+    "answer": "Removes initial positioning constraints"
+  },
+  {
+    "question": "What is the quick key shortcut for the Joint command?",
+    "options": [
+      "J",
+      "K",
+      "L",
+      "M"
+    ],
+    "answer": "J"
+  },
+  {
+    "question": "What does a Rigid joint do?",
+    "options": [
+      "Allows free rotation",
+      "Allows sliding motion",
+      "Locks components together with no motion",
+      "Creates flexible connections"
+    ],
+    "answer": "Locks components together with no motion"
+  },
+  {
+    "question": "What are the two main tabs in the Joint dialog box?",
+    "options": [
+      "Motion and Position",
+      "Size and Shape",
+      "Color and Material",
+      "Speed and Direction"
+    ],
+    "answer": "Motion and Position"
+  },
+  {
+    "question": "What happens to the Arduino after selecting the first point for a joint?",
+    "options": [
+      "It disappears",
+      "It turns red",
+      "It grays out",
+      "It doubles in size"
+    ],
+    "answer": "It grays out"
+  },
+  {
+    "question": "Why does the Arduino gray out after the first joint selection?",
+    "options": [
+      "It's being processed",
+      "You can't select another point on the same component",
+      "It's being deleted",
+      "It's being copied"
+    ],
+    "answer": "You can't select another point on the same component"
+  },
+  {
+    "question": "What must be visible to properly select the origin for joint positioning?",
+    "options": [
+      "The component tree",
+      "The timeline",
+      "The origin",
+      "The browser"
+    ],
+    "answer": "The origin"
+  },
+  {
+    "question": "What appears in the history after creating a joint?",
+    "options": [
+      "A sketch",
+      "A joint entry",
+      "A body",
+      "A component"
+    ],
+    "answer": "A joint entry"
+  },
+  {
+    "question": "What appears in the component tree after creating a joint?",
+    "options": [
+      "A new body",
+      "A relationship entry",
+      "A sketch",
+      "A material"
+    ],
+    "answer": "A relationship entry"
+  },
+  {
+    "question": "What is the next step after successfully creating the joint?",
+    "options": [
+      "Delete the Arduino",
+      "Create offset planes and start building the box",
+      "Add more components",
+      "Render the assembly"
+    ],
+    "answer": "Create offset planes and start building the box"
+  }
+]

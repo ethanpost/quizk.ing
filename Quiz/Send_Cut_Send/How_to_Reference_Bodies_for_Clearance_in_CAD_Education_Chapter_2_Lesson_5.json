@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main purpose of referencing bodies in CAD?",
+    "options": [
+      "To reduce file size",
+      "To ensure proper clearance for assembly",
+      "To improve rendering",
+      "To speed up calculations"
+    ],
+    "answer": "To ensure proper clearance for assembly"
+  },
+  {
+    "question": "What components are missing from the bottom box?",
+    "options": [
+      "Only mounting holes",
+      "Charge port holes, USB holes, and standoff pads",
+      "Only USB holes",
+      "Only charge port holes"
+    ],
+    "answer": "Charge port holes, USB holes, and standoff pads"
+  },
+  {
+    "question": "What line type is used initially when creating mounting pads?",
+    "options": [
+      "Solid lines",
+      "Construction lines",
+      "Dashed lines",
+      "Hidden lines"
+    ],
+    "answer": "Construction lines"
+  },
+  {
+    "question": "Why are construction lines used for mounting pad creation?",
+    "options": [
+      "They look better",
+      "They won't affect the extrusion process",
+      "They are easier to see",
+      "They are required by the software"
+    ],
+    "answer": "They won't affect the extrusion process"
+  },
+  {
+    "question": "How many mounting holes are offset for the Arduino?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "What offset distance is used for the mounting holes?",
+    "options": [
+      "0.020 inches",
+      "0.025 inches",
+      "0.125 inches",
+      "0.250 inches"
+    ],
+    "answer": "0.025 inches"
+  },
+  {
+    "question": "What is one of the mounting holes actually used for?",
+    "options": [
+      "USB port",
+      "Charge port",
+      "Push button reference for lid",
+      "Reset button"
+    ],
+    "answer": "Push button reference for lid"
+  },
+  {
+    "question": "What key is held while selecting multiple lines?",
+    "options": [
+      "Ctrl",
+      "Alt",
+      "Shift",
+      "Tab"
+    ],
+    "answer": "Shift"
+  },
+  {
+    "question": "What extend type is used for mounting pad extrusion?",
+    "options": [
+      "Distance",
+      "To Object",
+      "Through All",
+      "To Next"
+    ],
+    "answer": "To Object"
+  },
+  {
+    "question": "What happens if the Arduino height changes?",
+    "options": [
+      "The pads break",
+      "The pads automatically adjust",
+      "The pads disappear",
+      "The pads become misaligned"
+    ],
+    "answer": "The pads automatically adjust"
+  },
+  {
+    "question": "What clearance is recommended for USB and charge ports?",
+    "options": [
+      "0.010 inches",
+      "0.020 inches",
+      "0.030 inches",
+      "0.040 inches"
+    ],
+    "answer": "0.020 inches"
+  },
+  {
+    "question": "What feature is used to create the port cutouts?",
+    "options": [
+      "Join",
+      "Cut",
+      "Intersect",
+      "Combine"
+    ],
+    "answer": "Cut"
+  },
+  {
+    "question": "What dropdown menu is important when using cut features?",
+    "options": [
+      "Operation Type",
+      "Objects to Cut",
+      "Direction",
+      "Distance"
+    ],
+    "answer": "Objects to Cut"
+  },
+  {
+    "question": "How can you protect other bodies from being accidentally cut?",
+    "options": [
+      "Delete them",
+      "Hide them",
+      "Lock them",
+      "Move them"
+    ],
+    "answer": "Hide them"
+  },
+  {
+    "question": "What is the next step after completing the bottom box?",
+    "options": [
+      "Delete the Arduino",
+      "Add the top lid to the assembly",
+      "Change the material",
+      "Render the part"
+    ],
+    "answer": "Add the top lid to the assembly"
+  }
+]

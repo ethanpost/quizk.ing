@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main purpose of creating a lid component?",
+    "options": [
+      "To reduce material usage",
+      "To create a component with reference to another component",
+      "To improve aesthetics",
+      "To reduce manufacturing time"
+    ],
+    "answer": "To create a component with reference to another component"
+  },
+  {
+    "question": "What design consideration is addressed by creating ventilation?",
+    "options": [
+      "Aesthetics",
+      "PCBs create heat that needs to escape",
+      "Weight reduction",
+      "Cost savings"
+    ],
+    "answer": "PCBs create heat that needs to escape"
+  },
+  {
+    "question": "What operation type should be selected when creating the lid?",
+    "options": [
+      "New Body",
+      "New Component",
+      "Join",
+      "Cut"
+    ],
+    "answer": "New Component"
+  },
+  {
+    "question": "Why is a locator feature needed for the lid?",
+    "options": [
+      "To reduce weight",
+      "To prevent the lid from floating around",
+      "To improve aesthetics",
+      "To reduce cost"
+    ],
+    "answer": "To prevent the lid from floating around"
+  },
+  {
+    "question": "What tool is used to create slip fit clearance?",
+    "options": [
+      "Extrude",
+      "Press Pull",
+      "Shell",
+      "Fillet"
+    ],
+    "answer": "Press Pull"
+  },
+  {
+    "question": "How much clearance is created for the slip fit?",
+    "options": [
+      "0.010 inches",
+      "0.020 inches",
+      "0.030 inches",
+      "0.040 inches"
+    ],
+    "answer": "0.020 inches"
+  },
+  {
+    "question": "What is the recommended approach for creating multiple ventilation slots?",
+    "options": [
+      "Pattern the sketch",
+      "Pattern the extrusion",
+      "Create each slot individually",
+      "Use mirror feature"
+    ],
+    "answer": "Pattern the extrusion"
+  },
+  {
+    "question": "Why is patterning the extrusion preferred over patterning the sketch?",
+    "options": [
+      "It looks better",
+      "It avoids selecting multiple times for large arrays",
+      "It's faster to calculate",
+      "It uses less memory"
+    ],
+    "answer": "It avoids selecting multiple times for large arrays"
+  },
+  {
+    "question": "What type of slot is used for ventilation?",
+    "options": [
+      "Center point slot",
+      "Two point slot",
+      "Three point slot",
+      "Arc slot"
+    ],
+    "answer": "Center point slot"
+  },
+  {
+    "question": "What are the dimensions of the ventilation slot?",
+    "options": [
+      "Radius: 0.100\", Length: 1.50\"",
+      "Radius: 0.125\", Length: 1.75\"",
+      "Radius: 0.150\", Length: 2.00\"",
+      "Radius: 0.200\", Length: 2.25\""
+    ],
+    "answer": "Radius: 0.125\", Length: 1.75\""
+  },
+  {
+    "question": "How is the reset button hole created?",
+    "options": [
+      "Manually drawn",
+      "Projected from Arduino",
+      "Copied from another part",
+      "Created with offset"
+    ],
+    "answer": "Projected from Arduino"
+  },
+  {
+    "question": "What constraint is used for the wire access slot?",
+    "options": [
+      "Parallel constraint",
+      "Perpendicular constraint",
+      "Midpoint constraint",
+      "Tangent constraint"
+    ],
+    "answer": "Midpoint constraint"
+  },
+  {
+    "question": "What dropdown menu controls which components are cut?",
+    "options": [
+      "Operation Type",
+      "Objects to Cut",
+      "Direction",
+      "Distance"
+    ],
+    "answer": "Objects to Cut"
+  },
+  {
+    "question": "Is the wire access slot machinable?",
+    "options": [
+      "Yes, easily machinable",
+      "No, but it's 3D printable",
+      "Yes, but expensive",
+      "No, not manufacturable"
+    ],
+    "answer": "No, but it's 3D printable"
+  },
+  {
+    "question": "What does DFM stand for?",
+    "options": [
+      "Design for Manufacturing",
+      "Design for Maintenance",
+      "Design for Materials",
+      "Design for Marketing"
+    ],
+    "answer": "Design for Manufacturing"
+  }
+]

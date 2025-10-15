@@ -914,5 +914,59 @@
     "folder": "Send_Cut_Send",
     "author": "Send Cut Send",
     "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Create Assemblies in CAD with Joints - Education Chapter 2 Lesson 2",
+    "file": "How_to_Create_Assemblies_in_CAD_with_Joints_Education_Chapter_2_Lesson_2.json",
+    "url": "https://www.youtube.com/watch?v=9N2CZciWCTo",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-02-How_to_Create_Assemblies_in_CAD_with_Joints_-_Education_Chapter_2_Lesson_2.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Use Offset Planes and Project Sketches in CAD - Education Chapter 2 Lesson 3",
+    "file": "How_to_Use_Offset_Planes_and_Project_Sketches_in_CAD_Education_Chapter_2_Lesson_3.json",
+    "url": "https://www.youtube.com/watch?v=8-Fpv8QXc9Q",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-03-How_to_Use_Offset_Planes_and_Project_Sketches_in_CAD_-_Education_Chapter_2_Lesson_3.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Use Shell, Fillet, and Analysis Tools in CAD - Education Chapter 2 Lesson 4",
+    "file": "How_to_Use_Shell_Fillet_and_Analysis_Tools_in_CAD_Education_Chapter_2_Lesson_4.json",
+    "url": "https://www.youtube.com/watch?v=t23gqRdv8B0",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-04-How_to_Use_Shell,_Fillet,_and_Analysis_Tools_in_CAD_-_Education_Chapter_2_Lesson_4.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Reference Bodies for Clearance in CAD - Education Chapter 2 Lesson 5",
+    "file": "How_to_Reference_Bodies_for_Clearance_in_CAD_Education_Chapter_2_Lesson_5.json",
+    "url": "https://www.youtube.com/watch?v=ORRdr33D0_w",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-05-How_to_Reference_Bodies_for_Clearance_in_CAD_-_Education_Chapter_2_Lesson_5.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design a CAD Lid with Joints, Ventilation & Access Features - Education Chapter 2 Lesson 6",
+    "file": "How_to_Design_a_CAD_Lid_with_Joints_Ventilation_and_Access_Features_Education_Chapter_2_Lesson_6.json",
+    "url": "https://www.youtube.com/watch?v=1d8ZCIBnA1A",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-06-How_to_Design_a_CAD_Lid_with_Joints,_Ventilation_&_Access_Features_-_Education_Chapter_2_Lesson_6.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Repair Broken References in CAD Assemblies - Education Chapter 2 Lesson 7",
+    "file": "How_to_Repair_Broken_References_in_CAD_Assemblies_Education_Chapter_2_Lesson_7.json",
+    "url": "https://www.youtube.com/watch?v=vV7sE4ijw-4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/02-07-How_to_Repair_Broken_References_in_CAD_Assemblies_-_Education_Chapter_2_Lesson_7.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
   }
 ]

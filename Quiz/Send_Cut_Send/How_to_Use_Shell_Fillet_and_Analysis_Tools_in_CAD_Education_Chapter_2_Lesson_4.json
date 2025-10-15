@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main challenge when designing multiple objects in CAD?",
+    "options": [
+      "File size limitations",
+      "Understanding how objects interact with each other",
+      "Rendering speed",
+      "Memory usage"
+    ],
+    "answer": "Understanding how objects interact with each other"
+  },
+  {
+    "question": "What does the shell technique do?",
+    "options": [
+      "Creates a thin web around the inside of the box",
+      "Adds material to the outside",
+      "Deletes the entire object",
+      "Changes the color of the object"
+    ],
+    "answer": "Creates a thin web around the inside of the box"
+  },
+  {
+    "question": "Where is the shell feature located in Fusion 360?",
+    "options": [
+      "Create menu",
+      "Modify menu",
+      "Assemble menu",
+      "Utilities menu"
+    ],
+    "answer": "Modify menu"
+  },
+  {
+    "question": "What face should you select when using the shell feature?",
+    "options": [
+      "The bottom face",
+      "The side face",
+      "The top face",
+      "Any face"
+    ],
+    "answer": "The top face"
+  },
+  {
+    "question": "What wall thickness is used for the shell feature?",
+    "options": [
+      "0.1 inches",
+      "0.125 inches",
+      "0.25 inches",
+      "0.5 inches"
+    ],
+    "answer": "0.125 inches"
+  },
+  {
+    "question": "How can you modify the shell feature after creation?",
+    "options": [
+      "Delete and recreate it",
+      "Right-click and edit feature",
+      "Use the timeline",
+      "Double-click the feature"
+    ],
+    "answer": "Right-click and edit feature"
+  },
+  {
+    "question": "What is another name for corner radius?",
+    "options": [
+      "Chamfer",
+      "Fillet",
+      "Bevel",
+      "Round"
+    ],
+    "answer": "Fillet"
+  },
+  {
+    "question": "What is the purpose of adding fillets to the inside corners?",
+    "options": [
+      "To reduce material usage",
+      "To make it more visually appealing",
+      "To increase strength",
+      "To reduce manufacturing time"
+    ],
+    "answer": "To make it more visually appealing"
+  },
+  {
+    "question": "What radius value causes interference with the Arduino?",
+    "options": [
+      "0.125 inches",
+      "0.25 inches",
+      "0.5 inches",
+      "0.75 inches"
+    ],
+    "answer": "0.5 inches"
+  },
+  {
+    "question": "Where is the analysis tool located?",
+    "options": [
+      "Create menu",
+      "Modify menu",
+      "Utilities menu",
+      "Assemble menu"
+    ],
+    "answer": "Utilities menu"
+  },
+  {
+    "question": "What does the section analysis tool provide?",
+    "options": [
+      "Material properties",
+      "X-ray vision of object interactions",
+      "Manufacturing information",
+      "Cost analysis"
+    ],
+    "answer": "X-ray vision of object interactions"
+  },
+  {
+    "question": "What color represents the bottom box in section analysis?",
+    "options": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Red"
+    ],
+    "answer": "Orange"
+  },
+  {
+    "question": "What color represents the Arduino in section analysis?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "Can you see multiple sections at the same time?",
+    "options": [
+      "Yes, always",
+      "No, only one at a time",
+      "Yes, but only two",
+      "Yes, up to four"
+    ],
+    "answer": "No, only one at a time"
+  },
+  {
+    "question": "What is the next step after completing the shell and fillet operations?",
+    "options": [
+      "Delete the Arduino",
+      "Add USB ports and mounting holes",
+      "Change the material",
+      "Render the part"
+    ],
+    "answer": "Add USB ports and mounting holes"
+  }
+]

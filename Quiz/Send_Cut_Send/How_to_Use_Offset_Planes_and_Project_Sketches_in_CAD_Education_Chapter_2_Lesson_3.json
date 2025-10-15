@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main purpose of creating an offset in CAD?",
+    "options": [
+      "To reduce file size",
+      "To create space between two parts",
+      "To improve rendering",
+      "To speed up calculations"
+    ],
+    "answer": "To create space between two parts"
+  },
+  {
+    "question": "Why do we need clearance for the Arduino pins?",
+    "options": [
+      "To make the board lighter",
+      "The pins make contact when the board lays flat",
+      "To reduce manufacturing costs",
+      "To improve aesthetics"
+    ],
+    "answer": "The pins make contact when the board lays flat"
+  },
+  {
+    "question": "What measurement tool is used to determine the pin clearance?",
+    "options": [
+      "Ruler",
+      "Caliper",
+      "Tape measure",
+      "Micrometer"
+    ],
+    "answer": "Caliper"
+  },
+  {
+    "question": "How much clearance is created for the Arduino pins?",
+    "options": [
+      "1/16 inch",
+      "1/8 inch",
+      "1/4 inch",
+      "1/2 inch"
+    ],
+    "answer": "1/8 inch"
+  },
+  {
+    "question": "Where is the Offset Plane command located in Fusion 360?",
+    "options": [
+      "Create menu",
+      "Construction menu",
+      "Modify menu",
+      "Assemble menu"
+    ],
+    "answer": "Construction menu"
+  },
+  {
+    "question": "What appears in the component tree after creating an offset plane?",
+    "options": [
+      "A new body",
+      "A construction category with plane",
+      "A sketch",
+      "A component"
+    ],
+    "answer": "A construction category with plane"
+  },
+  {
+    "question": "How can you modify an offset plane after creation?",
+    "options": [
+      "Delete and recreate it",
+      "Right-click and edit",
+      "Use the timeline",
+      "Double-click the plane"
+    ],
+    "answer": "Right-click and edit"
+  },
+  {
+    "question": "What does the Project command do?",
+    "options": [
+      "Creates new geometry",
+      "Takes an image and projects it onto another object",
+      "Deletes existing geometry",
+      "Modifies existing features"
+    ],
+    "answer": "Takes an image and projects it onto another object"
+  },
+  {
+    "question": "Why is it important to reference the Arduino when creating the box?",
+    "options": [
+      "To reduce file size",
+      "To ensure holes are in proper place and box is correct size",
+      "To improve performance",
+      "To make it look better"
+    ],
+    "answer": "To ensure holes are in proper place and box is correct size"
+  },
+  {
+    "question": "How much spacing is created around the outside of the Arduino?",
+    "options": [
+      "1/8 inch",
+      "1/4 inch",
+      "1/2 inch",
+      "1 inch"
+    ],
+    "answer": "1/4 inch"
+  },
+  {
+    "question": "Why are the charge ports and USB handled differently?",
+    "options": [
+      "They need to be flush for cable access",
+      "They are more expensive",
+      "They are harder to manufacture",
+      "They look better flush"
+    ],
+    "answer": "They need to be flush for cable access"
+  },
+  {
+    "question": "What constraint is used to tie the charge port to the edge?",
+    "options": [
+      "Parallel constraint",
+      "Perpendicular constraint",
+      "Corner constraint",
+      "Tangent constraint"
+    ],
+    "answer": "Corner constraint"
+  },
+  {
+    "question": "What type of extrude is used for the box bottom?",
+    "options": [
+      "One-directional",
+      "Multidirectional (two-sided)",
+      "Radial",
+      "Sweep"
+    ],
+    "answer": "Multidirectional (two-sided)"
+  },
+  {
+    "question": "How far does the extrude go downward?",
+    "options": [
+      "1/16 inch",
+      "1/8 inch",
+      "1/4 inch",
+      "1/2 inch"
+    ],
+    "answer": "1/8 inch"
+  },
+  {
+    "question": "What operation type is selected for the extrude?",
+    "options": [
+      "Join",
+      "Cut",
+      "Component",
+      "Intersect"
+    ],
+    "answer": "Component"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main purpose of this lesson?",
+    "options": [
+      "To create new designs from scratch",
+      "To make changes without starting from the beginning",
+      "To improve rendering quality",
+      "To reduce file size"
+    ],
+    "answer": "To make changes without starting from the beginning"
+  },
+  {
+    "question": "What happens when you make changes to a linked Arduino component?",
+    "options": [
+      "Nothing changes",
+      "The changes automatically appear in the main assembly",
+      "The changes require manual updates to take effect",
+      "The file becomes corrupted"
+    ],
+    "answer": "The changes require manual updates to take effect"
+  },
+  {
+    "question": "What warning appears when the Arduino file is updated?",
+    "options": [
+      "File corrupted message",
+      "Most recent version is not up to date",
+      "Reference broken message",
+      "No warning appears"
+    ],
+    "answer": "Most recent version is not up to date"
+  },
+  {
+    "question": "How do you update the main assembly to show Arduino changes?",
+    "options": [
+      "Save the file",
+      "Click the update icon",
+      "Restart the software",
+      "Delete and recreate the assembly"
+    ],
+    "answer": "Click the update icon"
+  },
+  {
+    "question": "What happens when you change the Arduino length from 2.7 to 5 inches?",
+    "options": [
+      "Only the Arduino changes",
+      "The mounting holes automatically adjust",
+      "The box breaks",
+      "Nothing happens"
+    ],
+    "answer": "The mounting holes automatically adjust"
+  },
+  {
+    "question": "What color indicates broken references in the timeline?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "question": "What causes broken references to occur?",
+    "options": [
+      "Saving the file",
+      "Deleting or moving referenced geometry",
+      "Opening the file",
+      "Closing the file"
+    ],
+    "answer": "Deleting or moving referenced geometry"
+  },
+  {
+    "question": "Where should you start when fixing multiple broken references?",
+    "options": [
+      "The rightmost error",
+      "The leftmost error",
+      "Any random error",
+      "The most recent error"
+    ],
+    "answer": "The leftmost error"
+  },
+  {
+    "question": "What is the correct order for fixing errors?",
+    "options": [
+      "Work forwards in time, backwards in sequence",
+      "Work backwards in time, forwards in sequence",
+      "Fix any order you want",
+      "Fix newest first"
+    ],
+    "answer": "Work backwards in time, forwards in sequence"
+  },
+  {
+    "question": "What command is used to fix a broken sketch reference?",
+    "options": [
+      "Delete Sketch",
+      "Edit Sketch",
+      "New Sketch",
+      "Copy Sketch"
+    ],
+    "answer": "Edit Sketch"
+  },
+  {
+    "question": "What happens when you delete a broken reference?",
+    "options": [
+      "The error disappears",
+      "The error gets worse",
+      "Nothing happens",
+      "The file crashes"
+    ],
+    "answer": "The error disappears"
+  },
+  {
+    "question": "How do you create a new reference for a moved feature?",
+    "options": [
+      "Draw it manually",
+      "Use Create > Project",
+      "Copy from another file",
+      "Import from library"
+    ],
+    "answer": "Use Create > Project"
+  },
+  {
+    "question": "What error occurs when an extrude feature loses its profile?",
+    "options": [
+      "Missing Profile",
+      "Broken Reference",
+      "Invalid Operation",
+      "File Error"
+    ],
+    "answer": "Missing Profile"
+  },
+  {
+    "question": "How do you fix a missing profile error?",
+    "options": [
+      "Delete the feature",
+      "Click on the new profile",
+      "Recreate the entire feature",
+      "Restart the software"
+    ],
+    "answer": "Click on the new profile"
+  },
+  {
+    "question": "What is the focus of Chapter 2?",
+    "options": [
+      "Advanced rendering",
+      "3D printed part design and references",
+      "Animation",
+      "Simulation"
+    ],
+    "answer": "3D printed part design and references"
+  }
+]
