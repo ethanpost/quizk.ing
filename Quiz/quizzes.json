@@ -977,5 +977,14 @@
     "folder": "Bill_Gurley",
     "author": "Bill Gurley",
     "subjects": ["Philosophy", "Career", "Business"]
+  },
+  {
+    "name": "This 3D-Printed RC Car Might Redefine What's Possible",
+    "file": "This_3D-Printed_RC_Car_Might_Redefine_Whats_Possible.json",
+    "url": "https://www.youtube.com/watch?v=pdKnIPH3JQs",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/curv_lab/This_3D-Printed_RC_Car_Might_Redefine_Whats_Possible.md",
+    "folder": "curv_lab",
+    "author": "curv_lab",
+    "subjects": ["Engineering", "Design"]
   }
 ]

@@ -1,0 +1,503 @@
+[
+  {
+    "question": "What is the maximum speed the 3D printable RC car is designed to reach?",
+    "options": [
+      "35 miles per hour",
+      "45 miles per hour",
+      "40 miles per hour",
+      "30 miles per hour"
+    ],
+    "answer": "40 miles per hour"
+  },
+  {
+    "question": "Why are 3D printed drive shafts considered a bad idea for RC cars?",
+    "options": [
+      "They require special tools to install",
+      "They are too expensive to manufacture",
+      "They are inherently weak along layer lines created during 3D printing",
+      "They are too heavy for the motor to turn"
+    ],
+    "answer": "They are inherently weak along layer lines created during 3D printing"
+  },
+  {
+    "question": "What is a key advantage of a belt drive over a spur gear system for 3D printed parts?",
+    "options": [
+      "Belt drives are easier to design",
+      "Belt drives spread load over multiple teeth while spur gears concentrate force in a single tooth root",
+      "Belt drives cost less than gears",
+      "Belt drives are quieter than gears"
+    ],
+    "answer": "Belt drives spread load over multiple teeth while spur gears concentrate force in a single tooth root"
+  },
+  {
+    "question": "During a turn, what happens to the wheel on the outside versus the inside of the turn?",
+    "options": [
+      "Both wheels spin at exactly the same speed",
+      "The inside wheel stops rotating completely",
+      "The outside wheel spins slower than the inside wheel",
+      "The outside wheel traces a larger circle and spins faster than the inside wheel"
+    ],
+    "answer": "The outside wheel traces a larger circle and spins faster than the inside wheel"
+  },
+  {
+    "question": "What would happen if both wheels were rigidly connected without a differential during a turn?",
+    "options": [
+      "The car would turn faster",
+      "Nothing would change",
+      "One or both wheels would have to skid, slip, or lose traction",
+      "The motor would work more efficiently"
+    ],
+    "answer": "One or both wheels would have to skid, slip, or lose traction"
+  },
+  {
+    "question": "How many spider gears does the designer use in the differential and why?",
+    "options": [
+      "Six spider gears for maximum strength",
+      "Two spider gears for simplicity",
+      "Three spider gears for balance",
+      "Four spider gears to distribute load through more teeth since they are 3D printed"
+    ],
+    "answer": "Four spider gears to distribute load through more teeth since they are 3D printed"
+  },
+  {
+    "question": "What geometric concept is used to describe how bevel gears are designed?",
+    "options": [
+      "They are designed as cylinders meeting end to end",
+      "They are designed as cones meeting at a virtual point in the center",
+      "They are designed as spheres meeting at tangent points",
+      "They are designed as cubes meeting at corners"
+    ],
+    "answer": "They are designed as cones meeting at a virtual point in the center"
+  },
+  {
+    "question": "How many bearings are contained in the differential assembly?",
+    "options": [
+      "Ten bearings",
+      "Eight bearings",
+      "Four bearings",
+      "Six bearings"
+    ],
+    "answer": "Eight bearings"
+  },
+  {
+    "question": "What is the purpose of the cage in a ball bearing?",
+    "options": [
+      "To make the bearing rotate faster",
+      "To keep the balls equidistant from each other and prevent them from falling out",
+      "To make the bearing easier to manufacture",
+      "To reduce the weight of the bearing"
+    ],
+    "answer": "To keep the balls equidistant from each other and prevent them from falling out"
+  },
+  {
+    "question": "What is the air gap between the inner race and outer race designed to be?",
+    "options": [
+      "Equal to the ball diameter",
+      "One-quarter of the ball diameter",
+      "Twice the ball diameter",
+      "Exactly half the ball diameter"
+    ],
+    "answer": "Exactly half the ball diameter"
+  },
+  {
+    "question": "Why is the air gap between races exactly half the ball diameter?",
+    "options": [
+      "To improve heat dissipation",
+      "To make manufacturing easier",
+      "So that when the inner race is nudged over, there is exactly one ball diameter space to fit balls into the race",
+      "To reduce weight"
+    ],
+    "answer": "So that when the inner race is nudged over, there is exactly one ball diameter space to fit balls into the race"
+  },
+  {
+    "question": "Where did the designer integrate the races for the custom bearings?",
+    "options": [
+      "On the outside of the chassis",
+      "As separate removable components",
+      "Straight into the casing of the differential for space efficiency",
+      "Attached to the motor mount"
+    ],
+    "answer": "Straight into the casing of the differential for space efficiency"
+  },
+  {
+    "question": "What term describes the small metal components used to support the spider gears?",
+    "options": [
+      "Custom 3D printed bearings",
+      "Off-the-shelf bearings",
+      "Washers",
+      "Bushings"
+    ],
+    "answer": "Off-the-shelf bearings"
+  },
+  {
+    "question": "In an all-wheel drive system, why is a center differential needed?",
+    "options": [
+      "To make the car go faster",
+      "To reduce motor strain",
+      "To split power between front and rear wheels since they spin at different speeds during turns",
+      "To improve fuel efficiency"
+    ],
+    "answer": "To split power between front and rear wheels since they spin at different speeds during turns"
+  },
+  {
+    "question": "During a turn, which wheels travel a further distance?",
+    "options": [
+      "The front wheels",
+      "The rear wheels",
+      "The left wheels only",
+      "All wheels travel the same distance"
+    ],
+    "answer": "The front wheels"
+  },
+  {
+    "question": "How does the center differential differ from the front and rear differentials?",
+    "options": [
+      "It uses more bearings",
+      "The orange outputs connect to belt drive pinions rather than wheel axle cups",
+      "It doesn't use spider gears",
+      "It is much larger in size"
+    ],
+    "answer": "The orange outputs connect to belt drive pinions rather than wheel axle cups"
+  },
+  {
+    "question": "What component takes power directly from the motor in the all-wheel drive system?",
+    "options": [
+      "The front differential",
+      "The chassis frame",
+      "The rear differential",
+      "The purple input sprocket on the center differential"
+    ],
+    "answer": "The purple input sprocket on the center differential"
+  },
+  {
+    "question": "What is a key advantage of designing components without support structures?",
+    "options": [
+      "They require special printers",
+      "They print quickly and have excellent surface quality",
+      "They use more material",
+      "They are heavier and more durable"
+    ],
+    "answer": "They print quickly and have excellent surface quality"
+  },
+  {
+    "question": "What holds the spider gear bearings in place?",
+    "options": [
+      "Magnets",
+      "The opposing side of the differential after it's screwed down",
+      "Glue",
+      "Clips"
+    ],
+    "answer": "The opposing side of the differential after it's screwed down"
+  },
+  {
+    "question": "How can you test if a differential is working properly?",
+    "options": [
+      "Check if it makes noise",
+      "Submerge it in water",
+      "Twist one output and the opposite output should rotate in the opposite direction",
+      "Measure its weight"
+    ],
+    "answer": "Twist one output and the opposite output should rotate in the opposite direction"
+  },
+  {
+    "question": "What concern prompted the designer to create a thermally insulated motor mount?",
+    "options": [
+      "Motor consuming too much battery power",
+      "Motor vibrations damaging the chassis",
+      "Motor being too heavy",
+      "Motor generating enough heat to melt the 3D printed plastic"
+    ],
+    "answer": "Motor generating enough heat to melt the 3D printed plastic"
+  },
+  {
+    "question": "How does the thermally insulated motor mount protect the plastic chassis?",
+    "options": [
+      "It uses metal shielding",
+      "It includes a cooling fan",
+      "It maintains an air gap around the hottest parts of the motor",
+      "It uses special heat-resistant plastic"
+    ],
+    "answer": "It maintains an air gap around the hottest parts of the motor"
+  },
+  {
+    "question": "What additional benefit does the motor mount system provide?",
+    "options": [
+      "It reduces motor weight",
+      "It allows micro adjustment of motor pitch and yaw",
+      "It improves battery life",
+      "It increases motor power"
+    ],
+    "answer": "It allows micro adjustment of motor pitch and yaw"
+  },
+  {
+    "question": "Where did the designer source the predetermined length belts?",
+    "options": [
+      "Custom manufacturer",
+      "Local hardware store",
+      "AliExpress",
+      "Amazon"
+    ],
+    "answer": "AliExpress"
+  },
+  {
+    "question": "What is the purpose of belt tensioners in the system?",
+    "options": [
+      "To improve acceleration",
+      "To make the belts last longer",
+      "To reduce noise",
+      "To account for stretch and small differences in belt length"
+    ],
+    "answer": "To account for stretch and small differences in belt length"
+  },
+  {
+    "question": "What type of tensioner is used for the main drive belts?",
+    "options": [
+      "Spring-loaded tensioner",
+      "Automatic tensioner",
+      "Idler pulley on a lever arm adjusted by set screw",
+      "Hydraulic tensioner"
+    ],
+    "answer": "Idler pulley on a lever arm adjusted by set screw"
+  },
+  {
+    "question": "What advantage does the set screw adjustment provide?",
+    "options": [
+      "Elimination of maintenance",
+      "Quick and simple adjustment even mid-session",
+      "Permanent tension setting",
+      "Automated tension control"
+    ],
+    "answer": "Quick and simple adjustment even mid-session"
+  },
+  {
+    "question": "What type of tensioner is used for the belt transferring power from motor to center differential?",
+    "options": [
+      "Spring tensioner",
+      "Eccentric tensioner",
+      "Ratchet tensioner",
+      "Hydraulic tensioner"
+    ],
+    "answer": "Eccentric tensioner"
+  },
+  {
+    "question": "Why is the motor mount called an \"eccentric\" tensioner?",
+    "options": [
+      "It was designed by an eccentric engineer",
+      "It has an unusual shape",
+      "The motor output shaft doesn't share the same center point as the circular motor mount",
+      "It rotates in the opposite direction"
+    ],
+    "answer": "The motor output shaft doesn't share the same center point as the circular motor mount"
+  },
+  {
+    "question": "What happens when you rotate the eccentric motor mount?",
+    "options": [
+      "The motor spins faster",
+      "The chassis lifts up",
+      "The belt breaks",
+      "The motor output shaft gets closer to and further from the center differential input gear"
+    ],
+    "answer": "The motor output shaft gets closer to and further from the center differential input gear"
+  },
+  {
+    "question": "Why did the designer use softer springs on the oil shocks?",
+    "options": [
+      "Harder springs were not available",
+      "The chassis ended up being lighter than the original",
+      "Softer springs are cheaper",
+      "Softer springs provide better traction"
+    ],
+    "answer": "The chassis ended up being lighter than the original"
+  },
+  {
+    "question": "What was the designer's goal for the field test?",
+    "options": [
+      "To achieve maximum speed",
+      "To drive until something breaks and then analyze what happened",
+      "To compare with other RC cars",
+      "To test on different terrains"
+    ],
+    "answer": "To drive until something breaks and then analyze what happened"
+  },
+  {
+    "question": "How long did the car run on roads before experiencing failure?",
+    "options": [
+      "30 minutes",
+      "5 minutes",
+      "20 minutes",
+      "10 minutes"
+    ],
+    "answer": "20 minutes"
+  },
+  {
+    "question": "What component failed during the road test?",
+    "options": [
+      "The front differential",
+      "The motor",
+      "The center differential",
+      "The rear differential"
+    ],
+    "answer": "The center differential"
+  },
+  {
+    "question": "What happened when the center differential failed?",
+    "options": [
+      "The wheels fell off",
+      "The motor stopped working",
+      "The crown ejected from the side and ball bearings spilled onto the chassis plate",
+      "The chassis cracked in half"
+    ],
+    "answer": "The crown ejected from the side and ball bearings spilled onto the chassis plate"
+  },
+  {
+    "question": "What additional damage occurred related to the motor mount?",
+    "options": [
+      "The motor fell out of the chassis",
+      "The motor mount came loose and the pinion friction melted surrounding plastic",
+      "The motor wiring disconnected",
+      "The motor overheated and shut down"
+    ],
+    "answer": "The motor mount came loose and the pinion friction melted surrounding plastic"
+  },
+  {
+    "question": "What condition were both cages found in after the failure?",
+    "options": [
+      "Missing completely",
+      "Slightly worn but functional",
+      "Perfectly intact",
+      "Crushed and creased as if bound and fractured"
+    ],
+    "answer": "Crushed and creased as if bound and fractured"
+  },
+  {
+    "question": "What does the cage damage suggest happened inside the bearing?",
+    "options": [
+      "Manufacturing defect",
+      "Normal wear and tear",
+      "Ball bearings embedded or got hung up causing a traffic jam in the bearing race",
+      "Cage was installed incorrectly"
+    ],
+    "answer": "Ball bearings embedded or got hung up causing a traffic jam in the bearing race"
+  },
+  {
+    "question": "What evidence of uneven wear was observed on the outer races?",
+    "options": [
+      "Both races were equally worn",
+      "One race appeared colored with pencil lead suggesting more friction on one side",
+      "The races showed no wear",
+      "Cracks in the plastic"
+    ],
+    "answer": "One race appeared colored with pencil lead suggesting more friction on one side"
+  },
+  {
+    "question": "What does the uneven wear pattern support as a possible cause?",
+    "options": [
+      "Normal operation",
+      "Manufacturing variation",
+      "Too much heat or centrifugal force causing ball bearings to embed into soft plastic race",
+      "Improper assembly"
+    ],
+    "answer": "Too much heat or centrifugal force causing ball bearings to embed into soft plastic race"
+  },
+  {
+    "question": "What visible evidence remained on the outer race surface?",
+    "options": [
+      "Discoloration only",
+      "Cracks",
+      "Scratches",
+      "Spherical indents along the outer race on one side"
+    ],
+    "answer": "Spherical indents along the outer race on one side"
+  },
+  {
+    "question": "What was surprising about the condition of the differential bevel gears after failure?",
+    "options": [
+      "They were partially melted",
+      "They were in really good shape and looked almost new",
+      "They were completely destroyed",
+      "They were missing"
+    ],
+    "answer": "They were in really good shape and looked almost new"
+  },
+  {
+    "question": "What does the good condition of the bevel gears indicate?",
+    "options": [
+      "They were poorly designed",
+      "There's not much friction and heat going through the differential itself",
+      "They were the cause of failure",
+      "They need to be redesigned"
+    ],
+    "answer": "There's not much friction and heat going through the differential itself"
+  },
+  {
+    "question": "What is backlash in a gear system?",
+    "options": [
+      "The force pushing gears apart",
+      "The speed at which gears rotate",
+      "The amount of play or space between gear teeth that can cause jerky action",
+      "The noise gears make when operating"
+    ],
+    "answer": "The amount of play or space between gear teeth that can cause jerky action"
+  },
+  {
+    "question": "What is an involute in gear design?",
+    "options": [
+      "A type of motor mount",
+      "A metal fastener",
+      "A specific curved shape used in gear tooth design for smooth meshing",
+      "A type of bearing"
+    ],
+    "answer": "A specific curved shape used in gear tooth design for smooth meshing"
+  },
+  {
+    "question": "What is a pinion?",
+    "options": [
+      "A type of bearing cage",
+      "A small gear that meshes with a larger gear or rack to transmit power",
+      "A large gear used for final drive",
+      "A belt tensioning device"
+    ],
+    "answer": "A small gear that meshes with a larger gear or rack to transmit power"
+  },
+  {
+    "question": "What is a threaded insert used for?",
+    "options": [
+      "To reduce friction",
+      "To increase weight",
+      "To provide strong threads in plastic for bolts or screws",
+      "To improve electrical conductivity"
+    ],
+    "answer": "To provide strong threads in plastic for bolts or screws"
+  },
+  {
+    "question": "What does \"off-the-shelf\" mean in the context of this project?",
+    "options": [
+      "Components that must be custom manufactured",
+      "Parts that are stored on shelves",
+      "Pre-manufactured standard parts that can be purchased rather than custom made",
+      "Discontinued components"
+    ],
+    "answer": "Pre-manufactured standard parts that can be purchased rather than custom made"
+  },
+  {
+    "question": "What is a gear ratio?",
+    "options": [
+      "The weight comparison between two gears",
+      "The relationship between the number of teeth on two gears that determines speed and torque",
+      "The color difference between gears",
+      "The distance between two gears"
+    ],
+    "answer": "The relationship between the number of teeth on two gears that determines speed and torque"
+  },
+  {
+    "question": "What design feature allows the belt tensioner system to accommodate different gear ratios?",
+    "options": [
+      "Multiple belt options",
+      "Interchangeable pulleys",
+      "Adjustable motor mounts",
+      "Enough variability in belt length to work with different sized gears"
+    ],
+    "answer": "Enough variability in belt length to work with different sized gears"
+  }
+]
+
