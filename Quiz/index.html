@@ -584,13 +584,27 @@
       }
     }
 
+    // Fisher-Yates shuffle algorithm to randomize array
+    function shuffleArray(array) {
+      const shuffled = [...array]; // Create a copy
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+      return shuffled;
+    }
+
     function loadQuestion() {
       const currentQuiz = quizData[currentQuestion];
       console.log('Loading question:', currentQuestion + 1, 'of', quizData.length);
       questionCounterElement.textContent = `Question ${currentQuestion + 1} of ${quizData.length}`;
       questionElement.textContent = currentQuiz.question;
       optionsElement.innerHTML = "";
-      currentQuiz.options.forEach(option => {
+      
+      // Randomize the order of options
+      const shuffledOptions = shuffleArray(currentQuiz.options);
+      
+      shuffledOptions.forEach(option => {
         const optionElement = document.createElement("div");
         optionElement.classList.add("option");
         optionElement.textContent = option;
