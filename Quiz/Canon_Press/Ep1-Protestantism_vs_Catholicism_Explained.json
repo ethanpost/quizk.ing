@@ -1,0 +1,473 @@
+[
+  {
+    "question": "According to the video, what is the central claim to authority that has been at the center of the Roman church's identity for the last millennium and a half?",
+    "options": [
+      "The authority of church councils",
+      "The singular claim to authority of the Pope as Jesus Christ's visible representative on earth",
+      "The authority of scripture alone",
+      "The authority of the early church fathers"
+    ],
+    "answer": "The singular claim to authority of the Pope as Jesus Christ's visible representative on earth"
+  },
+  {
+    "question": "What are the two equally authoritative parts that compose the deposit of faith according to Roman Catholic teaching?",
+    "options": [
+      "Scripture and tradition",
+      "Scripture and the early church fathers",
+      "The Pope and the magisterium",
+      "Church councils and papal pronouncements"
+    ],
+    "answer": "Scripture and tradition"
+  },
+  {
+    "question": "According to the video, when did Martin Luther nail his 95 theses on the church door at Wittenberg?",
+    "options": [
+      "1517",
+      "1515",
+      "1520",
+      "1525"
+    ],
+    "answer": "1517"
+  },
+  {
+    "question": "What does Sola Scriptura mean?",
+    "options": [
+      "Scripture alone is the infallible rule for faith and practice",
+      "Scripture is one of many authorities for faith and practice",
+      "Scripture must be interpreted by the magisterium",
+      "Scripture and tradition are equally authoritative"
+    ],
+    "answer": "Scripture alone is the infallible rule for faith and practice"
+  },
+  {
+    "question": "According to the video, what is the basis on which sinners are justified before God according to Solus Christus?",
+    "options": [
+      "The work of Christ and good works together",
+      "The work of Christ and the intercession of Mary",
+      "The work of Christ and Christ alone",
+      "The work of Christ and participation in the sacraments"
+    ],
+    "answer": "The work of Christ and Christ alone"
+  },
+  {
+    "question": "What does Sola Fide teach about how we receive justification in Christ?",
+    "options": [
+      "By faith and works together",
+      "By participating in the sacraments",
+      "By faith alone",
+      "By following the teachings of the magisterium"
+    ],
+    "answer": "By faith alone"
+  },
+  {
+    "question": "According to Galatians 2:16, how is a person justified?",
+    "options": [
+      "By works of the law",
+      "By faith and works together",
+      "By following church tradition",
+      "Through faith in Jesus Christ"
+    ],
+    "answer": "Through faith in Jesus Christ"
+  },
+  {
+    "question": "What does Sola Gratia teach about salvation?",
+    "options": [
+      "Salvation is by grace and good works",
+      "Salvation requires participation in the sacraments",
+      "Salvation is earned through merit",
+      "Our salvation start to finish is by the grace of God alone"
+    ],
+    "answer": "Our salvation start to finish is by the grace of God alone"
+  },
+  {
+    "question": "What does Soli Deo Gloria mean?",
+    "options": [
+      "Glory to God and the saints",
+      "Glory to God and the church",
+      "The glory goes to God alone",
+      "Glory to God and Mary"
+    ],
+    "answer": "The glory goes to God alone"
+  },
+  {
+    "question": "According to the video, how did Protestants view the Reformation?",
+    "options": [
+      "As a restoration of the church, not the creation of something new",
+      "As the creation of something completely new",
+      "As a rejection of all church history",
+      "As a complete break from the early church"
+    ],
+    "answer": "As a restoration of the church, not the creation of something new"
+  },
+  {
+    "question": "What is the magisterium?",
+    "options": [
+      "The collection of all church councils",
+      "The body of all papal pronouncements",
+      "The collection of all church traditions",
+      "The teaching office of the Roman Catholic Church that claims to guard the deposit of faith"
+    ],
+    "answer": "The teaching office of the Roman Catholic Church that claims to guard the deposit of faith"
+  },
+  {
+    "question": "According to the Council of Trent, what should no one dare to do?",
+    "options": [
+      "Question the authority of the Pope",
+      "Read scripture without a priest",
+      "Reject church tradition",
+      "Contradict or disagree with the magisterium's interpretation of scripture"
+    ],
+    "answer": "Contradict or disagree with the magisterium's interpretation of scripture"
+  },
+  {
+    "question": "What are indulgences according to the video?",
+    "options": [
+      "Cash payments that could get you or your loved ones out of punishment for sin and purgatory",
+      "Prayers said for the dead",
+      "Special blessings from the Pope",
+      "Remissions of temporal punishment through good works"
+    ],
+    "answer": "Cash payments that could get you or your loved ones out of punishment for sin and purgatory"
+  },
+  {
+    "question": "According to the video, what is the Theotokos?",
+    "options": [
+      "A title for the Pope",
+      "A title for Jesus",
+      "A title for the church",
+      "A title for Mary meaning \"godbearer\" or \"mother of God\""
+    ],
+    "answer": "A title for Mary meaning \"godbearer\" or \"mother of God\""
+  },
+  {
+    "question": "What is transubstantiation?",
+    "options": [
+      "The belief that Christ is spiritually present in the Eucharist",
+      "The belief that the Eucharist is a symbol only",
+      "The belief that the Eucharist represents Christ's presence",
+      "The Roman Catholic doctrine that the bread and wine in the Eucharist become the actual body and blood of Christ"
+    ],
+    "answer": "The Roman Catholic doctrine that the bread and wine in the Eucharist become the actual body and blood of Christ"
+  },
+  {
+    "question": "According to the video, what is the Immaculate Conception?",
+    "options": [
+      "The belief that Jesus was conceived without sin",
+      "The belief that Mary was a virgin",
+      "The belief that Mary was sinless during her life",
+      "The Roman Catholic dogma that Mary was conceived without original sin"
+    ],
+    "answer": "The Roman Catholic dogma that Mary was conceived without original sin"
+  },
+  {
+    "question": "What is the Assumption of Mary?",
+    "options": [
+      "The belief that Mary was taken to heaven after her death",
+      "The belief that Mary is the queen of heaven",
+      "The belief that Mary intercedes for believers",
+      "The Roman Catholic dogma that Mary was taken body and soul into heaven"
+    ],
+    "answer": "The Roman Catholic dogma that Mary was taken body and soul into heaven"
+  },
+  {
+    "question": "According to the video, what is purgatory?",
+    "options": [
+      "A place of eternal punishment",
+      "A place where souls wait for judgment",
+      "A state of temporary separation from God",
+      "A place or state of purification after death according to Roman Catholic teaching"
+    ],
+    "answer": "A place or state of purification after death according to Roman Catholic teaching"
+  },
+  {
+    "question": "According to the video, what is the underlying problem that Protestants have with many Catholic teachings?",
+    "options": [
+      "They are too old",
+      "They are too new",
+      "Doctrinal and institutional accretions - slow, organic change over long periods that are not apostolic nor biblical",
+      "They are too complex"
+    ],
+    "answer": "Doctrinal and institutional accretions - slow, organic change over long periods that are not apostolic nor biblical"
+  },
+  {
+    "question": "According to the video, is the papacy expressly taught anywhere in the scriptures?",
+    "options": [
+      "Yes, it is clearly taught in multiple places",
+      "Yes, but only in the Old Testament",
+      "Yes, but only in the book of Revelation",
+      "No, the papacy is not expressly taught anywhere in the scriptures"
+    ],
+    "answer": "No, the papacy is not expressly taught anywhere in the scriptures"
+  },
+  {
+    "question": "According to the video, what is one of the four central problems Protestants have with Catholicism regarding Mary?",
+    "options": [
+      "Mary is not mentioned in scripture",
+      "Mary should not be honored at all",
+      "Mary is not important to Christianity",
+      "The official hyper-veneration of Mary and later Marian dogmas are contrary to scripture and church history"
+    ],
+    "answer": "The official hyper-veneration of Mary and later Marian dogmas are contrary to scripture and church history"
+  },
+  {
+    "question": "According to the video, what does the Roman church do to Paul's teachings on grace and justification?",
+    "options": [
+      "It follows them exactly",
+      "It interprets them correctly",
+      "It expands on them helpfully",
+      "It really mangles the teachings of Paul on grace and justification"
+    ],
+    "answer": "It really mangles the teachings of Paul on grace and justification"
+  },
+  {
+    "question": "According to the video, what is one problem with Roman Catholic tradition?",
+    "options": [
+      "It is too clearly defined",
+      "It never changes",
+      "It is too simple",
+      "Tradition or magisterial authority is extremely undefined"
+    ],
+    "answer": "Tradition or magisterial authority is extremely undefined"
+  },
+  {
+    "question": "According to the video, what happened to many documents in Roman tradition that were forgeries?",
+    "options": [
+      "They were always rejected",
+      "They were immediately identified as forgeries",
+      "They were never used in teaching",
+      "They were accepted and used as foundational for later teaching, only to be quietly omitted later"
+    ],
+    "answer": "They were accepted and used as foundational for later teaching, only to be quietly omitted later"
+  },
+  {
+    "question": "According to the video, what nations severed ties with the pope and Roman authority during the Reformation?",
+    "options": [
+      "Scotland, England, the Netherlands, Scandinavia, and various German principalities",
+      "Only Germany",
+      "Only England and Scotland",
+      "All of Western Europe"
+    ],
+    "answer": "Scotland, England, the Netherlands, Scandinavia, and various German principalities"
+  },
+  {
+    "question": "What are the two general traditions that emerged from the Reformation according to the video?",
+    "options": [
+      "Lutheran and Reformed",
+      "Lutheran and Anglican",
+      "Reformed and Anabaptist",
+      "Lutheran and Baptist"
+    ],
+    "answer": "Lutheran and Reformed"
+  },
+  {
+    "question": "According to the video, why do Protestants have many denominations?",
+    "options": [
+      "Because there was not a centralized church government",
+      "Because they disagree on everything",
+      "Because they want to be different",
+      "Because they reject all authority"
+    ],
+    "answer": "Because there was not a centralized church government"
+  },
+  {
+    "question": "According to the video, what is the singular common bond between Protestant denominations?",
+    "options": [
+      "They all agree on all doctrines",
+      "They all have the same form of church government",
+      "They were all operating in repudiation of centralized Roman authority and infallible tradition",
+      "They all use the same liturgy"
+    ],
+    "answer": "They were all operating in repudiation of centralized Roman authority and infallible tradition"
+  },
+  {
+    "question": "According to the video, what is an example of a geographic division among Protestant denominations?",
+    "options": [
+      "Dutch Reformed Church and Presbyterian Church in America having common theology but different geographic roots",
+      "Lutheran and Reformed churches",
+      "Baptist and Methodist churches",
+      "Anglican and Presbyterian churches"
+    ],
+    "answer": "Dutch Reformed Church and Presbyterian Church in America having common theology but different geographic roots"
+  },
+  {
+    "question": "According to the video, what is an example of a theological schism among Protestants?",
+    "options": [
+      "Disagreement over baptism",
+      "Disagreement over predestination",
+      "Disagreement over church government",
+      "Lutherans who separate themselves over their unique understanding of Christ's presence in the Eucharist"
+    ],
+    "answer": "Lutherans who separate themselves over their unique understanding of Christ's presence in the Eucharist"
+  },
+  {
+    "question": "According to the video, can Protestants from different denominations generally commune at each other's congregations?",
+    "options": [
+      "Yes, Evangelicals, Methodists, Baptists, Presbyterians, Anglicans, and even Pentecostals can generally commune at each other's congregations",
+      "No, never",
+      "Only if they agree on everything",
+      "Only within the same tradition"
+    ],
+    "answer": "Yes, Evangelicals, Methodists, Baptists, Presbyterians, Anglicans, and even Pentecostals can generally commune at each other's congregations"
+  },
+  {
+    "question": "According to the video, what is the deposit of faith?",
+    "options": [
+      "The body of revealed truth in the Scriptures and Tradition, which the magisterium guards and interprets",
+      "Only the scriptures",
+      "Only church tradition",
+      "Only papal pronouncements"
+    ],
+    "answer": "The body of revealed truth in the Scriptures and Tradition, which the magisterium guards and interprets"
+  },
+  {
+    "question": "According to the video, what does the Roman church believe about the magisterial teaching over time?",
+    "options": [
+      "It never changes",
+      "It is always wrong",
+      "It is not important",
+      "It represents the logical outworking of doctrines over time guided by the Spirit"
+    ],
+    "answer": "It represents the logical outworking of doctrines over time guided by the Spirit"
+  },
+  {
+    "question": "According to the video, what Bible verse does the Roman church cite to support the idea that the Spirit guides into all truth?",
+    "options": [
+      "Matthew 16:18",
+      "Galatians 2:16",
+      "Romans 3:28",
+      "John 16:13"
+    ],
+    "answer": "John 16:13"
+  },
+  {
+    "question": "According to the video, what is an ecumenical council?",
+    "options": [
+      "A meeting of all Protestant churches",
+      "A meeting of the Pope and cardinals",
+      "A local church meeting",
+      "A council of bishops from all over the church, guided by the Holy Spirit to teach infallibly on faith and morals"
+    ],
+    "answer": "A council of bishops from all over the church, guided by the Holy Spirit to teach infallibly on faith and morals"
+  },
+  {
+    "question": "According to the video, what is justification?",
+    "options": [
+      "The process of becoming holy",
+      "The process of earning salvation",
+      "The act of following church rules",
+      "The act by which sinners are made right before God"
+    ],
+    "answer": "The act by which sinners are made right before God"
+  },
+  {
+    "question": "According to the video, what is veneration?",
+    "options": [
+      "Worship of God",
+      "Prayer to God",
+      "Reading of scripture",
+      "Honor and respect given to saints, particularly Mary in Roman Catholic practice"
+    ],
+    "answer": "Honor and respect given to saints, particularly Mary in Roman Catholic practice"
+  },
+  {
+    "question": "According to the video, what is the Reformation?",
+    "options": [
+      "The 15th-century movement that created the Roman Catholic Church",
+      "The 17th-century movement that unified all churches",
+      "The 18th-century movement that modernized Christianity",
+      "The 16th-century movement that resulted in the separation of Protestant churches from the Roman Catholic Church"
+    ],
+    "answer": "The 16th-century movement that resulted in the separation of Protestant churches from the Roman Catholic Church"
+  },
+  {
+    "question": "According to the video, what does the video say about how long church history is compared to US history?",
+    "options": [
+      "Church history is the same length as US history",
+      "Church history is 5 times longer than US history",
+      "Church history is 10 times longer than US history",
+      "Church history is 20 times longer than US history"
+    ],
+    "answer": "Church history is 10 times longer than US history"
+  },
+  {
+    "question": "According to the video, if a teaching appears in the fifth century, how does the video characterize it?",
+    "options": [
+      "Very early",
+      "Right on time",
+      "Too recent to matter",
+      "Very late - hundreds of years separate those writers from the apostles"
+    ],
+    "answer": "Very late - hundreds of years separate those writers from the apostles"
+  },
+  {
+    "question": "According to the video, what does the video say about the papacy's historical claims?",
+    "options": [
+      "The papacy is carried along by the sheer heft and power it has as an institution rather than by the actual strength of its historical claims",
+      "The papacy has strong historical claims",
+      "The papacy has no historical basis",
+      "The papacy's historical claims are irrelevant"
+    ],
+    "answer": "The papacy is carried along by the sheer heft and power it has as an institution rather than by the actual strength of its historical claims"
+  },
+  {
+    "question": "According to the video, what does the video say happens when things are added to the gospel?",
+    "options": [
+      "It makes the gospel better",
+      "It clarifies the gospel",
+      "Adding things to the gospel is not a small matter",
+      "It doesn't matter"
+    ],
+    "answer": "Adding things to the gospel is not a small matter"
+  },
+  {
+    "question": "According to the video, what does the video say about the Roman conception of grace and forgiveness?",
+    "options": [
+      "It developed correctly",
+      "It never developed",
+      "It is the same as Protestant understanding",
+      "It developed in many really strange ways"
+    ],
+    "answer": "It developed in many really strange ways"
+  },
+  {
+    "question": "According to the video, what does the video say the Roman conception of grace and forgiveness does to the believer?",
+    "options": [
+      "It gives them security",
+      "It makes them happy",
+      "It confuses them",
+      "It robs the believer of security"
+    ],
+    "answer": "It robs the believer of security"
+  },
+  {
+    "question": "According to the video, what does the video say about whether all non-Catholics are damned?",
+    "options": [
+      "The answer is always yes",
+      "The answer is always no",
+      "It depends on which document or theologian you read",
+      "The answer is never addressed"
+    ],
+    "answer": "It depends on which document or theologian you read"
+  },
+  {
+    "question": "According to the video, what does the video say about the misquoted saying from Cardinal John Henry Newman?",
+    "options": [
+      "\"To be deep in history is to cease to be Protestant\"",
+      "\"To be deep in history is to become Catholic\"",
+      "\"To be deep in history is to reject all tradition\"",
+      "\"To be deep in history is to accept everything\""
+    ],
+    "answer": "\"To be deep in history is to cease to be Protestant\""
+  },
+  {
+    "question": "According to the video, what does the video say about being \"truly deep in history\"?",
+    "options": [
+      "To be truly deep in history is to be Catholic",
+      "To be truly deep in history is to reject all history",
+      "To be truly deep in history is to accept all traditions",
+      "To be truly deep in history is to be Pauline and Protestant, clinging to the pure word of God"
+    ],
+    "answer": "To be truly deep in history is to be Pauline and Protestant, clinging to the pure word of God"
+  }
+]
+

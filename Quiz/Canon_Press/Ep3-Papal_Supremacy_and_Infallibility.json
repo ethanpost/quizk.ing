@@ -1,0 +1,443 @@
+[
+  {
+    "question": "According to the video, when was papal infallibility finally dogmatized?",
+    "options": [
+      "12th or 13th centuries",
+      "16th century",
+      "Vatican 1 in 1870",
+      "9th century"
+    ],
+    "answer": "Vatican 1 in 1870"
+  },
+  {
+    "question": "According to Vatican 1, what does papal supremacy include?",
+    "options": [
+      "Fullness of power with universal, ordinary, and immediate jurisdiction over the entire church",
+      "Only primacy of honor and convention",
+      "Authority only in the Western church",
+      "Authority only when approved by councils"
+    ],
+    "answer": "Fullness of power with universal, ordinary, and immediate jurisdiction over the entire church"
+  },
+  {
+    "question": "What did Pope Boniface VIII claim in the bull Unam Sanctam in 1302?",
+    "options": [
+      "That councils have authority over the pope",
+      "That submission to the Roman pontiff is absolutely necessary for salvation",
+      "That the pope has no authority over governments",
+      "That papal authority is only honorary"
+    ],
+    "answer": "That submission to the Roman pontiff is absolutely necessary for salvation"
+  },
+  {
+    "question": "According to the video, when did Rome transition from a group of presbyters to a singular bishop?",
+    "options": [
+      "End of the second century",
+      "First century",
+      "Fourth century",
+      "Sixth century"
+    ],
+    "answer": "End of the second century"
+  },
+  {
+    "question": "Who was the first Roman bishop to attempt to meddle officially in the affairs of Eastern bishops?",
+    "options": [
+      "Victor I",
+      "Pope Damasus",
+      "Pope Leo",
+      "Pope Siricius"
+    ],
+    "answer": "Victor I"
+  },
+  {
+    "question": "What did Cyprian of Carthage do in 256 regarding Stephen of Rome's teaching?",
+    "options": [
+      "Called a synod in which 87 bishops repudiated Stephen's teaching on accepting heretical baptisms",
+      "Accepted Stephen's authority without question",
+      "Appealed to Rome for final judgment",
+      "Recognized Stephen's special authority from Peter"
+    ],
+    "answer": "Called a synod in which 87 bishops repudiated Stephen's teaching on accepting heretical baptisms"
+  },
+  {
+    "question": "What did Canon 6 of the Council of Nicaea establish?",
+    "options": [
+      "That the bishop of Alexandria should have authority over Egypt and Libya, just as Rome did over its surrounding areas",
+      "That Rome had universal jurisdiction",
+      "That Constantinople had primacy over Rome",
+      "That all bishops were equal"
+    ],
+    "answer": "That the bishop of Alexandria should have authority over Egypt and Libya, just as Rome did over its surrounding areas"
+  },
+  {
+    "question": "What did the Council of Sardica in 343 establish?",
+    "options": [
+      "Roman appellate jurisdiction for trials of bishops",
+      "Papal infallibility",
+      "Universal papal jurisdiction",
+      "That councils have authority over popes"
+    ],
+    "answer": "Roman appellate jurisdiction for trials of bishops"
+  },
+  {
+    "question": "Who was the first recorded person to use the term \"apostolic see\" as a unique reference to Rome?",
+    "options": [
+      "Pope Damasus",
+      "Pope Leo",
+      "Pope Siricius",
+      "Irenaeus"
+    ],
+    "answer": "Pope Damasus"
+  },
+  {
+    "question": "What did Canon 28 of the Council of Chalcedon state about Roman primacy?",
+    "options": [
+      "That Roman privilege was awarded on the basis of being the center of imperial power, not unique apostolic authority",
+      "That Rome had inherent primacy from Peter",
+      "That Rome had no special privileges",
+      "That Constantinople should have no privileges"
+    ],
+    "answer": "That Roman privilege was awarded on the basis of being the center of imperial power, not unique apostolic authority"
+  },
+  {
+    "question": "What is a decretal?",
+    "options": [
+      "A type of letter politically modeled on the Roman imperial decree that became foundational to western canon law",
+      "A type of church council",
+      "A type of papal election",
+      "A type of heresy"
+    ],
+    "answer": "A type of letter politically modeled on the Roman imperial decree that became foundational to western canon law"
+  },
+  {
+    "question": "Who authored the first indisputable decretal?",
+    "options": [
+      "Pope Damasus",
+      "Pope Leo",
+      "Pope Siricius",
+      "Pope Victor I"
+    ],
+    "answer": "Pope Siricius"
+  },
+  {
+    "question": "What principle did the Symmachan forgeries establish?",
+    "options": [
+      "That the first seat is judged by no one (prima sedes a nemine iudicatur)",
+      "That councils have authority over popes",
+      "That bishops are equal to popes",
+      "That popes must be elected by councils"
+    ],
+    "answer": "That the first seat is judged by no one (prima sedes a nemine iudicatur)"
+  },
+  {
+    "question": "When did the Pseudo-Isidorian Corpus originate?",
+    "options": [
+      "9th century",
+      "6th century",
+      "12th century",
+      "15th century"
+    ],
+    "answer": "9th century"
+  },
+  {
+    "question": "What did the Donation of Constantine claim?",
+    "options": [
+      "That Constantine had given Pope Sylvester title to the entire western half of the empire",
+      "That Constantine legalized Christianity",
+      "That Constantine moved the capital to Constantinople",
+      "That Constantine called the Council of Nicaea"
+    ],
+    "answer": "That Constantine had given Pope Sylvester title to the entire western half of the empire"
+  },
+  {
+    "question": "According to the video, how many papal decretals in the first part of the Pseudo-Isidorian Corpus were false?",
+    "options": [
+      "All 60 decretals by bishops of Rome from Anacletus to Miltiades were false",
+      "Some were false",
+      "None were false",
+      "Only a few were false"
+    ],
+    "answer": "All 60 decretals by bishops of Rome from Anacletus to Miltiades were false"
+  },
+  {
+    "question": "When were the Pseudo-Isidorian forgeries finally and decisively shown to be forgeries?",
+    "options": [
+      "1600s by a Calvinist minister",
+      "15th century",
+      "19th century",
+      "They have never been proven false"
+    ],
+    "answer": "1600s by a Calvinist minister"
+  },
+  {
+    "question": "What did Bonaventure suggest about bishops?",
+    "options": [
+      "That bishops were delegates or vicars of the pope, just as parish priests were vicars of bishops",
+      "That bishops wielded autonomous authority derived directly from Christ",
+      "That bishops had no authority",
+      "That bishops were equal to the pope"
+    ],
+    "answer": "That bishops were delegates or vicars of the pope, just as parish priests were vicars of bishops"
+  },
+  {
+    "question": "Who did Father Yves Congar call the principal theoretician of papal monarchy in the 13th century?",
+    "options": [
+      "Bonaventure",
+      "Peter Olivi",
+      "John of Torquemada",
+      "Nicholas of Cusa"
+    ],
+    "answer": "Bonaventure"
+  },
+  {
+    "question": "What did the Council of Constance in 1414 do?",
+    "options": [
+      "Deposed three popes of the papal schism and reinstated a new pope, affirming conciliar authority",
+      "Declared papal infallibility",
+      "Declared papal supremacy over councils",
+      "Rejected all papal authority"
+    ],
+    "answer": "Deposed three popes of the papal schism and reinstated a new pope, affirming conciliar authority"
+  },
+  {
+    "question": "What is Gallicanism?",
+    "options": [
+      "The French continuation of conciliar theory after the Reformation",
+      "The theory that popes have absolute authority",
+      "The theory that bishops are infallible",
+      "The theory that councils have no authority"
+    ],
+    "answer": "The French continuation of conciliar theory after the Reformation"
+  },
+  {
+    "question": "According to J.N.D. Kelly, how did Eastern churches treat Rome?",
+    "options": [
+      "As the constitutional center and head of the church",
+      "As an infallible oracle on faith and morals",
+      "Never as the constitutional center and head of the church, much less as an infallible oracle",
+      "As having universal jurisdiction"
+    ],
+    "answer": "Never as the constitutional center and head of the church, much less as an infallible oracle"
+  },
+  {
+    "question": "What did the video say about when larger claims were made by Rome in the first thousand years of church history?",
+    "options": [
+      "The later you go, the larger the claims made by Rome",
+      "Claims were consistent throughout",
+      "Claims were smaller in later centuries",
+      "Claims never changed"
+    ],
+    "answer": "The later you go, the larger the claims made by Rome"
+  },
+  {
+    "question": "What did Pope Leo the Great famously do in 452?",
+    "options": [
+      "Persuaded Attila the Hun to turn back from his invasion of Italy",
+      "Called the Council of Chalcedon",
+      "Declared papal infallibility",
+      "Forged the Donation of Constantine"
+    ],
+    "answer": "Persuaded Attila the Hun to turn back from his invasion of Italy"
+  },
+  {
+    "question": "According to the video, what is canon law?",
+    "options": [
+      "The set of laws and ordinances that were instituted for the governance of the church",
+      "Laws governing only the papacy",
+      "Laws governing only councils",
+      "Laws governing only bishops"
+    ],
+    "answer": "The set of laws and ordinances that were instituted for the governance of the church"
+  },
+  {
+    "question": "What did the video say about the relationship between theological arguments and political struggles?",
+    "options": [
+      "Theological arguments became political struggles and political struggles became theological arguments",
+      "They were always separate",
+      "They never interacted",
+      "Only political struggles mattered"
+    ],
+    "answer": "Theological arguments became political struggles and political struggles became theological arguments"
+  },
+  {
+    "question": "What did the video say about Peter's authority in his own lifetime?",
+    "options": [
+      "Peter did not hold such messianic authority over the salvation of any individual",
+      "Peter held messianic authority over the salvation of individuals",
+      "Peter had universal jurisdiction",
+      "Peter was infallible"
+    ],
+    "answer": "Peter did not hold such messianic authority over the salvation of any individual"
+  },
+  {
+    "question": "What did Paul do regarding Peter according to the video?",
+    "options": [
+      "Put Peter on blast for being too friendly towards those who were adding extra steps to salvation",
+      "Recognized Peter's supreme authority",
+      "Submitted to Peter's authority",
+      "Never interacted with Peter"
+    ],
+    "answer": "Put Peter on blast for being too friendly towards those who were adding extra steps to salvation"
+  },
+  {
+    "question": "According to the video, when did the battle over conciliar power get won by Rome?",
+    "options": [
+      "9th century",
+      "12th century",
+      "16th century in the Fifth Lateran Council",
+      "19th century"
+    ],
+    "answer": "16th century in the Fifth Lateran Council"
+  },
+  {
+    "question": "What did the video say about the Eastern churches' recognition of Roman authority?",
+    "options": [
+      "They recognized primacy of honor or judicial appeal but never authority to intervene in their affairs at will",
+      "They recognized universal Roman jurisdiction",
+      "They recognized papal infallibility",
+      "They never recognized any Roman authority"
+    ],
+    "answer": "They recognized primacy of honor or judicial appeal but never authority to intervene in their affairs at will"
+  },
+  {
+    "question": "What did the video say about when ideas of papal authority took root in the Latin West?",
+    "options": [
+      "First century",
+      "Second century",
+      "Fourth and fifth centuries",
+      "Ninth century"
+    ],
+    "answer": "Fourth and fifth centuries"
+  },
+  {
+    "question": "What did Pope Damasus assert in 382 about Rome's position?",
+    "options": [
+      "That it derived its authority and establishment directly from the apostles Peter and Paul",
+      "That it was set up by synods",
+      "That it had no special authority",
+      "That it was equal to other sees"
+    ],
+    "answer": "That it derived its authority and establishment directly from the apostles Peter and Paul"
+  },
+  {
+    "question": "What did the video say about how long it took for papal infallibility to become universal after Peter Olivi?",
+    "options": [
+      "Immediately",
+      "100 years",
+      "More than 600 years",
+      "300 years"
+    ],
+    "answer": "More than 600 years"
+  },
+  {
+    "question": "What did Pope Eugenius IV declare in 1441?",
+    "options": [
+      "Papal supremacy over councils in his bull Execrabilis",
+      "Conciliar authority over popes",
+      "That councils have no authority",
+      "That popes and councils are equal"
+    ],
+    "answer": "Papal supremacy over councils in his bull Execrabilis"
+  },
+  {
+    "question": "What did the video say about when Gallicanism lost its institutional foothold?",
+    "options": [
+      "After the French Revolution",
+      "After the Council of Constance",
+      "After Vatican 1",
+      "It never lost its foothold"
+    ],
+    "answer": "After the French Revolution"
+  },
+  {
+    "question": "According to the video, what is primacy of honor?",
+    "options": [
+      "The recognition by Eastern churches that Rome had a position of honor or judicial appeal, but not overriding jurisdiction",
+      "Universal jurisdiction over the church",
+      "Infallible teaching authority",
+      "Authority over all earthly rulers"
+    ],
+    "answer": "The recognition by Eastern churches that Rome had a position of honor or judicial appeal, but not overriding jurisdiction"
+  },
+  {
+    "question": "What did the video say about the claims of papal supremacy and infallibility?",
+    "options": [
+      "They are clearly taught in scripture",
+      "They were universal belief of the early church",
+      "They are not taught in scripture and at no point were they universal belief of the early church",
+      "They are a logical outgrowth of the deposit of faith"
+    ],
+    "answer": "They are not taught in scripture and at no point were they universal belief of the early church"
+  },
+  {
+    "question": "What did the video say about the Investiture Controversy?",
+    "options": [
+      "It was in the 11th and 12th centuries and the Pseudo-Isidorian Corpus played a crucial role",
+      "It was in the 9th and 10th centuries",
+      "It was in the 15th century",
+      "It never happened"
+    ],
+    "answer": "It was in the 11th and 12th centuries and the Pseudo-Isidorian Corpus played a crucial role"
+  },
+  {
+    "question": "What did the video say about mendicant orders?",
+    "options": [
+      "They were nomadic, poverty-less, alms-begging orders of friars that completely transformed the religious landscape",
+      "They were established by councils",
+      "They had no relationship with the papacy",
+      "They rejected papal authority"
+    ],
+    "answer": "They were nomadic, poverty-less, alms-begging orders of friars that completely transformed the religious landscape"
+  },
+  {
+    "question": "What did the video say about the relationship between friars and the papacy?",
+    "options": [
+      "Friars heavily relied on papacy to protect them and legitimize their activities",
+      "Friars rejected papal protection",
+      "Friars had no relationship with the papacy",
+      "Friars opposed the papacy"
+    ],
+    "answer": "Friars heavily relied on papacy to protect them and legitimize their activities"
+  },
+  {
+    "question": "What did the video say about the effect of the Pseudo-Isidorian forgeries?",
+    "options": [
+      "It is hard to overestimate the effect of such a successful deception that was systemic and universal in the medieval Latin church",
+      "They had little effect",
+      "They were quickly discovered and rejected",
+      "They only affected a few regions"
+    ],
+    "answer": "It is hard to overestimate the effect of such a successful deception that was systemic and universal in the medieval Latin church"
+  },
+  {
+    "question": "According to the video, what did the Pseudo-Isidorian forger claim about who can summon church councils?",
+    "options": [
+      "Only the bishop of Rome can summon a church council",
+      "Any bishop can summon a council",
+      "Only councils can summon themselves",
+      "Only emperors can summon councils"
+    ],
+    "answer": "Only the bishop of Rome can summon a church council"
+  },
+  {
+    "question": "What did the video say about the development of the papacy?",
+    "options": [
+      "It took a very very long time for the papacy to develop to the point where it was making such dramatic claims",
+      "It developed quickly in the first century",
+      "It never developed",
+      "It developed consistently throughout history"
+    ],
+    "answer": "It took a very very long time for the papacy to develop to the point where it was making such dramatic claims"
+  },
+  {
+    "question": "What did the video say about the entire system of papal claims?",
+    "options": [
+      "Given the historical weakness of Vatican 1's claims, the entire system is a house of cards",
+      "It is firmly established historically",
+      "It is based on clear scriptural teaching",
+      "It was universally accepted from the beginning"
+    ],
+    "answer": "Given the historical weakness of Vatican 1's claims, the entire system is a house of cards"
+  }
+]
+

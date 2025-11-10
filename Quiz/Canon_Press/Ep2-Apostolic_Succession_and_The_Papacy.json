@@ -1,0 +1,463 @@
+[
+  {
+    "question": "According to the video, what is the singular thing that makes someone a Roman Catholic or not?",
+    "options": [
+      "Belief in the real presence in the Eucharist",
+      "Belief in the apostolic authority of the papacy",
+      "Belief in the veneration of saints",
+      "Belief in seven sacraments"
+    ],
+    "answer": "Belief in the apostolic authority of the papacy"
+  },
+  {
+    "question": "What does the bishop of Rome (pope) claim according to the video?",
+    "options": [
+      "The divine right to intervene anywhere, anytime in the global church with absolute authority with no appeal",
+      "The right to intervene in local churches with the consent of local bishops",
+      "The right to provide guidance that can be appealed to church councils",
+      "The right to teach only when in agreement with ecumenical councils"
+    ],
+    "answer": "The divine right to intervene anywhere, anytime in the global church with absolute authority with no appeal"
+  },
+  {
+    "question": "According to the video, how many intertwined teachings does the medieval and modern papal position rest on?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "question": "What are the four intertwined teachings mentioned in the video?",
+    "options": [
+      "Apostolic succession, Petrine primacy, Roman primacy, and infallibility of the church",
+      "Apostolic succession, Petrine primacy, papal infallibility, and universal jurisdiction",
+      "Apostolic succession, Petrine primacy, episcopal authority, and sacramental validity",
+      "Apostolic succession, Petrine primacy, conciliar authority, and doctrinal development"
+    ],
+    "answer": "Apostolic succession, Petrine primacy, Roman primacy, and infallibility of the church"
+  },
+  {
+    "question": "According to the video, what do Protestants generally emphasize regarding apostolic succession?",
+    "options": [
+      "Apostolic succession through the laying on of hands",
+      "Apostolic succession of office through bishops",
+      "Apostolic succession of doctrine focusing on the apostolic teaching of the gospel contained in scripture",
+      "Apostolic succession through the preservation of traditions"
+    ],
+    "answer": "Apostolic succession of doctrine focusing on the apostolic teaching of the gospel contained in scripture"
+  },
+  {
+    "question": "For Catholics, what is valid ministry dependent on according to the video?",
+    "options": [
+      "Whether bishops can trace their ordination all the way back to the apostles",
+      "Whether ministers can trace their education back to apostolic times",
+      "Whether churches can trace their founding to apostolic times",
+      "Whether doctrines can be traced to apostolic writings"
+    ],
+    "answer": "Whether bishops can trace their ordination all the way back to the apostles"
+  },
+  {
+    "question": "What does Petrine primacy claim about Peter?",
+    "options": [
+      "Peter was one of the most prominent apostles",
+      "Peter was the first to confess Christ",
+      "Peter received a uniquely authoritative office from Christ that directly placed him over the other apostles",
+      "Peter was martyred in Rome"
+    ],
+    "answer": "Peter received a uniquely authoritative office from Christ that directly placed him over the other apostles"
+  },
+  {
+    "question": "What is Roman Petrine primacy according to the video?",
+    "options": [
+      "The claim that Rome was the capital of the empire",
+      "The claim that all bishops must be approved by Rome",
+      "The claim that Roman bishops are superior to all other clergy",
+      "The combination of the ideas of both apostolic succession and Petrine primacy"
+    ],
+    "answer": "The combination of the ideas of both apostolic succession and Petrine primacy"
+  },
+  {
+    "question": "According to the video, what is the problem with the schema of apostolic succession?",
+    "options": [
+      "It is too complex",
+      "It is not mentioned in scripture at all",
+      "It is anachronistic because church structures changed organically with changing circumstances",
+      "It contradicts modern scholarship"
+    ],
+    "answer": "It is anachronistic because church structures changed organically with changing circumstances"
+  },
+  {
+    "question": "What form of church government do Catholics espouse according to the video?",
+    "options": [
+      "Two office form",
+      "Four office form",
+      "Three office form",
+      "Five office form"
+    ],
+    "answer": "Three office form"
+  },
+  {
+    "question": "What are the three offices in the Catholic form of church government?",
+    "options": [
+      "Bishops, priests, and deacons",
+      "Elders, deacons, and ministers",
+      "Apostles, prophets, and teachers",
+      "Pastors, elders, and deacons"
+    ],
+    "answer": "Bishops, priests, and deacons"
+  },
+  {
+    "question": "What do most Protestants believe about divinely established offices?",
+    "options": [
+      "Only one office was divinely established",
+      "Three offices were divinely established",
+      "Four offices were divinely established",
+      "Only two offices were divinely established: elders and deacons"
+    ],
+    "answer": "Only two offices were divinely established: elders and deacons"
+  },
+  {
+    "question": "According to the video, when does most scholarship hold that there was a single bishop of Rome?",
+    "options": [
+      "From the time of the apostles",
+      "From the end of the first century",
+      "Until the latter half of the 2nd century",
+      "From the time of Constantine"
+    ],
+    "answer": "Until the latter half of the 2nd century"
+  },
+  {
+    "question": "What does the New Testament do with bishops and elders according to the video?",
+    "options": [
+      "Clearly distinguishes them",
+      "Never mentions bishops",
+      "Never mentions elders",
+      "Conflates them"
+    ],
+    "answer": "Conflates them"
+  },
+  {
+    "question": "What are the two Greek words of concern mentioned in the video?",
+    "options": [
+      "Episcopos and presburos",
+      "Apostolos and diakonos",
+      "Presbyteros and episkopos",
+      "Hieros and laikos"
+    ],
+    "answer": "Episcopos and presburos"
+  },
+  {
+    "question": "What does episcopos generally mean?",
+    "options": [
+      "Elder or priest",
+      "Deacon or servant",
+      "Apostle or messenger",
+      "Overseer or bishop"
+    ],
+    "answer": "Overseer or bishop"
+  },
+  {
+    "question": "What does presburos generally mean?",
+    "options": [
+      "Overseer or bishop",
+      "Deacon or servant",
+      "Presbyter, elder, or priest",
+      "Apostle or messenger"
+    ],
+    "answer": "Presbyter, elder, or priest"
+  },
+  {
+    "question": "According to the video, when did bishop as a distinct office become universal?",
+    "options": [
+      "During the time of the apostles",
+      "Early in the second century",
+      "At the end of the second century",
+      "At the Council of Nicaea"
+    ],
+    "answer": "At the end of the second century"
+  },
+  {
+    "question": "How long after Peter's death did the office of bishop take shape in Rome according to the video?",
+    "options": [
+      "Immediately",
+      "About 50 years",
+      "Around a century",
+      "About 200 years"
+    ],
+    "answer": "Around a century"
+  },
+  {
+    "question": "Which church father is mentioned as coming to a similar conclusion about bishops and elders?",
+    "options": [
+      "St. Jerome",
+      "Augustine",
+      "Origen",
+      "Tertullian"
+    ],
+    "answer": "St. Jerome"
+  },
+  {
+    "question": "What is St. Jerome most famous for?",
+    "options": [
+      "Writing against heresies",
+      "Establishing monasticism",
+      "Translating the Latin Vulgate",
+      "Defending the Trinity"
+    ],
+    "answer": "Translating the Latin Vulgate"
+  },
+  {
+    "question": "According to the video, what does Acts 20 show about bishops and elders?",
+    "options": [
+      "They are clearly distinct",
+      "Only bishops are mentioned",
+      "Only elders are mentioned",
+      "Paul uses the two terms interchangeably"
+    ],
+    "answer": "Paul uses the two terms interchangeably"
+  },
+  {
+    "question": "What does Titus 1:5-7 show according to the video?",
+    "options": [
+      "Bishops and elders are distinct offices",
+      "Only bishops have qualifications listed",
+      "Only elders have qualifications listed",
+      "Paul uses terms overseers and elders interchangeably when describing qualifications for church office"
+    ],
+    "answer": "Paul uses terms overseers and elders interchangeably when describing qualifications for church office"
+  },
+  {
+    "question": "According to 1 Timothy 4:14, how was Timothy ordained?",
+    "options": [
+      "By the college of elders",
+      "By a single bishop",
+      "By the apostles directly",
+      "By the church council"
+    ],
+    "answer": "By the college of elders"
+  },
+  {
+    "question": "What does Philippians 1:1 show according to the video?",
+    "options": [
+      "There was one bishop per church",
+      "There were no bishops mentioned",
+      "Bishops and elders were the same",
+      "There were multiple bishops at one church"
+    ],
+    "answer": "There were multiple bishops at one church"
+  },
+  {
+    "question": "According to St. Jerome, why were bishops created?",
+    "options": [
+      "As a divine command from Christ",
+      "To replace the apostles",
+      "As a practical necessity at the time to preserve unity",
+      "To establish hierarchy"
+    ],
+    "answer": "As a practical necessity at the time to preserve unity"
+  },
+  {
+    "question": "According to St. Jerome, where did the bishop originally derive his authority from?",
+    "options": [
+      "From apostolic succession",
+      "From divine appointment",
+      "From the emperor",
+      "From the choice of the presbyters"
+    ],
+    "answer": "From the choice of the presbyters"
+  },
+  {
+    "question": "What does St. Jerome say the bishop is to the presbyters?",
+    "options": [
+      "What an apostle is to a bishop",
+      "What a priest is to a deacon",
+      "What a pope is to a bishop",
+      "What an arch deacon is to the deacons"
+    ],
+    "answer": "What an arch deacon is to the deacons"
+  },
+  {
+    "question": "According to the video, what does the idea that Peter had power over the other apostles contradict?",
+    "options": [
+      "Church tradition",
+      "Ecumenical councils",
+      "Modern scholarship",
+      "Scripture"
+    ],
+    "answer": "Scripture"
+  },
+  {
+    "question": "Who presides over the Jerusalem Council in Acts according to the video?",
+    "options": [
+      "James",
+      "Peter",
+      "Paul",
+      "John"
+    ],
+    "answer": "James"
+  },
+  {
+    "question": "What does the video say about Paul and Peter in Galatians?",
+    "options": [
+      "Paul supports Peter's authority",
+      "Paul asks Peter for guidance",
+      "Paul and Peter work together",
+      "Paul rebukes Peter publicly for a significant error"
+    ],
+    "answer": "Paul rebukes Peter publicly for a significant error"
+  },
+  {
+    "question": "According to the video, who else is given the authority to bind and loose besides Peter?",
+    "options": [
+      "Only the other apostles",
+      "Only bishops",
+      "Only the pope",
+      "The rest of the disciples in Matthew 18"
+    ],
+    "answer": "The rest of the disciples in Matthew 18"
+  },
+  {
+    "question": "According to the video, what did the church fathers not have consensus on?",
+    "options": [
+      "Whether Peter was an apostle",
+      "Whether Peter went to Rome",
+      "Whether Peter was martyred",
+      "What the \"rock\" in Matthew 16 was"
+    ],
+    "answer": "What the \"rock\" in Matthew 16 was"
+  },
+  {
+    "question": "What did Cyprian of Carthage say about the other apostles?",
+    "options": [
+      "They were inferior to Peter",
+      "They were subject to Peter's authority",
+      "They had different roles than Peter",
+      "They were what Peter was, furnished with an equal share of honor and power"
+    ],
+    "answer": "They were what Peter was, furnished with an equal share of honor and power"
+  },
+  {
+    "question": "According to the 1980s ecumenical dialogue mentioned in the video, what does the New Testament contain?",
+    "options": [
+      "Explicit record of transmission of Peter's leadership",
+      "Clear teaching on papal authority",
+      "Direct commands about apostolic succession",
+      "No explicit record of a transmission of Peter's leadership"
+    ],
+    "answer": "No explicit record of a transmission of Peter's leadership"
+  },
+  {
+    "question": "According to the video, in what two senses is it possible to be successors of the apostles?",
+    "options": [
+      "In office and in doctrine",
+      "In teaching and in administration",
+      "In authority and in service",
+      "In common ministry and in special extraordinary work"
+    ],
+    "answer": "In common ministry and in special extraordinary work"
+  },
+  {
+    "question": "What was a crucial part of the apostles' status according to the video?",
+    "options": [
+      "Being eyewitnesses of the resurrected Christ",
+      "Being educated in Greek philosophy",
+      "Being from Jerusalem",
+      "Being related to Jesus"
+    ],
+    "answer": "Being eyewitnesses of the resurrected Christ"
+  },
+  {
+    "question": "According to Matthew 19:28, what will the apostles do?",
+    "options": [
+      "Preach to all nations",
+      "Rule over the church",
+      "Administer the sacraments",
+      "Sit on 12 thrones, judging the 12 tribes of Israel"
+    ],
+    "answer": "Sit on 12 thrones, judging the 12 tribes of Israel"
+  },
+  {
+    "question": "According to the video, what do bishops and elders only succeed the apostles in?",
+    "options": [
+      "Authority",
+      "Miracles",
+      "Revelation",
+      "Ministry"
+    ],
+    "answer": "Ministry"
+  },
+  {
+    "question": "According to the video, how many major patriarchates have claims of Petrine succession besides Rome?",
+    "options": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "Which city's bishops claim Petrine succession according to the video?",
+    "options": [
+      "Jerusalem",
+      "Constantinople",
+      "Ephesus",
+      "Antioch"
+    ],
+    "answer": "Antioch"
+  },
+  {
+    "question": "Through whom do the Coptic popes of Alexandria claim succession from Peter?",
+    "options": [
+      "Through Paul",
+      "Through Luke",
+      "Through John",
+      "Through Mark the Gospel writer"
+    ],
+    "answer": "Through Mark the Gospel writer"
+  },
+  {
+    "question": "According to the video, what was the thing that distinguished Rome in the early church?",
+    "options": [
+      "Petrine succession",
+      "Apostolic foundation",
+      "Largely secular and political status as cultural center and capital of empire",
+      "Doctrinal purity"
+    ],
+    "answer": "Largely secular and political status as cultural center and capital of empire"
+  },
+  {
+    "question": "According to the video, what should we believe St. Jerome when he tells us about bishops?",
+    "options": [
+      "They were established by divine command",
+      "They were always distinct from elders",
+      "They have exclusive authority",
+      "They were created as a practical organizational measure rather than as foundation of church legitimacy and authority"
+    ],
+    "answer": "They were created as a practical organizational measure rather than as foundation of church legitimacy and authority"
+  },
+  {
+    "question": "What does the video say will be the focus of the next video?",
+    "options": [
+      "Apostolic succession",
+      "Petrine primacy",
+      "Issues with later claims primarily supremacy and infallibility",
+      "Roman primacy"
+    ],
+    "answer": "Issues with later claims primarily supremacy and infallibility"
+  },
+  {
+    "question": "According to the video, what does the belief that episcopal church government was established by Christ run against?",
+    "options": [
+      "Modern scholarship only",
+      "Ecumenical dialogue",
+      "Catholic tradition",
+      "The testimony of the scriptures and the early church"
+    ],
+    "answer": "The testimony of the scriptures and the early church"
+  }
+]
+

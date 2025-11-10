@@ -555,7 +555,7 @@ D) 15th century
 
 ///
 
-## What did the Donation of Constantine claim?
+## What did the Donation of Constantine (a forgery) claim?
 
 ---
 
@@ -681,7 +681,7 @@ The French continuation of conciliar theory after the Reformation
 
 ///
 
-## According to JND Kelly, how did Eastern churches treat Rome?
+## According to J.N.D. Kelly, how did Eastern churches treat Rome?
 
 ---
 
@@ -987,7 +987,7 @@ It was in the 11th and 12th centuries and the Pseudo-Isidorian Corpus played a c
 
 ///
 
-## What did the video say about mendicant orders?
+## What did the video say about Mendicant orders?
 
 ---
 
