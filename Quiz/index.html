@@ -953,7 +953,8 @@
     });
 
     folderSelect.addEventListener("change", (e) => {
-      filterQuizzes(searchInput.value, e.target.value);
+      searchInput.value = ''; // Clear the search input
+      filterQuizzes('', e.target.value);
     });
 
     searchInput.addEventListener("input", (e) => {
