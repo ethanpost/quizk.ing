@@ -99,6 +99,40 @@
       outline: none;
       border-color: #007bff;
     }
+    #folderSelector {
+      margin: 20px auto;
+      width: 100%;
+      max-width: 600px;
+      display: block;
+    }
+    #folderSelector.hidden {
+      display: none;
+    }
+    #folderSelect {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      border: 2px solid #ddd;
+      border-radius: 5px;
+      margin-bottom: 20px;
+      background-color: white;
+      cursor: pointer;
+      transition: border-color 0.3s ease;
+    }
+    #folderSelect:focus {
+      outline: none;
+      border-color: #007bff;
+    }
+    .folder-badge {
+      display: inline-block;
+      background-color: #007bff;
+      color: white;
+      padding: 4px 8px;
+      border-radius: 3px;
+      font-size: 0.75em;
+      margin-left: 10px;
+      font-weight: normal;
+    }
     #quizGrid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -162,6 +196,9 @@
     }
     .quiz-subjects {
       font-style: italic;
+    }
+    .quiz-folder {
+      margin-bottom: 5px;
     }
     .option {
       padding: 10px;
@@ -285,6 +322,9 @@
       <button id="startQuiz" disabled>Go</button>
     </div>
     <div id="quizSearch" class="hidden">
+      <select id="folderSelect">
+        <option value="">All Folders</option>
+      </select>
       <input type="text" id="searchInput" placeholder="Search..." maxlength="50">
     </div>
     <div id="quizGrid" class="hidden">
@@ -312,6 +352,7 @@
     const startQuizButton = document.getElementById("startQuiz");
     const nameSection = document.getElementById("nameSection");
     const quizSearch = document.getElementById("quizSearch");
+    const folderSelect = document.getElementById("folderSelect");
     const searchInput = document.getElementById("searchInput");
     const quizGrid = document.getElementById("quizGrid");
     const previousResultsElement = document.getElementById("previousResults");
@@ -444,22 +485,33 @@
       await fetchQuizzesFromJson();
     }
 
-    function filterQuizzes(searchTerm) {
+    function filterQuizzes(searchTerm, folderFilter = null) {
       const term = searchTerm.toLowerCase();
-      const filteredQuizzes = quizList.filter(quiz => {
-        // Search in quiz name
-        const nameMatch = quiz.name.toLowerCase().includes(term);
-        
-        // Search in author
-        const authorMatch = quiz.author && quiz.author.toLowerCase().includes(term);
-        
-        // Search in subjects
-        const subjectsMatch = quiz.subjects && quiz.subjects.some(subject => 
-          subject.toLowerCase().includes(term)
-        );
-        
-        return nameMatch || authorMatch || subjectsMatch;
-      });
+      let filteredQuizzes = quizList;
+      
+      // Filter by folder first
+      if (folderFilter && folderFilter !== '') {
+        filteredQuizzes = filteredQuizzes.filter(quiz => quiz.folder === folderFilter);
+      }
+      
+      // Then filter by search term
+      if (term) {
+        filteredQuizzes = filteredQuizzes.filter(quiz => {
+          // Search in quiz name
+          const nameMatch = quiz.name.toLowerCase().includes(term);
+          
+          // Search in author
+          const authorMatch = quiz.author && quiz.author.toLowerCase().includes(term);
+          
+          // Search in subjects
+          const subjectsMatch = quiz.subjects && quiz.subjects.some(subject => 
+            subject.toLowerCase().includes(term)
+          );
+          
+          return nameMatch || authorMatch || subjectsMatch;
+        });
+      }
+      
       displayQuizzes(filteredQuizzes);
     }
 
@@ -496,8 +548,11 @@
         
         // Build author and subjects HTML
         let metaHtml = '';
-        if (quiz.author || quiz.subjects) {
+        if (quiz.author || quiz.subjects || quiz.folder) {
           metaHtml = '<div class="quiz-meta">';
+          if (quiz.folder) {
+            metaHtml += `<div class="quiz-folder"><span class="folder-badge">${quiz.folder}</span></div>`;
+          }
           if (quiz.author) {
             metaHtml += `<div class="quiz-author">By: ${quiz.author}</div>`;
           }
@@ -534,6 +589,30 @@
       });
     }
 
+    function populateFolderSelector() {
+      // Extract unique folders from quiz list
+      const folders = new Set();
+      quizList.forEach(quiz => {
+        if (quiz.folder) {
+          folders.add(quiz.folder);
+        }
+      });
+      
+      // Sort folders alphabetically
+      const sortedFolders = Array.from(folders).sort();
+      
+      // Clear existing options except "All Folders"
+      folderSelect.innerHTML = '<option value="">All Folders</option>';
+      
+      // Add folder options
+      sortedFolders.forEach(folder => {
+        const option = document.createElement('option');
+        option.value = folder;
+        option.textContent = folder;
+        folderSelect.appendChild(option);
+      });
+    }
+
     // Optional fallback function if API fails
     async function fetchQuizzesFromJson() {
       try {
@@ -548,6 +627,7 @@
         const jsonList = await response.json();
         console.log('Loaded quiz list:', jsonList);
         quizList = jsonList; // Store quiz list for later use
+        populateFolderSelector(); // Populate folder selector
         displayQuizzes(jsonList);
       } catch (e) {
         console.error('Fallback failed:', e);
@@ -870,8 +950,12 @@
       }
     });
 
+    folderSelect.addEventListener("change", (e) => {
+      filterQuizzes(searchInput.value, e.target.value);
+    });
+
     searchInput.addEventListener("input", (e) => {
-      filterQuizzes(e.target.value);
+      filterQuizzes(e.target.value, folderSelect.value);
     });
 
     // Logo click to return to start
@@ -918,7 +1002,7 @@
         
         // Set search value and filter
         searchInput.value = searchParam;
-        filterQuizzes(searchParam);
+        filterQuizzes(searchParam, folderSelect.value);
         searchInput.focus();
       }
       // Otherwise, wait for manual name entry
