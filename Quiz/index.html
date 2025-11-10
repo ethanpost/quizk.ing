@@ -592,25 +592,27 @@
     }
 
     function populateFolderSelector() {
-      // Extract unique folders from quiz list
-      const folders = new Set();
+      // Create a map of folder -> author (using first quiz's author in each folder)
+      const folderToAuthor = new Map();
       quizList.forEach(quiz => {
-        if (quiz.folder) {
-          folders.add(quiz.folder);
+        if (quiz.folder && quiz.author && !folderToAuthor.has(quiz.folder)) {
+          folderToAuthor.set(quiz.folder, quiz.author);
         }
       });
       
-      // Sort folders alphabetically
-      const sortedFolders = Array.from(folders).sort();
+      // Convert to array and sort by author name for better readability
+      const folderEntries = Array.from(folderToAuthor.entries())
+        .map(([folder, author]) => ({ folder, author }))
+        .sort((a, b) => a.author.localeCompare(b.author));
       
       // Clear existing options except "All Folders"
       folderSelect.innerHTML = '<option value="">All Folders</option>';
       
-      // Add folder options
-      sortedFolders.forEach(folder => {
+      // Add folder options with author as display text
+      folderEntries.forEach(({ folder, author }) => {
         const option = document.createElement('option');
-        option.value = folder;
-        option.textContent = folder;
+        option.value = folder; // Still use folder for filtering
+        option.textContent = author; // Display author name
         folderSelect.appendChild(option);
       });
     }
