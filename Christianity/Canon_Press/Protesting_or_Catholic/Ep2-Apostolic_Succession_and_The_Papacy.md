@@ -787,24 +787,6 @@ They were what Peter was, furnished with an equal share of honor and power
 
 ///
 
-## According to the 1980s ecumenical dialogue mentioned in the video, what does the New Testament contain?
-
----
-
-A) Explicit record of transmission of Peter's leadership
-
-B) Clear teaching on papal authority
-
-C) Direct commands about apostolic succession
-
-D) No explicit record of a transmission of Peter's leadership
-
----
-
-No explicit record of a transmission of Peter's leadership
-
-///
-
 ## According to the video, in what two senses is it possible to be successors of the apostles?
 
 ---
