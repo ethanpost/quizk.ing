@@ -985,7 +985,7 @@
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep1-Protestantism_vs_Catholicism_Explained.md",
     "folder": "Canon_Press",
     "author": "Canon Press",
-    "subjects": ["Christianity", "Theology"]
+    "subjects": ["Christianity", "Theology", "Catholicism"]
   },
   {
     "name": "Apostolic Succession and The Papacy | Protesting or Catholic Ep 2",
@@ -994,7 +994,7 @@
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep2-Apostolic_Succession_and_The_Papacy.md",
     "folder": "Canon_Press",
     "author": "Canon Press",
-    "subjects": ["Christianity", "Theology"]
+    "subjects": ["Christianity", "Theology", "Catholicism"]
   },
   {
     "name": "Papal Supremacy and Infallibility | Protesting or Catholic Ep 3",
@@ -1003,6 +1003,6 @@
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep3-Papal_Supremacy_and_Infallibility.md",
     "folder": "Canon_Press",
     "author": "Canon Press",
-    "subjects": ["Christianity", "Theology"]
+    "subjects": ["Christianity", "Theology", "Catholicism"]
   }
 ]

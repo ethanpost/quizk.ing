@@ -28,7 +28,7 @@
 - Magisterium guards the deposit of faith
 - Deposit of faith composed of two equally authoritative parts: scripture and tradition
 - Magisterium is the authoritative interpreter of scripture and tradition
-- Council of Trent says no one should contradict magisterium's interpretation of scripture
+- Council of Trent (1545–1563) says no one should contradict magisterium's interpretation of scripture
 - Magisterial teaching represents logical outworking of doctrines over time guided by the Spirit
 - Based on Jesus's promise in John 16:13 about the Spirit guiding into all truth
 - Key distinctives accumulated over centuries: confession to priest, purgatory, justification by faith and works, Immaculate Conception of Mary, Assumption of Mary, prayers to and veneration of saints, transubstantiation
