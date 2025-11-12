@@ -1,0 +1,213 @@
+[
+  {
+    "question": "According to the video, what is the first step when selecting a material for your design project?",
+    "options": [
+      "Choose between aluminum and stainless steel",
+      "Determine the surface finish needed",
+      "Compare costs of different materials",
+      "Understand the requirements and constraints of the parts"
+    ],
+    "answer": "Understand the requirements and constraints of the parts"
+  },
+  {
+    "question": "What equation does the video use to explain the relationship between material, machine, and reality in Design for Manufacturing?",
+    "options": [
+      "Material + Machine = Reality",
+      "Material × Machine = Reality",
+      "Material ÷ Machine = Reality",
+      "Material - Machine = Reality"
+    ],
+    "answer": "Material + Machine = Reality"
+  },
+  {
+    "question": "For the motorcycle front fork example, which material characteristics are most important?",
+    "options": [
+      "Weight and lead time only",
+      "Corrosion resistance and surface finish",
+      "Cost and tolerance only",
+      "Wear resistance and chemical resistance"
+    ],
+    "answer": "Corrosion resistance and surface finish"
+  },
+  {
+    "question": "Why would aluminum be eliminated from consideration for the chain tensioner?",
+    "options": [
+      "It has poor corrosion resistance",
+      "It lacks sufficient wear resistance",
+      "It cannot be anodized",
+      "It is too expensive"
+    ],
+    "answer": "It lacks sufficient wear resistance"
+  },
+  {
+    "question": "What happens to 6000 series aluminum when considering machinability and formability for a part that needs to be bent?",
+    "options": [
+      "It works well but increases cost significantly",
+      "It falls off the list because it cannot be bent",
+      "It becomes the preferred choice",
+      "It requires special heat treatment first"
+    ],
+    "answer": "It falls off the list because it cannot be bent"
+  },
+  {
+    "question": "According to the video, how does cost typically compare between stainless steel and aluminum?",
+    "options": [
+      "Aluminum is always more expensive than stainless steel",
+      "Cost depends only on quantity ordered",
+      "Stainless steel is always more expensive than aluminum",
+      "They cost the same"
+    ],
+    "answer": "Stainless steel is always more expensive than aluminum"
+  },
+  {
+    "question": "What is the relationship between tolerances and cost mentioned in the video?",
+    "options": [
+      "Tolerances have no effect on cost",
+      "Tighter tolerances decrease cost",
+      "Cost only affects material choice, not tolerances",
+      "Tighter tolerances increase cost"
+    ],
+    "answer": "Tighter tolerances increase cost"
+  },
+  {
+    "question": "According to the video, which statement about material softness and tolerances is true?",
+    "options": [
+      "Softer materials generally hold tighter tolerances more easily",
+      "Material softness has no effect on achievable tolerances",
+      "Only stainless steel can hold tight tolerances",
+      "Harder materials hold tighter tolerances more easily"
+    ],
+    "answer": "Softer materials generally hold tighter tolerances more easily"
+  },
+  {
+    "question": "Surface finish is primarily important for what reason according to the video?",
+    "options": [
+      "Cost reduction",
+      "Manufacturing process compatibility",
+      "Cosmetic appearance for customer-facing parts",
+      "Functional performance requirements"
+    ],
+    "answer": "Cosmetic appearance for customer-facing parts"
+  },
+  {
+    "question": "Why is weight an important consideration for the motorcycle project?",
+    "options": [
+      "Motorcycles should not weigh too heavy",
+      "Heavier motorcycles are preferred for stability",
+      "Weight only matters for racing applications",
+      "Weight has no impact on motorcycle performance"
+    ],
+    "answer": "Motorcycles should not weigh too heavy"
+  },
+  {
+    "question": "When is lead time most important according to the video?",
+    "options": [
+      "Only for prototype development",
+      "When building a single part with plenty of time",
+      "When building hundreds of parts every week for customers",
+      "Lead time is never important"
+    ],
+    "answer": "When building hundreds of parts every week for customers"
+  },
+  {
+    "question": "What does the video say happens as you work through the material selection criteria list?",
+    "options": [
+      "You must start over with different criteria",
+      "The list of possible materials stays the same",
+      "The list funnels down to a specific material",
+      "The list of possible materials expands"
+    ],
+    "answer": "The list funnels down to a specific material"
+  },
+  {
+    "question": "Which materials are mentioned as being corrosion resistant?",
+    "options": [
+      "Only stainless steel",
+      "Stainless steel and aluminum",
+      "Steel and carbon steel",
+      "Only aluminum"
+    ],
+    "answer": "Stainless steel and aluminum"
+  },
+  {
+    "question": "What is Design for Manufacturing (DFM)?",
+    "options": [
+      "The practice of designing products with manufacturing realities in mind",
+      "A specific manufacturing process",
+      "A software program for CAD design",
+      "A type of material finish"
+    ],
+    "answer": "The practice of designing products with manufacturing realities in mind"
+  },
+  {
+    "question": "What is corrosion resistance?",
+    "options": [
+      "A material's ability to resist heat",
+      "A material's ability to resist deterioration from environmental factors",
+      "A material's ability to be easily machined",
+      "A material's ability to conduct electricity"
+    ],
+    "answer": "A material's ability to resist deterioration from environmental factors"
+  },
+  {
+    "question": "What is wear resistance?",
+    "options": [
+      "A material's ability to resist heat",
+      "A material's ability to withstand friction and abrasion without significant degradation",
+      "A material's ability to conduct electricity",
+      "A material's ability to be easily bent"
+    ],
+    "answer": "A material's ability to withstand friction and abrasion without significant degradation"
+  },
+  {
+    "question": "What is machinability?",
+    "options": [
+      "The appearance of a material",
+      "The cost of a material",
+      "The ease with which a material can be cut, shaped, or formed using machine tools",
+      "The weight of a material"
+    ],
+    "answer": "The ease with which a material can be cut, shaped, or formed using machine tools"
+  },
+  {
+    "question": "What is formability?",
+    "options": [
+      "A material's ability to resist corrosion",
+      "A material's cost per unit",
+      "A material's ability to be bent, shaped, or formed into desired geometries without cracking",
+      "A material's ability to conduct heat"
+    ],
+    "answer": "A material's ability to be bent, shaped, or formed into desired geometries without cracking"
+  },
+  {
+    "question": "What is tolerance?",
+    "options": [
+      "The cost of manufacturing a part",
+      "The allowable variation in a dimension or property of a material or finished part",
+      "The weight of a material",
+      "The surface appearance of a material"
+    ],
+    "answer": "The allowable variation in a dimension or property of a material or finished part"
+  },
+  {
+    "question": "What is surface finish?",
+    "options": [
+      "The weight of a material",
+      "The texture, appearance, and quality of a material's outer surface",
+      "The cost of a material",
+      "The hardness of a material"
+    ],
+    "answer": "The texture, appearance, and quality of a material's outer surface"
+  },
+  {
+    "question": "What is lead time?",
+    "options": [
+      "The time required to acquire materials or complete manufacturing processes",
+      "The appearance of materials",
+      "The weight of materials",
+      "The cost of materials"
+    ],
+    "answer": "The time required to acquire materials or complete manufacturing processes"
+  }
+]
+

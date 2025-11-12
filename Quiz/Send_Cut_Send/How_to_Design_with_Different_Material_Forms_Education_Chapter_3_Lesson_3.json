@@ -1,0 +1,307 @@
+[
+  {
+    "question": "According to the video, what are the three main categories of raw stock forms?",
+    "options": [
+      "Sheet, plate, and tube",
+      "Sheet and plate, bar and billet, and tube",
+      "Bar, billet, and tube",
+      "Sheet metal, bar stock, and tubing"
+    ],
+    "answer": "Sheet and plate, bar and billet, and tube"
+  },
+  {
+    "question": "What is the primary characteristic that defines sheet and plate material?",
+    "options": [
+      "They are much thinner in thickness than their overall width and length profile",
+      "They are always square in shape",
+      "They are always made from aluminum",
+      "They cannot be bent or formed"
+    ],
+    "answer": "They are much thinner in thickness than their overall width and length profile"
+  },
+  {
+    "question": "At approximately what thickness does material transition from being called \"sheet\" to \"plate\"?",
+    "options": [
+      "Half an inch",
+      "One inch",
+      "Quarter inch (0.25\")",
+      "One eighth of an inch"
+    ],
+    "answer": "Quarter inch (0.25\")"
+  },
+  {
+    "question": "How are sheet and plate materials typically manufactured?",
+    "options": [
+      "Made in big coil fashion through extrusion",
+      "Cast in molds",
+      "Forged under pressure",
+      "Machined from solid blocks"
+    ],
+    "answer": "Made in big coil fashion through extrusion"
+  },
+  {
+    "question": "According to the video, what must designers do when working with sheet materials like cold rolled steel?",
+    "options": [
+      "Design custom thicknesses for each part",
+      "Always use the thinnest available option",
+      "Machine the material to achieve exact thicknesses",
+      "Select from available set thicknesses that cannot be changed"
+    ],
+    "answer": "Select from available set thicknesses that cannot be changed"
+  },
+  {
+    "question": "What is generally true about subtractive operations on sheet and plate?",
+    "options": [
+      "They are typically not seen much on sheet and plate",
+      "They are very common on all sheet and plate materials",
+      "They can only be done on materials thicker than one inch",
+      "They require special equipment not available for sheet metal"
+    ],
+    "answer": "They are typically not seen much on sheet and plate"
+  },
+  {
+    "question": "What secondary operations are commonly performed on sheet and plate parts?",
+    "options": [
+      "Only bending",
+      "Bending, tapping, hardware installation, or zinc plating",
+      "Only CNC milling",
+      "Only welding"
+    ],
+    "answer": "Bending, tapping, hardware installation, or zinc plating"
+  },
+  {
+    "question": "How does bar and billet differ from sheet and plate in terms of proportions?",
+    "options": [
+      "Bar and billet are always square",
+      "Bar and billet are always round",
+      "Bar and billet have no thickness dimension",
+      "Thickness matches overall outside length and width profiles more closely (more proportional)"
+    ],
+    "answer": "Thickness matches overall outside length and width profiles more closely (more proportional)"
+  },
+  {
+    "question": "What is the first thing you need to pick out when working with bar and billet?",
+    "options": [
+      "The length",
+      "The material type",
+      "The outside profile",
+      "The finish"
+    ],
+    "answer": "The outside profile"
+  },
+  {
+    "question": "What shapes can bar and billet come in?",
+    "options": [
+      "Rectangular, square, rod, U channel, 90° angle or L channels, and many more",
+      "Only square and round",
+      "Only rectangular",
+      "Only circular"
+    ],
+    "answer": "Rectangular, square, rod, U channel, 90° angle or L channels, and many more"
+  },
+  {
+    "question": "How are bar and billet profiles created?",
+    "options": [
+      "Through casting",
+      "Through forging",
+      "Through machining",
+      "Through an extrusion process"
+    ],
+    "answer": "Through an extrusion process"
+  },
+  {
+    "question": "What tool is used to cut bar and billet materials into set lengths?",
+    "options": [
+      "Laser cutter",
+      "Water jet",
+      "Band saw",
+      "Plasma cutter"
+    ],
+    "answer": "Band saw"
+  },
+  {
+    "question": "What results from cutting bar and billet with a band saw?",
+    "options": [
+      "Two rougher saw areas with an extrusion finish on the ends",
+      "Perfectly smooth surfaces on all sides",
+      "Completely rough surfaces",
+      "Only one cut surface"
+    ],
+    "answer": "Two rougher saw areas with an extrusion finish on the ends"
+  },
+  {
+    "question": "When CNC milling a billet piece, what should you typically do?",
+    "options": [
+      "Make it exactly the final size",
+      "Make it smaller than needed",
+      "Only machine one side",
+      "Oversize it to have material to hold onto during machining"
+    ],
+    "answer": "Oversize it to have material to hold onto during machining"
+  },
+  {
+    "question": "What is the purpose of oversizing a billet piece for CNC milling?",
+    "options": [
+      "To save material costs",
+      "To have something to hold onto, remove all material, and bring it down to CNC finish to hold tolerances",
+      "To make the part lighter",
+      "To speed up the machining process"
+    ],
+    "answer": "To have something to hold onto, remove all material, and bring it down to CNC finish to hold tolerances"
+  },
+  {
+    "question": "What profiles can tube materials come in?",
+    "options": [
+      "Square, rectangle, circle, triangular, and more",
+      "Only circular",
+      "Only square",
+      "Only rectangular"
+    ],
+    "answer": "Square, rectangle, circle, triangular, and more"
+  },
+  {
+    "question": "What is the first dimension you need to pick out for a tube?",
+    "options": [
+      "The wall thickness only",
+      "The length only",
+      "The material type only",
+      "The overall outside diameter (for circle) or overall outside width and thickness"
+    ],
+    "answer": "The overall outside diameter (for circle) or overall outside width and thickness"
+  },
+  {
+    "question": "How are tube thicknesses similar to sheet metal thicknesses?",
+    "options": [
+      "They can be customized to any dimension",
+      "They are always the same regardless of material",
+      "They are dictated by the manufacturer and you need to use those thicknesses in your designs",
+      "They don't matter for design"
+    ],
+    "answer": "They are dictated by the manufacturer and you need to use those thicknesses in your designs"
+  },
+  {
+    "question": "According to the video, what is the relationship between material and machines?",
+    "options": [
+      "Material plus machines equals reality",
+      "Material is more important than machines",
+      "Machines are more important than material",
+      "Material and machines are unrelated"
+    ],
+    "answer": "Material plus machines equals reality"
+  },
+  {
+    "question": "What will the next lesson cover according to this video?",
+    "options": [
+      "More about material selection",
+      "More about raw stock forms",
+      "Finishing operations",
+      "How machines dictate different designs and how to draw things out in CAD"
+    ],
+    "answer": "How machines dictate different designs and how to draw things out in CAD"
+  },
+  {
+    "question": "What is extrusion?",
+    "options": [
+      "A manufacturing process used to create sheet/plate in coil fashion and to create various bar/billet profiles",
+      "A cutting process",
+      "A finishing process",
+      "A welding process"
+    ],
+    "answer": "A manufacturing process used to create sheet/plate in coil fashion and to create various bar/billet profiles"
+  },
+  {
+    "question": "What is a band saw?",
+    "options": [
+      "A tool for welding",
+      "A tool for bending metal",
+      "A tool for measuring",
+      "A cutting tool used to cut bar and billet materials into set lengths from long bars"
+    ],
+    "answer": "A cutting tool used to cut bar and billet materials into set lengths from long bars"
+  },
+  {
+    "question": "What are secondary operations?",
+    "options": [
+      "Primary manufacturing steps",
+      "Additional manufacturing processes performed after initial cutting, such as bending, tapping, hardware installation, zinc plating, or CNC milling for pockets",
+      "Only bending operations",
+      "Only finishing operations"
+    ],
+    "answer": "Additional manufacturing processes performed after initial cutting, such as bending, tapping, hardware installation, zinc plating, or CNC milling for pockets"
+  },
+  {
+    "question": "What is cold rolled steel (CRS)?",
+    "options": [
+      "A type of steel material that comes in set thicknesses (e.g., 0.19 or 0.135 inches) that cannot be changed",
+      "A type of aluminum",
+      "A type of plastic",
+      "A type of wood"
+    ],
+    "answer": "A type of steel material that comes in set thicknesses (e.g., 0.19 or 0.135 inches) that cannot be changed"
+  },
+  {
+    "question": "What is a CNC finish?",
+    "options": [
+      "A rough surface finish",
+      "A painted finish",
+      "A machined surface finish achieved through computer numerical control machining, used to hold tight tolerances",
+      "A polished finish"
+    ],
+    "answer": "A machined surface finish achieved through computer numerical control machining, used to hold tight tolerances"
+  },
+  {
+    "question": "What does it mean to \"oversize\" a billet piece?",
+    "options": [
+      "Making it smaller than needed",
+      "Making it exactly the right size",
+      "Making it a different shape",
+      "Making a billet piece larger than the final part dimensions to allow material for holding during CNC machining and achieving proper finish"
+    ],
+    "answer": "Making a billet piece larger than the final part dimensions to allow material for holding during CNC machining and achieving proper finish"
+  },
+  {
+    "question": "According to the video, when might you see subtractive operations on plate material?",
+    "options": [
+      "When the plate is more towards half an inch thick or more, you might start seeing some secondary operations for a CNC mill",
+      "Never",
+      "Only on very thin materials",
+      "Only on circular plates"
+    ],
+    "answer": "When the plate is more towards half an inch thick or more, you might start seeing some secondary operations for a CNC mill"
+  },
+  {
+    "question": "What is the typical range of sizes for sheet and plate materials?",
+    "options": [
+      "Only 12 x 12 inches",
+      "Only 5' x 10'",
+      "Everything from 12 x 12 inches all the way up to 5' x 10'",
+      "Only square sizes"
+    ],
+    "answer": "Everything from 12 x 12 inches all the way up to 5' x 10'"
+  },
+  {
+    "question": "True or False: Sheet and plate materials are generally cut in 2D and stay in 2D.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: You can always get exactly the thickness you want when designing with sheet materials.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Tube materials have a thickness that is dictated by the manufacturer, similar to sheet metal.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  }
+]
+

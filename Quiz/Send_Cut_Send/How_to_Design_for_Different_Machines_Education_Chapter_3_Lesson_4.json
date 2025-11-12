@@ -1,0 +1,341 @@
+[
+  {
+    "question": "According to the video, what is the main equation that relates materials and machines?",
+    "options": [
+      "Material plus machines equals reality",
+      "Material times machines equals production",
+      "Material divided by machines equals efficiency",
+      "Material minus machines equals design"
+    ],
+    "answer": "Material plus machines equals reality"
+  },
+  {
+    "question": "What type of movement can two-axis machines perform?",
+    "options": [
+      "Movement in X, Y, and Z directions",
+      "Movement only in planar (X and Y) directions",
+      "Movement with rotational axes",
+      "Movement in any direction"
+    ],
+    "answer": "Movement only in planar (X and Y) directions"
+  },
+  {
+    "question": "What cutting capability do two-axis machines have?",
+    "options": [
+      "Through cuts and partial depths",
+      "Only partial depths",
+      "Only through cuts",
+      "Complex multi-face machining"
+    ],
+    "answer": "Only through cuts"
+  },
+  {
+    "question": "Which machine is best for cutting conductive materials like metals?",
+    "options": [
+      "CO2 laser",
+      "Water jet",
+      "Fiber laser",
+      "Tube laser"
+    ],
+    "answer": "Fiber laser"
+  },
+  {
+    "question": "Which machine is used for cutting non-conductive materials like plastics and some woods?",
+    "options": [
+      "Fiber laser",
+      "Water jet",
+      "CO2 laser",
+      "CNC router"
+    ],
+    "answer": "CO2 laser"
+  },
+  {
+    "question": "What makes water jet cutting different from laser cutting?",
+    "options": [
+      "It uses electricity instead of light",
+      "It uses high-pressure water mixed with garnet abrasive",
+      "It uses heat to melt materials",
+      "It uses mechanical cutting blades"
+    ],
+    "answer": "It uses high-pressure water mixed with garnet abrasive"
+  },
+  {
+    "question": "What types of materials are water jets particularly good at cutting?",
+    "options": [
+      "Only metals",
+      "Only plastics",
+      "Composite materials like G10, carbon fiber, and finale",
+      "Only wood materials"
+    ],
+    "answer": "Composite materials like G10, carbon fiber, and finale"
+  },
+  {
+    "question": "Why might you choose a water jet over a laser for certain materials?",
+    "options": [
+      "Water jets are always faster",
+      "Some materials are toxic when cut with lasers",
+      "Water jets are cheaper to operate",
+      "Water jets can cut thicker materials only"
+    ],
+    "answer": "Some materials are toxic when cut with lasers"
+  },
+  {
+    "question": "True or False: A tube laser is considered a two-axis machine even though tubes are three-dimensional.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What additional axis do three-axis machines gain compared to two-axis machines?",
+    "options": [
+      "A-axis (rotation about X)",
+      "B-axis (rotation about Y)",
+      "Z-axis (vertical movement)",
+      "C-axis (rotation about Z)"
+    ],
+    "answer": "Z-axis (vertical movement)"
+  },
+  {
+    "question": "What cutting capability do three-axis machines have that two-axis machines lack?",
+    "options": [
+      "Through cuts only",
+      "Partial depth cuts",
+      "Rotational cutting",
+      "Faster cutting speeds"
+    ],
+    "answer": "Partial depth cuts"
+  },
+  {
+    "question": "What component of a CNC router holds the endmill?",
+    "options": [
+      "Gantry structure",
+      "Vacuum table",
+      "Spindle assembly",
+      "Linear rails"
+    ],
+    "answer": "Spindle assembly"
+  },
+  {
+    "question": "How does a gantry machine setup differ from other machine configurations?",
+    "options": [
+      "The material moves while the tool stays stationary",
+      "The machine moves around the material",
+      "The machine is smaller than other types",
+      "The machine can only cut small parts"
+    ],
+    "answer": "The machine moves around the material"
+  },
+  {
+    "question": "What advantage does a gantry setup provide for cutting operations?",
+    "options": [
+      "Faster cutting speeds",
+      "More precise cuts",
+      "Lower cost operation",
+      "Ability to cut larger sheet goods like 4x8 plywood"
+    ],
+    "answer": "Ability to cut larger sheet goods like 4x8 plywood"
+  },
+  {
+    "question": "What work holding method does the CNC router use?",
+    "options": [
+      "Mechanical clamps",
+      "Vacuum table",
+      "Adhesive tape",
+      "Magnetic holding"
+    ],
+    "answer": "Vacuum table"
+  },
+  {
+    "question": "What is the main advantage of using a vacuum table for work holding?",
+    "options": [
+      "It provides stronger holding force",
+      "It allows for faster material changes without clamping",
+      "It works with all material types",
+      "It is less expensive than clamps"
+    ],
+    "answer": "It allows for faster material changes without clamping"
+  },
+  {
+    "question": "How many axes do the five-axis CNC milling machines at SendCutSend have?",
+    "options": [
+      "Three axes",
+      "Four axes",
+      "Five axes",
+      "Six axes"
+    ],
+    "answer": "Five axes"
+  },
+  {
+    "question": "What additional capabilities do five-axis machines gain beyond three-axis machines?",
+    "options": [
+      "Faster cutting speeds only",
+      "Ability to rotate about X and Y axes (A and B axes)",
+      "Larger work envelope only",
+      "Different cutting tools only"
+    ],
+    "answer": "Ability to rotate about X and Y axes (A and B axes)"
+  },
+  {
+    "question": "What advantage does the rotational capability of five-axis machines provide?",
+    "options": [
+      "Faster material loading",
+      "Ability to machine multiple faces without repositioning",
+      "Lower operating costs",
+      "Simpler programming"
+    ],
+    "answer": "Ability to machine multiple faces without repositioning"
+  },
+  {
+    "question": "How many tools do the five-axis CNC mills have available?",
+    "options": [
+      "Dozens of tools",
+      "Hundreds of tools",
+      "Thousands of tools",
+      "A single tool"
+    ],
+    "answer": "Hundreds of tools"
+  },
+  {
+    "question": "What feature allows five-axis CNC mills to run unattended?",
+    "options": [
+      "Automatic tool changing",
+      "Multiple pallets for loading parts",
+      "Remote monitoring",
+      "Self-cleaning capability"
+    ],
+    "answer": "Multiple pallets for loading parts"
+  },
+  {
+    "question": "If you design a part with partial depth features in CAD, which machines can you use?",
+    "options": [
+      "Two-axis machines only",
+      "Three-axis or higher machines",
+      "All machine types",
+      "Only five-axis machines"
+    ],
+    "answer": "Three-axis or higher machines"
+  },
+  {
+    "question": "What happens if you try to use a two-axis machine for a design with partial depths?",
+    "options": [
+      "The machine will automatically adjust",
+      "You might cut a blank that needs secondary finishing",
+      "The machine will reject the design",
+      "The partial depth will be ignored"
+    ],
+    "answer": "You might cut a blank that needs secondary finishing"
+  },
+  {
+    "question": "How does the router's material handling differ from CNC mills?",
+    "options": [
+      "Router holds the part while mill moves around it",
+      "Router moves around the material while mill holds the part",
+      "Both machines work identically",
+      "Router is faster than mill"
+    ],
+    "answer": "Router moves around the material while mill holds the part"
+  },
+  {
+    "question": "What limitation affects the size of parts you can cut on CNC milling machines?",
+    "options": [
+      "The speed of the machine",
+      "The work envelope size of the machine",
+      "The type of material only",
+      "The number of tools available"
+    ],
+    "answer": "The work envelope size of the machine"
+  },
+  {
+    "question": "What directly affects your design capabilities when selecting materials and machines?",
+    "options": [
+      "Only the material type",
+      "Only the machine type",
+      "The limitations of the work envelope and machine capabilities",
+      "Only the cutting speed"
+    ],
+    "answer": "The limitations of the work envelope and machine capabilities"
+  },
+  {
+    "question": "Where should you find the most up-to-date information about SendCutSend's cutting processes?",
+    "options": [
+      "In CAD software documentation",
+      "On the SendCutSend website guidelines for each cutting process",
+      "In machine manuals",
+      "In general manufacturing textbooks"
+    ],
+    "answer": "On the SendCutSend website guidelines for each cutting process"
+  },
+  {
+    "question": "What is a spindle assembly?",
+    "options": [
+      "The table that holds the material",
+      "The component that holds the endmill in a CNC router",
+      "The gantry structure that moves the machine",
+      "The vacuum system for work holding"
+    ],
+    "answer": "The component that holds the endmill in a CNC router"
+  },
+  {
+    "question": "What is an endmill?",
+    "options": [
+      "The material being cut",
+      "The cutting tool used in CNC routers and mills",
+      "The machine table",
+      "The work holding system"
+    ],
+    "answer": "The cutting tool used in CNC routers and mills"
+  },
+  {
+    "question": "What is a partial depth cut?",
+    "options": [
+      "A cut that goes completely through the material",
+      "A cut that does not go completely through the material",
+      "A cut made at an angle",
+      "A cut made with rotation"
+    ],
+    "answer": "A cut that does not go completely through the material"
+  },
+  {
+    "question": "What is a work envelope?",
+    "options": [
+      "The maximum cutting speed of a machine",
+      "The maximum size of material or part that a machine can accommodate",
+      "The number of tools a machine can hold",
+      "The type of materials a machine can cut"
+    ],
+    "answer": "The maximum size of material or part that a machine can accommodate"
+  },
+  {
+    "question": "What is a vacuum table?",
+    "options": [
+      "A cutting tool for CNC machines",
+      "A work holding system that uses suction to hold materials",
+      "A type of laser cutting system",
+      "A material type used in manufacturing"
+    ],
+    "answer": "A work holding system that uses suction to hold materials"
+  },
+  {
+    "question": "What is work holding?",
+    "options": [
+      "The process of designing parts in CAD",
+      "The method of securing material to the machine table during cutting",
+      "The type of cutting tool used",
+      "The speed at which a machine operates"
+    ],
+    "answer": "The method of securing material to the machine table during cutting"
+  },
+  {
+    "question": "What is a gantry machine?",
+    "options": [
+      "A machine that only cuts small parts",
+      "A machine setup where the cutting head moves around the material on a gantry structure",
+      "A type of laser cutting system",
+      "A machine that uses only two axes"
+    ],
+    "answer": "A machine setup where the cutting head moves around the material on a gantry structure"
+  }
+]
+

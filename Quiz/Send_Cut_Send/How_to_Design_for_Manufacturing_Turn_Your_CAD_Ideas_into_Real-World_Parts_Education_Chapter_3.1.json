@@ -1,0 +1,233 @@
+[
+  {
+    "question": "What is the main focus of Chapter 3?",
+    "options": [
+      "Advanced CAD techniques",
+      "Transitioning from CAD fantasy to manufacturing reality",
+      "3D printing methods",
+      "Animation and rendering"
+    ],
+    "answer": "Transitioning from CAD fantasy to manufacturing reality"
+  },
+  {
+    "question": "What does DFM stand for?",
+    "options": [
+      "Design for Modeling",
+      "Design for Manufacturing",
+      "Digital File Management",
+      "Drafting for Manufacturing"
+    ],
+    "answer": "Design for Manufacturing"
+  },
+  {
+    "question": "According to the video, what is DFM essentially?",
+    "options": [
+      "A software program",
+      "A building out a checklist on how to design your part",
+      "A type of machine",
+      "A material specification"
+    ],
+    "answer": "A building out a checklist on how to design your part"
+  },
+  {
+    "question": "What is the first item on the DFM checklist?",
+    "options": [
+      "Cost effectiveness",
+      "Manufacturability",
+      "Efficiency",
+      "Material selection"
+    ],
+    "answer": "Efficiency"
+  },
+  {
+    "question": "What is the main goal of efficiency in DFM?",
+    "options": [
+      "To make parts larger",
+      "To reduce the amount of steps to make the part",
+      "To use more expensive materials",
+      "To increase part complexity"
+    ],
+    "answer": "To reduce the amount of steps to make the part"
+  },
+  {
+    "question": "How can reducing setups help with efficiency?",
+    "options": [
+      "It makes parts heavier",
+      "It reduces the amount of times you need to manually manipulate the part",
+      "It increases material costs",
+      "It requires more machines"
+    ],
+    "answer": "It reduces the amount of times you need to manually manipulate the part"
+  },
+  {
+    "question": "What is an example of improving efficiency mentioned in the video?",
+    "options": [
+      "Adding more holes to the design",
+      "Taking a hole out of the design so you don't need to flip the part over",
+      "Using more expensive materials",
+      "Increasing part complexity"
+    ],
+    "answer": "Taking a hole out of the design so you don't need to flip the part over"
+  },
+  {
+    "question": "What is the second item on the DFM checklist?",
+    "options": [
+      "Efficiency",
+      "Cost effectiveness",
+      "Is it actually manufacturable",
+      "Material selection"
+    ],
+    "answer": "Is it actually manufacturable"
+  },
+  {
+    "question": "What example does the video give of something that cannot be manufactured?",
+    "options": [
+      "A simple cube",
+      "A cube that has a sphere inside that cube",
+      "A flat plate",
+      "A cylinder"
+    ],
+    "answer": "A cube that has a sphere inside that cube"
+  },
+  {
+    "question": "How can you make an impossible part manufacturable?",
+    "options": [
+      "Use 3D printing only",
+      "Break that part into multiple pieces",
+      "Make it smaller",
+      "Change the material"
+    ],
+    "answer": "Break that part into multiple pieces"
+  },
+  {
+    "question": "What is the third item on the DFM checklist?",
+    "options": [
+      "Efficiency",
+      "Manufacturability",
+      "Cost effectiveness",
+      "Machine selection"
+    ],
+    "answer": "Cost effectiveness"
+  },
+  {
+    "question": "What is one aspect of cost effectiveness mentioned in the video?",
+    "options": [
+      "Making parts larger",
+      "Picking the right material",
+      "Using only expensive materials",
+      "Avoiding all tolerances"
+    ],
+    "answer": "Picking the right material"
+  },
+  {
+    "question": "According to the video, which material is more expensive?",
+    "options": [
+      "Aluminum",
+      "Stainless steel",
+      "They cost the same",
+      "Carbon fiber"
+    ],
+    "answer": "Stainless steel"
+  },
+  {
+    "question": "What happens when you ask for extremely tight tolerances?",
+    "options": [
+      "Costs decrease",
+      "You need specialty machining and workholding, which increases costs",
+      "Manufacturing becomes easier",
+      "No impact on cost"
+    ],
+    "answer": "You need specialty machining and workholding, which increases costs"
+  },
+  {
+    "question": "What does reality in manufacturing come from?",
+    "options": [
+      "Material only",
+      "Machine only",
+      "Material plus the machine",
+      "Design software"
+    ],
+    "answer": "Material plus the machine"
+  },
+  {
+    "question": "What can material selection dictate?",
+    "options": [
+      "The color of the part",
+      "The machine that must be used",
+      "The file format",
+      "The software version"
+    ],
+    "answer": "The machine that must be used"
+  },
+  {
+    "question": "According to the video, what can you do with aluminum?",
+    "options": [
+      "Only use water jet",
+      "Laser cut it",
+      "Only use CNC router",
+      "Cannot be cut"
+    ],
+    "answer": "Laser cut it"
+  },
+  {
+    "question": "What cannot be laser cut according to the video?",
+    "options": [
+      "Aluminum",
+      "Steel",
+      "Carbon fiber",
+      "Plastic"
+    ],
+    "answer": "Carbon fiber"
+  },
+  {
+    "question": "What must be used to cut carbon fiber?",
+    "options": [
+      "Laser cutter only",
+      "CNC router or water jet",
+      "Hand tools only",
+      "3D printing"
+    ],
+    "answer": "CNC router or water jet"
+  },
+  {
+    "question": "True or False: DFM is only about whether you can manufacture a part or not.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Reducing setups makes manufacturing faster and easier.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Any design possible in CAD can be manufactured in the real world.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Tighter tolerances always reduce manufacturing costs.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Material selection affects which machines can be used.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  }
+]
+

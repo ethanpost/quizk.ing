@@ -970,6 +970,42 @@
     "subjects": ["Engineering", "CAD"]
   },
   {
+    "name": "How to Design for Manufacturing: Turn Your CAD Ideas into Real-World Parts - Education Chapter 3.1",
+    "file": "How_to_Design_for_Manufacturing_Turn_Your_CAD_Ideas_into_Real-World_Parts_Education_Chapter_3.1.json",
+    "url": "https://www.youtube.com/watch?v=y942s59Wc7M",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/03-01-How_to_Design_for_Manufacturing-Turn_Your_CAD_Ideas_into_Real-World_Parts-Education_Chapter_3.1.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Choose the Right Material for Your Design - Education Chapter 3 Lesson 2",
+    "file": "How_to_Choose_the_Right_Material_for_Your_Design_Education_Chapter_3_Lesson_2.json",
+    "url": "https://www.youtube.com/watch?v=wzXL2ZxlpEE",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/03-02-How_to_Choose_the_Right_Material_for_Your_Design-Education_Chapter_3_Lesson_2.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design with Different Material Forms - Education Chapter 3 Lesson 3",
+    "file": "How_to_Design_with_Different_Material_Forms_Education_Chapter_3_Lesson_3.json",
+    "url": "https://www.youtube.com/watch?v=DVCJMJnhIZA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/03-03-How_to_Design_with_Different_Material_Forms-Education_Chapter_3_Lesson_3.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design for Different Machines - Education Chapter 3 Lesson 4",
+    "file": "How_to_Design_for_Different_Machines_Education_Chapter_3_Lesson_4.json",
+    "url": "https://www.youtube.com/watch?v=WpXzfiZiziA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/03-04-How_to_Design_for_Different_Machines-Education_Chapter_3_Lesson_4.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
     "name": "This 3D-Printed RC Car Might Redefine What's Possible",
     "file": "This_3D-Printed_RC_Car_Might_Redefine_Whats_Possible.json",
     "url": "https://www.youtube.com/watch?v=pdKnIPH3JQs",
