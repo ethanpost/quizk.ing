@@ -1,0 +1,293 @@
+[
+  {
+    "question": "What is tapping?",
+    "options": [
+      "The cutting or forming of internal threads on a hole that goes through a part",
+      "The process of drilling a hole through a part",
+      "The process of adding external threads to a bolt",
+      "The process of joining two parts with adhesive"
+    ],
+    "answer": "The cutting or forming of internal threads on a hole that goes through a part"
+  },
+  {
+    "question": "According to the video, what type of hole does this lesson focus on for sheet metal?",
+    "options": [
+      "Through holes",
+      "Blind holes",
+      "Countersunk holes",
+      "Counterbored holes"
+    ],
+    "answer": "Through holes"
+  },
+  {
+    "question": "What is the first step in the tapping process?",
+    "options": [
+      "Forming the threads",
+      "Cutting the threads with a hardened bit",
+      "Creating a hole that goes through the part using a laser",
+      "Applying oil to the part"
+    ],
+    "answer": "Creating a hole that goes through the part using a laser"
+  },
+  {
+    "question": "According to the video, which method of creating threads is considered stronger?",
+    "options": [
+      "Forming",
+      "Cutting",
+      "Both are equally strong",
+      "Neither method creates strong threads"
+    ],
+    "answer": "Forming"
+  },
+  {
+    "question": "What does UNC stand for?",
+    "options": [
+      "Unified National Coarse",
+      "Unified National Cutting",
+      "Universal National Coarse",
+      "Universal National Cutting"
+    ],
+    "answer": "Unified National Coarse"
+  },
+  {
+    "question": "What does UNF stand for?",
+    "options": [
+      "Unified National Fine",
+      "Unified National Forming",
+      "Universal National Fine",
+      "Universal National Forming"
+    ],
+    "answer": "Unified National Fine"
+  },
+  {
+    "question": "In the designation 1/4-20, what does the 20 represent?",
+    "options": [
+      "The diameter in millimeters",
+      "The diameter in inches",
+      "Threads per inch",
+      "The pitch in millimeters"
+    ],
+    "answer": "Threads per inch"
+  },
+  {
+    "question": "In the designation 1/4-20, what does the 1/4 represent?",
+    "options": [
+      "The outside diameter of the thread in inches",
+      "The pitch",
+      "The threads per inch",
+      "The depth of the hole"
+    ],
+    "answer": "The outside diameter of the thread in inches"
+  },
+  {
+    "question": "According to the video, how do you measure threads per inch?",
+    "options": [
+      "Count the threads in one centimeter",
+      "Measure the distance from peak to peak",
+      "Count how many thread peaks are in one inch of threaded area",
+      "Measure the diameter of the thread"
+    ],
+    "answer": "Count how many thread peaks are in one inch of threaded area"
+  },
+  {
+    "question": "Which type of thread has more peaks per inch?",
+    "options": [
+      "Fine threads",
+      "Coarse threads",
+      "Both have the same number",
+      "It depends on the material"
+    ],
+    "answer": "Fine threads"
+  },
+  {
+    "question": "According to the video, what is a disadvantage of fine threads?",
+    "options": [
+      "They have less thread engagement",
+      "They are weaker than coarse threads",
+      "They are prone to galling",
+      "They cannot be used in thin material"
+    ],
+    "answer": "They are prone to galling"
+  },
+  {
+    "question": "In metric thread designation M5-0.8, what does the 0.8 represent?",
+    "options": [
+      "The diameter in millimeters",
+      "The measurement from peak to peak in millimeters",
+      "The threads per inch",
+      "The depth of the hole"
+    ],
+    "answer": "The measurement from peak to peak in millimeters"
+  },
+  {
+    "question": "In metric thread designation M5-0.8, what does the M5 represent?",
+    "options": [
+      "The pitch",
+      "The diameter in millimeters",
+      "The threads per inch",
+      "The material type"
+    ],
+    "answer": "The diameter in millimeters"
+  },
+  {
+    "question": "According to the video, which metric thread would be coarser: M5-1.5 or M5-0.8?",
+    "options": [
+      "M5-0.8",
+      "M5-1.5",
+      "They are the same coarseness",
+      "Cannot be determined from the information given"
+    ],
+    "answer": "M5-1.5"
+  },
+  {
+    "question": "What is thread engagement?",
+    "options": [
+      "The process of creating threads",
+      "How much the threads are contacting each other",
+      "The diameter of the thread",
+      "The number of threads per inch"
+    ],
+    "answer": "How much the threads are contacting each other"
+  },
+  {
+    "question": "According to the video, what happens to thread engagement when the hole size is larger?",
+    "options": [
+      "Thread engagement increases",
+      "Thread engagement decreases",
+      "Thread engagement stays the same",
+      "Thread engagement cannot be determined"
+    ],
+    "answer": "Thread engagement decreases"
+  },
+  {
+    "question": "What percentage of available surface area should be engaged for a good thread according to the video?",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "answer": "70%"
+  },
+  {
+    "question": "According to the video, does SendCutSend automatically resize holes for tapping?",
+    "options": [
+      "Yes, automatically",
+      "No, you must specify the hole size",
+      "Only for imperial threads",
+      "Only for metric threads"
+    ],
+    "answer": "Yes, automatically"
+  },
+  {
+    "question": "What is the rule of thumb for material thickness when tapping?",
+    "options": [
+      "Half the bolt diameter",
+      "One to one and a half times the bolt diameter",
+      "Two times the bolt diameter",
+      "Three times the bolt diameter"
+    ],
+    "answer": "One to one and a half times the bolt diameter"
+  },
+  {
+    "question": "According to the video, what happens if material becomes too thin for tapping?",
+    "options": [
+      "Tapping options become unavailable",
+      "Tapping still works but is weaker",
+      "You must use a different thread size",
+      "The hole size automatically adjusts"
+    ],
+    "answer": "Tapping options become unavailable"
+  },
+  {
+    "question": "What might you see on parts after tapping according to the video?",
+    "options": [
+      "Only clean, finished threads",
+      "Oil or residue from the cutting process",
+      "External threads",
+      "Left-handed threads"
+    ],
+    "answer": "Oil or residue from the cutting process"
+  },
+  {
+    "question": "According to the video, what type of threads does SendCutSend offer?",
+    "options": [
+      "Only left-handed threads",
+      "Only right-handed threads",
+      "Both left and right-handed threads",
+      "Neither left nor right-handed threads"
+    ],
+    "answer": "Only right-handed threads"
+  },
+  {
+    "question": "In CAD, what is recommended for manufacturing when creating tapped holes?",
+    "options": [
+      "Always model the threads",
+      "Never model the threads, just use the picture designation",
+      "Model threads only for 3D printing",
+      "Model threads only for CNC machining"
+    ],
+    "answer": "Never model the threads, just use the picture designation"
+  },
+  {
+    "question": "According to the video, can you change the tap size during checkout in SendCutSend?",
+    "options": [
+      "Yes, you can change it and the system will resize the hole",
+      "No, you must use the size from your CAD file",
+      "Only for imperial threads",
+      "Only for metric threads"
+    ],
+    "answer": "Yes, you can change it and the system will resize the hole"
+  },
+  {
+    "question": "What is a blind hole?",
+    "options": [
+      "A hole that goes completely through a part",
+      "A hole that doesn't go all the way through a part",
+      "A hole with no threads",
+      "A hole that is too small to see"
+    ],
+    "answer": "A hole that doesn't go all the way through a part"
+  },
+  {
+    "question": "What is the difference between forming and cutting threads?",
+    "options": [
+      "Forming uses a hardened bit, cutting pulls and forms threads",
+      "Forming pulls and forms threads, cutting uses a hardened bit",
+      "There is no difference",
+      "Forming is for metric, cutting is for imperial"
+    ],
+    "answer": "Forming pulls and forms threads, cutting uses a hardened bit"
+  },
+  {
+    "question": "According to the video, what is galling?",
+    "options": [
+      "A type of thread designation",
+      "A problem that can occur with fine threads due to increased surface area",
+      "A measurement of thread engagement",
+      "A type of tapping process"
+    ],
+    "answer": "A problem that can occur with fine threads due to increased surface area"
+  },
+  {
+    "question": "What is pitch in metric threads?",
+    "options": [
+      "The diameter of the thread",
+      "The threads per inch",
+      "The measurement from peak to peak between adjacent threads",
+      "The depth of the hole"
+    ],
+    "answer": "The measurement from peak to peak between adjacent threads"
+  },
+  {
+    "question": "According to the video, what should you do if material becomes too thin for tapping?",
+    "options": [
+      "Use a smaller thread size",
+      "Check out the hardware installation lesson",
+      "Use a larger hole size",
+      "Use a different material"
+    ],
+    "answer": "Check out the hardware installation lesson"
+  }
+]
+

@@ -1,0 +1,303 @@
+[
+  {
+    "question": "According to the video, what are the two main components of the fiber laser cutting process?",
+    "options": [
+      "Laser and water",
+      "Laser and high-pressure gas",
+      "Heat and pressure",
+      "Abrasive and water"
+    ],
+    "answer": "Laser and high-pressure gas"
+  },
+  {
+    "question": "What type of materials can be cut using fiber laser cutting?",
+    "options": [
+      "All materials",
+      "Only plastics",
+      "Only conductive materials (metals)",
+      "Only non-metallic materials"
+    ],
+    "answer": "Only conductive materials (metals)"
+  },
+  {
+    "question": "What is the kerf?",
+    "options": [
+      "The width of the cut between the part and scrap",
+      "The speed of the cutting process",
+      "The temperature during cutting",
+      "The type of gas used"
+    ],
+    "answer": "The width of the cut between the part and scrap"
+  },
+  {
+    "question": "Why is the kerf not perpendicular?",
+    "options": [
+      "The material is too thick",
+      "The gas pressure is too high",
+      "The top spends more time in material and is closer to the laser source, creating a taper",
+      "The material is too soft"
+    ],
+    "answer": "The top spends more time in material and is closer to the laser source, creating a taper"
+  },
+  {
+    "question": "What happens if you cut directly on the line without considering kerf offset?",
+    "options": [
+      "The part will be undersized",
+      "The part will be perfectly sized",
+      "The part will be oversized",
+      "The part will be warped"
+    ],
+    "answer": "The part will be oversized"
+  },
+  {
+    "question": "What is the kerf offset?",
+    "options": [
+      "Half of the kerf width",
+      "The full width of the kerf",
+      "Double the kerf width",
+      "The radius of the endmill"
+    ],
+    "answer": "Half of the kerf width"
+  },
+  {
+    "question": "According to the video, where is the pierce done for outside geometry?",
+    "options": [
+      "Inside the part area",
+      "On the cut line",
+      "Outside the part area",
+      "At the center of the part"
+    ],
+    "answer": "Outside the part area"
+  },
+  {
+    "question": "Where is the pierce done for internal geometry?",
+    "options": [
+      "Inside the part area",
+      "Outside the part area",
+      "On the edge of the part",
+      "At the corner of the part"
+    ],
+    "answer": "Inside the part area"
+  },
+  {
+    "question": "What is a lead in?",
+    "options": [
+      "The initial penetration through material",
+      "The width of the cut",
+      "The path from pierce point back to the desired cut line",
+      "The material that resolidifies on the edge"
+    ],
+    "answer": "The path from pierce point back to the desired cut line"
+  },
+  {
+    "question": "What is a burr?",
+    "options": [
+      "The width of the cut",
+      "The initial penetration point",
+      "Material that curls around the edge and resolidifies during cutting",
+      "The heat affected area"
+    ],
+    "answer": "Material that curls around the edge and resolidifies during cutting"
+  },
+  {
+    "question": "Which materials tend to have larger burrs?",
+    "options": [
+      "Softer materials",
+      "Harder materials",
+      "Thinner materials",
+      "All materials equally"
+    ],
+    "answer": "Softer materials"
+  },
+  {
+    "question": "What does HAZ stand for?",
+    "options": [
+      "Heat Affected Zone",
+      "Heat Applied Zone",
+      "High Abrasive Zone",
+      "High Accuracy Zone"
+    ],
+    "answer": "Heat Affected Zone"
+  },
+  {
+    "question": "What is the heat affected zone on a fiber laser?",
+    "options": [
+      "Very large",
+      "Moderate",
+      "Always visible",
+      "Almost zero"
+    ],
+    "answer": "Almost zero"
+  },
+  {
+    "question": "Which cutting method has a large heat affected zone?",
+    "options": [
+      "Fiber laser",
+      "Water jet",
+      "CNC router",
+      "Plasma cutting"
+    ],
+    "answer": "Plasma cutting"
+  },
+  {
+    "question": "How does water jet cutting remove material?",
+    "options": [
+      "Through an erosion process using high-pressure water and abrasive",
+      "By melting it with heat",
+      "By vaporizing it with a laser",
+      "By grinding it with rotating tools"
+    ],
+    "answer": "Through an erosion process using high-pressure water and abrasive"
+  },
+  {
+    "question": "Does water jet cutting create heat?",
+    "options": [
+      "No, it creates no heat",
+      "Yes, it creates significant heat",
+      "Yes, but only a small amount",
+      "Only on thick materials"
+    ],
+    "answer": "No, it creates no heat"
+  },
+  {
+    "question": "How does the kerf of a water jet compare to a fiber laser?",
+    "options": [
+      "Water jet kerf is often larger",
+      "Water jet kerf is always smaller",
+      "They are always the same",
+      "Water jet has no kerf"
+    ],
+    "answer": "Water jet kerf is often larger"
+  },
+  {
+    "question": "What causes burr in water jet or CNC router cutting?",
+    "options": [
+      "The last bit of material not being fully cut",
+      "Heating and cooling effects",
+      "High gas pressure",
+      "Laser intensity"
+    ],
+    "answer": "The last bit of material not being fully cut"
+  },
+  {
+    "question": "How does a CNC router cut material?",
+    "options": [
+      "With a laser and gas",
+      "With high-pressure water and abrasive",
+      "By melting the material",
+      "With rotating endmills that take chunks of material out"
+    ],
+    "answer": "With rotating endmills that take chunks of material out"
+  },
+  {
+    "question": "If you have a half-inch endmill, what is the kerf offset?",
+    "options": [
+      "A quarter of an inch",
+      "Half an inch",
+      "One inch",
+      "One-eighth of an inch"
+    ],
+    "answer": "A quarter of an inch"
+  },
+  {
+    "question": "What is the kerf for a CNC router?",
+    "options": [
+      "The diameter of the endmill",
+      "The radius of the endmill",
+      "Half the diameter of the endmill",
+      "Double the diameter of the endmill"
+    ],
+    "answer": "The diameter of the endmill"
+  },
+  {
+    "question": "Which cutting method creates a perpendicular cut path?",
+    "options": [
+      "Fiber laser",
+      "Water jet",
+      "All of them",
+      "CNC router"
+    ],
+    "answer": "CNC router"
+  },
+  {
+    "question": "Which cutting methods create angled cuts?",
+    "options": [
+      "Only fiber laser",
+      "Only water jet",
+      "Only CNC router",
+      "Fiber laser and water jet"
+    ],
+    "answer": "Fiber laser and water jet"
+  },
+  {
+    "question": "According to the video, what happens to the taper effect with thicker materials?",
+    "options": [
+      "It decreases",
+      "It stays the same",
+      "It disappears",
+      "It increases"
+    ],
+    "answer": "It increases"
+  },
+  {
+    "question": "What is shielding gas used for in fiber laser cutting?",
+    "options": [
+      "To remove molten material and protect the cut area",
+      "To cool the material",
+      "To increase cutting speed",
+      "To reduce burr formation"
+    ],
+    "answer": "To remove molten material and protect the cut area"
+  },
+  {
+    "question": "What type of gas is used as shielding gas in fiber laser cutting?",
+    "options": [
+      "Nitrogen or oxygen",
+      "Helium or argon",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen or oxygen"
+  },
+  {
+    "question": "True or False: SendCutSend automatically handles kerf offset for customers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: The heat affected zone on fiber lasers is significant and always visible.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: Water jet cutting requires shielding gas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: CNC routers can perform piercing by ramping, plunging, or using a helical pattern.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Smaller geometry on a CNC router does not affect the kerf offset.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  }
+]
+

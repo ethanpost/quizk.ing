@@ -1,0 +1,189 @@
+[
+  {
+    "question": "According to the video, what are the two key calculations needed when bending?",
+    "options": [
+      "Bend radius and K factor",
+      "Bend allowance and bend deduction",
+      "Angle and material thickness",
+      "Tangent point and adjusted center line"
+    ],
+    "answer": "Bend allowance and bend deduction"
+  },
+  {
+    "question": "What is the value of pi (π) used in all calculations according to the video?",
+    "options": [
+      "3.14",
+      "3.14159",
+      "3.142",
+      "3.1416"
+    ],
+    "answer": "3.14"
+  },
+  {
+    "question": "Bend allowance is measured from what point to what point?",
+    "options": [
+      "Tangent point to tangent point",
+      "Bend line to bend line",
+      "Flange end to flange end",
+      "Center to center"
+    ],
+    "answer": "Tangent point to tangent point"
+  },
+  {
+    "question": "According to the video, when is bend allowance calculated?",
+    "options": [
+      "Before bending",
+      "During bending",
+      "After bending",
+      "Before and after bending"
+    ],
+    "answer": "After bending"
+  },
+  {
+    "question": "What does the K factor represent?",
+    "options": [
+      "Bend radius divided by material thickness",
+      "Angle divided by bend radius",
+      "Midline thickness divided by original material thickness",
+      "Material thickness divided by bend radius"
+    ],
+    "answer": "Midline thickness divided by original material thickness"
+  },
+  {
+    "question": "How does a larger bend radius affect bend allowance?",
+    "options": [
+      "It decreases bend allowance",
+      "It has no effect on bend allowance",
+      "It increases bend allowance",
+      "It only affects bend deduction"
+    ],
+    "answer": "It increases bend allowance"
+  },
+  {
+    "question": "According to the video, the K factor changes based on what?",
+    "options": [
+      "Material type (stainless steel, steel, aluminum)",
+      "Bend angle only",
+      "Material thickness only",
+      "Bend radius only"
+    ],
+    "answer": "Material type (stainless steel, steel, aluminum)"
+  },
+  {
+    "question": "What happens to bend allowance when material thickness increases?",
+    "options": [
+      "Bend allowance decreases",
+      "Bend allowance stays the same",
+      "Bend allowance increases",
+      "Thickness has no effect on bend allowance"
+    ],
+    "answer": "Bend allowance increases"
+  },
+  {
+    "question": "When is bend deduction calculated?",
+    "options": [
+      "Before bending",
+      "After bending",
+      "During bending",
+      "Both before and after bending"
+    ],
+    "answer": "Before bending"
+  },
+  {
+    "question": "What is the purpose of bend deduction?",
+    "options": [
+      "To add material to the original part",
+      "To measure the part after bending",
+      "To subtract material from the original part before bending",
+      "To calculate the bend radius"
+    ],
+    "answer": "To subtract material from the original part before bending"
+  },
+  {
+    "question": "According to the video, what happens if bend deduction is not calculated correctly?",
+    "options": [
+      "The part will be too long",
+      "Only the bend radius will be affected",
+      "Flange lengths will be wrong and hole placements will be incorrect",
+      "Nothing will happen"
+    ],
+    "answer": "Flange lengths will be wrong and hole placements will be incorrect"
+  },
+  {
+    "question": "The video uses an analogy comparing bend allowance calculations to what?",
+    "options": [
+      "A quarterback throwing to where a receiver will be, not where they are",
+      "A carpenter measuring wood",
+      "A chef following a recipe",
+      "A driver navigating a road"
+    ],
+    "answer": "A quarterback throwing to where a receiver will be, not where they are"
+  },
+  {
+    "question": "Which variables are included in both bend allowance and bend deduction calculations?",
+    "options": [
+      "Only angle and thickness",
+      "Only K factor and material type",
+      "Only bend radius and angle",
+      "Angle, bend radius, thickness, and K factor"
+    ],
+    "answer": "Angle, bend radius, thickness, and K factor"
+  },
+  {
+    "question": "According to the video, what is a tangent point?",
+    "options": [
+      "The center of the bend",
+      "The end of the material",
+      "The midpoint of the material thickness",
+      "The point where the straight flange meets the curved bend area"
+    ],
+    "answer": "The point where the straight flange meets the curved bend area"
+  },
+  {
+    "question": "What does the adjusted center line represent?",
+    "options": [
+      "The original center line before bending",
+      "The bend radius measurement",
+      "The material thickness measurement",
+      "The center line after bending that has been elongated"
+    ],
+    "answer": "The center line after bending that has been elongated"
+  },
+  {
+    "question": "True or False: Bend allowance accounts for the stretching and elongation that occurs during the bending process.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: The video states that you need to watch the previous lesson to understand the key terms before watching this lesson.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens to parts if bend calculations are incorrect, according to the video?",
+    "options": [
+      "Parts will be too long on both sides",
+      "Parts will only be affected on one side",
+      "Parts will not be affected at all",
+      "Parts will be short on both sides of the flanges"
+    ],
+    "answer": "Parts will be short on both sides of the flanges"
+  },
+  {
+    "question": "According to the video, what is the midline?",
+    "options": [
+      "The bend radius",
+      "The distance between flanges",
+      "The angle of the bend",
+      "The center line of the material through the thickness"
+    ],
+    "answer": "The center line of the material through the thickness"
+  }
+]
+

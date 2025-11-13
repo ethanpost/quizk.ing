@@ -1,0 +1,255 @@
+[
+  {
+    "question": "According to the video, what is anodizing?",
+    "options": [
+      "A process that adds a thick protective coating to parts",
+      "An electrochemical process that creates an oxidation layer on parts",
+      "A painting process similar to spray cans from Home Depot",
+      "A welding process for joining aluminum parts"
+    ],
+    "answer": "An electrochemical process that creates an oxidation layer on parts"
+  },
+  {
+    "question": "What is the primary material that anodizing is used for?",
+    "options": [
+      "Carbon steel",
+      "Stainless steel",
+      "Aluminum",
+      "Titanium"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "question": "According to the video, what is one of the main benefits of anodizing?",
+    "options": [
+      "It adds significant thickness to parts",
+      "It makes parts more flexible",
+      "It provides corrosion resistance",
+      "It makes parts magnetic"
+    ],
+    "answer": "It provides corrosion resistance"
+  },
+  {
+    "question": "True or False: The oxidation layer created by anodizing is conductive.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens to the size of a part after anodizing?",
+    "options": [
+      "It decreases by 5-10 thousandths of an inch",
+      "It increases by 5-10 thousandths to 1 thousandth of an inch",
+      "It remains exactly the same size",
+      "It increases by 1-2 inches"
+    ],
+    "answer": "It increases by 5-10 thousandths to 1 thousandth of an inch"
+  },
+  {
+    "question": "According to the video, how is the size increase from anodizing typically described?",
+    "options": [
+      "About the width of a human finger",
+      "About a quarter of a human hair",
+      "About the thickness of a sheet of paper",
+      "About the width of a pencil lead"
+    ],
+    "answer": "About a quarter of a human hair"
+  },
+  {
+    "question": "What are the different types of anodizing mentioned in the video?",
+    "options": [
+      "Type 1 and Type 2",
+      "Type 2 and Type 3",
+      "Type 1, Type 2, and Type 3",
+      "Type A and Type B"
+    ],
+    "answer": "Type 2 and Type 3"
+  },
+  {
+    "question": "How are colors added to anodized parts?",
+    "options": [
+      "By painting after the anodizing process",
+      "By adding dyes during the chemical process",
+      "By using colored aluminum material",
+      "By applying a colored coating on top"
+    ],
+    "answer": "By adding dyes during the chemical process"
+  },
+  {
+    "question": "According to the video, what is the process for stainless steel that is similar to anodizing?",
+    "options": [
+      "Black oxide",
+      "Passivation",
+      "Powder coating",
+      "Electroplating"
+    ],
+    "answer": "Passivation"
+  },
+  {
+    "question": "What is black oxide used for?",
+    "options": [
+      "Aluminum parts",
+      "Stainless steel parts",
+      "High carbon steels",
+      "Titanium parts"
+    ],
+    "answer": "High carbon steels"
+  },
+  {
+    "question": "True or False: You can weld anodized parts without removing the anodizing first.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "According to the video, when should hardware be installed for anodized parts?",
+    "options": [
+      "Before the anodizing process",
+      "After the anodizing process",
+      "During the anodizing process",
+      "Hardware cannot be used with anodized parts"
+    ],
+    "answer": "After the anodizing process"
+  },
+  {
+    "question": "What is a press fit?",
+    "options": [
+      "A loose mechanical connection between parts",
+      "A tight mechanical fit where parts are pressed together",
+      "A welding technique for joining parts",
+      "A type of anodizing process"
+    ],
+    "answer": "A tight mechanical fit where parts are pressed together"
+  },
+  {
+    "question": "According to the video, what is the recommendation for very tight press fits with anodizing?",
+    "options": [
+      "Do the machining before anodizing",
+      "Do the machining after anodizing",
+      "Avoid anodizing for press fits",
+      "Use a different material instead"
+    ],
+    "answer": "Do the machining after anodizing"
+  },
+  {
+    "question": "How does titanium anodizing differ from aluminum anodizing?",
+    "options": [
+      "Titanium uses the same process as aluminum",
+      "Titanium gets its color through light and electricity",
+      "Titanium cannot be anodized",
+      "Titanium uses dyes like aluminum"
+    ],
+    "answer": "Titanium gets its color through light and electricity"
+  },
+  {
+    "question": "What is passivation?",
+    "options": [
+      "A process that adds a coating to aluminum",
+      "A process for stainless steel that removes impurities and adds a robust oxidation layer",
+      "A type of welding process",
+      "A painting technique"
+    ],
+    "answer": "A process for stainless steel that removes impurities and adds a robust oxidation layer"
+  },
+  {
+    "question": "According to the video, where is anodizing commonly used?",
+    "options": [
+      "Only for decorative purposes",
+      "Only for outdoor applications",
+      "Electrical component panels where conductivity is not desired",
+      "Only for automotive parts"
+    ],
+    "answer": "Electrical component panels where conductivity is not desired"
+  },
+  {
+    "question": "True or False: Anodizing adds significant thickness like powder coating does.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is a surface modification?",
+    "options": [
+      "A process that adds a thick coating to parts",
+      "A finishing process that changes the surface of a part rather than adding a coating",
+      "A welding technique",
+      "A machining process"
+    ],
+    "answer": "A finishing process that changes the surface of a part rather than adding a coating"
+  },
+  {
+    "question": "According to the video, what is an electrochemical process?",
+    "options": [
+      "A mechanical process using tools",
+      "A chemical process that uses electricity to create changes in a material's surface",
+      "A painting process",
+      "A welding process"
+    ],
+    "answer": "A chemical process that uses electricity to create changes in a material's surface"
+  },
+  {
+    "question": "What colors are mentioned as examples of anodized finishes?",
+    "options": [
+      "Red, blue, and green",
+      "Red, blue, and gold",
+      "Black, white, and gray",
+      "Red, yellow, and blue"
+    ],
+    "answer": "Red, blue, and gold"
+  },
+  {
+    "question": "According to the video, when is the finishing step in the checkout process?",
+    "options": [
+      "The first step",
+      "The middle step",
+      "The last step",
+      "It can be done at any time"
+    ],
+    "answer": "The last step"
+  },
+  {
+    "question": "True or False: The oxidation layer created by anodizing acts like a hard shell casing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens to hardware during the anodizing process if it's installed before?",
+    "options": [
+      "It gets colored the same as the part",
+      "It reacts during the anodizing process",
+      "It becomes stronger",
+      "Nothing happens to it"
+    ],
+    "answer": "It reacts during the anodizing process"
+  },
+  {
+    "question": "According to the video, what is the oxidation layer?",
+    "options": [
+      "A soft coating that wears away easily",
+      "A hard shell-like coating created through anodizing that protects the part",
+      "A temporary protective layer",
+      "A decorative finish only"
+    ],
+    "answer": "A hard shell-like coating created through anodizing that protects the part"
+  },
+  {
+    "question": "What is corrosion resistance?",
+    "options": [
+      "The ability to resist physical damage",
+      "The ability of a material or finish to resist chemical corrosion and oxidation over time",
+      "The ability to conduct electricity",
+      "The ability to change color"
+    ],
+    "answer": "The ability of a material or finish to resist chemical corrosion and oxidation over time"
+  }
+]
+

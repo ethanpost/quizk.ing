@@ -1,0 +1,293 @@
+[
+  {
+    "question": "According to the video, what does STEP file equal?",
+    "options": [
+      "3D file",
+      "2D file",
+      "Mesh file",
+      "Native file"
+    ],
+    "answer": "3D file"
+  },
+  {
+    "question": "What is the universal file type for 3D solid bodies?",
+    "options": [
+      "STL",
+      "STEP",
+      "OBJ",
+      "F3D"
+    ],
+    "answer": "STEP"
+  },
+  {
+    "question": "According to the video, what does mesh equal?",
+    "options": [
+      "STEP file",
+      "STL file",
+      "DXF file",
+      "Native file"
+    ],
+    "answer": "STL file"
+  },
+  {
+    "question": "What are STL files used for according to the video?",
+    "options": [
+      "CNC machining",
+      "3D printing",
+      "Water jetting",
+      "Laser cutting"
+    ],
+    "answer": "3D printing"
+  },
+  {
+    "question": "Where is the export option found?",
+    "options": [
+      "Under the tools menu",
+      "Under the view menu",
+      "Underneath the export option",
+      "Under the file menu"
+    ],
+    "answer": "Under the file menu"
+  },
+  {
+    "question": "At what level do STEP files show up for export?",
+    "options": [
+      "Body level",
+      "Component level",
+      "Sketch level",
+      "Assembly level"
+    ],
+    "answer": "Component level"
+  },
+  {
+    "question": "What happens if you select a body instead of a component for export?",
+    "options": [
+      "STEP file option appears",
+      "Both STEP and mesh options appear",
+      "Mesh shows up but not STEP file",
+      "No export options appear"
+    ],
+    "answer": "Mesh shows up but not STEP file"
+  },
+  {
+    "question": "When right-clicking on a body in Fusion 360, what option appears?",
+    "options": [
+      "Export",
+      "Save as STEP",
+      "Save as mesh",
+      "Save as DXF"
+    ],
+    "answer": "Save as mesh"
+  },
+  {
+    "question": "When right-clicking on a component in Fusion 360, what options appear?",
+    "options": [
+      "Only save as mesh",
+      "Both save as mesh and export",
+      "Only export",
+      "Neither option appears"
+    ],
+    "answer": "Both save as mesh and export"
+  },
+  {
+    "question": "What does the export dialogue box default to?",
+    "options": [
+      "STEP file",
+      "DXF file",
+      "Fusion (F3D)",
+      "STL file"
+    ],
+    "answer": "Fusion (F3D)"
+  },
+  {
+    "question": "According to the video, what happens when multiple bodies in one component are exported as a STEP file?",
+    "options": [
+      "They export as separate files automatically",
+      "They export as one connected body",
+      "Only the first body exports",
+      "An error occurs"
+    ],
+    "answer": "They export as one connected body"
+  },
+  {
+    "question": "How do you separate bodies when exporting STEP files?",
+    "options": [
+      "Delete one of the bodies",
+      "Move bodies to different layers",
+      "Deselect and hide the body you don't want to export",
+      "Change the file format"
+    ],
+    "answer": "Deselect and hide the body you don't want to export"
+  },
+  {
+    "question": "What happens to hidden bodies when exporting a STEP file?",
+    "options": [
+      "They are included in the export",
+      "They are not included in the STEP file export",
+      "They cause an error",
+      "They export as separate files"
+    ],
+    "answer": "They are not included in the STEP file export"
+  },
+  {
+    "question": "According to the video, why is it important to have separate components for separate bodies?",
+    "options": [
+      "It makes files smaller",
+      "It separates parts when doing exports and sharing with manufacturers",
+      "It speeds up the export process",
+      "It prevents errors"
+    ],
+    "answer": "It separates parts when doing exports and sharing with manufacturers"
+  },
+  {
+    "question": "What happens if you try to export a 3D object as a DXF file?",
+    "options": [
+      "It works perfectly",
+      "It will have an error because it is a 3D object",
+      "It automatically converts to 2D",
+      "It creates a mesh file instead"
+    ],
+    "answer": "It will have an error because it is a 3D object"
+  },
+  {
+    "question": "According to the video, do STEP files have history?",
+    "options": [
+      "Yes, they preserve all history",
+      "No, STEP files have no history",
+      "They have partial history",
+      "It depends on the software"
+    ],
+    "answer": "No, STEP files have no history"
+  },
+  {
+    "question": "What do native file types preserve that STEP files do not?",
+    "options": [
+      "File size",
+      "Colors and textures",
+      "History and timeline",
+      "File format"
+    ],
+    "answer": "History and timeline"
+  },
+  {
+    "question": "What happens when you share a native file (like F3D) with someone who has the same software?",
+    "options": [
+      "They can only view it",
+      "They can see all history and timeline and edit extrusions and sketches",
+      "They cannot open it",
+      "It converts to STEP automatically"
+    ],
+    "answer": "They can see all history and timeline and edit extrusions and sketches"
+  },
+  {
+    "question": "What do STEP files lose compared to native files?",
+    "options": [
+      "File size",
+      "Colors",
+      "Parametric design capabilities",
+      "3D geometry"
+    ],
+    "answer": "Parametric design capabilities"
+  },
+  {
+    "question": "According to the video, if you want to change a chamfer or radius in a STEP file, what happens?",
+    "options": [
+      "You can easily change it",
+      "You have lost that capability",
+      "It changes automatically",
+      "You must use a different software"
+    ],
+    "answer": "You have lost that capability"
+  },
+  {
+    "question": "What can you do to manipulate a STEP file if needed?",
+    "options": [
+      "Nothing, it cannot be changed",
+      "All changes happen automatically",
+      "Sketch and extrude to manipulate it, but changes won't happen automatically",
+      "Import it back as a native file"
+    ],
+    "answer": "Sketch and extrude to manipulate it, but changes won't happen automatically"
+  },
+  {
+    "question": "If a manufacturer has an issue with a part sent as a STEP file, what must happen?",
+    "options": [
+      "The manufacturer can fix it directly",
+      "Nothing can be done",
+      "You must go into Fusion, create changes, and reexport the STEP file",
+      "The file automatically updates"
+    ],
+    "answer": "You must go into Fusion, create changes, and reexport the STEP file"
+  },
+  {
+    "question": "According to the video, what is exporting a STEP file to a manufacturer called?",
+    "options": [
+      "The delivery",
+      "The transfer",
+      "The handshake",
+      "The submission"
+    ],
+    "answer": "The handshake"
+  },
+  {
+    "question": "What does the \"handshake\" of exporting a STEP file indicate?",
+    "options": [
+      "The part needs revision",
+      "The part is incomplete",
+      "This is an acceptable part and I need you to manufacture it",
+      "The manufacturer should modify it"
+    ],
+    "answer": "This is an acceptable part and I need you to manufacture it"
+  },
+  {
+    "question": "Why can't manufacturers easily make changes to STEP files?",
+    "options": [
+      "They don't have the software",
+      "They don't have the history",
+      "The files are too large",
+      "The files are corrupted"
+    ],
+    "answer": "They don't have the history"
+  },
+  {
+    "question": "According to the video, what will the next lesson cover?",
+    "options": [
+      "How to create 3D models",
+      "How to import files",
+      "How to manipulate parts in SendCutSend, including adding features like bending, hardware installation, and powder coating",
+      "How to use different CAD software"
+    ],
+    "answer": "How to manipulate parts in SendCutSend, including adding features like bending, hardware installation, and powder coating"
+  },
+  {
+    "question": "What is a component in CAD software?",
+    "options": [
+      "A single 3D object",
+      "A file format",
+      "A level of organization that contains one or more bodies",
+      "A type of export"
+    ],
+    "answer": "A level of organization that contains one or more bodies"
+  },
+  {
+    "question": "What is a body in CAD software?",
+    "options": [
+      "A component",
+      "A file format",
+      "A single 3D object within a component",
+      "An export option"
+    ],
+    "answer": "A single 3D object within a component"
+  },
+  {
+    "question": "What is parametric design?",
+    "options": [
+      "A design approach where features are defined by parameters that can be modified, allowing automatic updates",
+      "A file format",
+      "A type of 3D printing",
+      "A manufacturing process"
+    ],
+    "answer": "A design approach where features are defined by parameters that can be modified, allowing automatic updates"
+  }
+]
+

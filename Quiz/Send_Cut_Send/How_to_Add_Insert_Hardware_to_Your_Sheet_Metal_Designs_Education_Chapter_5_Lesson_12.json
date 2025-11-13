@@ -1,0 +1,317 @@
+[
+  {
+    "question": "According to the video, what is insert hardware an alternative to?",
+    "options": [
+      "Threads",
+      "Welding",
+      "Adhesives",
+      "Rivets"
+    ],
+    "answer": "Threads"
+  },
+  {
+    "question": "What happens when sheet metal parts become too thin with threads?",
+    "options": [
+      "The threads become easier to install",
+      "The threads require less material",
+      "The threads can strip out when bolts apply pressure",
+      "The threads become stronger"
+    ],
+    "answer": "The threads can strip out when bolts apply pressure"
+  },
+  {
+    "question": "What is PEM hardware?",
+    "options": [
+      "A brand name for insert hardware used by SendCutSend",
+      "A specific type of material",
+      "A manufacturing process",
+      "A type of thread pattern"
+    ],
+    "answer": "A brand name for insert hardware used by SendCutSend"
+  },
+  {
+    "question": "How many main types of insert hardware are discussed in the video?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What is a stud in the context of insert hardware?",
+    "options": [
+      "A threaded body like a bolt that is crimped through the part",
+      "A nut that is welded to the part",
+      "A spacer that goes between two parts",
+      "A type of adhesive fastener"
+    ],
+    "answer": "A threaded body like a bolt that is crimped through the part"
+  },
+  {
+    "question": "What is the primary advantage of using a nut as insert hardware?",
+    "options": [
+      "It makes assembly slower",
+      "It requires a secondary wrench",
+      "It increases the amount of threads in that area",
+      "It requires more tooling"
+    ],
+    "answer": "It increases the amount of threads in that area"
+  },
+  {
+    "question": "According to the video, what is a standoff used for?",
+    "options": [
+      "To reduce material costs",
+      "To improve surface finish",
+      "To space components up off the bottom of a part",
+      "To increase thread strength"
+    ],
+    "answer": "To space components up off the bottom of a part"
+  },
+  {
+    "question": "What are the two standard materials for insert hardware mentioned in the video?",
+    "options": [
+      "Titanium and brass",
+      "Carbon steel and nickel",
+      "Stainless steel and zinc-coated steel",
+      "Aluminum and copper"
+    ],
+    "answer": "Stainless steel and zinc-coated steel"
+  },
+  {
+    "question": "Why should zinc-coated steel not be used with stainless steel parts?",
+    "options": [
+      "It requires special tooling",
+      "It is harder to install",
+      "Zinc can react improperly with stainless steel",
+      "It is more expensive"
+    ],
+    "answer": "Zinc can react improperly with stainless steel"
+  },
+  {
+    "question": "What is pull direction in the context of insert hardware?",
+    "options": [
+      "The direction the anvil moves",
+      "The direction the hardware is removed",
+      "The direction the material flows during installation",
+      "The direction in which force should be applied for optimal performance"
+    ],
+    "answer": "The direction in which force should be applied for optimal performance"
+  },
+  {
+    "question": "True or False: For a stud, the pull direction must be through the part, with the mating part pulled up.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "How is insert hardware installed?",
+    "options": [
+      "Through adhesive bonding",
+      "Through threading",
+      "Through welding",
+      "Through a press process using two anvils"
+    ],
+    "answer": "Through a press process using two anvils"
+  },
+  {
+    "question": "What is the throat in the context of insert hardware installation?",
+    "options": [
+      "The width of the anvil",
+      "The diameter of the hole",
+      "The opening in the hardware itself",
+      "The depth measurement on the press machine that dictates how far into a part hardware can be installed"
+    ],
+    "answer": "The depth measurement on the press machine that dictates how far into a part hardware can be installed"
+  },
+  {
+    "question": "What limits the installation of insert hardware in terms of part size?",
+    "options": [
+      "Only minimum part size",
+      "Only maximum part size",
+      "Both maximum and minimum part size",
+      "Neither maximum nor minimum part size"
+    ],
+    "answer": "Both maximum and minimum part size"
+  },
+  {
+    "question": "Why is minimum spacing between hardware and other features critical?",
+    "options": [
+      "It speeds up manufacturing",
+      "It reduces material costs",
+      "It makes the part look better",
+      "Features too close will fail DFM or cause deformation"
+    ],
+    "answer": "Features too close will fail DFM or cause deformation"
+  },
+  {
+    "question": "True or False: Insert hardware can be installed before bending operations.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Why can't insert hardware be installed before bending?",
+    "options": [
+      "It increases costs",
+      "It requires special tooling",
+      "It makes the part too heavy",
+      "The hardware can interfere with punch and dies"
+    ],
+    "answer": "The hardware can interfere with punch and dies"
+  },
+  {
+    "question": "What can excessive hardware on thin material cause?",
+    "options": [
+      "Warping",
+      "Increased strength",
+      "Better surface finish",
+      "Reduced costs"
+    ],
+    "answer": "Warping"
+  },
+  {
+    "question": "When should hardware be inserted relative to powder coating?",
+    "options": [
+      "Before powder coating",
+      "After powder coating",
+      "During powder coating",
+      "Hardware cannot be used with powder coating"
+    ],
+    "answer": "Before powder coating"
+  },
+  {
+    "question": "What is used to protect threads during powder coating?",
+    "options": [
+      "Adhesive tape",
+      "Nothing is needed",
+      "Special coatings",
+      "Thread protection such as plugs and caps"
+    ],
+    "answer": "Thread protection such as plugs and caps"
+  },
+  {
+    "question": "When should hardware be inserted relative to anodizing?",
+    "options": [
+      "After anodizing",
+      "Before anodizing",
+      "During anodizing",
+      "Hardware cannot be used with anodizing"
+    ],
+    "answer": "After anodizing"
+  },
+  {
+    "question": "Why must hardware be inserted after anodizing?",
+    "options": [
+      "Hardware interferes with the anodizing process",
+      "It is easier to install after",
+      "Anodizing is too expensive",
+      "The anodizing process involves a chemical change that would react improperly with hardware installed before"
+    ],
+    "answer": "The anodizing process involves a chemical change that would react improperly with hardware installed before"
+  },
+  {
+    "question": "What is crimping?",
+    "options": [
+      "The process of mechanically bonding insert hardware to sheet metal by deforming the material around the hardware",
+      "A type of thread pattern",
+      "A finishing process",
+      "A type of material"
+    ],
+    "answer": "The process of mechanically bonding insert hardware to sheet metal by deforming the material around the hardware"
+  },
+  {
+    "question": "What creates the mechanical bond between insert hardware and sheet metal?",
+    "options": [
+      "Adhesive",
+      "Welding",
+      "Teeth that bite into the material during crimping",
+      "Threads"
+    ],
+    "answer": "Teeth that bite into the material during crimping"
+  },
+  {
+    "question": "What is an anvil in the insert hardware installation process?",
+    "options": [
+      "A measurement tool",
+      "A finishing process",
+      "A type of hardware",
+      "One of two press components used in installation, where one holds hardware and the other pushes material into it"
+    ],
+    "answer": "One of two press components used in installation, where one holds hardware and the other pushes material into it"
+  },
+  {
+    "question": "What does DFM stand for?",
+    "options": [
+      "Design for Manufacturing",
+      "Direct Fastening Method",
+      "Durable Fastener Material",
+      "Design for Maintenance"
+    ],
+    "answer": "Design for Manufacturing"
+  },
+  {
+    "question": "What is stripping out?",
+    "options": [
+      "A finishing technique",
+      "A type of hardware",
+      "The installation process",
+      "The failure that occurs when threads pull through material when a bolt applies pressure"
+    ],
+    "answer": "The failure that occurs when threads pull through material when a bolt applies pressure"
+  },
+  {
+    "question": "According to the video, what example is given where standoffs would be useful?",
+    "options": [
+      "Attaching a door handle",
+      "Connecting two sheet metal panels",
+      "Mounting a computer motherboard",
+      "Spacing an Arduino up off the bottom of a part"
+    ],
+    "answer": "Spacing an Arduino up off the bottom of a part"
+  },
+  {
+    "question": "What thread sizes are mentioned as examples for standoffs?",
+    "options": [
+      "6-32 and 10-32",
+      "4-40 and 8-32",
+      "1/4-20 and 3/8-16",
+      "M6 and M8"
+    ],
+    "answer": "6-32 and 10-32"
+  },
+  {
+    "question": "True or False: Insert hardware requires less tooling on assembly compared to traditional threaded connections.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens if a dimple is too close to insert hardware?",
+    "options": [
+      "The hardware becomes stronger",
+      "The part becomes lighter",
+      "Nothing, it works fine",
+      "The dimple will get messed up due to deformation"
+    ],
+    "answer": "The dimple will get messed up due to deformation"
+  },
+  {
+    "question": "What is the recommended approach when designing with insert hardware?",
+    "options": [
+      "Use as much hardware as possible",
+      "Only use hardware on thick materials",
+      "Install hardware first, then design around it",
+      "Understand max and minimum requirements of all operations to avoid DFM kickbacks"
+    ],
+    "answer": "Understand max and minimum requirements of all operations to avoid DFM kickbacks"
+  }
+]
+

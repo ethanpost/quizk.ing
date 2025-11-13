@@ -1,0 +1,211 @@
+[
+  {
+    "question": "According to the video, where is the bend angle measured?",
+    "options": [
+      "On the outside of the flanges",
+      "On the inside of the flanges",
+      "At the center line",
+      "At the apex point"
+    ],
+    "answer": "On the outside of the flanges"
+  },
+  {
+    "question": "What is the apex?",
+    "options": [
+      "The center of the bend radius",
+      "The point where the bend radius meets the flange",
+      "An imaginary point in space where tangent lines connect",
+      "The point where compression occurs"
+    ],
+    "answer": "An imaginary point in space where tangent lines connect"
+  },
+  {
+    "question": "How is flange length measured?",
+    "options": [
+      "From the inside of the flange",
+      "From the bend radius to the end",
+      "From the center line to the end",
+      "From the apex to the end of the flange"
+    ],
+    "answer": "From the apex to the end of the flange"
+  },
+  {
+    "question": "Where is the bend radius measured?",
+    "options": [
+      "On the outside of the bend",
+      "On the center line",
+      "On the inside of the bend",
+      "At the apex"
+    ],
+    "answer": "On the inside of the bend"
+  },
+  {
+    "question": "What happens to the material on the outside of a bend during the bending process?",
+    "options": [
+      "It compresses",
+      "It experiences tension and stretches",
+      "It remains unchanged",
+      "It thickens"
+    ],
+    "answer": "It experiences tension and stretches"
+  },
+  {
+    "question": "What is the K factor?",
+    "options": [
+      "A ratio describing the amount of elasticity or stress stretch",
+      "A measurement of material thickness",
+      "The bend radius divided by material thickness",
+      "The angle of the bend"
+    ],
+    "answer": "A ratio describing the amount of elasticity or stress stretch"
+  },
+  {
+    "question": "How is the K factor calculated?",
+    "options": [
+      "Material thickness divided by bend radius",
+      "Bend radius divided by material thickness",
+      "Adjusted center line divided by material thickness",
+      "Flange length divided by setback"
+    ],
+    "answer": "Adjusted center line divided by material thickness"
+  },
+  {
+    "question": "What causes the adjusted center line to be different from the original center line?",
+    "options": [
+      "Material thinning due to stretching on the outside",
+      "Compression on the inside",
+      "Material thickening",
+      "The bend radius"
+    ],
+    "answer": "Material thinning due to stretching on the outside"
+  },
+  {
+    "question": "What is a setback?",
+    "options": [
+      "The distance from the apex to the end of the flange",
+      "A measurement from the tangent line to the apex",
+      "The bend radius measurement",
+      "The material thickness"
+    ],
+    "answer": "A measurement from the tangent line to the apex"
+  },
+  {
+    "question": "Why is it important to measure flange length from the apex rather than from the inside?",
+    "options": [
+      "The apex is easier to locate",
+      "Measuring from the inside causes material thickness to affect calculations incorrectly",
+      "The apex is the standard measurement point",
+      "It's not important, either method works"
+    ],
+    "answer": "Measuring from the inside causes material thickness to affect calculations incorrectly"
+  },
+  {
+    "question": "What is the center line on the unbent portion of material?",
+    "options": [
+      "Half of the material thickness",
+      "The full material thickness",
+      "The bend radius",
+      "The adjusted center line"
+    ],
+    "answer": "Half of the material thickness"
+  },
+  {
+    "question": "What dictates the bend radius?",
+    "options": [
+      "The material thickness",
+      "The angle of the bend",
+      "The punch used in the bending process",
+      "The flange length"
+    ],
+    "answer": "The punch used in the bending process"
+  },
+  {
+    "question": "According to the video, what happens to material on the inside of a bend?",
+    "options": [
+      "It stretches and thins",
+      "It remains unchanged",
+      "It experiences compression",
+      "It thickens"
+    ],
+    "answer": "It experiences compression"
+  },
+  {
+    "question": "Where can you find the effective bend radius at 90° for SendCutSend materials?",
+    "options": [
+      "In the manufacturer's guidelines on the website",
+      "In the CAD software settings",
+      "It must be calculated manually",
+      "It's always the same for all materials"
+    ],
+    "answer": "In the manufacturer's guidelines on the website"
+  },
+  {
+    "question": "What does SendCutSend provide to help with CAD setup?",
+    "options": [
+      "Only bend radius values",
+      "K factor and bend radius lists for materials",
+      "Only K factor values",
+      "Only material thickness values"
+    ],
+    "answer": "K factor and bend radius lists for materials"
+  },
+  {
+    "question": "The video compares the stretching during bending to what everyday object?",
+    "options": [
+      "A spring",
+      "A rubber band",
+      "A rope",
+      "A chain"
+    ],
+    "answer": "A rubber band"
+  },
+  {
+    "question": "What is material thickness (T)?",
+    "options": [
+      "The thickness at the bent portion",
+      "The adjusted thickness after bending",
+      "The thickness at the unbent portion of the bending process",
+      "The thickness at the center line"
+    ],
+    "answer": "The thickness at the unbent portion of the bending process"
+  },
+  {
+    "question": "True or False: The apex is used for calculations in bending.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens if you measure the angle on the inside of the flanges instead of the outside?",
+    "options": [
+      "You get the same measurement",
+      "You get an incorrect measurement, especially for bends past 90°",
+      "It doesn't matter where you measure",
+      "You get a more accurate measurement"
+    ],
+    "answer": "You get an incorrect measurement, especially for bends past 90°"
+  },
+  {
+    "question": "According to the video, what is the adjusted center line (little T)?",
+    "options": [
+      "The original center line",
+      "The center line of the thinned out middle area during bending",
+      "The bend radius",
+      "The material thickness"
+    ],
+    "answer": "The center line of the thinned out middle area during bending"
+  },
+  {
+    "question": "What does SendCutSend automatically calculate correctly when you provide a STEP file?",
+    "options": [
+      "The bend radius",
+      "The material thickness",
+      "The angle",
+      "The K factor"
+    ],
+    "answer": "The angle"
+  }
+]
+

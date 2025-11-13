@@ -1,0 +1,207 @@
+[
+  {
+    "question": "According to the video, what is the kerf?",
+    "options": [
+      "The gap created during the cutting process",
+      "The heat affected zone around the cut",
+      "The minimum distance between holes",
+      "The router bit diameter"
+    ],
+    "answer": "The gap created during the cutting process"
+  },
+  {
+    "question": "How is minimum hole size determined for laser cutting?",
+    "options": [
+      "By measuring the laser beam diameter",
+      "By using 50% of material thickness as a rule of thumb",
+      "By cutting progressively smaller holes until failure occurs",
+      "By matching the assist gas pressure"
+    ],
+    "answer": "By cutting progressively smaller holes until failure occurs"
+  },
+  {
+    "question": "What limits the minimum hole size for CNC router cutting?",
+    "options": [
+      "The router bit size",
+      "The material thickness",
+      "The cutting speed",
+      "The heat affected zone"
+    ],
+    "answer": "The router bit size"
+  },
+  {
+    "question": "What is interpolation in CNC routing?",
+    "options": [
+      "A method to reduce warping",
+      "A technique to minimize the heat affected zone",
+      "A process to make holes perfectly concentric",
+      "A way to calculate bridge distance"
+    ],
+    "answer": "A process to make holes perfectly concentric"
+  },
+  {
+    "question": "The heat affected zone is compared to what in the video?",
+    "options": [
+      "A fuse in a car",
+      "A welding torch",
+      "A heat sink",
+      "A cooling system"
+    ],
+    "answer": "A fuse in a car"
+  },
+  {
+    "question": "What is bridge distance?",
+    "options": [
+      "The distance from a hole to an edge",
+      "The minimum hole size",
+      "The distance between parallel lines being cut",
+      "The width of the kerf"
+    ],
+    "answer": "The distance between parallel lines being cut"
+  },
+  {
+    "question": "What is hole to edge distance?",
+    "options": [
+      "The distance between two parallel cuts",
+      "The minimum bridge thickness",
+      "The heat affected zone width",
+      "The distance from a hole or radius to an edge or another hole"
+    ],
+    "answer": "The distance from a hole or radius to an edge or another hole"
+  },
+  {
+    "question": "Why is bridge distance different from hole to edge distance?",
+    "options": [
+      "Bridge distance is always larger",
+      "Hole to edge has a rule of thumb but bridge distance does not",
+      "Bridge distance only applies to lasers, not routers",
+      "Bridge distance represents a long moment of energy application, while hole to edge is a brief tangent distance"
+    ],
+    "answer": "Bridge distance represents a long moment of energy application, while hole to edge is a brief tangent distance"
+  },
+  {
+    "question": "What is the rule of thumb for bridge distance and hole size?",
+    "options": [
+      "25% of material thickness",
+      "75% of material thickness",
+      "100% of material thickness",
+      "50% of material thickness"
+    ],
+    "answer": "50% of material thickness"
+  },
+  {
+    "question": "If you have 100 thou aluminum, what is the rule of thumb minimum bridge distance?",
+    "options": [
+      "25 thou",
+      "75 thou",
+      "100 thou",
+      "50 thou"
+    ],
+    "answer": "50 thou"
+  },
+  {
+    "question": "What should you do if your bridge distance is below the 50% rule of thumb?",
+    "options": [
+      "Increase the material thickness",
+      "Use a different cutting method",
+      "Accept that the part cannot be manufactured",
+      "Check SendCutSend guidelines for the specific material and thickness"
+    ],
+    "answer": "Check SendCutSend guidelines for the specific material and thickness"
+  },
+  {
+    "question": "Is there a rule of thumb for hole to edge distance?",
+    "options": [
+      "Yes, it's 50% of material thickness",
+      "Yes, it's 25% of material thickness",
+      "No, it changes with the radius size",
+      "Yes, it's the same as bridge distance"
+    ],
+    "answer": "No, it changes with the radius size"
+  },
+  {
+    "question": "What is floating geometry?",
+    "options": [
+      "Geometry that moves during cutting",
+      "Geometry that causes warping",
+      "Geometry that is too small to cut",
+      "Geometry that needs bridges to connect it to the main part"
+    ],
+    "answer": "Geometry that needs bridges to connect it to the main part"
+  },
+  {
+    "question": "Why are bridges used with floating geometry typically set at minimum thickness?",
+    "options": [
+      "To reduce material cost",
+      "To increase strength",
+      "To prevent warping",
+      "To make the connection as cosmetic as possible"
+    ],
+    "answer": "To make the connection as cosmetic as possible"
+  },
+  {
+    "question": "What causes warping in cut parts?",
+    "options": [
+      "The kerf being too wide",
+      "The bridge distance being too small",
+      "The hole size being too large",
+      "The heat affected zone putting too much energy into the part"
+    ],
+    "answer": "The heat affected zone putting too much energy into the part"
+  },
+  {
+    "question": "When is warping especially problematic?",
+    "options": [
+      "With thick materials",
+      "With small holes",
+      "With large bridge distances",
+      "With grills and many cutouts"
+    ],
+    "answer": "With grills and many cutouts"
+  },
+  {
+    "question": "What happens when too much internal geometry is removed from a part?",
+    "options": [
+      "The part becomes stronger",
+      "The part becomes lighter",
+      "The cutting speed increases",
+      "More warping occurs"
+    ],
+    "answer": "More warping occurs"
+  },
+  {
+    "question": "How does SendCutSend try to reduce warping?",
+    "options": [
+      "By using slower cutting speeds",
+      "By using larger router bits",
+      "By reducing the number of cuts",
+      "By moving around in the cutting area to spread heat out"
+    ],
+    "answer": "By moving around in the cutting area to spread heat out"
+  },
+  {
+    "question": "True or False: The kerf automatically dictates the minimum hole size.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "True or False: Bridge distance and hole to edge distance are the same thing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The rule of thumb for bridge distance applies to all materials and thicknesses.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  }
+]
+

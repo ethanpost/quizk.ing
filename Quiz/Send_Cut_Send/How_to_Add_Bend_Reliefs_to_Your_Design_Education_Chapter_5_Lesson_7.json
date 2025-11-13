@@ -1,0 +1,211 @@
+[
+  {
+    "question": "What is the main purpose of adding bend reliefs to a design?",
+    "options": [
+      "To make the part easier to manufacture",
+      "To relieve stress and prevent cracking and tearing",
+      "To improve the cosmetic appearance of the part",
+      "To reduce material costs"
+    ],
+    "answer": "To relieve stress and prevent cracking and tearing"
+  },
+  {
+    "question": "What happens when a part is bent without bend relief?",
+    "options": [
+      "The part cannot be manufactured at all",
+      "The part will crack immediately during manufacturing",
+      "The part may crack over time, especially with vibration",
+      "The part will be stronger than with relief"
+    ],
+    "answer": "The part may crack over time, especially with vibration"
+  },
+  {
+    "question": "What is a stress riser?",
+    "options": [
+      "A point where stress is concentrated, leading to potential cracking",
+      "A tool used in manufacturing",
+      "A type of bend relief",
+      "A measurement of material thickness"
+    ],
+    "answer": "A point where stress is concentrated, leading to potential cracking"
+  },
+  {
+    "question": "According to the rule of thumb, what should the width of a standard bend relief be?",
+    "options": [
+      "25% of material thickness",
+      "75% of material thickness",
+      "50% of material thickness",
+      "Equal to material thickness"
+    ],
+    "answer": "50% of material thickness"
+  },
+  {
+    "question": "What is the rule of thumb for the depth of a standard bend relief?",
+    "options": [
+      "Bend radius + material thickness",
+      "Bend radius + material thickness + 0.010 inches",
+      "Bend radius + material thickness + 0.020 inches",
+      "Bend radius + 2 × material thickness"
+    ],
+    "answer": "Bend radius + material thickness + 0.020 inches"
+  },
+  {
+    "question": "What happens if you make a bend relief width smaller than the recommended 50% of material thickness?",
+    "options": [
+      "The part will be unmanufacturable",
+      "The part will be stronger",
+      "It will be tighter for the manufacturing process and may have kickback",
+      "No difference in manufacturing"
+    ],
+    "answer": "It will be tighter for the manufacturing process and may have kickback"
+  },
+  {
+    "question": "What is a flange?",
+    "options": [
+      "A type of bend relief",
+      "A measurement tool",
+      "A projecting flat rim or edge on a part that extends from the main body",
+      "A manufacturing machine"
+    ],
+    "answer": "A projecting flat rim or edge on a part that extends from the main body"
+  },
+  {
+    "question": "When two bends meet at adjacent corners, what happens to the deformation?",
+    "options": [
+      "The deformation is halved",
+      "The deformation remains the same",
+      "The deformation is doubled",
+      "No deformation occurs"
+    ],
+    "answer": "The deformation is doubled"
+  },
+  {
+    "question": "What happens when two bends meet at adjacent corners without relief?",
+    "options": [
+      "The part is easier to manufacture",
+      "The part requires no special handling",
+      "The part is almost impossible to manufacture",
+      "The part will be stronger"
+    ],
+    "answer": "The part is almost impossible to manufacture"
+  },
+  {
+    "question": "What are the two types of relief options for adjacent corners?",
+    "options": [
+      "Round and square",
+      "Round and triangular",
+      "Square and rectangular",
+      "Circular and oval"
+    ],
+    "answer": "Round and square"
+  },
+  {
+    "question": "Why might someone choose a square relief over a round relief?",
+    "options": [
+      "Square reliefs are always stronger",
+      "Square reliefs use less material",
+      "Square reliefs are easier to weld",
+      "Square reliefs are easier to manufacture"
+    ],
+    "answer": "Square reliefs are easier to weld"
+  },
+  {
+    "question": "What is the rule of thumb for adjacent corner relief size?",
+    "options": [
+      "Material thickness + bend deduction",
+      "Material thickness × 2",
+      "(Material thickness - Bend deduction) / 2 + 0.015 inches",
+      "Bend radius + material thickness"
+    ],
+    "answer": "(Material thickness - Bend deduction) / 2 + 0.015 inches"
+  },
+  {
+    "question": "What is dimpling?",
+    "options": [
+      "A type of bend relief",
+      "A measurement technique",
+      "A manufacturing defect where material rolls up in corners creating a raised tower",
+      "A CAD software feature"
+    ],
+    "answer": "A manufacturing defect where material rolls up in corners creating a raised tower"
+  },
+  {
+    "question": "What CAD software programs automatically apply bend reliefs?",
+    "options": [
+      "AutoCAD and Inventor",
+      "SketchUp and Blender",
+      "Fusion and SolidWorks",
+      "CATIA and NX"
+    ],
+    "answer": "Fusion and SolidWorks"
+  },
+  {
+    "question": "What is the bend radius?",
+    "options": [
+      "The outside radius of a bend",
+      "The total length of the bend",
+      "The inside radius of a bend, measured from the center to the inside surface",
+      "The angle of the bend"
+    ],
+    "answer": "The inside radius of a bend, measured from the center to the inside surface"
+  },
+  {
+    "question": "What is bend deduction?",
+    "options": [
+      "The amount of material added to account for the bend",
+      "The radius of the bend",
+      "The amount of material that needs to be removed from the flat pattern to account for the bend",
+      "The angle of the bend"
+    ],
+    "answer": "The amount of material that needs to be removed from the flat pattern to account for the bend"
+  },
+  {
+    "question": "True or False: Bend reliefs are always required for every bend in a part.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is a press brake?",
+    "options": [
+      "A type of bend relief",
+      "A measurement device",
+      "A machine tool used for bending sheet metal",
+      "A CAD software feature"
+    ],
+    "answer": "A machine tool used for bending sheet metal"
+  },
+  {
+    "question": "What is the tangent radius?",
+    "options": [
+      "The point where the bend radius transitions to the flat material",
+      "The total radius of the bend",
+      "The angle of the bend",
+      "A type of relief"
+    ],
+    "answer": "The point where the bend radius transitions to the flat material"
+  },
+  {
+    "question": "What is the deformation area?",
+    "options": [
+      "The region of material that is stretched or compressed during bending",
+      "The area where relief is cut",
+      "The total area of the part",
+      "The area around the bend radius"
+    ],
+    "answer": "The region of material that is stretched or compressed during bending"
+  },
+  {
+    "question": "What happens to fitment when dimpling occurs?",
+    "options": [
+      "Fitment improves",
+      "Fitment is not affected",
+      "Fitment becomes perfect",
+      "Fitment is hurt"
+    ],
+    "answer": "Fitment is hurt"
+  }
+]
+

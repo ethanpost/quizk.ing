@@ -1,0 +1,243 @@
+[
+  {
+    "question": "What is the purpose of the capstone project?",
+    "options": [
+      "To apply all knowledge from chapters 1 through 5 into one cohesive design",
+      "To test knowledge with a cumulative exam",
+      "To learn new CAD techniques",
+      "To practice basic sketching skills"
+    ],
+    "answer": "To apply all knowledge from chapters 1 through 5 into one cohesive design"
+  },
+  {
+    "question": "What is the base dimension used for the desk organizer?",
+    "options": [
+      "5 inches",
+      "5.5 inches",
+      "5.625 inches",
+      "6 inches"
+    ],
+    "answer": "5.625 inches"
+  },
+  {
+    "question": "What does the anchor symbol indicate on a component?",
+    "options": [
+      "The component needs to be deleted",
+      "The component can be moved freely",
+      "The component is incomplete",
+      "The component is grounded to the parent and fixed in space"
+    ],
+    "answer": "The component is grounded to the parent and fixed in space"
+  },
+  {
+    "question": "Why is the origin placed in the center of the design?",
+    "options": [
+      "To reduce file size",
+      "To make the design easier to see",
+      "To improve rendering speed",
+      "To enable mirror features and symmetric operations"
+    ],
+    "answer": "To enable mirror features and symmetric operations"
+  },
+  {
+    "question": "What sheet metal thickness is selected for the first side component?",
+    "options": [
+      "0.050 inches",
+      "0.063 inches",
+      "0.075 inches",
+      "0.100 inches"
+    ],
+    "answer": "0.063 inches"
+  },
+  {
+    "question": "What tool is used to create the second side wall?",
+    "options": [
+      "Mirror",
+      "Copy and paste",
+      "Array",
+      "Duplicate"
+    ],
+    "answer": "Mirror"
+  },
+  {
+    "question": "When creating the back panel, why is it safer to use a plane rather than a component surface?",
+    "options": [
+      "Planes render faster",
+      "Planes are easier to select",
+      "Surfaces cannot be used for sketches",
+      "If a component disappears, you lose your reference when using a surface"
+    ],
+    "answer": "If a component disappears, you lose your reference when using a surface"
+  },
+  {
+    "question": "What is the purpose of adding a corner radius (fillet) to the side components?",
+    "options": [
+      "To reduce material cost",
+      "To improve aesthetics only",
+      "To prevent cuts and injuries",
+      "To make the part lighter"
+    ],
+    "answer": "To prevent cuts and injuries"
+  },
+  {
+    "question": "How high is the inner shelf positioned from the bottom?",
+    "options": [
+      "2.5 inches",
+      "1.5 inches",
+      "2 inches",
+      "3 inches"
+    ],
+    "answer": "2 inches"
+  },
+  {
+    "question": "What measurement option determines if a flange extends from the outer face or inner face?",
+    "options": [
+      "Bend position",
+      "Side orientation",
+      "Measurement option (outer face vs. interface)",
+      "Component type"
+    ],
+    "answer": "Measurement option (outer face vs. interface)"
+  },
+  {
+    "question": "What is the purpose of the false bottom in the design?",
+    "options": [
+      "To create a drawer",
+      "To add weight to the organizer",
+      "To improve structural strength",
+      "To prevent items from falling through to the shelf area"
+    ],
+    "answer": "To prevent items from falling through to the shelf area"
+  },
+  {
+    "question": "What dimension is used for the mounting flanges to accommodate #6-32 hardware?",
+    "options": [
+      "0.750 inches",
+      "0.500 inches",
+      "0.625 inches",
+      "1.000 inches"
+    ],
+    "answer": "0.625 inches"
+  },
+  {
+    "question": "What happens when you create flanges on multiple surfaces at once in the corners?",
+    "options": [
+      "The CAD software creates an error",
+      "The corners are automatically chamfered to prevent contact during bending",
+      "The flanges cannot be created",
+      "The corners become sharp"
+    ],
+    "answer": "The corners are automatically chamfered to prevent contact during bending"
+  },
+  {
+    "question": "What is a construction line used for?",
+    "options": [
+      "To add strength to the part",
+      "To create the final part geometry",
+      "To create bends in sheet metal",
+      "As a reference to help define geometry but doesn't become part of the final feature"
+    ],
+    "answer": "As a reference to help define geometry but doesn't become part of the final feature"
+  },
+  {
+    "question": "What is the purpose of the divider in the design?",
+    "options": [
+      "To separate markers from pencils",
+      "To support the shelf",
+      "To add structural support",
+      "To create a drawer"
+    ],
+    "answer": "To separate markers from pencils"
+  },
+  {
+    "question": "What tool allows you to edit features after they have been created?",
+    "options": [
+      "The copy tool",
+      "The mirror tool",
+      "The delete tool",
+      "The history timeline"
+    ],
+    "answer": "The history timeline"
+  },
+  {
+    "question": "What is the radius used to match the corners of the back panel to the side components?",
+    "options": [
+      "0.1 inches",
+      "0.05 inches",
+      "0.2 inches",
+      "0.25 inches"
+    ],
+    "answer": "0.1 inches"
+  },
+  {
+    "question": "What does \"grounding\" a component do?",
+    "options": [
+      "Deletes the component",
+      "Makes it easier to see",
+      "Changes its color",
+      "Locks it into position so it cannot be moved accidentally"
+    ],
+    "answer": "Locks it into position so it cannot be moved accidentally"
+  },
+  {
+    "question": "What is interference in CAD design?",
+    "options": [
+      "When a component is not grounded",
+      "When components are too far apart",
+      "When a sketch is not fully constrained",
+      "When two or more components occupy the same space, preventing proper assembly"
+    ],
+    "answer": "When two or more components occupy the same space, preventing proper assembly"
+  },
+  {
+    "question": "What is the purpose of using \"new component\" when creating sheet metal flanges?",
+    "options": [
+      "To allow independent control of sheet metal rules for each component",
+      "To reduce file size",
+      "To make the part lighter",
+      "To improve rendering speed"
+    ],
+    "answer": "To allow independent control of sheet metal rules for each component"
+  },
+  {
+    "question": "What will be covered in part 2 of the capstone project?",
+    "options": [
+      "Basic sketching techniques",
+      "Creating the initial components",
+      "Addressing interference, adding hardware holes, through holes, and adding a drawer",
+      "Adding dimensions"
+    ],
+    "answer": "Addressing interference, adding hardware holes, through holes, and adding a drawer"
+  },
+  {
+    "question": "What is a constraint in CAD sketching?",
+    "options": [
+      "A relationship that ties sketch elements together, such as connecting a point to a line",
+      "A limitation on file size",
+      "A type of material",
+      "A measurement tool"
+    ],
+    "answer": "A relationship that ties sketch elements together, such as connecting a point to a line"
+  },
+  {
+    "question": "What is the measured distance from the inside face to the top of the shelf flange?",
+    "options": [
+      "3.25 inches",
+      "3.499 inches",
+      "3.75 inches",
+      "4.0 inches"
+    ],
+    "answer": "3.499 inches"
+  },
+  {
+    "question": "What is the purpose of setting the divider dimension 0.25 inches up from the radiused corner?",
+    "options": [
+      "To improve aesthetics",
+      "To save material",
+      "To make it easier to manufacture",
+      "To prevent interference with the bend area"
+    ],
+    "answer": "To prevent interference with the bend area"
+  }
+]
+

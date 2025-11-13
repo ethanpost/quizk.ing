@@ -1,0 +1,263 @@
+[
+  {
+    "question": "What is the primary purpose of countersinking?",
+    "options": [
+      "To create decorative patterns on parts",
+      "To allow flathead screws to sit flush inside holes",
+      "To increase the strength of threaded connections",
+      "To reduce material waste during cutting"
+    ],
+    "answer": "To allow flathead screws to sit flush inside holes"
+  },
+  {
+    "question": "What is the included angle for metric threads in countersinking?",
+    "options": [
+      "75°",
+      "82°",
+      "90°",
+      "100°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "question": "What is the included angle for imperial threads in countersinking?",
+    "options": [
+      "82°",
+      "75°",
+      "90°",
+      "100°"
+    ],
+    "answer": "82°"
+  },
+  {
+    "question": "What is the minor diameter in a countersunk hole?",
+    "options": [
+      "The depth of the countersink",
+      "The angle of the taper",
+      "The diameter at the top of the taper",
+      "The diameter of the through hole"
+    ],
+    "answer": "The diameter of the through hole"
+  },
+  {
+    "question": "What is the major diameter in a countersunk hole?",
+    "options": [
+      "The diameter of the through hole",
+      "The depth of the countersink",
+      "The diameter at the top of the taper",
+      "The angle of the taper"
+    ],
+    "answer": "The diameter at the top of the taper"
+  },
+  {
+    "question": "According to the video, what happens if the countersink depth is too shallow?",
+    "options": [
+      "The screw sticks up above the surface",
+      "The screw sits subsurface",
+      "The hole becomes too large",
+      "The material becomes too thin"
+    ],
+    "answer": "The screw sticks up above the surface"
+  },
+  {
+    "question": "What is the minimum size requirement for parts with countersinking?",
+    "options": [
+      "2 inch x 8 inch rectangle",
+      "0.5 inch x 2 inch rectangle",
+      "4 inch x 12 inch rectangle",
+      "1 inch x 4 inch rectangle"
+    ],
+    "answer": "1 inch x 4 inch rectangle"
+  },
+  {
+    "question": "What is the maximum size requirement for parts with countersinking?",
+    "options": [
+      "10 inch x 30 inch",
+      "12 inch x 40 inch",
+      "14 inch x 46 inch",
+      "16 inch x 50 inch"
+    ],
+    "answer": "14 inch x 46 inch"
+  },
+  {
+    "question": "Why is there a minimum thickness requirement for countersinking?",
+    "options": [
+      "To ensure the part is strong enough",
+      "To prevent the taper from eating all the way through the material",
+      "To reduce manufacturing costs",
+      "To improve cosmetic appearance"
+    ],
+    "answer": "To prevent the taper from eating all the way through the material"
+  },
+  {
+    "question": "Why are some materials not available for countersinking?",
+    "options": [
+      "They are too thick",
+      "They are too expensive",
+      "They are too thin",
+      "They don't yield well to the cutting process"
+    ],
+    "answer": "They don't yield well to the cutting process"
+  },
+  {
+    "question": "What does SendCutSend automatically do during the checkout process?",
+    "options": [
+      "Selects the material for you",
+      "Resizes holes to the correct dimensions",
+      "Creates the CAD file",
+      "Determines the part thickness"
+    ],
+    "answer": "Resizes holes to the correct dimensions"
+  },
+  {
+    "question": "According to the video, what do you need to know when adding countersinks during checkout?",
+    "options": [
+      "The exact through hole diameter",
+      "The major diameter dimension",
+      "The thread size you want to use",
+      "The material thickness"
+    ],
+    "answer": "The thread size you want to use"
+  },
+  {
+    "question": "What is a secondary operation?",
+    "options": [
+      "An operation that requires no setup",
+      "An operation performed before cutting",
+      "An operation that only works on thin materials",
+      "An operation performed after the initial cutting process"
+    ],
+    "answer": "An operation performed after the initial cutting process"
+  },
+  {
+    "question": "What might you see on parts after countersinking due to it being a secondary operation?",
+    "options": [
+      "Perfectly clean surfaces",
+      "Oil and residue",
+      "No visible marks",
+      "Only cosmetic improvements"
+    ],
+    "answer": "Oil and residue"
+  },
+  {
+    "question": "What might be visible in the countersinking area that is normal for this operation?",
+    "options": [
+      "Perfectly smooth finish",
+      "No marks at all",
+      "Only decorative patterns",
+      "Scoring marks"
+    ],
+    "answer": "Scoring marks"
+  },
+  {
+    "question": "In CAD modeling, what is the recommended maximum hole dimension for SendCutSend's automatic resizing to work?",
+    "options": [
+      "2 inches",
+      "3 inches",
+      "4 inches",
+      "5 inches"
+    ],
+    "answer": "4 inches"
+  },
+  {
+    "question": "What CAD trick is mentioned for automatically centering a hole?",
+    "options": [
+      "Using a rectangle to find the center",
+      "Drawing a diagonal line from corner to corner and placing the circle on the midpoint",
+      "Using a grid system",
+      "Measuring from the edges"
+    ],
+    "answer": "Drawing a diagonal line from corner to corner and placing the circle on the midpoint"
+  },
+  {
+    "question": "What hole type should you select in CAD when modeling a countersink?",
+    "options": [
+      "Simple hole",
+      "Threaded hole",
+      "Countersinking hole type",
+      "Tapered hole"
+    ],
+    "answer": "Countersinking hole type"
+  },
+  {
+    "question": "According to the video, what is a slip fit?",
+    "options": [
+      "A fit where the hole is exactly the same size as the thread",
+      "A fit where the hole is smaller than the thread",
+      "A fit that requires force to insert",
+      "A fit where the hole is slightly larger than the thread, allowing easy passage"
+    ],
+    "answer": "A fit where the hole is slightly larger than the thread, allowing easy passage"
+  },
+  {
+    "question": "What is work holding?",
+    "options": [
+      "The process of designing parts",
+      "The method used to secure and orient parts during manufacturing operations",
+      "The process of cutting materials",
+      "The method of selecting materials"
+    ],
+    "answer": "The method used to secure and orient parts during manufacturing operations"
+  },
+  {
+    "question": "According to the video, what creates the size limitations for countersinking?",
+    "options": [
+      "Material availability",
+      "Cost considerations",
+      "Design preferences",
+      "Work holding requirements"
+    ],
+    "answer": "Work holding requirements"
+  },
+  {
+    "question": "What happens to the major diameter hole when you create a DXF file with a modeled countersink?",
+    "options": [
+      "It disappears",
+      "It appears in the DXF file",
+      "It becomes smaller",
+      "It changes to a different shape"
+    ],
+    "answer": "It appears in the DXF file"
+  },
+  {
+    "question": "What is the included angle?",
+    "options": [
+      "The depth of the countersink",
+      "The diameter of the hole",
+      "The thickness of the material",
+      "The angle measured across the entire taper of a countersink"
+    ],
+    "answer": "The angle measured across the entire taper of a countersink"
+  },
+  {
+    "question": "According to the video, what is better than having a screw stick up above the surface?",
+    "options": [
+      "Having no screw at all",
+      "Having the screw sit subsurface",
+      "Having a larger hole",
+      "Having a smaller hole"
+    ],
+    "answer": "Having the screw sit subsurface"
+  },
+  {
+    "question": "What should you check to see the most up-to-date materials available for countersinking?",
+    "options": [
+      "The CAD software documentation",
+      "Only the material guidelines",
+      "Only the countersinking guidelines",
+      "The material guidelines and countersinking guidelines on SendCutSend's website"
+    ],
+    "answer": "The material guidelines and countersinking guidelines on SendCutSend's website"
+  },
+  {
+    "question": "According to the video, what is the next topic that will be discussed after countersinking?",
+    "options": [
+      "Dimple forming",
+      "Threading operations",
+      "Tapping operations",
+      "Drilling operations"
+    ],
+    "answer": "Dimple forming"
+  }
+]
+

@@ -1,0 +1,263 @@
+[
+  {
+    "question": "According to the video, what is the main focus of this lesson?",
+    "options": [
+      "Learning how to import CAD files into manufacturers like SendCutSend",
+      "Learning how to export CAD files",
+      "Understanding different CAD software programs",
+      "Learning about 3D printing techniques"
+    ],
+    "answer": "Learning how to import CAD files into manufacturers like SendCutSend"
+  },
+  {
+    "question": "What range of parts can manufacturers like SendCutSend produce?",
+    "options": [
+      "Only single parts",
+      "One to 10,000 parts",
+      "One to 100 parts",
+      "Only large production runs"
+    ],
+    "answer": "One to 10,000 parts"
+  },
+  {
+    "question": "According to the video, what must you follow to successfully manufacture parts with services like SendCutSend?",
+    "options": [
+      "Only file format requirements",
+      "Only material specifications",
+      "Only thickness requirements",
+      "DFM rules and tolerances set by the manufacturer"
+    ],
+    "answer": "DFM rules and tolerances set by the manufacturer"
+  },
+  {
+    "question": "What does DFM stand for?",
+    "options": [
+      "Digital File Management",
+      "Direct File Manufacturing",
+      "Design File Method",
+      "Design for Manufacturing"
+    ],
+    "answer": "Design for Manufacturing"
+  },
+  {
+    "question": "What file format is mentioned as being uploaded in the video example?",
+    "options": [
+      "DWG",
+      "STEP",
+      "DXF",
+      "STL"
+    ],
+    "answer": "DXF"
+  },
+  {
+    "question": "What appears after uploading a file to the SendCutSend website?",
+    "options": [
+      "Only pricing information",
+      "Only material options",
+      "A 3D model of the part",
+      "A flat rendering of the part"
+    ],
+    "answer": "A flat rendering of the part"
+  },
+  {
+    "question": "According to the video, what angle are bend lines at by default?",
+    "options": [
+      "45°",
+      "90°",
+      "60°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "question": "Which aluminum alloy can be bent according to the video?",
+    "options": [
+      "6061",
+      "5052",
+      "7075",
+      "2024"
+    ],
+    "answer": "5052"
+  },
+  {
+    "question": "What is the default finishing option mentioned in the video?",
+    "options": [
+      "Anodizing",
+      "Deburring",
+      "No finish",
+      "Painting"
+    ],
+    "answer": "Deburring"
+  },
+  {
+    "question": "According to the video, when is hardware installation done?",
+    "options": [
+      "Before cutting",
+      "During cutting",
+      "Before anodizing",
+      "After anodizing"
+    ],
+    "answer": "After anodizing"
+  },
+  {
+    "question": "What happens to the price per part as quantity increases?",
+    "options": [
+      "Price stays the same",
+      "Price decreases",
+      "Price increases",
+      "Price doubles"
+    ],
+    "answer": "Price decreases"
+  },
+  {
+    "question": "Which CAD software programs have SendCutSend plugins available?",
+    "options": [
+      "Only SolidWorks",
+      "SolidWorks and Fusion 360",
+      "Only Fusion 360",
+      "All CAD software"
+    ],
+    "answer": "SolidWorks and Fusion 360"
+  },
+  {
+    "question": "Where can you find the SendCutSend plugin for Fusion 360?",
+    "options": [
+      "In the file menu",
+      "In the view menu",
+      "In the tools menu",
+      "In the Fusion app store under add-ins"
+    ],
+    "answer": "In the Fusion app store under add-ins"
+  },
+  {
+    "question": "According to the video, what does the plugin automatically detect from your CAD file?",
+    "options": [
+      "Only material type",
+      "Thickness and appropriate materials",
+      "Only thickness",
+      "Only bend angles"
+    ],
+    "answer": "Thickness and appropriate materials"
+  },
+  {
+    "question": "What warning does the video give about changing thickness in the plugin?",
+    "options": [
+      "It will increase the price",
+      "It will slow down processing",
+      "It will change the material type",
+      "It changes bend allowance and bend deduction, which may make the part incorrect if CAD isn't updated"
+    ],
+    "answer": "It changes bend allowance and bend deduction, which may make the part incorrect if CAD isn't updated"
+  },
+  {
+    "question": "What is bend allowance?",
+    "options": [
+      "The amount of material removed during cutting",
+      "The amount of material needed to account for stretching during the bending process",
+      "The angle of the bend",
+      "The thickness of the material"
+    ],
+    "answer": "The amount of material needed to account for stretching during the bending process"
+  },
+  {
+    "question": "What is bend deduction?",
+    "options": [
+      "The angle of the bend",
+      "The price reduction for bending",
+      "The amount of material added to the flat pattern",
+      "The amount of material that must be removed from the flat pattern to account for compression during bending"
+    ],
+    "answer": "The amount of material that must be removed from the flat pattern to account for compression during bending"
+  },
+  {
+    "question": "According to the video, what type of file automatically adds bend configuration?",
+    "options": [
+      "DXF files",
+      "STEP files",
+      "DWG files",
+      "STL files"
+    ],
+    "answer": "STEP files"
+  },
+  {
+    "question": "What secondary operation allows you to insert hardware like nuts and standoffs?",
+    "options": [
+      "Bending",
+      "Hardware insertion",
+      "Anodizing",
+      "Deburring"
+    ],
+    "answer": "Hardware insertion"
+  },
+  {
+    "question": "According to the video, what can you use to orient your part in the 3D rendering?",
+    "options": [
+      "Only the mouse",
+      "A view cube",
+      "Only keyboard shortcuts",
+      "Only zoom controls"
+    ],
+    "answer": "A view cube"
+  },
+  {
+    "question": "What is a flat rendering?",
+    "options": [
+      "A technical drawing",
+      "A material specification sheet",
+      "A 3D model of the part",
+      "A 2D preview of a part shown after uploading a file"
+    ],
+    "answer": "A 2D preview of a part shown after uploading a file"
+  },
+  {
+    "question": "According to the video, what is anodizing?",
+    "options": [
+      "A cutting process",
+      "A finishing process that adds a protective oxide layer and color to metal parts",
+      "A bending process",
+      "A hardware insertion process"
+    ],
+    "answer": "A finishing process that adds a protective oxide layer and color to metal parts"
+  },
+  {
+    "question": "What is a CAD plugin?",
+    "options": [
+      "A type of file format",
+      "A material type",
+      "A finishing option",
+      "Software integration that allows direct export and quoting from CAD software"
+    ],
+    "answer": "Software integration that allows direct export and quoting from CAD software"
+  },
+  {
+    "question": "According to the video, can you use SendCutSend as a guest?",
+    "options": [
+      "No, you must create an account",
+      "Only after creating an account",
+      "Yes, you can use it as a guest or create a login",
+      "Only for certain file types"
+    ],
+    "answer": "Yes, you can use it as a guest or create a login"
+  },
+  {
+    "question": "What happens when you select \"show all\" in the plugin's material thickness options?",
+    "options": [
+      "It shows all materials",
+      "It shows all finishing options",
+      "It shows all 5052 thicknesses",
+      "It shows all hardware options"
+    ],
+    "answer": "It shows all 5052 thicknesses"
+  },
+  {
+    "question": "According to the video, what is the example given of what can be made by following DFM rules?",
+    "options": [
+      "A bicycle frame",
+      "A computer case",
+      "An entire car out of sheet metal",
+      "A robot chassis"
+    ],
+    "answer": "An entire car out of sheet metal"
+  }
+]
+

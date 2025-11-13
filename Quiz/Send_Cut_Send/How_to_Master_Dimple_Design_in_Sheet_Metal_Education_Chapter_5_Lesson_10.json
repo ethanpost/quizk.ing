@@ -1,0 +1,223 @@
+[
+  {
+    "question": "What is the primary benefit of adding dimple forming to sheet metal parts?",
+    "options": [
+      "It reduces material cost",
+      "It adds strength while reducing weight",
+      "It improves surface finish",
+      "It speeds up manufacturing time"
+    ],
+    "answer": "It adds strength while reducing weight"
+  },
+  {
+    "question": "What is dimple forming also commonly referred to as?",
+    "options": [
+      "Weight reduction holes",
+      "Speed holes or aerospace look",
+      "Structural perforations",
+      "Lightening cuts"
+    ],
+    "answer": "Speed holes or aerospace look"
+  },
+  {
+    "question": "How does dimple forming work?",
+    "options": [
+      "It uses a laser to cut and form simultaneously",
+      "It uses male and female dies that press through the hole in a coining process",
+      "It uses heat to reshape the material",
+      "It uses a stamping press without dies"
+    ],
+    "answer": "It uses male and female dies that press through the hole in a coining process"
+  },
+  {
+    "question": "What is the dimple size?",
+    "options": [
+      "The diameter of the tool that sits on the material",
+      "The outside diameter of the dimple itself",
+      "The through diameter or actual cutout hole size that you select",
+      "The minimum distance from the edge"
+    ],
+    "answer": "The through diameter or actual cutout hole size that you select"
+  },
+  {
+    "question": "What is the major diameter of a dimple?",
+    "options": [
+      "The tool outside diameter",
+      "The through hole size",
+      "The outside diameter of the dimple at the tangent points",
+      "The minimum spacing requirement"
+    ],
+    "answer": "The outside diameter of the dimple at the tangent points"
+  },
+  {
+    "question": "Why is minimum distance from edge important?",
+    "options": [
+      "It prevents tool wear",
+      "It prevents edge deformation and ensures full dimple formation",
+      "It reduces material waste",
+      "It speeds up the process"
+    ],
+    "answer": "It prevents edge deformation and ensures full dimple formation"
+  },
+  {
+    "question": "What is the critical consideration for minimum distance to bend centerline?",
+    "options": [
+      "Preventing material warping",
+      "Preventing collision between dimple tooling and bend die",
+      "Ensuring proper bend angle",
+      "Reducing tool marks"
+    ],
+    "answer": "Preventing collision between dimple tooling and bend die"
+  },
+  {
+    "question": "How do you calculate minimum distance between two different sized dimples?",
+    "options": [
+      "Add the two dimple sizes together",
+      "Add the radius of the first dimple OD plus the radius of the second dimple OD",
+      "Use the larger dimple's tool OD",
+      "Use the smaller dimple's tool OD"
+    ],
+    "answer": "Add the radius of the first dimple OD plus the radius of the second dimple OD"
+  },
+  {
+    "question": "What deformation can occur with excessive dimpling on long parts?",
+    "options": [
+      "Twisting",
+      "Bowing and cupping",
+      "Cracking",
+      "Thinning"
+    ],
+    "answer": "Bowing and cupping"
+  },
+  {
+    "question": "How can bowing and cupping be solved?",
+    "options": [
+      "Reduce the number of dimples",
+      "Add a flange bend to add backbone and straighten the part",
+      "Use thicker material",
+      "Increase dimple spacing"
+    ],
+    "answer": "Add a flange bend to add backbone and straighten the part"
+  },
+  {
+    "question": "What causes tool marks in dimple forming?",
+    "options": [
+      "Laser cutting process",
+      "Coining process where material is smashed between upper and lower dies",
+      "Material impurities",
+      "Improper tool alignment"
+    ],
+    "answer": "Coining process where material is smashed between upper and lower dies"
+  },
+  {
+    "question": "How can tool marks be removed?",
+    "options": [
+      "They cannot be removed",
+      "Sanding only",
+      "Powder coating or anodizing will remove them",
+      "They disappear over time"
+    ],
+    "answer": "Powder coating or anodizing will remove them"
+  },
+  {
+    "question": "What is the automatic resizing limit for dimples at SendCutSend?",
+    "options": [
+      "2 inches",
+      "3 inches",
+      "4 inches",
+      "5 inches"
+    ],
+    "answer": "4 inches"
+  },
+  {
+    "question": "What does the dimple tool outside diameter represent?",
+    "options": [
+      "The size of the hole cutout",
+      "The diameter of the tool that must sit completely flat on the material",
+      "The major diameter of the dimple",
+      "The minimum spacing requirement"
+    ],
+    "answer": "The diameter of the tool that must sit completely flat on the material"
+  },
+  {
+    "question": "In CAD, what should you draw to represent the dimple tool OD?",
+    "options": [
+      "A regular circle for the cutout",
+      "A construction circle equal to the dimple tool OD size",
+      "A rectangle",
+      "A line"
+    ],
+    "answer": "A construction circle equal to the dimple tool OD size"
+  },
+  {
+    "question": "Why should you not form the dimple in CAD?",
+    "options": [
+      "It's too difficult to model",
+      "The part needs to be flat for the DXF export",
+      "CAD doesn't support dimple forming",
+      "It causes file corruption"
+    ],
+    "answer": "The part needs to be flat for the DXF export"
+  },
+  {
+    "question": "What happens if you change dimple size after designing spacing in CAD?",
+    "options": [
+      "Nothing, it automatically adjusts",
+      "You may get spacing failures in DFM as the dimple sizes won't work",
+      "The part becomes stronger",
+      "Tool marks increase"
+    ],
+    "answer": "You may get spacing failures in DFM as the dimple sizes won't work"
+  },
+  {
+    "question": "What is the smallest dimple size that SendCutSend offers?",
+    "options": [
+      "0.25 inches",
+      "0.5 inches",
+      "0.75 inches",
+      "1 inch"
+    ],
+    "answer": "0.5 inches"
+  },
+  {
+    "question": "What determines the minimum part size for dimple forming?",
+    "options": [
+      "Material thickness only",
+      "The dimple size that you are using",
+      "Part length only",
+      "Number of dimples"
+    ],
+    "answer": "The dimple size that you are using"
+  },
+  {
+    "question": "What is a coining process?",
+    "options": [
+      "A cutting operation",
+      "A process where material is pressed between two dies with high pressure to create a permanent shape",
+      "A heating process",
+      "A welding process"
+    ],
+    "answer": "A process where material is pressed between two dies with high pressure to create a permanent shape"
+  },
+  {
+    "question": "What is bowing?",
+    "options": [
+      "A type of tool mark",
+      "A deformation where a long part curves or bends due to excessive dimpling",
+      "A measurement error",
+      "A type of dimple"
+    ],
+    "answer": "A deformation where a long part curves or bends due to excessive dimpling"
+  },
+  {
+    "question": "What is cupping?",
+    "options": [
+      "A cosmetic finish",
+      "A deformation where a part develops a curved or dished shape due to stretching during dimple forming",
+      "A type of tool",
+      "A measurement technique"
+    ],
+    "answer": "A deformation where a part develops a curved or dished shape due to stretching during dimple forming"
+  }
+]
+

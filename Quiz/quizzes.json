@@ -1015,6 +1015,186 @@
     "subjects": ["Engineering", "CAD"]
   },
   {
+    "name": "How to Export Clean DXF Files - Education Chapter 4 Lesson 2",
+    "file": "How_to_Export_Clean_DXF_Files_Education_Chapter_4_Lesson_2.json",
+    "url": "https://www.youtube.com/watch?v=_67kfaOuPy4",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/04-02-How_to_Export_Clean_DXF_Files-Education_Chapter_4_Lesson_2.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Export STEP Files - Education Chapter 4 Lesson 3",
+    "file": "How_to_Export_STEP_Files_Education_Chapter_4_Lesson_3.json",
+    "url": "https://www.youtube.com/watch?v=-NS2MgHSY6M",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/04-03-How_to_Export_STEP_Files-Education_Chapter_4_Lesson_3.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Upload and Order Your Parts with SendCutSend - Education Chapter 4 Lesson 4",
+    "file": "How_to_Upload_and_Order_Your_Parts_with_SendCutSend_Education_Chapter_4_Lesson_4.json",
+    "url": "https://www.youtube.com/watch?v=tTEpH0mSHKk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/04-04-How_to_Upload_and_Order_Your_Parts_with_SendCutSend-Education_Chapter_4_Lesson_4.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design Around Cutting Processes - Education Chapter 5 Lesson 1",
+    "file": "How_to_Design_Around_Cutting_Processes_Education_Chapter_5_Lesson_1.json",
+    "url": "https://www.youtube.com/watch?v=qC03HfwrS5I",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-01-How_to_Design_Around_Cutting_Processes-Education_Chapter_5_Lesson_1.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design Parts That Pass DFM - Education Chapter 5 Lesson 2",
+    "file": "How_to_Design_Parts_That_Pass_DFM_Education_Chapter_5_Lesson_2.json",
+    "url": "https://www.youtube.com/watch?v=PCSycUx0awY",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-02-How_to_Design_Parts_That_Pass_DFM-Education_Chapter_5_Lesson_2.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Avoid Tolerance Mistakes in CAD - Education Chapter 5 Lesson 3",
+    "file": "How_to_Avoid_Tolerance_Mistakes_in_CAD_Education_Chapter_5_Lesson_3.json",
+    "url": "https://www.youtube.com/watch?v=UDo5vV6mmHw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-03-How_to_Avoid_Tolerance_Mistakes_in_CAD-Education_Chapter_5_Lesson_3.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design Like a Pro by Knowing Bending Terms - Education Chapter 5 Lesson 4",
+    "file": "How_to_Design_Like_a_Pro_by_Knowing_Bending_Terms_Education_Chapter_5_Lesson_4.json",
+    "url": "https://www.youtube.com/watch?v=hZ0vBV7L7cE",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-04-How_to_Design_Like_a_Pro_by_Knowing_Bending_Terms-Education_Chapter_5_Lesson_4.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Calculate Bend Allowance and Bend Deduction - Education Chapter 5 Lesson 5",
+    "file": "How_to_Calculate_Bend_Allowance_and_Bend_Deduction_Education_Chapter_5_Lesson_5.json",
+    "url": "https://www.youtube.com/watch?v=21Ky5ayg_q",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-05-How_to_Calculate_Bend_Allowance_and_Bend_Deduction-Education_Chapter_5_Lesson_5.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Understand Bend Deformation - Education Chapter 5 Lesson 6",
+    "file": "How_to_Understand_Bend_Deformation_Education_Chapter_5_Lesson_6.json",
+    "url": "https://www.youtube.com/watch?v=g_hQB4rKklo",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-06-How_to_Understand_Bend_Deformation-Education_Chapter_5_Lesson_6.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Add Bend Reliefs to Your Design - Education Chapter 5 Lesson 7",
+    "file": "How_to_Add_Bend_Reliefs_to_Your_Design_Education_Chapter_5_Lesson_7.json",
+    "url": "https://www.youtube.com/watch?v=S9p31bsGjcA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-07-How_to_Add_Bend_Reliefs_to_Your_Design-Education_Chapter_5_Lesson_7.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Configure and Prepare Bends in CAD - Education Chapter 5 Lesson 8",
+    "file": "How_to_Configure_and_Prepare_Bends_in_CAD_Education_Chapter_5_Lesson_8.json",
+    "url": "https://www.youtube.com/watch?v=KlULfLlZJkU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-08-How_to_Configure_and_Prepare_Bends_in_CAD-Education_Chapter_5_Lesson_8.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Design and Add Countersinks to Your Parts - Education Chapter 5 Lesson 9",
+    "file": "How_to_Design_and_Add_Countersinks_to_Your_Parts_Education_Chapter_5_Lesson_9.json",
+    "url": "https://www.youtube.com/watch?v=d5Uw-qFg7AM",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-09-How_to_Design_and_Add_Countersinks_to_Your_Parts-Education_Chapter_5_Lesson_9.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Master Dimple Design in Sheet Metal - Education Chapter 5 Lesson 10",
+    "file": "How_to_Master_Dimple_Design_in_Sheet_Metal_Education_Chapter_5_Lesson_10.json",
+    "url": "https://www.youtube.com/watch?v=kyKncwGEvbg",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-10-How_to_Master_Dimple_Design_in_Sheet_Metal-Education_Chapter_5_Lesson_10.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Add Tapped Holes to Your Sheet Metal Parts - Education Chapter 5 Lesson 11",
+    "file": "How_to_Add_Tapped_Holes_to_Your_Sheet_Metal_Parts_Education_Chapter_5_Lesson_11.json",
+    "url": "https://www.youtube.com/watch?v=Af9Z2qC5UZU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-11-How_to_Add_Tapped_Holes_to_Your_Sheet_Metal_Parts-Education_Chapter_5_Lesson_11.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Add Insert Hardware to Your Sheet Metal Designs - Education Chapter 5 Lesson 12",
+    "file": "How_to_Add_Insert_Hardware_to_Your_Sheet_Metal_Designs_Education_Chapter_5_Lesson_12.json",
+    "url": "https://www.youtube.com/watch?v=cOpZTXX-QP8",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-12-How_to_Add_Insert_Hardware_to_Your_Sheet_Metal_Designs-Education_Chapter_5_Lesson_12.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Improve Edge Quality with Tumbling and Deburring - Education Chapter 5 Lesson 13",
+    "file": "How_to_Improve_Edge_Quality_with_Tumbling_and_Deburring_Education_Chapter_5_Lesson_13.json",
+    "url": "https://www.youtube.com/watch?v=x4R1TiFnDzI",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-13-How_to_Improve_Edge_Quality_with_Tumbling_and_Deburring-Education_Chapter_5_Lesson_13.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Get Perfect Results with Additive Finishes - Education Chapter 5 Lesson 14",
+    "file": "How_to_Get_Perfect_Results_with_Additive_Finishes_Education_Chapter_5_Lesson_14.json",
+    "url": "https://www.youtube.com/watch?v=T1YgmgnYrdo",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-14-How_to_Get_Perfect_Results_with_Additive_Finishes-Education_Chapter_5_Lesson_14.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "How to Plan Your Design for Anodized Finishes - Education Chapter 5 Lesson 15",
+    "file": "How_to_Plan_Your_Design_for_Anodized_Finishes_Education_Chapter_5_Lesson_15.json",
+    "url": "https://www.youtube.com/watch?v=KpXwM-RxWIo",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-15-How_to_Plan_Your_Design_for_Anodized_Finishes-Education_Chapter_5_Lesson_15.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "The Capstone Project Part 1: Applying Every Skill You've Learned - Education Chapter 5 Lesson 16",
+    "file": "The_Capstone_Project_Part_1_Applying_Every_Skill_Youve_Learned_Education_Chapter_5_Lesson_16.json",
+    "url": "https://www.youtube.com/watch?v=Z0LiNF9LYPY",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-16-The_Capstone_Project_Part_1_Applying_Every_Skill_Youve_Learned-Education_Chapter_5_Lesson_16.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
+    "name": "The Capstone Project Part 2: Applying Every Skill You've Learned - Education Chapter 5 Lesson 17",
+    "file": "The_Capstone_Project_Part_2_Applying_Every_Skill_Youve_Learned_Education_Chapter_5_Lesson_17.json",
+    "url": "https://www.youtube.com/watch?v=iwNP1y34DcA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/05-17-The_Capstone_Project_Part_2_Applying_Every_Skill_Youve_Learned-Education_Chapter_5_Lesson_17.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
     "name": "This 3D-Printed RC Car Might Redefine What's Possible",
     "file": "This_3D-Printed_RC_Car_Might_Redefine_Whats_Possible.json",
     "url": "https://www.youtube.com/watch?v=pdKnIPH3JQs",

@@ -1,0 +1,335 @@
+[
+  {
+    "question": "According to the video, what is the recommended approach for organizing sheet metal parts in CAD?",
+    "options": [
+      "Create all parts as bodies under the master file",
+      "Move all sheet metal parts into new components",
+      "Keep all parts in a single component",
+      "Create separate files for each part"
+    ],
+    "answer": "Move all sheet metal parts into new components"
+  },
+  {
+    "question": "True or False: Sheet metal rules can be obtained directly from SendCutSend for both Fusion and SolidWorks.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens if the material thickness in sheet metal rules is incorrect?",
+    "options": [
+      "The part will not render in 3D",
+      "The bend lines and flanges will not be correct",
+      "The part will be too heavy",
+      "The part cannot be exported"
+    ],
+    "answer": "The bend lines and flanges will not be correct"
+  },
+  {
+    "question": "According to the video, what are the three options for relief shape in bend conditions?",
+    "options": [
+      "Square, round, and triangular",
+      "Round, straight, and tear",
+      "Square, round, and straight",
+      "Round, tear, and square"
+    ],
+    "answer": "Round, straight, and tear"
+  },
+  {
+    "question": "What is the K factor used for in sheet metal design?",
+    "options": [
+      "Determining material cost",
+      "Calculating bend allowance and bend deduction",
+      "Setting the bend angle",
+      "Choosing the punch size"
+    ],
+    "answer": "Calculating bend allowance and bend deduction"
+  },
+  {
+    "question": "True or False: The bend radius is dictated by the punch used in the bending machine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What are the two corner condition shapes available when two bends intersect?",
+    "options": [
+      "Square and triangular",
+      "Round and square",
+      "Round and tear",
+      "Square and straight"
+    ],
+    "answer": "Round and square"
+  },
+  {
+    "question": "According to the video, what is the recommended way to measure flange height?",
+    "options": [
+      "From the inner face",
+      "From the tangent point",
+      "From the outer face",
+      "From the center point"
+    ],
+    "answer": "From the outer face"
+  },
+  {
+    "question": "What happens when you change a flange from \"full edge\" to \"two sides\"?",
+    "options": [
+      "The flange becomes longer",
+      "The flange edge moves within the bend line, setting up a bend relief situation",
+      "The bend angle changes",
+      "The material thickness increases"
+    ],
+    "answer": "The flange edge moves within the bend line, setting up a bend relief situation"
+  },
+  {
+    "question": "True or False: Creating two flanges simultaneously produces the same corner relief as creating them one at a time.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "According to the video, why might someone create flanges one at a time instead of simultaneously?",
+    "options": [
+      "It's faster to do one at a time",
+      "It creates a tighter corner that is easier to weld",
+      "It uses less material",
+      "It produces stronger bends"
+    ],
+    "answer": "It creates a tighter corner that is easier to weld"
+  },
+  {
+    "question": "What file format can be directly uploaded to SendCutSend if the part is properly configured with bend radiuses?",
+    "options": [
+      "DXF file",
+      "STEP file",
+      "PDF file",
+      "DWG file"
+    ],
+    "answer": "STEP file"
+  },
+  {
+    "question": "When creating a flat pattern, what does the software ask you to select?",
+    "options": [
+      "A bend line",
+      "A stationary face",
+      "A corner point",
+      "An edge"
+    ],
+    "answer": "A stationary face"
+  },
+  {
+    "question": "True or False: The flat pattern shows reliefs, bend lines, and bend radius lines.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What are some reasons for bending limitations mentioned in the video?",
+    "options": [
+      "Cost and time constraints only",
+      "Shipping, tonnage, tooling, and operator safety reasons",
+      "Material availability only",
+      "Software limitations only"
+    ],
+    "answer": "Shipping, tonnage, tooling, and operator safety reasons"
+  },
+  {
+    "question": "According to the video, what happens to tonnage requirements as bend length increases?",
+    "options": [
+      "Tonnage decreases",
+      "Tonnage stays the same",
+      "Tonnage increases",
+      "Tonnage is not affected"
+    ],
+    "answer": "Tonnage increases"
+  },
+  {
+    "question": "What is the safe U channel ratio for metal materials?",
+    "options": [
+      "1:1",
+      "2:1",
+      "3:1",
+      "4:1"
+    ],
+    "answer": "2:1"
+  },
+  {
+    "question": "True or False: The U channel ratio for plastics is 3:1 because plastics require severe overbending and springback.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What happens if two bends in a U channel are too close to each other?",
+    "options": [
+      "The material will crack",
+      "The corner will contact the tooling and prevent completing the second bend",
+      "The part will be too weak",
+      "The bends will not form properly"
+    ],
+    "answer": "The corner will contact the tooling and prevent completing the second bend"
+  },
+  {
+    "question": "According to the video, why do bends need parallel lines?",
+    "options": [
+      "For aesthetic purposes",
+      "For the backstop to ensure proper alignment and centering under the punch",
+      "To reduce material waste",
+      "To make the part stronger"
+    ],
+    "answer": "For the backstop to ensure proper alignment and centering under the punch"
+  },
+  {
+    "question": "What is a Component in the context of sheet metal design?",
+    "options": [
+      "A measurement tool",
+      "An independent part in CAD that can have its own sheet metal rules",
+      "A type of bend",
+      "A material property"
+    ],
+    "answer": "An independent part in CAD that can have its own sheet metal rules"
+  },
+  {
+    "question": "True or False: A Body is created under the master file and shares sheet metal rules with the master file.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is a Flange?",
+    "options": [
+      "A type of material",
+      "A bent section of sheet metal that extends from a base or another flange",
+      "A measurement unit",
+      "A software tool"
+    ],
+    "answer": "A bent section of sheet metal that extends from a base or another flange"
+  },
+  {
+    "question": "According to the video, what does the K Factor determine?",
+    "options": [
+      "Material cost",
+      "Bend allowance and bend deduction based on material properties",
+      "Punch selection",
+      "Material thickness"
+    ],
+    "answer": "Bend allowance and bend deduction based on material properties"
+  },
+  {
+    "question": "What is the Bend Radius?",
+    "options": [
+      "The angle of the bend",
+      "The radius of the bend, dictated by the punch used",
+      "The length of the flange",
+      "The material thickness"
+    ],
+    "answer": "The radius of the bend, dictated by the punch used"
+  },
+  {
+    "question": "True or False: Relief Shape refers to the shape of the relief cut used when a bend intersects with a cut, and can be round, straight, or tear.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is Bend Relief?",
+    "options": [
+      "A type of material",
+      "A cut or slot made when a bend line intersects with another feature",
+      "A measurement tool",
+      "A software setting"
+    ],
+    "answer": "A cut or slot made when a bend line intersects with another feature"
+  },
+  {
+    "question": "According to the video, what is Corner Relief?",
+    "options": [
+      "A type of material finish",
+      "A relief feature created when two bends intersect at a corner",
+      "A measurement technique",
+      "A software bug"
+    ],
+    "answer": "A relief feature created when two bends intersect at a corner"
+  },
+  {
+    "question": "What is a Flat Pattern?",
+    "options": [
+      "A 3D model of the part",
+      "The unfolded 2D representation of a 3D sheet metal part",
+      "A type of material",
+      "A measurement tool"
+    ],
+    "answer": "The unfolded 2D representation of a 3D sheet metal part"
+  },
+  {
+    "question": "True or False: A U Channel is a sheet metal part with two parallel bends creating a U-shaped cross-section.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the U Channel Ratio for plastics?",
+    "options": [
+      "1:1",
+      "2:1",
+      "3:1",
+      "4:1"
+    ],
+    "answer": "3:1"
+  },
+  {
+    "question": "According to the video, what are Parallel Lines to Bends?",
+    "options": [
+      "Decorative features",
+      "Edges or features that must be parallel to a bend line for proper backstop alignment",
+      "Measurement lines",
+      "Software guidelines"
+    ],
+    "answer": "Edges or features that must be parallel to a bend line for proper backstop alignment"
+  },
+  {
+    "question": "What is a Backstop?",
+    "options": [
+      "A type of material",
+      "A machine component that positions material for proper bend orientation",
+      "A software tool",
+      "A measurement unit"
+    ],
+    "answer": "A machine component that positions material for proper bend orientation"
+  },
+  {
+    "question": "True or False: Bend Position refers to the location of the bend relative to the selected edge and can be inside, outside, or adjacent.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is a Stationary Face?",
+    "options": [
+      "A type of material finish",
+      "The face selected when creating a flat pattern that remains fixed during unfolding",
+      "A measurement technique",
+      "A software setting"
+    ],
+    "answer": "The face selected when creating a flat pattern that remains fixed during unfolding"
+  }
+]
+

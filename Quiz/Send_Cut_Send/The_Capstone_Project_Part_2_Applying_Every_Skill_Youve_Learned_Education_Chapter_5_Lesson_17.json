@@ -1,0 +1,293 @@
+[
+  {
+    "question": "According to the video, what clearance amount was added for the flange interference?",
+    "options": [
+      "0.010 inch",
+      "0.015 inch",
+      "0.020 inch",
+      "0.025 inch"
+    ],
+    "answer": "0.020 inch"
+  },
+  {
+    "question": "What tool is used to create reference geometry from existing components?",
+    "options": [
+      "Project",
+      "Extrude",
+      "Offset",
+      "Mirror"
+    ],
+    "answer": "Project"
+  },
+  {
+    "question": "According to the video, what is the purpose of adding clearance between components?",
+    "options": [
+      "To account for tolerance stackup and allow assembly flexibility",
+      "To make parts lighter",
+      "To reduce material costs",
+      "To improve aesthetics"
+    ],
+    "answer": "To account for tolerance stackup and allow assembly flexibility"
+  },
+  {
+    "question": "What feature allows you to hide all components except the one you're working on?",
+    "options": [
+      "Hide",
+      "Suppress",
+      "Isolate",
+      "Delete"
+    ],
+    "answer": "Isolate"
+  },
+  {
+    "question": "According to the video, what size holes were created for the hardware?",
+    "options": [
+      "0.10 inch",
+      "0.15 inch",
+      "0.12 inch",
+      "0.18 inch"
+    ],
+    "answer": "0.12 inch"
+  },
+  {
+    "question": "What hardware size was used in the project?",
+    "options": [
+      "#4-40",
+      "#8-32",
+      "#6-32",
+      "#10-24"
+    ],
+    "answer": "#6-32"
+  },
+  {
+    "question": "How were the hole centers located on the flanges?",
+    "options": [
+      "By measuring from edges",
+      "By using grid snap",
+      "By drawing center lines from midpoints",
+      "By manual placement"
+    ],
+    "answer": "By drawing center lines from midpoints"
+  },
+  {
+    "question": "What constraint was used to make all tabs the same size?",
+    "options": [
+      "Equal constraint",
+      "Horizontal constraint",
+      "Vertical constraint",
+      "Coincident constraint"
+    ],
+    "answer": "Equal constraint"
+  },
+  {
+    "question": "According to the video, what thickness were the tabs designed to be?",
+    "options": [
+      "0.050 inch",
+      "0.075 inch",
+      "0.063 inch",
+      "0.100 inch"
+    ],
+    "answer": "0.063 inch"
+  },
+  {
+    "question": "What offset amount was used for the tab slots to account for tolerances?",
+    "options": [
+      "0.005 inch",
+      "0.015 inch",
+      "0.010 inch",
+      "0.020 inch"
+    ],
+    "answer": "0.010 inch"
+  },
+  {
+    "question": "According to the video, what is tolerance stackup?",
+    "options": [
+      "The process of stacking parts",
+      "A type of fastener",
+      "The accumulation of manufacturing tolerances across multiple parts",
+      "A CAD feature"
+    ],
+    "answer": "The accumulation of manufacturing tolerances across multiple parts"
+  },
+  {
+    "question": "What feature was used to create symmetric tabs on both sides?",
+    "options": [
+      "Copy",
+      "Pattern",
+      "Mirror",
+      "Array"
+    ],
+    "answer": "Mirror"
+  },
+  {
+    "question": "According to the video, why was an offset plane created for the drawer?",
+    "options": [
+      "To make it easier to see",
+      "To align with other components",
+      "To add 0.010 inch clearance from the bottom",
+      "To reduce material usage"
+    ],
+    "answer": "To add 0.010 inch clearance from the bottom"
+  },
+  {
+    "question": "What spacing was added on each side of the drawer for hardware clearance?",
+    "options": [
+      "0.125 inch",
+      "0.375 inch",
+      "0.25 inch",
+      "0.50 inch"
+    ],
+    "answer": "0.25 inch"
+  },
+  {
+    "question": "According to the video, what was the height of the drawer vertical flanges?",
+    "options": [
+      "1.5 inches",
+      "2.0 inches",
+      "1.75 inches",
+      "2.25 inches"
+    ],
+    "answer": "1.75 inches"
+  },
+  {
+    "question": "What diameter was the finger pull cutout on the drawer?",
+    "options": [
+      "1.0 inch",
+      "1.25 inch",
+      "2.0 inch",
+      "1.5 inch"
+    ],
+    "answer": "1.5 inch"
+  },
+  {
+    "question": "According to the video, what is PEM hardware?",
+    "options": [
+      "A type of screw",
+      "A CAD feature",
+      "Press-fit hardware like nuts that eliminate need for wrenches",
+      "A material type"
+    ],
+    "answer": "Press-fit hardware like nuts that eliminate need for wrenches"
+  },
+  {
+    "question": "What material and thickness was used in the project?",
+    "options": [
+      "5052 aluminum, 0.050 inch",
+      "6061 aluminum, 0.063 inch",
+      "5052 aluminum, 0.075 inch",
+      "5052 aluminum, 0.063 inch"
+    ],
+    "answer": "5052 aluminum, 0.063 inch"
+  },
+  {
+    "question": "According to the video, what happens when you change a dimension at the beginning of the design?",
+    "options": [
+      "Nothing changes",
+      "Only that feature changes",
+      "The file becomes corrupted",
+      "All related components automatically update"
+    ],
+    "answer": "All related components automatically update"
+  },
+  {
+    "question": "What is parametric design?",
+    "options": [
+      "A design approach where dimensions are linked and changes update related features",
+      "A design with many parameters",
+      "A type of CAD software",
+      "A manufacturing process"
+    ],
+    "answer": "A design approach where dimensions are linked and changes update related features"
+  },
+  {
+    "question": "According to the video, why was the slot size increased to 0.020 inch when adding powder coating?",
+    "options": [
+      "To reduce weight",
+      "To improve aesthetics",
+      "To reduce cost",
+      "To account for powder coating buildup that could interfere with assembly"
+    ],
+    "answer": "To account for powder coating buildup that could interfere with assembly"
+  },
+  {
+    "question": "What is a construction line used for?",
+    "options": [
+      "Building construction projects",
+      "Drawing straight lines",
+      "Measuring distances",
+      "Creating reference geometry that helps define features but doesn't create geometry itself"
+    ],
+    "answer": "Creating reference geometry that helps define features but doesn't create geometry itself"
+  },
+  {
+    "question": "According to the video, what is the purpose of using distance to object for extrusion?",
+    "options": [
+      "To make extrusions longer",
+      "To automatically adjust if part thickness changes",
+      "To reduce file size",
+      "To improve rendering speed"
+    ],
+    "answer": "To automatically adjust if part thickness changes"
+  },
+  {
+    "question": "What are secondary services in the SendCutSend context?",
+    "options": [
+      "Additional CAD features",
+      "Backup services",
+      "Customer support",
+      "Manufacturing operations beyond cutting and bending, like hardware or finishing"
+    ],
+    "answer": "Manufacturing operations beyond cutting and bending, like hardware or finishing"
+  },
+  {
+    "question": "According to the video, what does the SendCutSend plugin automatically show in the quote?",
+    "options": [
+      "Only material cost",
+      "Total assembly cost",
+      "Shipping costs",
+      "Cutting and bending costs"
+    ],
+    "answer": "Cutting and bending costs"
+  },
+  {
+    "question": "What is powder coating?",
+    "options": [
+      "A type of paint",
+      "A material type",
+      "A CAD feature",
+      "A finishing process that applies protective and decorative powder coating to parts"
+    ],
+    "answer": "A finishing process that applies protective and decorative powder coating to parts"
+  },
+  {
+    "question": "According to the video, what corner radius was added for extra clearance?",
+    "options": [
+      "1/16 inch",
+      "3/16 inch",
+      "1/4 inch",
+      "1/8 inch"
+    ],
+    "answer": "1/8 inch"
+  },
+  {
+    "question": "What is the total clearance created when using a 0.010 inch offset on each side of a slot?",
+    "options": [
+      "0.010 inch",
+      "0.015 inch",
+      "0.025 inch",
+      "0.020 inch"
+    ],
+    "answer": "0.020 inch"
+  },
+  {
+    "question": "According to the video, what manufacturing tolerance was mentioned for the thin aluminum?",
+    "options": [
+      "Plus or minus 0.003 inch",
+      "Plus or minus 0.010 inch",
+      "Plus or minus 0.015 inch",
+      "Plus or minus 0.005 inch"
+    ],
+    "answer": "Plus or minus 0.005 inch"
+  }
+]
+

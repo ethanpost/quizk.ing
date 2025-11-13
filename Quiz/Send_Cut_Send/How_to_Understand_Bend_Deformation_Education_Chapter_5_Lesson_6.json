@@ -1,0 +1,195 @@
+[
+  {
+    "question": "According to the video, how many points of contact are required for successful bending?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "True or False: The bend radius comes from the die.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens if the minimum flange length is too short?",
+    "options": [
+      "The part will bend perfectly",
+      "The flange falls into the die and the bend is unsuccessful",
+      "The bend will be stronger",
+      "No issues will occur"
+    ],
+    "answer": "The flange falls into the die and the bend is unsuccessful"
+  },
+  {
+    "question": "What are the three individual marks left on a part during bending called?",
+    "options": [
+      "Die lines, die marks, or witness marks",
+      "Bend marks",
+      "Compression marks",
+      "Tension marks"
+    ],
+    "answer": "Die lines, die marks, or witness marks"
+  },
+  {
+    "question": "Why are the marks on the outside of bends elongated?",
+    "options": [
+      "Because the punch is too large",
+      "Because the material is compressed",
+      "Because the material is too thick",
+      "Because the part is dragged across the die during bending"
+    ],
+    "answer": "Because the part is dragged across the die during bending"
+  },
+  {
+    "question": "The deformation area is similar to what concept mentioned in the video?",
+    "options": [
+      "A rubber band",
+      "A spring",
+      "A lever",
+      "A pulley"
+    ],
+    "answer": "A rubber band"
+  },
+  {
+    "question": "How does the deformation area compare to the bend allowance?",
+    "options": [
+      "It is smaller than the bend allowance",
+      "It is equal to the bend allowance",
+      "It is the bend allowance plus additional distance",
+      "It is half the bend allowance"
+    ],
+    "answer": "It is the bend allowance plus additional distance"
+  },
+  {
+    "question": "What happens to a hole that is placed in the deformation area?",
+    "options": [
+      "It remains perfectly round",
+      "It becomes smaller",
+      "It closes completely",
+      "It becomes elongated or oval-shaped"
+    ],
+    "answer": "It becomes elongated or oval-shaped"
+  },
+  {
+    "question": "True or False: Tapped holes done before bending will maintain their circular thread pattern if they are in the deformation area.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens to bolts when threads are distorted in the deformation area?",
+    "options": [
+      "They thread perfectly",
+      "They thread more easily",
+      "They may not thread properly into the distorted threads",
+      "They become stronger"
+    ],
+    "answer": "They may not thread properly into the distorted threads"
+  },
+  {
+    "question": "When does SendCutSend provide warnings about features in the deformation area?",
+    "options": [
+      "During the checkout process when bends are added",
+      "During the design phase",
+      "After production is complete",
+      "Never"
+    ],
+    "answer": "During the checkout process when bends are added"
+  },
+  {
+    "question": "What should you do if you receive a warning about features in the deformation area?",
+    "options": [
+      "Acknowledge that features may be deformed or stretched",
+      "Cancel the order",
+      "Remove all features",
+      "Change the material"
+    ],
+    "answer": "Acknowledge that features may be deformed or stretched"
+  },
+  {
+    "question": "The minimum flange length is measured from where to where?",
+    "options": [
+      "From the center line of the bend to the end of the flange",
+      "From the edge of the die to the end of the flange",
+      "From the punch to the die",
+      "From the beginning of the material to the end"
+    ],
+    "answer": "From the center line of the bend to the end of the flange"
+  },
+  {
+    "question": "What causes the additional distance in the deformation area beyond the bend allowance?",
+    "options": [
+      "Die width",
+      "Material thickness",
+      "Punch size",
+      "Stretching over the die and friction"
+    ],
+    "answer": "Stretching over the die and friction"
+  },
+  {
+    "question": "True or False: The deformation area only affects features directly in the bend line.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Where is the mark located on the center line of the punch?",
+    "options": [
+      "On the center line of the punch",
+      "On the outside of the bend",
+      "On the die only",
+      "Nowhere"
+    ],
+    "answer": "On the center line of the punch"
+  },
+  {
+    "question": "What is the compression area during bending?",
+    "options": [
+      "The area where the punch makes contact",
+      "The area that stretches",
+      "The area on the outside of the bend",
+      "The deformation area"
+    ],
+    "answer": "The area where the punch makes contact"
+  },
+  {
+    "question": "The deformation area determines what two important design considerations?",
+    "options": [
+      "Minimum flange length and safe area for placing features",
+      "Material type and thickness",
+      "Die width and punch size",
+      "Bend angle and radius"
+    ],
+    "answer": "Minimum flange length and safe area for placing features"
+  },
+  {
+    "question": "True or False: Features of any shape or size will be affected if they enter the deformation area.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the next topic mentioned in the video?",
+    "options": [
+      "Bend reliefs and CAD design",
+      "Material selection",
+      "Die selection",
+      "Punch design"
+    ],
+    "answer": "Bend reliefs and CAD design"
+  }
+]
+

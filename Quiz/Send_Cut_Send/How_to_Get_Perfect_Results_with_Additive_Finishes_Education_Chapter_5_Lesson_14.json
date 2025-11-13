@@ -1,0 +1,259 @@
+[
+  {
+    "question": "According to the video, what is additive finishing?",
+    "options": [
+      "Adding material to parts to cover or coat them for protection",
+      "Removing material from parts to improve appearance",
+      "A process that only improves cosmetic appearance",
+      "A subtractive manufacturing process"
+    ],
+    "answer": "Adding material to parts to cover or coat them for protection"
+  },
+  {
+    "question": "What happens to the ID (Inside Diameter) when additive finishing is applied?",
+    "options": [
+      "It increases in size",
+      "It becomes smaller",
+      "It remains the same size",
+      "It depends on the coating type"
+    ],
+    "answer": "It becomes smaller"
+  },
+  {
+    "question": "What happens to the OD (Outside Diameter) when additive finishing is applied?",
+    "options": [
+      "It decreases in size",
+      "It remains the same size",
+      "It becomes larger",
+      "It depends on the material thickness"
+    ],
+    "answer": "It becomes larger"
+  },
+  {
+    "question": "What is the typical thickness range for powder coating?",
+    "options": [
+      "1-3 thousandths of an inch",
+      "4-10 thousandths of an inch",
+      "10-20 thousandths of an inch",
+      "20-30 thousandths of an inch"
+    ],
+    "answer": "4-10 thousandths of an inch"
+  },
+  {
+    "question": "Which type of powder coating is typically applied much heavier?",
+    "options": [
+      "Gloss powder coat",
+      "Matte powder coat",
+      "Wrinkle powder coat",
+      "Satin powder coat"
+    ],
+    "answer": "Wrinkle powder coat"
+  },
+  {
+    "question": "When designing for powder coating, how many times must you account for the coating thickness in a tab and slot assembly?",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "Four times"
+    ],
+    "answer": "Four times"
+  },
+  {
+    "question": "Why must coating thickness be doubled for the width of a part?",
+    "options": [
+      "Because coating is applied twice",
+      "Because coating is on each side of the part",
+      "Because coating requires two passes",
+      "Because coating must be cured twice"
+    ],
+    "answer": "Because coating is on each side of the part"
+  },
+  {
+    "question": "What is required for the hanging process during powder coating?",
+    "options": [
+      "A special rack system",
+      "A hole in the part for a hook",
+      "A flat surface",
+      "Special hardware"
+    ],
+    "answer": "A hole in the part for a hook"
+  },
+  {
+    "question": "True or False: A hole that is 2 feet from the edge of a part can be used for hanging during powder coating.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What happens to holes that have hardware installed when it comes to the hanging process?",
+    "options": [
+      "They can still be used for hanging",
+      "They become more accessible for hanging",
+      "They are no longer accessible for hanging",
+      "They require special hooks"
+    ],
+    "answer": "They are no longer accessible for hanging"
+  },
+  {
+    "question": "When is hardware installed relative to the powder coating process?",
+    "options": [
+      "After powder coating",
+      "During powder coating",
+      "Before powder coating",
+      "Hardware is not compatible with powder coating"
+    ],
+    "answer": "Before powder coating"
+  },
+  {
+    "question": "What is the purpose of thread protection during powder coating?",
+    "options": [
+      "To make threads stronger",
+      "To improve thread appearance",
+      "To prevent powder coating from entering threaded holes",
+      "To speed up the coating process"
+    ],
+    "answer": "To prevent powder coating from entering threaded holes"
+  },
+  {
+    "question": "According to the video, what happens if you try to bend a part after powder coating?",
+    "options": [
+      "The part will become stronger",
+      "The coating will crack",
+      "The coating will become smoother",
+      "Nothing will happen"
+    ],
+    "answer": "The coating will crack"
+  },
+  {
+    "question": "Can you tap a hole after powder coating?",
+    "options": [
+      "Yes, without any issues",
+      "No, it is impossible",
+      "It can be done but removes the powder coating in that area",
+      "Only with special tools"
+    ],
+    "answer": "It can be done but removes the powder coating in that area"
+  },
+  {
+    "question": "What secondary operation can be performed on powder coated parts without removing all the coating?",
+    "options": [
+      "Welding",
+      "Bending",
+      "Laser engraving",
+      "Tapping"
+    ],
+    "answer": "Laser engraving"
+  },
+  {
+    "question": "What can laser engraving do to powder coated parts?",
+    "options": [
+      "Only remove the coating completely",
+      "Only change the color",
+      "Engrave and remove coating or etch to change color while maintaining protection",
+      "Only add more coating"
+    ],
+    "answer": "Engrave and remove coating or etch to change color while maintaining protection"
+  },
+  {
+    "question": "According to the video, additive finishing is considered what step in the manufacturing process?",
+    "options": [
+      "The first step",
+      "A middle step",
+      "The last and final step",
+      "An optional step"
+    ],
+    "answer": "The last and final step"
+  },
+  {
+    "question": "What must you account for if you have a part that requires a slip fit into a hole?",
+    "options": [
+      "Only the material thickness",
+      "Only the laser cutting tolerance",
+      "The powder coating thickness",
+      "Only the hole diameter"
+    ],
+    "answer": "The powder coating thickness"
+  },
+  {
+    "question": "True or False: The principles discussed for powder coating apply only to professional manufacturing processes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the most important thing to understand when designing parts for additive finishes?",
+    "options": [
+      "The color options available",
+      "The cost of the finish",
+      "How thick the coating will be while designing",
+      "The curing time required"
+    ],
+    "answer": "How thick the coating will be while designing"
+  },
+  {
+    "question": "What does ID stand for in the context of this video?",
+    "options": [
+      "Industrial Design",
+      "Inside Diameter",
+      "Initial Dimension",
+      "Internal Depth"
+    ],
+    "answer": "Inside Diameter"
+  },
+  {
+    "question": "What does OD stand for in the context of this video?",
+    "options": [
+      "Original Design",
+      "Outside Diameter",
+      "Overall Dimension",
+      "Outer Depth"
+    ],
+    "answer": "Outside Diameter"
+  },
+  {
+    "question": "What is tolerance stack up?",
+    "options": [
+      "The accumulation of dimensional variations from different manufacturing operations",
+      "The stacking of parts during manufacturing",
+      "The thickness of stacked materials",
+      "The order of manufacturing operations"
+    ],
+    "answer": "The accumulation of dimensional variations from different manufacturing operations"
+  },
+  {
+    "question": "What is thread protection in the context of powder coating?",
+    "options": [
+      "A coating that makes threads stronger",
+      "A special type of thread design",
+      "Plugs or devices inserted into threaded holes to prevent powder coating from entering",
+      "A process that improves thread appearance"
+    ],
+    "answer": "Plugs or devices inserted into threaded holes to prevent powder coating from entering"
+  },
+  {
+    "question": "What is a tab and slot assembly?",
+    "options": [
+      "A method where parts are welded together",
+      "A method where a tab on one part fits into a slot on another part",
+      "A type of hardware connection",
+      "A finishing technique"
+    ],
+    "answer": "A method where a tab on one part fits into a slot on another part"
+  },
+  {
+    "question": "What is the hanging process?",
+    "options": [
+      "A method of displaying finished parts",
+      "The method of suspending parts on hooks during powder coating application",
+      "A quality control process",
+      "A packaging method"
+    ],
+    "answer": "The method of suspending parts on hooks during powder coating application"
+  }
+]
+

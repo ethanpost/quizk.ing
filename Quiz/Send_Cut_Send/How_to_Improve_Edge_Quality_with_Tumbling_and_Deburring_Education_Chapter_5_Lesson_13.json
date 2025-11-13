@@ -1,0 +1,289 @@
+[
+  {
+    "question": "According to the video, what are the two main ways to improve the feel of laser cut parts?",
+    "options": [
+      "Tumbling and linear deburring",
+      "Sanding and polishing",
+      "Grinding and buffing",
+      "Anodizing and powder coating"
+    ],
+    "answer": "Tumbling and linear deburring"
+  },
+  {
+    "question": "What is tumbling?",
+    "options": [
+      "A process using media in a large drum that creates an erosion effect",
+      "A process that uses a belt sander to remove burrs",
+      "A chemical process that dissolves burrs",
+      "A heat treatment that softens edges"
+    ],
+    "answer": "A process using media in a large drum that creates an erosion effect"
+  },
+  {
+    "question": "According to the video, tumbling works similarly to what natural process?",
+    "options": [
+      "Water smoothing river rocks",
+      "Wind erosion on mountains",
+      "Sand dunes shifting",
+      "Ice forming on rocks"
+    ],
+    "answer": "Water smoothing river rocks"
+  },
+  {
+    "question": "What types of media can be used in tumbling?",
+    "options": [
+      "Only ceramic",
+      "Only plastic",
+      "Ceramic, plastic, or a handful of others",
+      "Only metal"
+    ],
+    "answer": "Ceramic, plastic, or a handful of others"
+  },
+  {
+    "question": "How long can tumbling take?",
+    "options": [
+      "15 minutes to several hours",
+      "5 to 30 minutes",
+      "1 to 2 hours only",
+      "Several hours to days"
+    ],
+    "answer": "15 minutes to several hours"
+  },
+  {
+    "question": "According to the video, which material is more difficult to break burrs off during tumbling?",
+    "options": [
+      "AR steel",
+      "Aluminum",
+      "Copper",
+      "Brass"
+    ],
+    "answer": "AR steel"
+  },
+  {
+    "question": "What effect does tumbling have on edges?",
+    "options": [
+      "Creates sharp, coarser edges",
+      "Creates perfectly smooth, polished edges",
+      "Creates rough, textured edges",
+      "Creates slightly rolled edges on outer and internal surfaces"
+    ],
+    "answer": "Creates slightly rolled edges on outer and internal surfaces"
+  },
+  {
+    "question": "What determines the smallest hole size that can be deburred through tumbling?",
+    "options": [
+      "The thickness of the material",
+      "The speed of the drum",
+      "The type of material",
+      "The size of the media"
+    ],
+    "answer": "The size of the media"
+  },
+  {
+    "question": "According to the video, what type of finish does tumbling provide?",
+    "options": [
+      "Perfect show-ready finish",
+      "Mirror-like polished finish",
+      "Rough, unfinished appearance",
+      "Good cosmetic finish that looks stone ground"
+    ],
+    "answer": "Good cosmetic finish that looks stone ground"
+  },
+  {
+    "question": "True or False: Tumbling will remove deep scratches from parts.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "According to the video, linear deburring is the same as linear graining.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is linear deburring?",
+    "options": [
+      "A chemical process to remove burrs",
+      "A heat treatment process",
+      "Essentially running parts through a belt sander",
+      "A tumbling process with linear media"
+    ],
+    "answer": "Essentially running parts through a belt sander"
+  },
+  {
+    "question": "What is the difference between linear graining and linear deburring?",
+    "options": [
+      "Graining is a true finished product; deburring only removes slag",
+      "They are the same process",
+      "Deburring is a true finished product; graining only removes slag",
+      "Graining uses wet setup; deburring uses dry setup"
+    ],
+    "answer": "Graining is a true finished product; deburring only removes slag"
+  },
+  {
+    "question": "According to the video, which material typically uses a dry setup for linear deburring?",
+    "options": [
+      "Aluminum",
+      "Copper",
+      "Brass",
+      "Steel"
+    ],
+    "answer": "Steel"
+  },
+  {
+    "question": "Why is a dry setup typically used for steel in linear deburring?",
+    "options": [
+      "To create a smoother finish",
+      "To speed up the process",
+      "To reduce costs",
+      "To avoid corrosive, rusting effects"
+    ],
+    "answer": "To avoid corrosive, rusting effects"
+  },
+  {
+    "question": "What happens to parts that are too short for linear deburring?",
+    "options": [
+      "They are processed normally",
+      "They are processed at a slower speed",
+      "They require special handling",
+      "They get eaten up by the belt and damage the machine"
+    ],
+    "answer": "They get eaten up by the belt and damage the machine"
+  },
+  {
+    "question": "According to the video, what determines the minimum length requirement for linear deburring?",
+    "options": [
+      "The part must stay in contact with rollers the entire time",
+      "The width of the belt",
+      "The thickness of the material",
+      "The type of material"
+    ],
+    "answer": "The part must stay in contact with rollers the entire time"
+  },
+  {
+    "question": "What determines the maximum width of a part for linear deburring?",
+    "options": [
+      "The length of the part",
+      "The thickness of the material",
+      "The type of material",
+      "The width of the belt"
+    ],
+    "answer": "The width of the belt"
+  },
+  {
+    "question": "According to the video, does linear deburring roll the edges of parts?",
+    "options": [
+      "Yes, it creates rolled edges",
+      "Yes, but only on outer surfaces",
+      "No, it creates perfectly smooth edges",
+      "No, it creates sharper, coarser edges"
+    ],
+    "answer": "No, it creates sharper, coarser edges"
+  },
+  {
+    "question": "What is a burr?",
+    "options": [
+      "A smooth edge created by laser cutting",
+      "A decorative feature added to parts",
+      "A type of media used in tumbling",
+      "Rough material created on the back side of laser cuts from undercut or softer material resolidifying"
+    ],
+    "answer": "Rough material created on the back side of laser cuts from undercut or softer material resolidifying"
+  },
+  {
+    "question": "What is media in the context of tumbling?",
+    "options": [
+      "Materials with different grits or cutting edges used to smooth parts through erosion",
+      "The drum that holds the parts",
+      "The parts being processed",
+      "The liquid used in wet tumbling"
+    ],
+    "answer": "Materials with different grits or cutting edges used to smooth parts through erosion"
+  },
+  {
+    "question": "What is grit in tumbling media?",
+    "options": [
+      "The size of the media pieces",
+      "The speed of the tumbling process",
+      "The type of material being tumbled",
+      "The coarseness or fineness of the cutting edges on tumbling media"
+    ],
+    "answer": "The coarseness or fineness of the cutting edges on tumbling media"
+  },
+  {
+    "question": "What is linear graining?",
+    "options": [
+      "A true finished product that creates a consistent uniform finish",
+      "A process that only removes slag",
+      "The same as linear deburring",
+      "A type of tumbling process"
+    ],
+    "answer": "A true finished product that creates a consistent uniform finish"
+  },
+  {
+    "question": "What is a belt sander in the context of linear deburring?",
+    "options": [
+      "A hand tool used for finishing",
+      "A type of tumbling media",
+      "A chemical treatment process",
+      "The machine used in linear deburring that grinds away the top surface of parts"
+    ],
+    "answer": "The machine used in linear deburring that grinds away the top surface of parts"
+  },
+  {
+    "question": "What is slag?",
+    "options": [
+      "A type of tumbling media",
+      "A smooth finish created by tumbling",
+      "A type of edge treatment",
+      "The outer crust or material left behind from the laser cutting process"
+    ],
+    "answer": "The outer crust or material left behind from the laser cutting process"
+  },
+  {
+    "question": "What is undercut?",
+    "options": [
+      "A smooth cutting process",
+      "A type of finishing process",
+      "A material property",
+      "A condition in laser cutting where material is cut in a way that creates burrs on the back side"
+    ],
+    "answer": "A condition in laser cutting where material is cut in a way that creates burrs on the back side"
+  },
+  {
+    "question": "According to the video, what secondary processes are parts ready for after tumbling?",
+    "options": [
+      "Only painting",
+      "Only anodizing",
+      "Anodizing, powder coating, and similar processes",
+      "No secondary processes"
+    ],
+    "answer": "Anodizing, powder coating, and similar processes"
+  },
+  {
+    "question": "What happens when you select tumbling or linear deburring as options?",
+    "options": [
+      "It increases lead time and adds cost",
+      "It decreases lead time and cost",
+      "It has no effect on lead time or cost",
+      "It only affects cost, not lead time"
+    ],
+    "answer": "It increases lead time and adds cost"
+  },
+  {
+    "question": "According to the video, are tumbling and linear deburring considered finishing processes?",
+    "options": [
+      "No, they are deburring processes, not finishing processes",
+      "Yes, they are finishing processes",
+      "Tumbling is finishing, but linear deburring is not",
+      "Linear deburring is finishing, but tumbling is not"
+    ],
+    "answer": "No, they are deburring processes, not finishing processes"
+  }
+]
+

@@ -1,0 +1,203 @@
+[
+  {
+    "question": "According to the video, what is tolerancing?",
+    "options": [
+      "An accounting of the manufacturing process accounting for multiple key factors",
+      "The exact measurement of a part dimension",
+      "The cost of manufacturing a part",
+      "The speed at which parts can be manufactured"
+    ],
+    "answer": "An accounting of the manufacturing process accounting for multiple key factors"
+  },
+  {
+    "question": "What factors can affect tolerancing according to the video?",
+    "options": [
+      "Only machine movement",
+      "Machine movement, room temperature, and workholding",
+      "Only room temperature",
+      "Only workholding"
+    ],
+    "answer": "Machine movement, room temperature, and workholding"
+  },
+  {
+    "question": "According to the video, what does a ±0.005 inch tolerance represent?",
+    "options": [
+      "One millimeter of movement",
+      "One centimeter of movement",
+      "One to two human hairs of movement",
+      "One inch of movement"
+    ],
+    "answer": "One to two human hairs of movement"
+  },
+  {
+    "question": "If a part has a 2-inch dimension with ±0.005 tolerance, what is the acceptable range?",
+    "options": [
+      "1.995 to 2.005 inches",
+      "1.990 to 2.010 inches",
+      "2.000 to 2.010 inches",
+      "1.995 to 2.000 inches"
+    ],
+    "answer": "1.995 to 2.005 inches"
+  },
+  {
+    "question": "According to the video, what happens to cost when tolerances are tightened?",
+    "options": [
+      "Cost increases",
+      "Cost decreases",
+      "Cost stays the same",
+      "Cost is not affected"
+    ],
+    "answer": "Cost increases"
+  },
+  {
+    "question": "What is tolerance stacking?",
+    "options": [
+      "The process of manufacturing multiple parts at once",
+      "The accumulation of tolerances from multiple sources",
+      "The measurement of a single part dimension",
+      "The cost calculation for manufacturing"
+    ],
+    "answer": "The accumulation of tolerances from multiple sources"
+  },
+  {
+    "question": "According to the video, how does the kerf affect tolerancing?",
+    "options": [
+      "It has no effect on tolerancing",
+      "It only affects the top of the part",
+      "It creates tolerance between the waist and good part, and the taper adds tolerance depending on which side of the part is used",
+      "It only affects the bottom of the part"
+    ],
+    "answer": "It creates tolerance between the waist and good part, and the taper adds tolerance depending on which side of the part is used"
+  },
+  {
+    "question": "In the part-to-part stacking example, if Part A has a dimension of 1.0025 inches and Part B has 0.9975 inches, both within ±0.005 tolerance, what is the assembly tolerance?",
+    "options": [
+      "±0.0025 inches",
+      "±0.005 inches",
+      "±0.0075 inches",
+      "±0.010 inches"
+    ],
+    "answer": "±0.010 inches"
+  },
+  {
+    "question": "According to the video, why is it important to account for assembly tolerance when designing through holes?",
+    "options": [
+      "To ensure bolts can align properly when parts are at opposite extremes of their individual tolerances",
+      "To make the holes larger",
+      "To reduce manufacturing cost",
+      "To make the holes smaller"
+    ],
+    "answer": "To ensure bolts can align properly when parts are at opposite extremes of their individual tolerances"
+  },
+  {
+    "question": "What happens to tolerance when multiple operations are performed on a part?",
+    "options": [
+      "Tolerance stays the same",
+      "Tolerance accumulates with each operation",
+      "Tolerance decreases",
+      "Tolerance is eliminated"
+    ],
+    "answer": "Tolerance accumulates with each operation"
+  },
+  {
+    "question": "According to the video, what is the correct way to dimension multiple holes?",
+    "options": [
+      "Chain dimensioning from one hole to the next",
+      "Dimensioning from the edge for each hole",
+      "Dimensioning each hole from a common origin point",
+      "Not dimensioning the holes at all"
+    ],
+    "answer": "Dimensioning each hole from a common origin point"
+  },
+  {
+    "question": "What problem occurs with chain dimensioning according to the video?",
+    "options": [
+      "It makes parts cheaper",
+      "It makes parts more accurate",
+      "It has no effect on tolerance",
+      "Each dimension has its own tolerance, and these can stack up so the final hole can be over 0.020 inches off from the intended position"
+    ],
+    "answer": "Each dimension has its own tolerance, and these can stack up so the final hole can be over 0.020 inches off from the intended position"
+  },
+  {
+    "question": "According to the video, what is the overall tolerance that SendCutSend holds for holes in a DXF file?",
+    "options": [
+      "±0.005 inches",
+      "±0.010 inches",
+      "±0.002 inches",
+      "±0.020 inches"
+    ],
+    "answer": "±0.005 inches"
+  },
+  {
+    "question": "What can tabs from workholding affect according to the video?",
+    "options": [
+      "The cost of the part only",
+      "The fitment of parts, interfering with bolt fitment or part seating",
+      "The color of the part",
+      "The material of the part"
+    ],
+    "answer": "The fitment of parts, interfering with bolt fitment or part seating"
+  },
+  {
+    "question": "According to the video, what is kerf?",
+    "options": [
+      "The tolerance of a part",
+      "The cost of manufacturing",
+      "The speed of cutting",
+      "The width of material removed during cutting"
+    ],
+    "answer": "The width of material removed during cutting"
+  },
+  {
+    "question": "What is workholding?",
+    "options": [
+      "The cutting process",
+      "The tolerance of a part",
+      "The material being cut",
+      "The method or device used to secure a part during manufacturing operations"
+    ],
+    "answer": "The method or device used to secure a part during manufacturing operations"
+  },
+  {
+    "question": "According to the video, what is assembly tolerance?",
+    "options": [
+      "The combined tolerance when multiple parts with individual tolerances are assembled together",
+      "The tolerance of the cutting machine",
+      "The tolerance of a single part",
+      "The tolerance of the material"
+    ],
+    "answer": "The combined tolerance when multiple parts with individual tolerances are assembled together"
+  },
+  {
+    "question": "What is chain dimensioning?",
+    "options": [
+      "Dimensioning all features from a common origin",
+      "An incorrect dimensioning method where each feature is dimensioned from the previous feature",
+      "Dimensioning features from the edge",
+      "Not dimensioning features at all"
+    ],
+    "answer": "An incorrect dimensioning method where each feature is dimensioned from the previous feature"
+  },
+  {
+    "question": "According to the video, what is common origin dimensioning?",
+    "options": [
+      "Chain dimensioning from one feature to the next",
+      "Dimensioning from multiple edges",
+      "The correct dimensioning method where all features are dimensioned from a single reference point",
+      "Not using any reference point"
+    ],
+    "answer": "The correct dimensioning method where all features are dimensioned from a single reference point"
+  },
+  {
+    "question": "According to the video, what happens to tolerances as parts get more complex with secondary operations?",
+    "options": [
+      "Tolerances are eliminated",
+      "Tolerances become less important",
+      "Tolerances stay the same regardless of complexity",
+      "Tolerances need to be accounted for more carefully"
+    ],
+    "answer": "Tolerances need to be accounted for more carefully"
+  }
+]
+

@@ -1,0 +1,217 @@
+[
+  {
+    "question": "What is the main focus of this lesson?",
+    "options": [
+      "How to export clean DXF files",
+      "How to create 3D models in CAD",
+      "How to import files into SendCutSend",
+      "How to create sheet metal parts"
+    ],
+    "answer": "How to export clean DXF files"
+  },
+  {
+    "question": "According to the video, what is one way to export a DXF file?",
+    "options": [
+      "Only from a 3D model",
+      "Directly from a sketch without creating a model",
+      "Only using the flat pattern feature",
+      "Only from sheet metal bodies"
+    ],
+    "answer": "Directly from a sketch without creating a model"
+  },
+  {
+    "question": "What is the main setting you need to consider when exporting a DXF file?",
+    "options": [
+      "Color scheme",
+      "File format",
+      "Units",
+      "Layer names"
+    ],
+    "answer": "Units"
+  },
+  {
+    "question": "What happens if construction lines are included in a DXF export?",
+    "options": [
+      "The file loads faster",
+      "The file becomes smaller",
+      "The geometry becomes broken in SendCutSend",
+      "The colors are preserved"
+    ],
+    "answer": "The geometry becomes broken in SendCutSend"
+  },
+  {
+    "question": "What is a \"clean sketch\" as described in the video?",
+    "options": [
+      "A new sketch created specifically for exporting using projection",
+      "A sketch with no lines",
+      "A sketch with only circles",
+      "A sketch that has been deleted"
+    ],
+    "answer": "A new sketch created specifically for exporting using projection"
+  },
+  {
+    "question": "When you create a sketch on a surface in CAD, what happens automatically?",
+    "options": [
+      "The sketch is deleted",
+      "Nothing happens",
+      "The surface is automatically projected onto the sketch",
+      "The surface is hidden"
+    ],
+    "answer": "The surface is automatically projected onto the sketch"
+  },
+  {
+    "question": "What feature is used to create a sheet metal body from a profile?",
+    "options": [
+      "Extrude",
+      "Revolve",
+      "Flange",
+      "Loft"
+    ],
+    "answer": "Flange"
+  },
+  {
+    "question": "The flat pattern feature is available in which area of the CAD software?",
+    "options": [
+      "Solid modeling only",
+      "Surface modeling only",
+      "Sheet metal area only",
+      "Assembly area only"
+    ],
+    "answer": "Sheet metal area only"
+  },
+  {
+    "question": "What does the flat pattern feature automatically account for when creating a flat pattern?",
+    "options": [
+      "File size",
+      "Material color",
+      "Number of holes",
+      "The stretch that happens in the bend"
+    ],
+    "answer": "The stretch that happens in the bend"
+  },
+  {
+    "question": "What are the lines that appear in a flat pattern showing where bends are located called?",
+    "options": [
+      "Dimension lines",
+      "Construction lines",
+      "Hidden lines",
+      "Center lines"
+    ],
+    "answer": "Center lines"
+  },
+  {
+    "question": "According to the video, why should you avoid nesting multiple parts together?",
+    "options": [
+      "It often costs more money than individual files",
+      "It makes files too large",
+      "It slows down the software",
+      "It causes errors in the CAD program"
+    ],
+    "answer": "It often costs more money than individual files"
+  },
+  {
+    "question": "What happens if you export a DXF from a non-sheet metal body that has bends?",
+    "options": [
+      "The file cannot be exported",
+      "The file will be perfect",
+      "The bends will be removed",
+      "The parts will come out the wrong length because bend allowance is not considered"
+    ],
+    "answer": "The parts will come out the wrong length because bend allowance is not considered"
+  },
+  {
+    "question": "True or False: You must create a 3D model to export a DXF file.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: When exporting a DXF, you should always include construction lines, points, and projected geometry.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "True or False: The stationary face in a flat pattern is the face around which all bends are unfolded.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is a DXF file?",
+    "options": [
+      "A 2D file type used for manufacturing",
+      "A 3D model file format",
+      "A video file format",
+      "A text document format"
+    ],
+    "answer": "A 2D file type used for manufacturing"
+  },
+  {
+    "question": "What are construction lines?",
+    "options": [
+      "Helper lines used in CAD sketches that are not part of the final geometry",
+      "Lines that must be cut in manufacturing",
+      "Lines that show dimensions",
+      "Lines that indicate material thickness"
+    ],
+    "answer": "Helper lines used in CAD sketches that are not part of the final geometry"
+  },
+  {
+    "question": "What is projection in CAD?",
+    "options": [
+      "The process of deleting geometry",
+      "The process of creating a 3D model from a 2D sketch",
+      "The process of changing units",
+      "The process of creating a 2D representation of a 3D surface or feature"
+    ],
+    "answer": "The process of creating a 2D representation of a 3D surface or feature"
+  },
+  {
+    "question": "What is a sheet metal body?",
+    "options": [
+      "A type of material",
+      "A 2D drawing",
+      "A 3D model created using sheet metal features in CAD software",
+      "A measurement tool"
+    ],
+    "answer": "A 3D model created using sheet metal features in CAD software"
+  },
+  {
+    "question": "What is a flat pattern?",
+    "options": [
+      "A type of sketch",
+      "A 3D model of a part",
+      "A file format",
+      "A 2D representation of a 3D sheet metal part that has been unfolded, showing all surfaces and bend lines"
+    ],
+    "answer": "A 2D representation of a 3D sheet metal part that has been unfolded, showing all surfaces and bend lines"
+  },
+  {
+    "question": "What is bend allowance?",
+    "options": [
+      "The number of bends in a part",
+      "The amount of time needed to bend a part",
+      "The angle of a bend",
+      "The amount of material needed to account for stretching that occurs during bending"
+    ],
+    "answer": "The amount of material needed to account for stretching that occurs during bending"
+  },
+  {
+    "question": "What is nesting?",
+    "options": [
+      "The process of creating sketches",
+      "The process of creating multiple parts",
+      "The process of exporting files",
+      "The process of arranging multiple parts on a single sheet of material to minimize waste"
+    ],
+    "answer": "The process of arranging multiple parts on a single sheet of material to minimize waste"
+  }
+]
+
