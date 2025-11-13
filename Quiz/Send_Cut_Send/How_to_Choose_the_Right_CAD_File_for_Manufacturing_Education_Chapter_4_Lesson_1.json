@@ -1,0 +1,213 @@
+[
+  {
+    "question": "According to the video, what is the neutral format for 2D CAD files?",
+    "options": [
+      "AI",
+      "DWG",
+      "SVG",
+      "DXF"
+    ],
+    "answer": "DXF"
+  },
+  {
+    "question": "What does DXF stand for?",
+    "options": [
+      "Data Exchange Format",
+      "Drawing Exchange Format",
+      "Digital Exchange Format",
+      "Design Exchange Format"
+    ],
+    "answer": "Drawing Exchange Format"
+  },
+  {
+    "question": "Which of the following is a native file type for Adobe Illustrator?",
+    "options": [
+      "DXF",
+      "SVG",
+      "DWG",
+      "AI"
+    ],
+    "answer": "AI"
+  },
+  {
+    "question": "What is a native file type?",
+    "options": [
+      "A file format used only for 3D printing",
+      "A file that was made specifically by a software and used by that software",
+      "A file format that preserves all design history",
+      "A file format that can be used across all software platforms"
+    ],
+    "answer": "A file that was made specifically by a software and used by that software"
+  },
+  {
+    "question": "According to the video, when thinking about 2D files, what should you think about?",
+    "options": [
+      "2D machine and AI",
+      "2D machine and SVG",
+      "2D machine and DXF",
+      "2D machine and DWG"
+    ],
+    "answer": "2D machine and DXF"
+  },
+  {
+    "question": "What are the two different types of 3D files mentioned in the video?",
+    "options": [
+      "Mesh and wireframe",
+      "Solid and mesh",
+      "Surface and wireframe",
+      "Solid and surface"
+    ],
+    "answer": "Solid and mesh"
+  },
+  {
+    "question": "According to the video, what is a 3D solid file like?",
+    "options": [
+      "A surface model",
+      "A solid object like a person's head",
+      "A wireframe model",
+      "A hollow papier-mâché mask"
+    ],
+    "answer": "A solid object like a person's head"
+  },
+  {
+    "question": "What is a 3D mesh file like according to the video's analogy?",
+    "options": [
+      "A solid object like a person's head",
+      "A hollow papier-mâché mask",
+      "A wireframe model",
+      "A surface model"
+    ],
+    "answer": "A hollow papier-mâché mask"
+  },
+  {
+    "question": "What are 3D solid files great for understanding?",
+    "options": [
+      "Surface textures",
+      "Animation sequences",
+      "Colors and materials",
+      "Properties like density"
+    ],
+    "answer": "Properties like density"
+  },
+  {
+    "question": "What is the neutral format for 3D solid files?",
+    "options": [
+      "OBJ",
+      "STL",
+      "3MF",
+      "STEP"
+    ],
+    "answer": "STEP"
+  },
+  {
+    "question": "What does STEP stand for?",
+    "options": [
+      "Standard Exchange Product Model",
+      "Standard Exchange Program Model",
+      "Standard Exchange Protocol Model",
+      "Standard Exchange Process Model"
+    ],
+    "answer": "Standard Exchange Product Model"
+  },
+  {
+    "question": "According to the video, when thinking about solid files for CNC milling, what should you think about?",
+    "options": [
+      "OBJ files",
+      "3MF files",
+      "STL files",
+      "STEP files"
+    ],
+    "answer": "STEP files"
+  },
+  {
+    "question": "What are the three main mesh file formats mentioned in the video?",
+    "options": [
+      "STL, OBJ, and 3MF",
+      "STL, OBJ, and STEP",
+      "STEP, OBJ, and 3MF",
+      "STL, STEP, and 3MF"
+    ],
+    "answer": "STL, OBJ, and 3MF"
+  },
+  {
+    "question": "What are mesh files primarily used for?",
+    "options": [
+      "Water jetting",
+      "Laser cutting",
+      "Additive manufacturing like 3D printing",
+      "CNC milling"
+    ],
+    "answer": "Additive manufacturing like 3D printing"
+  },
+  {
+    "question": "Why do mesh files only need to know the outer shape?",
+    "options": [
+      "Because they preserve design history",
+      "Because additive manufacturing processes will change the internal structure",
+      "Because they are used for 2D cutting",
+      "Because they are used for machining operations"
+    ],
+    "answer": "Because additive manufacturing processes will change the internal structure"
+  },
+  {
+    "question": "Which file types should you focus on when bringing your project into SendCutSend?",
+    "options": [
+      "Only 2D files",
+      "2D files and 3D mesh files",
+      "2D files and 3D solid files",
+      "Only 3D solid files"
+    ],
+    "answer": "2D files and 3D solid files"
+  },
+  {
+    "question": "What is one advantage of using native files within the same software?",
+    "options": [
+      "They are smaller in file size",
+      "They preserve all history and timeline",
+      "They work with all software platforms",
+      "They are faster to export"
+    ],
+    "answer": "They preserve all history and timeline"
+  },
+  {
+    "question": "Which of the following is a native file type for Autodesk?",
+    "options": [
+      "SVG",
+      "AI",
+      "DWG",
+      "DXF"
+    ],
+    "answer": "DWG"
+  },
+  {
+    "question": "What are 2D file types appropriate for?",
+    "options": [
+      "Additive manufacturing",
+      "Laser cutting and water jetting",
+      "CNC milling",
+      "3D printing"
+    ],
+    "answer": "Laser cutting and water jetting"
+  },
+  {
+    "question": "According to the video, what are the four main 2D file types?",
+    "options": [
+      "DXF, DWG, SVG, and AI",
+      "DXF, DWG, STL, and AI",
+      "DXF, SVG, OBJ, and AI",
+      "DXF, DWG, SVG, and STEP"
+    ],
+    "answer": "DXF, DWG, SVG, and AI"
+  },
+  {
+    "question": "What is the main focus of Chapter 4 according to the video?",
+    "options": [
+      "Learning different CAD software programs",
+      "Taking CAD projects and bringing them into production areas like SendCutSend",
+      "Creating 3D models from scratch",
+      "Learning about 3D printing techniques"
+    ],
+    "answer": "Taking CAD projects and bringing them into production areas like SendCutSend"
+  }
+]
+

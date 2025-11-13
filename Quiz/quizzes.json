@@ -1006,6 +1006,15 @@
     "subjects": ["Engineering", "CAD"]
   },
   {
+    "name": "How to Choose the Right CAD File for Manufacturing - Education Chapter 4 Lesson 1",
+    "file": "How_to_Choose_the_Right_CAD_File_for_Manufacturing_Education_Chapter_4_Lesson_1.json",
+    "url": "https://www.youtube.com/watch?v=zBQaBDsAzYk",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Send_Cut_Send/04-01-How_to_Choose_the_Right_CAD_File_for_Manufacturing-Education_Chapter_4_Lesson_1.md",
+    "folder": "Send_Cut_Send",
+    "author": "Send Cut Send",
+    "subjects": ["Engineering", "CAD"]
+  },
+  {
     "name": "This 3D-Printed RC Car Might Redefine What's Possible",
     "file": "This_3D-Printed_RC_Car_Might_Redefine_Whats_Possible.json",
     "url": "https://www.youtube.com/watch?v=pdKnIPH3JQs",
