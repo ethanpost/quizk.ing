@@ -1,0 +1,541 @@
+[
+  {
+    "question": "According to the video, what is the primary difference between Reformed and Roman Catholic views of justification?",
+    "options": [
+      "Both view justification as primarily transformative",
+      "Reformed view justification as forensic while Catholics view it as transformative",
+      "Reformed view justification as transformative while Catholics view it as forensic",
+      "Both view justification as primarily forensic"
+    ],
+    "answer": "Reformed view justification as forensic while Catholics view it as transformative"
+  },
+  {
+    "question": "True or False: According to the Reformed view, our works remain imperfect even after being born again.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "How does the Reformed view understand our standing before God?",
+    "options": [
+      "God sees our good works as meritorious",
+      "God sees our inherent justice",
+      "God sees Christ when he looks at us",
+      "God sees our own personal righteousness"
+    ],
+    "answer": "God sees Christ when he looks at us"
+  },
+  {
+    "question": "What is initial justification in Roman Catholic theology?",
+    "options": [
+      "The supernatural sanctifying and renewal of the inner man accomplished by baptism",
+      "Being counted as righteous through faith",
+      "The final judgment where works merit eternal life",
+      "The imputation of Christ's righteousness"
+    ],
+    "answer": "The supernatural sanctifying and renewal of the inner man accomplished by baptism"
+  },
+  {
+    "question": "According to Roman Catholic teaching, when can a believer truly merit eternal life?",
+    "options": [
+      "After baptism, when made righteous by sanctifying grace",
+      "Before baptism",
+      "Only at the final judgment",
+      "Never, as works cannot be meritorious"
+    ],
+    "answer": "After baptism, when made righteous by sanctifying grace"
+  },
+  {
+    "question": "What happened to the Augustinian position at the Council of Trent?",
+    "options": [
+      "It was left undefined",
+      "It was partially accepted with modifications",
+      "It was rejected and anathematized",
+      "It was accepted as the official teaching"
+    ],
+    "answer": "It was rejected and anathematized"
+  },
+  {
+    "question": "What was left undefined at the Council of Trent, creating a major ambiguity?",
+    "options": [
+      "The exact meaning of true merit",
+      "The role of baptism",
+      "The role of faith",
+      "The nature of justification"
+    ],
+    "answer": "The exact meaning of true merit"
+  },
+  {
+    "question": "What does the Latin term for justification literally mean?",
+    "options": [
+      "To declare righteous",
+      "To make just",
+      "To count as righteous",
+      "To impute righteousness"
+    ],
+    "answer": "To make just"
+  },
+  {
+    "question": "According to the video, what did Trent reject regarding concupiscence?",
+    "options": [
+      "That it affects our deeds",
+      "That it was inherently sinful",
+      "That it can be overcome",
+      "That it exists"
+    ],
+    "answer": "That it was inherently sinful"
+  },
+  {
+    "question": "What sacrament initiates the state of grace in Roman Catholic theology?",
+    "options": [
+      "Baptism",
+      "Eucharist",
+      "Reconciliation",
+      "Confirmation"
+    ],
+    "answer": "Baptism"
+  },
+  {
+    "question": "What sacrament restores the state of grace after mortal sin in Roman Catholic theology?",
+    "options": [
+      "Eucharist",
+      "Baptism",
+      "Confirmation",
+      "Reconciliation"
+    ],
+    "answer": "Reconciliation"
+  },
+  {
+    "question": "According to the Reformed view, what is the language of justification primarily?",
+    "options": [
+      "A mystical metaphor",
+      "A moral transformation metaphor",
+      "A legal or forensic metaphor",
+      "A sacramental metaphor"
+    ],
+    "answer": "A legal or forensic metaphor"
+  },
+  {
+    "question": "What does the Westminster Confession say justification is primarily?",
+    "options": [
+      "Pardon of sin and being accounted as righteous",
+      "Growth in holiness",
+      "Moral transformation",
+      "Infusion of grace"
+    ],
+    "answer": "Pardon of sin and being accounted as righteous"
+  },
+  {
+    "question": "According to the Westminster Confession, what is the role of faith in justification?",
+    "options": [
+      "The alone instrument of justification",
+      "One of several instruments",
+      "Not necessary for justification",
+      "Only necessary after works"
+    ],
+    "answer": "The alone instrument of justification"
+  },
+  {
+    "question": "What are the three parts of saving faith according to Reformed theologians?",
+    "options": [
+      "Notia, assensus, and fiducia",
+      "Knowledge, belief, and works",
+      "Faith, hope, and love",
+      "Baptism, Eucharist, and reconciliation"
+    ],
+    "answer": "Notia, assensus, and fiducia"
+  },
+  {
+    "question": "What does \"notia\" refer to in Reformed understanding of faith?",
+    "options": [
+      "Loving trust",
+      "Content of revelation, promises of God in Christ",
+      "Good works",
+      "Assent to truth"
+    ],
+    "answer": "Content of revelation, promises of God in Christ"
+  },
+  {
+    "question": "What does \"fiducia\" refer to in Reformed understanding of faith?",
+    "options": [
+      "Loving trust that apprehends the promises of God",
+      "Assent to truth",
+      "Intellectual belief",
+      "Knowledge of revelation"
+    ],
+    "answer": "Loving trust that apprehends the promises of God"
+  },
+  {
+    "question": "According to the video, what kind of faith do demons have?",
+    "options": [
+      "Living, trusting faith",
+      "Faith formed by love",
+      "Mere belief without loving trust",
+      "Saving faith"
+    ],
+    "answer": "Mere belief without loving trust"
+  },
+  {
+    "question": "According to Domingo Soto, what is the substance of faith?",
+    "options": [
+      "Loving trust",
+      "Persuasion and assent of the intellect",
+      "Good works",
+      "Hope and love"
+    ],
+    "answer": "Persuasion and assent of the intellect"
+  },
+  {
+    "question": "What does \"fides caritate formata\" mean?",
+    "options": [
+      "Dead faith",
+      "Living faith",
+      "Faith alone",
+      "Faith formed by love"
+    ],
+    "answer": "Faith formed by love"
+  },
+  {
+    "question": "According to Aquinas, how was Abraham initially justified?",
+    "options": [
+      "By formed faith alone",
+      "By works alone",
+      "By dead faith",
+      "By hope alone"
+    ],
+    "answer": "By formed faith alone"
+  },
+  {
+    "question": "What is the core difference between Reformed and Roman Catholic views according to the video?",
+    "options": [
+      "Whether what merits eternal life is extrinsic or intrinsic",
+      "Whether faith alone saves",
+      "Whether baptism is necessary",
+      "Whether works are important"
+    ],
+    "answer": "Whether what merits eternal life is extrinsic or intrinsic"
+  },
+  {
+    "question": "What does the Apostle Paul say about himself in Philippians 3?",
+    "options": [
+      "He merits eternal life",
+      "He is not already perfect",
+      "He has no sin",
+      "He is already perfect"
+    ],
+    "answer": "He is not already perfect"
+  },
+  {
+    "question": "According to Paul, what does he know dwells in his flesh?",
+    "options": [
+      "Perfect righteousness",
+      "Inherent justice",
+      "Nothing good",
+      "Sanctifying grace"
+    ],
+    "answer": "Nothing good"
+  },
+  {
+    "question": "What does the Psalmist say about marking iniquities?",
+    "options": [
+      "If God marks them, who could stand?",
+      "God marks them but forgives them",
+      "God will not mark them",
+      "God only marks mortal sins"
+    ],
+    "answer": "If God marks them, who could stand?"
+  },
+  {
+    "question": "According to James, what happens if someone keeps the whole law but offends in one point?",
+    "options": [
+      "They are still justified",
+      "They are guilty of all",
+      "They only need confession",
+      "They can merit forgiveness"
+    ],
+    "answer": "They are guilty of all"
+  },
+  {
+    "question": "What does Trent say about whether the just man can fulfill the law in all its demands?",
+    "options": [
+      "Yes, it is possible",
+      "No, it is impossible",
+      "Only in heaven",
+      "Only with special grace"
+    ],
+    "answer": "Yes, it is possible"
+  },
+  {
+    "question": "What is the law according to the video?",
+    "options": [
+      "Love God with all heart, soul, mind, and strength and love neighbor as ourselves",
+      "The ceremonial law",
+      "The moral law only",
+      "The Ten Commandments"
+    ],
+    "answer": "Love God with all heart, soul, mind, and strength and love neighbor as ourselves"
+  },
+  {
+    "question": "According to the Augustinians at Trent, on what should a man rely when thinking of God's judgment?",
+    "options": [
+      "The sacraments",
+      "His own contribution and works",
+      "Christ and his justice",
+      "His inherent righteousness"
+    ],
+    "answer": "Christ and his justice"
+  },
+  {
+    "question": "What did the Council of Trent declare about the Augustinian position?",
+    "options": [
+      "It was left undefined",
+      "It was partially accepted",
+      "It was anathematized",
+      "It was accepted"
+    ],
+    "answer": "It was anathematized"
+  },
+  {
+    "question": "According to the video, how does Trent speak of faith and works?",
+    "options": [
+      "In a way that follows scripture closely",
+      "In a way alien to the scriptures",
+      "Exactly as Paul does",
+      "Without reference to scripture"
+    ],
+    "answer": "In a way alien to the scriptures"
+  },
+  {
+    "question": "What does Paul say about having a righteousness of his own in Philippians?",
+    "options": [
+      "He does not have a righteousness of his own that comes from the law",
+      "His righteousness is inherent",
+      "He has a righteousness of his own from the law",
+      "His righteousness comes from his works"
+    ],
+    "answer": "He does not have a righteousness of his own that comes from the law"
+  },
+  {
+    "question": "According to Ephesians, where have believers been seated?",
+    "options": [
+      "In the heavenly places in Christ Jesus",
+      "On earth",
+      "In the church",
+      "In purgatory"
+    ],
+    "answer": "In the heavenly places in Christ Jesus"
+  },
+  {
+    "question": "According to Galatians, how are we justified?",
+    "options": [
+      "Through faith in Jesus Christ",
+      "By works of the law",
+      "By inherent righteousness",
+      "By the sacraments"
+    ],
+    "answer": "Through faith in Jesus Christ"
+  },
+  {
+    "question": "What does Paul say about being justified by works of the law?",
+    "options": [
+      "By works of the law no one will be justified",
+      "Some can be justified this way",
+      "Works of the law are necessary",
+      "Works of the law are sufficient"
+    ],
+    "answer": "By works of the law no one will be justified"
+  },
+  {
+    "question": "According to the video, what does Roman Catholic doctrine fail to appreciate?",
+    "options": [
+      "The full implications of union with Christ",
+      "The importance of works",
+      "The role of the sacraments",
+      "The role of the church"
+    ],
+    "answer": "The full implications of union with Christ"
+  },
+  {
+    "question": "What is the picture painted for believers according to the Reformed view?",
+    "options": [
+      "Merit based on righteousness found in us",
+      "Assurance grounded only in faith in Christ's work",
+      "Confidence in our own righteousness",
+      "A sacramental treadmill"
+    ],
+    "answer": "Assurance grounded only in faith in Christ's work"
+  },
+  {
+    "question": "What is imputation?",
+    "options": [
+      "The act of attributing or crediting something to someone, such as Christ's righteousness to believers",
+      "The transformative process of being made righteous",
+      "The infusion of grace through sacraments",
+      "The eradication of sin"
+    ],
+    "answer": "The act of attributing or crediting something to someone, such as Christ's righteousness to believers"
+  },
+  {
+    "question": "What is condign merit?",
+    "options": [
+      "Merit that comes from works before baptism",
+      "Merit that is imputed",
+      "True merit that is truly deserving of reward",
+      "Merit that is only accepted by God's gracious promise"
+    ],
+    "answer": "True merit that is truly deserving of reward"
+  },
+  {
+    "question": "What is inherent justice?",
+    "options": [
+      "The state of being truly righteous that Christians possess after initial justification in Roman Catholic theology",
+      "The righteousness we have by nature",
+      "The woodworking of grace",
+      "The righteousness of Christ imputed to us"
+    ],
+    "answer": "The state of being truly righteous that Christians possess after initial justification in Roman Catholic theology"
+  },
+  {
+    "question": "What is concupiscence?",
+    "options": [
+      "The remaining evil inclination of our desires after baptism",
+      "Sanctifying grace",
+      "Inherent justice",
+      "Perfect love"
+    ],
+    "answer": "The remaining evil inclination of our desires after baptism"
+  },
+  {
+    "question": "What is sanctifying grace?",
+    "options": [
+      "The forensic declaration of righteousness",
+      "The grace that makes someone inherently righteous and enables meritorious works in Roman Catholic theology",
+      "The imputation of Christ's righteousness",
+      "The grace of regeneration only"
+    ],
+    "answer": "The grace that makes someone inherently righteous and enables meritorious works in Roman Catholic theology"
+  },
+  {
+    "question": "What is the sacramental vision?",
+    "options": [
+      "The understanding that justification is forensic",
+      "The understanding that salvation is by faith alone",
+      "The understanding that sacraments are not necessary",
+      "The understanding that salvation is initiated, maintained, and restored through the sacraments"
+    ],
+    "answer": "The understanding that salvation is initiated, maintained, and restored through the sacraments"
+  },
+  {
+    "question": "What is regeneration?",
+    "options": [
+      "Growth in holiness",
+      "The forensic declaration of righteousness",
+      "The new birth, being made alive in Christ",
+      "The infusion of grace"
+    ],
+    "answer": "The new birth, being made alive in Christ"
+  },
+  {
+    "question": "What is sanctification?",
+    "options": [
+      "Growth in holiness and righteousness throughout the Christian life",
+      "The new birth",
+      "The forensic declaration of righteousness",
+      "The infusion of grace"
+    ],
+    "answer": "Growth in holiness and righteousness throughout the Christian life"
+  },
+  {
+    "question": "What is living faith?",
+    "options": [
+      "Mere intellectual belief",
+      "Faith without works",
+      "Dead faith",
+      "Faith that works through love, as distinguished from dead faith"
+    ],
+    "answer": "Faith that works through love, as distinguished from dead faith"
+  },
+  {
+    "question": "What is dead faith?",
+    "options": [
+      "Faith formed by love",
+      "Faith that works through love",
+      "Mere intellectual belief without love and trust",
+      "Saving faith"
+    ],
+    "answer": "Mere intellectual belief without love and trust"
+  },
+  {
+    "question": "What does \"fides caritate formata\" mean in English?",
+    "options": [
+      "Dead faith",
+      "Living faith",
+      "Faith alone",
+      "Faith formed by love"
+    ],
+    "answer": "Faith formed by love"
+  },
+  {
+    "question": "What is assensus?",
+    "options": [
+      "Good works",
+      "Loving trust",
+      "Assent or agreement to the truth of revelation, the second part of saving faith",
+      "Knowledge of revelation"
+    ],
+    "answer": "Assent or agreement to the truth of revelation, the second part of saving faith"
+  },
+  {
+    "question": "What is the Vulgate?",
+    "options": [
+      "The Hebrew translation of the Bible",
+      "The Latin translation of the Bible that influenced Roman Catholic understanding of justification",
+      "The English translation of the Bible",
+      "The Greek translation of the Bible"
+    ],
+    "answer": "The Latin translation of the Bible that influenced Roman Catholic understanding of justification"
+  },
+  {
+    "question": "What is mystical union?",
+    "options": [
+      "The union of faith and works",
+      "The sacramental union with the church",
+      "The spiritual union of believers with Christ, through which his righteousness is imputed to them",
+      "The union of the three persons of the Trinity"
+    ],
+    "answer": "The spiritual union of believers with Christ, through which his righteousness is imputed to them"
+  },
+  {
+    "question": "What is extrinsic righteousness?",
+    "options": [
+      "Christ's righteousness imputed to us, outside of us",
+      "Inherent justice",
+      "Righteousness that is within us",
+      "Our own personal righteousness"
+    ],
+    "answer": "Christ's righteousness imputed to us, outside of us"
+  },
+  {
+    "question": "What is intrinsic righteousness?",
+    "options": [
+      "Righteousness that is within us, our own personal righteousness",
+      "Righteousness that is outside of us",
+      "Christ's righteousness imputed to us",
+      "Forensic righteousness"
+    ],
+    "answer": "Righteousness that is within us, our own personal righteousness"
+  },
+  {
+    "question": "What is anathema?",
+    "options": [
+      "A theological term for grace",
+      "A type of merit",
+      "A formal curse or condemnation, declaring someone or something to be accursed",
+      "A blessing"
+    ],
+    "answer": "A formal curse or condemnation, declaring someone or something to be accursed"
+  }
+]
+

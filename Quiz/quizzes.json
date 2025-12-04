@@ -780,6 +780,7 @@
     "url": "https://www.youtube.com/watch?v=dCXkaQa53QQ",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Making_Liquid_Nitrogen_From_Scratch.md",
     "author": "Veritasium",
+    "folder": "Veritasium",
     "subjects": ["Science", "Chemistry"]
   },
   {
@@ -788,6 +789,7 @@
     "url": "https://www.youtube.com/watch?v=tZ8ehplVFp4",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Why_does_an_escalator_handrail_move_faster_than_the_stairs.md",
     "author": "Veritasium",
+    "folder": "Veritasium",
     "subjects": ["Science", "Physics"]
   },
   {
@@ -796,7 +798,35 @@
     "url": "https://www.youtube.com/watch?v=Ni82f1-cAXg",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Why_Super_Glue_Is_Perfect_For_Gluing_Skin.md",
     "author": "Veritasium",
+    "folder": "Veritasium",
     "subjects": ["Science", "Chemistry"]
+  },
+  {
+    "name": "What happens if you throw sand into a jet engine?",
+    "file": "What_happens_if_you_throw_sand_into_a_jet_engine.json",
+    "url": "https://www.youtube.com/watch?v=QtxVdC7pBQM",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Nov_17_2025_What_happens_if_you_throw_sand_into_a_jet_engine.md",
+    "author": "Veritasium",
+    "folder": "Veritasium",
+    "subjects": ["Science", "Engineering"]
+  },
+  {
+    "name": "Nov 26, 2025 You've (Likely) Been Playing The Game of Life Wrong",
+    "file": "Youve_(Likely)_Been_Playing_The_Game_of_Life_Wrong.json",
+    "url": "https://www.youtube.com/watch?v=HBluLfX2F_k",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Nov_26_2025_Youve_(Likely)_Been_Playing_The_Game_of_Life_Wrong.md",
+    "author": "Veritasium",
+    "folder": "Veritasium",
+    "subjects": ["Science", "Mathematics"]
+  },
+  {
+    "name": "Sep 30, 2025 Something Strange Happens When You Trace How Connected We Are",
+    "file": "Something_Strange_Happens_When_You_Trace_How_Connected_We_Are.json",
+    "url": "https://www.youtube.com/watch?v=CYlon2tvywA",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Science/Veritasium/Sep_30_2025_Something_Strange_Happens_When_You_Trace_How_Connected_We_Are.md",
+    "author": "Veritasium",
+    "folder": "Veritasium",
+    "subjects": ["Science", "Mathematics"]
   },
   {
     "name": "The History of CAD - Education Chapter 1 Lesson 1",
@@ -1226,6 +1256,33 @@
     "file": "Ep3-Papal_Supremacy_and_Infallibility.json",
     "url": "https://www.youtube.com/watch?v=r5olfRCJfOE",
     "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep3-Papal_Supremacy_and_Infallibility.md",
+    "folder": "Canon_Press",
+    "author": "Canon Press",
+    "subjects": ["Christianity", "Theology", "Catholicism"]
+  },
+  {
+    "name": "The Marian Dogmas | Protesting or Catholic Ep 4",
+    "file": "Ep4-The_Marian_Dogmas.json",
+    "url": "https://www.youtube.com/watch?v=OlIBTzIJOv0",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep4-The_Marian_Dogmas.md",
+    "folder": "Canon_Press",
+    "author": "Canon Press",
+    "subjects": ["Christianity", "Theology", "Catholicism"]
+  },
+  {
+    "name": "What is Tradition | Protesting or Catholic Ep 5",
+    "file": "Ep5-What_is_Tradition.json",
+    "url": "https://www.youtube.com/watch?v=Yunz7agHrEc",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep5-What_is_Tradition.md",
+    "folder": "Canon_Press",
+    "author": "Canon Press",
+    "subjects": ["Christianity", "Theology", "Catholicism"]
+  },
+  {
+    "name": "Justification | Protesting or Catholic Ep 6",
+    "file": "Ep6-Justification.json",
+    "url": "https://www.youtube.com/watch?v=5IjEaLZxCUU",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Christianity/Canon_Press/Protesting_or_Catholic/Ep6-Justification.md",
     "folder": "Canon_Press",
     "author": "Canon Press",
     "subjects": ["Christianity", "Theology", "Catholicism"]

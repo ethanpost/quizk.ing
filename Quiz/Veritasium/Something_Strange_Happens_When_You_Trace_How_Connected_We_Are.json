@@ -1,0 +1,353 @@
+[
+  {
+    "question": "According to the video, how many steps did it take to connect the falafel salesman to Marlon Brando in the 1999 German newspaper experiment?",
+    "options": [
+      "Four steps",
+      "Five steps",
+      "Six steps",
+      "Seven steps"
+    ],
+    "answer": "Six steps"
+  },
+  {
+    "question": "What is the mathematical reason given for why six degrees of separation works, assuming each person knows 100 people randomly?",
+    "options": [
+      "100 to the fourth power equals 100 million people",
+      "100 to the fifth power equals 10 billion people, more than Earth's population",
+      "100 to the sixth power equals 1 trillion people",
+      "100 times 100 equals 10,000 people in two steps"
+    ],
+    "answer": "100 to the fifth power equals 10 billion people, more than Earth's population"
+  },
+  {
+    "question": "In a fully clustered network where people are arranged in a circle and each knows only their 100 nearest neighbors, how many steps would it take on average to connect any two people?",
+    "options": [
+      "40 million steps",
+      "Six steps",
+      "10,000 steps",
+      "80 million steps"
+    ],
+    "answer": "40 million steps"
+  },
+  {
+    "question": "According to Watts and Strogatz's model, what percentage of links need to be rewired as shortcuts to drop the average degree of separation from 50 to 10?",
+    "options": [
+      "0.1%",
+      "1%",
+      "10%",
+      "50%"
+    ],
+    "answer": "1%"
+  },
+  {
+    "question": "When applied to 8 billion people on Earth, how many out of every 10,000 friendships need to be shortcuts for the average degree of separation to drop to six?",
+    "options": [
+      "One",
+      "Three",
+      "Ten",
+      "One hundred"
+    ],
+    "answer": "Three"
+  },
+  {
+    "question": "What did Derek's own experiment find about the average Veritasium viewer's degree of separation from him?",
+    "options": [
+      "1.5 degrees",
+      "2.7 degrees",
+      "4.2 degrees",
+      "6.0 degrees"
+    ],
+    "answer": "2.7 degrees"
+  },
+  {
+    "question": "What is clustering in a network?",
+    "options": [
+      "The total number of connections in a network",
+      "The fraction of your friends who are also friends with each other",
+      "The average distance between any two nodes",
+      "The number of hubs in a network"
+    ],
+    "answer": "The fraction of your friends who are also friends with each other"
+  },
+  {
+    "question": "What organism did Watts and Strogatz test their small-world model on first?",
+    "options": [
+      "Fruit flies",
+      "C. elegans worm",
+      "Mice",
+      "Humans"
+    ],
+    "answer": "C. elegans worm"
+  },
+  {
+    "question": "How many neurons does the C. elegans worm have, and what was the average degree of separation between any two neurons?",
+    "options": [
+      "100 neurons, 1.5 degrees of separation",
+      "282 neurons, 2.65 degrees of separation",
+      "500 neurons, 3.2 degrees of separation",
+      "1000 neurons, 4.1 degrees of separation"
+    ],
+    "answer": "282 neurons, 2.65 degrees of separation"
+  },
+  {
+    "question": "In the Hollywood actors database, what was the average degree of separation?",
+    "options": [
+      "Less than two",
+      "Less than four",
+      "Less than six",
+      "Less than eight"
+    ],
+    "answer": "Less than four"
+  },
+  {
+    "question": "In the disease spread simulation, how many days did it take for infection to spread globally in a regular network versus a small-world network with 10% shortcuts?",
+    "options": [
+      "50 days vs 20 days",
+      "60 days vs 25 days",
+      "73 days vs 26 days",
+      "80 days vs 30 days"
+    ],
+    "answer": "73 days vs 26 days"
+  },
+  {
+    "question": "What did Barabasi discover about the distribution of links on the internet that surprised him?",
+    "options": [
+      "It followed a perfect bell curve",
+      "It had a long tail with hubs having 100 times more links than average",
+      "All websites had exactly the same number of links",
+      "Most websites had no links at all"
+    ],
+    "answer": "It had a long tail with hubs having 100 times more links than average"
+  },
+  {
+    "question": "What are the two fundamental principles that Barabasi identified for how networks grow?",
+    "options": [
+      "Networks are static and connections are random",
+      "Networks grow over time and new nodes prefer connecting to well-connected nodes",
+      "Networks shrink over time and new nodes avoid hubs",
+      "Networks are fixed in size and connections are evenly distributed"
+    ],
+    "answer": "Networks grow over time and new nodes prefer connecting to well-connected nodes"
+  },
+  {
+    "question": "What is the process called where new nodes are more likely to connect to nodes that already have many connections?",
+    "options": [
+      "Random attachment",
+      "Preferential attachment",
+      "Clustered attachment",
+      "Uniform attachment"
+    ],
+    "answer": "Preferential attachment"
+  },
+  {
+    "question": "Which airport is mentioned as the most connected airport in the United States with direct flights to over 200 destinations?",
+    "options": [
+      "Los Angeles International",
+      "Chicago O'Hare",
+      "John F. Kennedy International",
+      "Hartsfield-Jackson Atlanta"
+    ],
+    "answer": "Chicago O'Hare"
+  },
+  {
+    "question": "What happened when thunderstorms shut down Chicago O'Hare in August 2025?",
+    "options": [
+      "Only local flights were affected",
+      "280 flights were canceled and the effects spread to at least six other US airports within 24 hours",
+      "No other airports were affected",
+      "Only international flights were canceled"
+    ],
+    "answer": "280 flights were canceled and the effects spread to at least six other US airports within 24 hours"
+  },
+  {
+    "question": "What is the \"Achilles' heel of networks\"?",
+    "options": [
+      "The tendency for networks to grow too large",
+      "The vulnerability created by hubs, where failure of one hub can affect the entire network",
+      "The difficulty of adding new nodes to a network",
+      "The high cost of maintaining network connections"
+    ],
+    "answer": "The vulnerability created by hubs, where failure of one hub can affect the entire network"
+  },
+  {
+    "question": "What is the prisoner's dilemma?",
+    "options": [
+      "A game where players must choose to cooperate or defect, demonstrating how individual rationality can lead to suboptimal outcomes",
+      "A game where players always cooperate",
+      "A game where players always defect",
+      "A game with no strategic choices"
+    ],
+    "answer": "A game where players must choose to cooperate or defect, demonstrating how individual rationality can lead to suboptimal outcomes"
+  },
+  {
+    "question": "What was the winning strategy in Axelrod's prisoner's dilemma tournament?",
+    "options": [
+      "Always defect",
+      "Always cooperate",
+      "Tit-for-tat (cooperate first, then copy opponent's move)",
+      "Random choice"
+    ],
+    "answer": "Tit-for-tat (cooperate first, then copy opponent's move)"
+  },
+  {
+    "question": "In Watts and Strogatz's prisoner's dilemma simulation on a network, what happened when they added shortcuts to a regular network?",
+    "options": [
+      "Cooperation increased",
+      "Cooperation remained the same",
+      "Cooperators were crushed and the world became all defectors",
+      "The network became unstable"
+    ],
+    "answer": "Cooperators were crushed and the world became all defectors"
+  },
+  {
+    "question": "According to Strogatz, what fosters cooperation in networks?",
+    "options": [
+      "Having many shortcuts",
+      "Having little clumps or clusters of people",
+      "Having random connections",
+      "Having no connections"
+    ],
+    "answer": "Having little clumps or clusters of people"
+  },
+  {
+    "question": "What did Watts find when he allowed players in his experiment to choose who they played with?",
+    "options": [
+      "Cooperation decreased",
+      "Cooperation remained the same",
+      "The more choice players had, the more likely they were to cooperate",
+      "Players always chose to defect"
+    ],
+    "answer": "The more choice players had, the more likely they were to cooperate"
+  },
+  {
+    "question": "What is a \"weak tie\" in sociology?",
+    "options": [
+      "A close friend",
+      "An acquaintance or casual connection",
+      "A family member",
+      "A business partner"
+    ],
+    "answer": "An acquaintance or casual connection"
+  },
+  {
+    "question": "According to the \"strength of weak ties\" phenomenon, how do people typically find jobs?",
+    "options": [
+      "Through close friends",
+      "Through acquaintances (weak ties)",
+      "Through family members",
+      "Through random connections"
+    ],
+    "answer": "Through acquaintances (weak ties)"
+  },
+  {
+    "question": "What is a keystone species?",
+    "options": [
+      "A species that is the most abundant in an ecosystem",
+      "A species that has a disproportionately large effect on its environment relative to its abundance, functioning as a hub",
+      "A species that is at the top of the food chain",
+      "A species that is about to go extinct"
+    ],
+    "answer": "A species that has a disproportionately large effect on its environment relative to its abundance, functioning as a hub"
+  },
+  {
+    "question": "What molecule is mentioned as a hub in metabolic networks that governs hundreds of chemical reactions?",
+    "options": [
+      "DNA",
+      "ATP",
+      "Glucose",
+      "Protein"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "question": "What brain region is mentioned as a neural hub that links hundreds of different functions?",
+    "options": [
+      "Hippocampus",
+      "Prefrontal cortex",
+      "Cerebellum",
+      "Amygdala"
+    ],
+    "answer": "Prefrontal cortex"
+  },
+  {
+    "question": "How many citations does the Watts and Strogatz paper have today?",
+    "options": [
+      "About 5,800",
+      "About 58,000",
+      "About 580,000",
+      "About 5.8 million"
+    ],
+    "answer": "About 58,000"
+  },
+  {
+    "question": "What is network medicine?",
+    "options": [
+      "A field that studies how diseases spread through networks",
+      "A field that develops drugs targeting crucial hub molecules in disease networks",
+      "A field that maps all disease networks",
+      "A field that prevents network formation"
+    ],
+    "answer": "A field that develops drugs targeting crucial hub molecules in disease networks"
+  },
+  {
+    "question": "According to the video, what is the key insight about networks and individual actions?",
+    "options": [
+      "Networks shape us, but our actions do not matter",
+      "Networks shape us, and our actions shape the networks",
+      "Networks do not affect us at all",
+      "Only networks matter, not individual actions"
+    ],
+    "answer": "Networks shape us, and our actions shape the networks"
+  },
+  {
+    "question": "What did Barabasi find was the average number of clicks to connect any two websites on the internet in 1998?",
+    "options": [
+      "Six clicks",
+      "12 clicks",
+      "19 clicks",
+      "25 clicks"
+    ],
+    "answer": "19 clicks"
+  },
+  {
+    "question": "In the disease spread simulation, how many days did it take for infection to spread in a completely random network?",
+    "options": [
+      "20 days",
+      "25 days",
+      "30 days",
+      "35 days"
+    ],
+    "answer": "25 days"
+  },
+  {
+    "question": "What is the main difference between how Watts-Strogatz model and Barabasi's model explain small-world networks?",
+    "options": [
+      "Watts-Strogatz uses shortcuts, Barabasi uses hubs",
+      "Watts-Strogatz uses hubs, Barabasi uses shortcuts",
+      "Both use only shortcuts",
+      "Both use only hubs"
+    ],
+    "answer": "Watts-Strogatz uses shortcuts, Barabasi uses hubs"
+  },
+  {
+    "question": "According to Strogatz, why has social media had a negative net effect?",
+    "options": [
+      "It connects too many people",
+      "It lacks communities and pockets, discouraging cooperation",
+      "It has too many hubs",
+      "It prevents shortcuts from forming"
+    ],
+    "answer": "It lacks communities and pockets, discouraging cooperation"
+  },
+  {
+    "question": "What did Watts discover about clustered networks in his human experiments?",
+    "options": [
+      "They always lead to cooperation",
+      "They always lead to defection",
+      "They are \"on a knife edge\" - could tip either way depending on initial conditions",
+      "They have no effect on behavior"
+    ],
+    "answer": "They are \"on a knife edge\" - could tip either way depending on initial conditions"
+  }
+]
+

@@ -1,0 +1,427 @@
+[
+  {
+    "question": "According to the video, what type of distribution do human height, IQ, and apple sizes follow?",
+    "options": [
+      "Normal distribution",
+      "Power law",
+      "Log normal distribution",
+      "Pareto distribution"
+    ],
+    "answer": "Normal distribution"
+  },
+  {
+    "question": "True or False: In a normal distribution, you can find values that are 100 times the average.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What did Vilfredo Pareto discover about income distributions in the late 1800s?",
+    "options": [
+      "Income is evenly distributed across populations",
+      "Income distributions vary randomly by country",
+      "Income follows a power law distribution",
+      "Income follows a normal distribution"
+    ],
+    "answer": "Income follows a power law distribution"
+  },
+  {
+    "question": "When Pareto plotted income data on a log-log plot, what did the curve transform into?",
+    "options": [
+      "A straight line",
+      "A bell curve",
+      "A U-shaped curve",
+      "An exponential curve"
+    ],
+    "answer": "A straight line"
+  },
+  {
+    "question": "What was the approximate gradient of Pareto's income distribution graph?",
+    "options": [
+      "Negative 0.5",
+      "Negative 1.0",
+      "Negative 1.5",
+      "Negative 2.0"
+    ],
+    "answer": "Negative 1.5"
+  },
+  {
+    "question": "In the first casino game (additive coin tosses), what is the expected payout for 100 tosses?",
+    "options": [
+      "$25",
+      "$75",
+      "$100",
+      "$50"
+    ],
+    "answer": "$50"
+  },
+  {
+    "question": "What type of distribution does the second casino game (multiplicative coin tosses) produce?",
+    "options": [
+      "Normal distribution",
+      "Power law",
+      "Log normal distribution",
+      "Uniform distribution"
+    ],
+    "answer": "Log normal distribution"
+  },
+  {
+    "question": "What is the median payout in the multiplicative coin toss game?",
+    "options": [
+      "50 cents",
+      "75 cents",
+      "$1.00",
+      "61 cents"
+    ],
+    "answer": "61 cents"
+  },
+  {
+    "question": "The St. Petersburg paradox game has what expected value?",
+    "options": [
+      "$1",
+      "$10",
+      "$100",
+      "Infinite"
+    ],
+    "answer": "Infinite"
+  },
+  {
+    "question": "In the St. Petersburg paradox, if you get heads on the nth toss, what is your payout?",
+    "options": [
+      "n dollars",
+      "2n dollars",
+      "2^n dollars",
+      "n^2 dollars"
+    ],
+    "answer": "2^n dollars"
+  },
+  {
+    "question": "What power law does the St. Petersburg paradox follow?",
+    "options": [
+      "Probability proportional to 1/x",
+      "Probability proportional to 1/x^2",
+      "Probability proportional to x",
+      "Probability proportional to x^2"
+    ],
+    "answer": "Probability proportional to 1/x"
+  },
+  {
+    "question": "True or False: Power laws have a measurable standard deviation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "According to the video, what happens to the average when you take more samples from a power law distribution?",
+    "options": [
+      "It keeps increasing",
+      "It converges to a fixed value",
+      "It decreases",
+      "It oscillates randomly"
+    ],
+    "answer": "It keeps increasing"
+  },
+  {
+    "question": "Why can a single outlier dominate the average in power law distributions?",
+    "options": [
+      "The mean is always zero",
+      "Outliers are very common",
+      "There are no outliers in power laws",
+      "The heavy tail gives significant probability to extreme events"
+    ],
+    "answer": "The heavy tail gives significant probability to extreme events"
+  },
+  {
+    "question": "What creates a power law when two exponentials combine?",
+    "options": [
+      "One exponential growing and one shrinking",
+      "Two exponentials both growing",
+      "Two exponentials both shrinking",
+      "Any combination of exponentials"
+    ],
+    "answer": "One exponential growing and one shrinking"
+  },
+  {
+    "question": "In earthquakes, what two exponential relationships combine to create a power law?",
+    "options": [
+      "Frequency and magnitude both increase exponentially",
+      "Frequency and energy both decrease exponentially",
+      "Magnitude and energy both increase exponentially",
+      "Frequency decreases exponentially with magnitude, energy increases exponentially with magnitude"
+    ],
+    "answer": "Frequency decreases exponentially with magnitude, energy increases exponentially with magnitude"
+  },
+  {
+    "question": "True or False: Power laws reveal fractal-like, self-similar structures.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the name of the temperature at which a magnet loses its magnetism?",
+    "options": [
+      "Curie temperature",
+      "Absolute zero",
+      "Critical temperature",
+      "Phase transition temperature"
+    ],
+    "answer": "Curie temperature"
+  },
+  {
+    "question": "At the critical point of a magnet, what happens to the effective range of influence?",
+    "options": [
+      "It becomes zero",
+      "It becomes finite",
+      "It becomes infinite",
+      "It oscillates"
+    ],
+    "answer": "It becomes infinite"
+  },
+  {
+    "question": "What phenomenon describes systems that naturally drive themselves to a critical state?",
+    "options": [
+      "Self-organized criticality",
+      "Phase transition",
+      "Universality",
+      "Preferential attachment"
+    ],
+    "answer": "Self-organized criticality"
+  },
+  {
+    "question": "The 1988 Yellowstone fire burned how many acres?",
+    "options": [
+      "1.4 million acres",
+      "140,000 acres",
+      "14 million acres",
+      "140 million acres"
+    ],
+    "answer": "1.4 million acres"
+  },
+  {
+    "question": "True or False: The 1988 Yellowstone fire was caused by a special, unusual event.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What was the name of the fire suppression policy established in 1935?",
+    "options": [
+      "The 9:00 AM policy",
+      "The same-day policy",
+      "The zero-tolerance policy",
+      "The 10:00 AM policy"
+    ],
+    "answer": "The 10:00 AM policy"
+  },
+  {
+    "question": "Why was the 10:00 AM fire suppression policy risky?",
+    "options": [
+      "It was too expensive",
+      "It didn't work fast enough",
+      "It required too many resources",
+      "It allowed fuel buildup leading to megafires"
+    ],
+    "answer": "It allowed fuel buildup leading to megafires"
+  },
+  {
+    "question": "The Kobe earthquake of 1995 cascaded along how many kilometers of crust?",
+    "options": [
+      "4 kilometers",
+      "400 kilometers",
+      "4,000 kilometers",
+      "40 kilometers"
+    ],
+    "answer": "40 kilometers"
+  },
+  {
+    "question": "True or False: Earthquakes are predictable based on past events.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "Who created the sandpile model to study power laws?",
+    "options": [
+      "Per Bak",
+      "Vilfredo Pareto",
+      "Albert-László Barabási",
+      "Abraham de Moivre"
+    ],
+    "answer": "Per Bak"
+  },
+  {
+    "question": "In the sandpile model, what happens when a stack reaches 4 or more grains?",
+    "options": [
+      "It topples",
+      "It stops growing",
+      "It becomes magnetic",
+      "It changes color"
+    ],
+    "answer": "It topples"
+  },
+  {
+    "question": "True or False: Real sandpiles behave exactly like Per Bak's sandpile model.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the principle that at critical points, different systems exhibit identical behavior regardless of their specific details?",
+    "options": [
+      "Self-organized criticality",
+      "Preferential attachment",
+      "Scale-free property",
+      "Universality"
+    ],
+    "answer": "Universality"
+  },
+  {
+    "question": "According to the video, what percentage of Y Combinator's returns came from just 2 out of 280 startups?",
+    "options": [
+      "50%",
+      "65%",
+      "75%",
+      "85%"
+    ],
+    "answer": "75%"
+  },
+  {
+    "question": "On YouTube, what percentage of videos account for over 93% of all views?",
+    "options": [
+      "Less than 1%",
+      "Less than 2%",
+      "Less than 4%",
+      "Less than 10%"
+    ],
+    "answer": "Less than 4%"
+  },
+  {
+    "question": "True or False: Restaurants and airlines operate in power law environments.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "In a power law world, what is more important than consistency?",
+    "options": [
+      "Persistence",
+      "Speed",
+      "Perfection",
+      "Efficiency"
+    ],
+    "answer": "Persistence"
+  },
+  {
+    "question": "What process did Barabási discover that creates power laws in networks like the internet?",
+    "options": [
+      "Random attachment",
+      "Uniform distribution",
+      "Normal distribution",
+      "Preferential attachment"
+    ],
+    "answer": "Preferential attachment"
+  },
+  {
+    "question": "In Barabási's internet simulation, what was the power of the resulting power law?",
+    "options": [
+      "Negative 1",
+      "Negative 1.5",
+      "Negative 2",
+      "Negative 2.5"
+    ],
+    "answer": "Negative 2"
+  },
+  {
+    "question": "According to the video, what follows the same power law as stock market crashes?",
+    "options": [
+      "Forest fires",
+      "Earthquakes",
+      "World wars",
+      "City populations"
+    ],
+    "answer": "World wars"
+  },
+  {
+    "question": "True or False: In power law systems, you can know beforehand which bet will succeed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is a log-log plot?",
+    "options": [
+      "A graph with one logarithmic axis",
+      "A graph showing only logarithms",
+      "A graph with exponential scales",
+      "A graph with both axes on logarithmic scales"
+    ],
+    "answer": "A graph with both axes on logarithmic scales"
+  },
+  {
+    "question": "What term describes a system that has no inherent characteristic size or scale?",
+    "options": [
+      "Normal",
+      "Uniform",
+      "Standard",
+      "Scale-free"
+    ],
+    "answer": "Scale-free"
+  },
+  {
+    "question": "What are regions in a magnet where magnetic moments are aligned called?",
+    "options": [
+      "Zones",
+      "Sections",
+      "Areas",
+      "Domains"
+    ],
+    "answer": "Domains"
+  },
+  {
+    "question": "In the sandpile model, what are the cascades of toppling grains called?",
+    "options": [
+      "Landslides",
+      "Collapses",
+      "Cascades",
+      "Avalanches"
+    ],
+    "answer": "Avalanches"
+  },
+  {
+    "question": "What property of distributions means extreme events have significant probability?",
+    "options": [
+      "Light tail",
+      "Normal tail",
+      "Short tail",
+      "Heavy tail"
+    ],
+    "answer": "Heavy tail"
+  },
+  {
+    "question": "What is the transformation between different states of matter or system organization called?",
+    "options": [
+      "Critical transition",
+      "State change",
+      "System shift",
+      "Phase transition"
+    ],
+    "answer": "Phase transition"
+  }
+]
+

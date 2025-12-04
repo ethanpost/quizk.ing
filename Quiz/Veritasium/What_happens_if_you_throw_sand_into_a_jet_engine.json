@@ -1,0 +1,629 @@
+[
+  {
+    "question": "According to the video, what percentage of incoming air gets compressed in a turbofan engine?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "answer": "10%"
+  },
+  {
+    "question": "True or False: In a modern passenger jet, the hot exhaust gas accounts for more than 80% of the engine's thrust.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What is the approximate temperature inside a jet engine's combustion chamber?",
+    "options": [
+      "600 degrees Celsius",
+      "1,000 degrees Celsius",
+      "1,500 degrees Celsius",
+      "2,000 degrees Celsius"
+    ],
+    "answer": "1,500 degrees Celsius"
+  },
+  {
+    "question": "According to the video, how much power does each high-pressure turbine blade generate during takeoff?",
+    "options": [
+      "As much as a Formula 1 car",
+      "As much as a motorcycle",
+      "As much as a locomotive",
+      "As much as a small power plant"
+    ],
+    "answer": "As much as a Formula 1 car"
+  },
+  {
+    "question": "What is the Carnot efficiency formula mentioned in the video?",
+    "options": [
+      "(hot temperature - cold temperature) / hot temperature",
+      "1 + (cold temperature / hot temperature)",
+      "1 - (cold temperature / hot temperature)",
+      "(cold temperature / hot temperature) - 1"
+    ],
+    "answer": "1 - (cold temperature / hot temperature)"
+  },
+  {
+    "question": "True or False: Jet engines run at temperatures that are 250 degrees Celsius hotter than the melting point of the materials that make them up.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What centripetal force does a 300-gram high-pressure turbine blade experience when spinning?",
+    "options": [
+      "Equal to the weight of 2 metric tons",
+      "Equal to the weight of 10 metric tons",
+      "Equal to the weight of 20 metric tons",
+      "Equal to the weight of 50 metric tons"
+    ],
+    "answer": "Equal to the weight of 20 metric tons"
+  },
+  {
+    "question": "What is the term for the per-unit change in length when a material is under stress?",
+    "options": [
+      "Stress",
+      "Strain",
+      "Creep",
+      "Dislocation"
+    ],
+    "answer": "Strain"
+  },
+  {
+    "question": "True or False: Elastic deformation means the material returns to its original size when the load is removed.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is an edge dislocation?",
+    "options": [
+      "A crack in the material",
+      "An extra half-plane of atoms in a crystal structure",
+      "A missing atom in the crystal lattice",
+      "A boundary between different crystals"
+    ],
+    "answer": "An extra half-plane of atoms in a crystal structure"
+  },
+  {
+    "question": "What is the process called when a material deforms continuously under constant load at high temperature?",
+    "options": [
+      "Elastic deformation",
+      "Plastic deformation",
+      "Creep",
+      "Strain"
+    ],
+    "answer": "Creep"
+  },
+  {
+    "question": "Who designed the first jet engine in 1941?",
+    "options": [
+      "Frank Whittle",
+      "Frank Lloyd Wright",
+      "Frank Sinatra",
+      "Frank Herbert"
+    ],
+    "answer": "Frank Whittle"
+  },
+  {
+    "question": "True or False: The first jet engines could only fly for up to 10 hours before parts would fail.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What was the breakthrough element added to nickel alloys that significantly improved their performance?",
+    "options": [
+      "Chromium",
+      "Cobalt",
+      "Iron",
+      "Aluminum"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "question": "In the nickel superalloy microstructure, what is the gamma phase?",
+    "options": [
+      "Structure where aluminum and nickel can take any spot with no repeating sequence",
+      "The grain boundaries between crystals",
+      "Structure where aluminum always at corners and nickel at faces",
+      "The protective oxide layer on the surface"
+    ],
+    "answer": "Structure where aluminum and nickel can take any spot with no repeating sequence"
+  },
+  {
+    "question": "What is the gamma prime phase?",
+    "options": [
+      "The grain boundaries between crystals",
+      "Structure where aluminum and nickel can take any spot with no repeating sequence",
+      "Structure where aluminum always at corners and nickel at faces with perfect repeating pattern",
+      "The protective oxide layer on the surface"
+    ],
+    "answer": "Structure where aluminum always at corners and nickel at faces with perfect repeating pattern"
+  },
+  {
+    "question": "True or False: Dislocations move easily through the gamma prime phase but get stuck in the gamma phase.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What are super dislocations?",
+    "options": [
+      "Single dislocations that move very fast",
+      "Dislocations that form at grain boundaries",
+      "Pairs of dislocations that must travel together through gamma prime phase",
+      "Dislocations that cause cross-slip"
+    ],
+    "answer": "Pairs of dislocations that must travel together through gamma prime phase"
+  },
+  {
+    "question": "What happens when dislocations cross-slip at high temperatures?",
+    "options": [
+      "They move faster",
+      "They combine into larger dislocations",
+      "They separate and get locked in place",
+      "They dissolve completely"
+    ],
+    "answer": "They separate and get locked in place"
+  },
+  {
+    "question": "Why don't engineers make entire turbine blades out of gamma prime?",
+    "options": [
+      "It's too expensive",
+      "It's too heavy",
+      "It becomes brittle",
+      "It's too difficult to manufacture"
+    ],
+    "answer": "It becomes brittle"
+  },
+  {
+    "question": "True or False: Modern superalloys can contain as many as 10 different elements.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What element has a melting point of 3,180 degrees Celsius and is second only to tungsten?",
+    "options": [
+      "Rhenium",
+      "Chromium",
+      "Molybdenum",
+      "Tantalum"
+    ],
+    "answer": "Rhenium"
+  },
+  {
+    "question": "What percentage of mined rhenium ends up in jet engines?",
+    "options": [
+      "More than 50%",
+      "More than 60%",
+      "More than 70%",
+      "More than 80%"
+    ],
+    "answer": "More than 80%"
+  },
+  {
+    "question": "What are grain boundaries?",
+    "options": [
+      "The strongest parts of a metal",
+      "The interfaces between different crystal grains",
+      "The protective coatings on turbine blades",
+      "The cooling passages inside blades"
+    ],
+    "answer": "The interfaces between different crystal grains"
+  },
+  {
+    "question": "True or False: Grain boundaries are weak points because they have more open spaces, broken bonds, and defects.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What ancient technology is used to make turbine blades?",
+    "options": [
+      "Forging",
+      "Investment casting",
+      "3D printing",
+      "Machining"
+    ],
+    "answer": "Investment casting"
+  },
+  {
+    "question": "What material is used to create the initial pattern for turbine blades?",
+    "options": [
+      "Metal",
+      "Ceramic",
+      "Plastic",
+      "Wax"
+    ],
+    "answer": "Wax"
+  },
+  {
+    "question": "What creates the hollow passages inside turbine blades?",
+    "options": [
+      "Drilling after casting",
+      "A ceramic core that is later removed",
+      "3D printing technology",
+      "Chemical etching"
+    ],
+    "answer": "A ceramic core that is later removed"
+  },
+  {
+    "question": "True or False: The casting temperature for turbine blades is roughly 1,500 degrees Celsius, the same temperature at which they operate.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is the pigtail?",
+    "options": [
+      "A type of cooling hole",
+      "A protective coating",
+      "A helical passage at bottom of mold that selects single crystal",
+      "A type of crystal structure"
+    ],
+    "answer": "A helical passage at bottom of mold that selects single crystal"
+  },
+  {
+    "question": "What percentage of blades can be cast successfully as single crystals today?",
+    "options": [
+      "Over 75%",
+      "Over 85%",
+      "Over 95%",
+      "Over 99%"
+    ],
+    "answer": "Over 95%"
+  },
+  {
+    "question": "How many crystal grains did early turbine blades contain?",
+    "options": [
+      "About 5,000",
+      "About 25,000",
+      "About 50,000",
+      "About 100,000"
+    ],
+    "answer": "About 50,000"
+  },
+  {
+    "question": "True or False: Single-crystal blades last up to nine times longer against creep and thermal fatigue compared to multi-grain blades.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "How many hours can modern jet engines run between major overhauls?",
+    "options": [
+      "10,000 hours",
+      "15,000 hours",
+      "20,000 hours",
+      "25,000 hours"
+    ],
+    "answer": "25,000 hours"
+  },
+  {
+    "question": "By how much did jet aircraft become more fuel efficient between 1960 and 2010?",
+    "options": [
+      "About 35%",
+      "About 45%",
+      "About 55%",
+      "About 65%"
+    ],
+    "answer": "About 55%"
+  },
+  {
+    "question": "What is film cooling?",
+    "options": [
+      "Cooling the engine with water",
+      "Cooling the engine by flying at high altitude",
+      "Technique where cooling air is blown through holes to create protective film over blade surface",
+      "Using special films to reflect heat"
+    ],
+    "answer": "Technique where cooling air is blown through holes to create protective film over blade surface"
+  },
+  {
+    "question": "True or False: The cooling air used in film cooling comes from the high-pressure compressor at around 600 degrees Celsius.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "How thick is the ceramic topcoat on turbine blades?",
+    "options": [
+      "About a tenth of a millimeter",
+      "About a quarter of a millimeter",
+      "About half a millimeter",
+      "About one millimeter"
+    ],
+    "answer": "About a quarter of a millimeter"
+  },
+  {
+    "question": "How much cooler does the ceramic coating keep the metal beneath it?",
+    "options": [
+      "50 to 100 degrees",
+      "170 to 200 degrees",
+      "100 to 170 degrees",
+      "200 to 250 degrees"
+    ],
+    "answer": "100 to 170 degrees"
+  },
+  {
+    "question": "What happens when dust and dirt enter a jet engine at 36,000 feet?",
+    "options": [
+      "They bounce off the blades harmlessly",
+      "They pass through without affecting the engine",
+      "They melt and stick to blades, clogging cooling passages",
+      "They are filtered out automatically"
+    ],
+    "answer": "They melt and stick to blades, clogging cooling passages"
+  },
+  {
+    "question": "True or False: New ceramic coatings being developed can extend turbine life by up to 30%.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is a turbofan engine?",
+    "options": [
+      "A type of rocket engine",
+      "A type of jet engine with a large fan at the front that pushes most air around the engine core",
+      "A type of propeller engine",
+      "A type of steam engine"
+    ],
+    "answer": "A type of jet engine with a large fan at the front that pushes most air around the engine core"
+  },
+  {
+    "question": "What is a compressor?",
+    "options": [
+      "Component that ignites fuel",
+      "Component that generates electricity",
+      "Component that forces air into increasingly narrow chambers, compressing it and heating it",
+      "Component that cools the engine"
+    ],
+    "answer": "Component that forces air into increasingly narrow chambers, compressing it and heating it"
+  },
+  {
+    "question": "What is a combustion chamber?",
+    "options": [
+      "Where air is compressed",
+      "Where turbines spin",
+      "Where fuel is sprayed and ignited, raising air temperature to around 1,500 degrees Celsius",
+      "Where cooling air enters"
+    ],
+    "answer": "Where fuel is sprayed and ignited, raising air temperature to around 1,500 degrees Celsius"
+  },
+  {
+    "question": "True or False: A turbine blade is a component that extracts energy from hot, expanding gas to power the fan and compressors.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is bypass air?",
+    "options": [
+      "Air that goes through the engine core",
+      "Air used for cooling",
+      "The 90% of incoming air that goes around the engine core, propelled backwards by the fan",
+      "Air that is compressed"
+    ],
+    "answer": "The 90% of incoming air that goes around the engine core, propelled backwards by the fan"
+  },
+  {
+    "question": "What is thrust?",
+    "options": [
+      "The backward force generated by the engine",
+      "The rotational force of the turbines",
+      "The forward force generated by pushing air backwards",
+      "The compression force of the air"
+    ],
+    "answer": "The forward force generated by pushing air backwards"
+  },
+  {
+    "question": "What is Carnot efficiency?",
+    "options": [
+      "The actual efficiency of a jet engine",
+      "The efficiency of the fan",
+      "Maximum efficiency of a heat engine, equal to 1 minus (cold temperature / hot temperature)",
+      "The efficiency of the compressor"
+    ],
+    "answer": "Maximum efficiency of a heat engine, equal to 1 minus (cold temperature / hot temperature)"
+  },
+  {
+    "question": "True or False: Centripetal force is the force pulling an object inward as it moves in a circle.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is elastic deformation?",
+    "options": [
+      "Permanent change in material shape",
+      "Temporary change in material size that returns to original when load is removed",
+      "Continuous deformation under constant load",
+      "Breaking of atomic bonds"
+    ],
+    "answer": "Temporary change in material size that returns to original when load is removed"
+  },
+  {
+    "question": "What is plastic deformation?",
+    "options": [
+      "Temporary change in material size",
+      "Permanent change in material shape",
+      "Continuous deformation under constant load",
+      "Elastic stretching"
+    ],
+    "answer": "Permanent change in material shape"
+  },
+  {
+    "question": "What is strain?",
+    "options": [
+      "The force applied to a material",
+      "The per-unit change in length when material is under stress",
+      "The breaking point of a material",
+      "The temperature at which material deforms"
+    ],
+    "answer": "The per-unit change in length when material is under stress"
+  },
+  {
+    "question": "True or False: An edge dislocation is an extra half-plane of atoms in a crystal structure.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is creep?",
+    "options": [
+      "Temporary deformation",
+      "Continuous deformation under constant load at high temperature",
+      "Elastic stretching",
+      "Breaking of material"
+    ],
+    "answer": "Continuous deformation under constant load at high temperature"
+  },
+  {
+    "question": "What is the gamma phase?",
+    "options": [
+      "Crystal structure where aluminum always at corners and nickel at faces",
+      "The grain boundaries",
+      "Crystal structure where aluminum and nickel atoms can take any spot, no repeating sequence",
+      "The protective coating"
+    ],
+    "answer": "Crystal structure where aluminum and nickel atoms can take any spot, no repeating sequence"
+  },
+  {
+    "question": "What is the gamma prime phase?",
+    "options": [
+      "Crystal structure where aluminum and nickel atoms can take any spot",
+      "The grain boundaries",
+      "Crystal structure where aluminum always at corners and nickel at faces, perfect repeating pattern",
+      "The protective coating"
+    ],
+    "answer": "Crystal structure where aluminum always at corners and nickel at faces, perfect repeating pattern"
+  },
+  {
+    "question": "True or False: A super dislocation is a pair of dislocations that must travel together through gamma prime phase.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is cross-slip?",
+    "options": [
+      "When dislocations move faster",
+      "When dislocations combine",
+      "When dislocations slip to different planes at high temperatures",
+      "When dislocations dissolve"
+    ],
+    "answer": "When dislocations slip to different planes at high temperatures"
+  },
+  {
+    "question": "What is a grain boundary?",
+    "options": [
+      "The strongest part of a metal",
+      "The interface between different crystal grains in a metal",
+      "The protective coating",
+      "The cooling passage"
+    ],
+    "answer": "The interface between different crystal grains in a metal"
+  },
+  {
+    "question": "What is investment casting?",
+    "options": [
+      "Modern 3D printing technique",
+      "Forging technique",
+      "Ancient casting technique using wax patterns to create complex metal shapes",
+      "Machining technique"
+    ],
+    "answer": "Ancient casting technique using wax patterns to create complex metal shapes"
+  },
+  {
+    "question": "True or False: Directional solidification is the process of controlling crystal growth in one direction.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is a pigtail?",
+    "options": [
+      "A type of cooling hole",
+      "A protective coating",
+      "Helical passage at bottom of mold that selects single crystal by choking out other grains",
+      "A crystal structure"
+    ],
+    "answer": "Helical passage at bottom of mold that selects single crystal by choking out other grains"
+  },
+  {
+    "question": "What is a single crystal?",
+    "options": [
+      "A material with many crystal grains",
+      "A type of protective coating",
+      "A material with one continuous crystal structure throughout, no grain boundaries",
+      "A type of alloy"
+    ],
+    "answer": "A material with one continuous crystal structure throughout, no grain boundaries"
+  },
+  {
+    "question": "What is a dendrite?",
+    "options": [
+      "A type of crystal structure",
+      "A protective coating",
+      "Tree-like branch structure that forms during solidification",
+      "A cooling passage"
+    ],
+    "answer": "Tree-like branch structure that forms during solidification"
+  },
+  {
+    "question": "True or False: Film cooling is a technique where cooling air is blown through holes to create protective film over blade surface.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "What is a thermal barrier coating?",
+    "options": [
+      "A type of metal coating",
+      "A cooling system",
+      "Ceramic coating that protects turbine blades from extreme heat",
+      "A type of crystal structure"
+    ],
+    "answer": "Ceramic coating that protects turbine blades from extreme heat"
+  }
+]
+
