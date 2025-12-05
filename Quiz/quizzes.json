@@ -1286,5 +1286,14 @@
     "folder": "Canon_Press",
     "author": "Canon Press",
     "subjects": ["Christianity", "Theology", "Catholicism"]
+  },
+  {
+    "name": "Nov 30, 2025 Mechanisms EVERY Mechanical Engineer Should Know",
+    "file": "Engineering_Gone_Wild/Nov_30_2025_Mechanisms_EVERY_Mechanical_Engineer_Should_Know.json",
+    "url": "https://www.youtube.com/watch?v=vzM_-Rr5mtw",
+    "sourceUrl": "https://github.com/ethanpost/quizk.ing/blob/main/Engineering/Engineering_Gone_Wild/11-30-2025_Mechanisms_EVERY_Mechanical_Engineer_Should_Know.md",
+    "folder": "Engineering_Gone_Wild",
+    "author": "Engineering Gone Wild",
+    "subjects": ["Engineering", "Mechanical Engineering"]
   }
 ]

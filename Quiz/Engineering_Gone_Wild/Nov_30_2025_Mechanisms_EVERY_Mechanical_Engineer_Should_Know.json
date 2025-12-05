@@ -1,0 +1,451 @@
+[
+  {
+    "question": "According to the video, what is a major problem with mechanical engineering education?",
+    "options": [
+      "Students are not taught the Navier-Stokes equation",
+      "Students are not taught stress-strength curves",
+      "Students are not taught CAD software",
+      "Students graduate without studying mechanisms that make real product design possible"
+    ],
+    "answer": "Students graduate without studying mechanisms that make real product design possible"
+  },
+  {
+    "question": "What does a cam mechanism convert?",
+    "options": [
+      "Non-uniform motion into uniform motion",
+      "Oscillatory motion into uniform rotation",
+      "Uniform rotational input into non-uniform linear or oscillatory motion",
+      "Linear motion into rotational motion"
+    ],
+    "answer": "Uniform rotational input into non-uniform linear or oscillatory motion"
+  },
+  {
+    "question": "In internal combustion engines, what do camshafts control?",
+    "options": [
+      "Compression ratio",
+      "Piston speed",
+      "Fuel injection timing",
+      "Valve lift, timing, and duration"
+    ],
+    "answer": "Valve lift, timing, and duration"
+  },
+  {
+    "question": "What is a common design objective when designing cams?",
+    "options": [
+      "Minimize displacement",
+      "Maximize acceleration",
+      "Maximize velocity",
+      "Minimize jerk"
+    ],
+    "answer": "Minimize jerk"
+  },
+  {
+    "question": "What does minimizing jerk in cam design help achieve?",
+    "options": [
+      "Reduces impact loads and improves system longevity",
+      "Increases impact loads",
+      "Increases system speed",
+      "Reduces material costs"
+    ],
+    "answer": "Reduces impact loads and improves system longevity"
+  },
+  {
+    "question": "What is a Geneva mechanism used for?",
+    "options": [
+      "Converting rotation into linear motion",
+      "Converting linear motion into rotation",
+      "Transmitting torque between misaligned shafts",
+      "Converting continuous rotation into intermittent index motion with exact angular increments"
+    ],
+    "answer": "Converting continuous rotation into intermittent index motion with exact angular increments"
+  },
+  {
+    "question": "What determines the index ratio and dwell time in a Geneva mechanism?",
+    "options": [
+      "The angular velocity",
+      "The pin radius",
+      "The material selection",
+      "The number of slots"
+    ],
+    "answer": "The number of slots"
+  },
+  {
+    "question": "What was a historical application of the Geneva mechanism?",
+    "options": [
+      "Early film projectors to advance one frame at a time",
+      "Internal combustion engines",
+      "Textile machinery",
+      "Bicycle freewheels"
+    ],
+    "answer": "Early film projectors to advance one frame at a time"
+  },
+  {
+    "question": "True or False: Geneva mechanisms are still commonly used in consumer products like camera shutters and digital projectors.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "What does a ratchet and pawl mechanism allow?",
+    "options": [
+      "Motion in both directions",
+      "Motion in one direction while blocking reverse motion",
+      "Intermittent motion",
+      "Continuous rotation"
+    ],
+    "answer": "Motion in one direction while blocking reverse motion"
+  },
+  {
+    "question": "What historical impact did the ratchet and pawl mechanism have?",
+    "options": [
+      "Reduced material costs",
+      "Improved manufacturing efficiency",
+      "Greatly improved safety of lifting and hoisting operations",
+      "Enabled faster transportation"
+    ],
+    "answer": "Greatly improved safety of lifting and hoisting operations"
+  },
+  {
+    "question": "What determines how forces are transmitted from the pawl into the ratchet wheel?",
+    "options": [
+      "The spring preload",
+      "The number of teeth",
+      "The tooth angle",
+      "The material selection"
+    ],
+    "answer": "The tooth angle"
+  },
+  {
+    "question": "What is an Oldham coupling used for?",
+    "options": [
+      "Allowing intermittent motion",
+      "Connecting shafts at right angles",
+      "Converting rotation into linear motion",
+      "Transmitting torque between parallel shafts that are laterally misaligned"
+    ],
+    "answer": "Transmitting torque between parallel shafts that are laterally misaligned"
+  },
+  {
+    "question": "How many times per revolution does the center disc in an Oldham coupling undergo sinusoidal displacement?",
+    "options": [
+      "Three times",
+      "Once",
+      "Four times",
+      "Twice"
+    ],
+    "answer": "Twice"
+  },
+  {
+    "question": "What is the four-bar linkage considered to be?",
+    "options": [
+      "A modern invention",
+      "Only used in automotive applications",
+      "The most fundamental planar mechanism in mechanical design",
+      "The most complex planar mechanism"
+    ],
+    "answer": "The most fundamental planar mechanism in mechanical design"
+  },
+  {
+    "question": "What type of foundation does the four-bar linkage engineering foundation rely on?",
+    "options": [
+      "Fluid dynamics",
+      "Electronic control",
+      "Purely geometric",
+      "Material properties"
+    ],
+    "answer": "Purely geometric"
+  },
+  {
+    "question": "What does Grashof's law help determine in four-bar linkage design?",
+    "options": [
+      "The type of motion possible",
+      "Manufacturing costs",
+      "Fatigue life",
+      "Material selection"
+    ],
+    "answer": "The type of motion possible"
+  },
+  {
+    "question": "How does a Scotch yoke differ from a traditional crank-slider mechanism?",
+    "options": [
+      "The displacement becomes a sinusoidal function of the crank angle",
+      "It produces uniform motion",
+      "It requires electronic control",
+      "It has more moving parts"
+    ],
+    "answer": "The displacement becomes a sinusoidal function of the crank angle"
+  },
+  {
+    "question": "Where do acceleration peaks occur in a Scotch yoke mechanism?",
+    "options": [
+      "At the extremes of travel",
+      "At constant velocity points",
+      "At the midpoint of travel",
+      "During the dwell period"
+    ],
+    "answer": "At the extremes of travel"
+  },
+  {
+    "question": "What is a leaf spring?",
+    "options": [
+      "An electronic suspension system",
+      "A coil spring used in suspension",
+      "A hydraulic suspension component",
+      "A slender beam or stack of beams that operates primarily in bending"
+    ],
+    "answer": "A slender beam or stack of beams that operates primarily in bending"
+  },
+  {
+    "question": "What introduces nonlinear behavior and hysteresis in multileaf springs?",
+    "options": [
+      "Material properties",
+      "Friction between the leaves",
+      "Temperature changes",
+      "Manufacturing tolerances"
+    ],
+    "answer": "Friction between the leaves"
+  },
+  {
+    "question": "What engineering analysis framework is used to understand leaf spring behavior?",
+    "options": [
+      "Beam theory",
+      "Fluid dynamics",
+      "Thermodynamics",
+      "Electromagnetic theory"
+    ],
+    "answer": "Beam theory"
+  },
+  {
+    "question": "According to the video, what makes modern mechanical designs effective?",
+    "options": [
+      "High material costs",
+      "Electronic controls",
+      "Complex computer algorithms",
+      "Predictable kinematics, optimized manufacturability, and ability to scale across industries"
+    ],
+    "answer": "Predictable kinematics, optimized manufacturability, and ability to scale across industries"
+  },
+  {
+    "question": "What do the best mechanical engineers understand about mechanisms?",
+    "options": [
+      "Only material properties",
+      "Mechanisms at a system level, where motion originates and where loads flow",
+      "Only manufacturing processes",
+      "Only the mathematical equations"
+    ],
+    "answer": "Mechanisms at a system level, where motion originates and where loads flow"
+  },
+  {
+    "question": "What is a cam?",
+    "options": [
+      "A type of gear",
+      "A hydraulic component",
+      "A linear actuator",
+      "A shaped rotating body that produces a prescribed follower motion"
+    ],
+    "answer": "A shaped rotating body that produces a prescribed follower motion"
+  },
+  {
+    "question": "What is a follower in a cam mechanism?",
+    "options": [
+      "The rotating shaft",
+      "The component that follows the cam profile and produces the desired motion",
+      "The lubrication system",
+      "The housing"
+    ],
+    "answer": "The component that follows the cam profile and produces the desired motion"
+  },
+  {
+    "question": "What is jerk in cam design?",
+    "options": [
+      "The maximum displacement",
+      "The contact force",
+      "The rate of change of velocity",
+      "The rate of change of acceleration"
+    ],
+    "answer": "The rate of change of acceleration"
+  },
+  {
+    "question": "What is inverse kinematics in cam design?",
+    "options": [
+      "The process of determining the cam profile from the desired follower motion",
+      "Determining follower motion from cam profile",
+      "Calculating forces",
+      "Material selection"
+    ],
+    "answer": "The process of determining the cam profile from the desired follower motion"
+  },
+  {
+    "question": "What is the index ratio in a Geneva mechanism?",
+    "options": [
+      "The speed ratio",
+      "The relationship between the number of slots and the resulting motion characteristics",
+      "The force ratio",
+      "The relationship between pin and slot sizes"
+    ],
+    "answer": "The relationship between the number of slots and the resulting motion characteristics"
+  },
+  {
+    "question": "What is a dwell period in a Geneva mechanism?",
+    "options": [
+      "The time during engagement",
+      "The acceleration period",
+      "The deceleration period",
+      "The time during which the driven wheel remains stationary after the pin disengages"
+    ],
+    "answer": "The time during which the driven wheel remains stationary after the pin disengages"
+  },
+  {
+    "question": "What is a ratchet?",
+    "options": [
+      "A type of gear",
+      "A linear actuator",
+      "A mechanism with asymmetric geometry and ramp teeth that allows motion in one direction",
+      "A mechanism with symmetric geometry"
+    ],
+    "answer": "A mechanism with asymmetric geometry and ramp teeth that allows motion in one direction"
+  },
+  {
+    "question": "What is a pawl?",
+    "options": [
+      "The spring",
+      "The rotating component",
+      "The component in a ratchet mechanism that blocks reverse motion",
+      "The housing"
+    ],
+    "answer": "The component in a ratchet mechanism that blocks reverse motion"
+  },
+  {
+    "question": "What is back-driving?",
+    "options": [
+      "When a load forces a mechanism to move in the reverse direction",
+      "The disengagement process",
+      "Forward motion of a mechanism",
+      "The engagement process"
+    ],
+    "answer": "When a load forces a mechanism to move in the reverse direction"
+  },
+  {
+    "question": "What is an Oldham coupling?",
+    "options": [
+      "A rigid coupling",
+      "A coupling used to transmit torque between two parallel shafts that are laterally misaligned",
+      "A gear coupling",
+      "A flexible coupling"
+    ],
+    "answer": "A coupling used to transmit torque between two parallel shafts that are laterally misaligned"
+  },
+  {
+    "question": "What is lateral misalignment?",
+    "options": [
+      "When two shafts are parallel but offset from each other",
+      "Axial misalignment",
+      "Angular misalignment between shafts",
+      "Torsional misalignment"
+    ],
+    "answer": "When two shafts are parallel but offset from each other"
+  },
+  {
+    "question": "What is a four-bar linkage?",
+    "options": [
+      "A fundamental planar mechanism consisting of four rigid links connected by pin joints",
+      "A three-dimensional mechanism",
+      "A mechanism with five links",
+      "An electronic mechanism"
+    ],
+    "answer": "A fundamental planar mechanism consisting of four rigid links connected by pin joints"
+  },
+  {
+    "question": "What are loop closure equations?",
+    "options": [
+      "Manufacturing equations",
+      "Mathematical equations that define position, velocity, and acceleration in four-bar linkages",
+      "Equations for material selection",
+      "Cost equations"
+    ],
+    "answer": "Mathematical equations that define position, velocity, and acceleration in four-bar linkages"
+  },
+  {
+    "question": "What is a transmission angle?",
+    "options": [
+      "A cost factor",
+      "An angle in material selection",
+      "A manufacturing angle",
+      "An important parameter in four-bar linkage design that affects mechanical advantage"
+    ],
+    "answer": "An important parameter in four-bar linkage design that affects mechanical advantage"
+  },
+  {
+    "question": "What is Grashof's law?",
+    "options": [
+      "A cost principle",
+      "A manufacturing principle",
+      "A principle for material selection",
+      "A principle used in four-bar linkage design to determine the type of motion possible"
+    ],
+    "answer": "A principle used in four-bar linkage design to determine the type of motion possible"
+  },
+  {
+    "question": "What is a Scotch yoke?",
+    "options": [
+      "A hydraulic mechanism",
+      "An electronic mechanism",
+      "A mechanism that converts rotational motion directly into linear motion using a slot and pin arrangement",
+      "A gear mechanism"
+    ],
+    "answer": "A mechanism that converts rotational motion directly into linear motion using a slot and pin arrangement"
+  },
+  {
+    "question": "What is a yoke in a Scotch yoke mechanism?",
+    "options": [
+      "The pin",
+      "The component that moves linearly as the pin slides within the slot",
+      "The rotating component",
+      "The housing"
+    ],
+    "answer": "The component that moves linearly as the pin slides within the slot"
+  },
+  {
+    "question": "What is a leaf spring?",
+    "options": [
+      "A coil spring",
+      "An electronic component",
+      "A suspension design consisting of a slender beam or stack of beams that operates primarily in bending",
+      "A hydraulic component"
+    ],
+    "answer": "A suspension design consisting of a slender beam or stack of beams that operates primarily in bending"
+  },
+  {
+    "question": "What is a multileaf spring?",
+    "options": [
+      "A coil spring",
+      "A hydraulic spring",
+      "A leaf spring design with multiple leaves that share load through friction between the leaves",
+      "A single beam spring"
+    ],
+    "answer": "A leaf spring design with multiple leaves that share load through friction between the leaves"
+  },
+  {
+    "question": "What is hysteresis in multileaf springs?",
+    "options": [
+      "Linear behavior",
+      "Material property",
+      "Nonlinear behavior caused by interleaf friction",
+      "Manufacturing defect"
+    ],
+    "answer": "Nonlinear behavior caused by interleaf friction"
+  },
+  {
+    "question": "What is beam theory?",
+    "options": [
+      "A theory about gears",
+      "The engineering analysis framework used to understand leaf spring behavior",
+      "A theory about electronics",
+      "A theory about hydraulics"
+    ],
+    "answer": "The engineering analysis framework used to understand leaf spring behavior"
+  }
+]
+
