@@ -1,0 +1,122 @@
+[
+  {
+    "question": "According to the material, what best describes recursive self-improvement in AI today?",
+    "options": [
+      "AI systems are fully autonomous with no human role left",
+      "Each model contributes to building later models, with humans still partly in the loop",
+      "Only hardware improvements matter; software does not recursively improve",
+      "Recursive improvement happens only in robotics, not in language models"
+    ],
+    "answer": "Each model contributes to building later models, with humans still partly in the loop"
+  },
+  {
+    "question": "Why does the interview frame energy as central to future intelligence?",
+    "options": [
+      "Because intelligence growth is tied to how much usable power can be harnessed",
+      "Because energy markets are easier to regulate than AI labs",
+      "Because only fossil fuels can support superintelligence",
+      "Because intelligence is measured by electricity price alone"
+    ],
+    "answer": "Because intelligence growth is tied to how much usable power can be harnessed"
+  },
+  {
+    "question": "What is the main reason Musk gives for believing a hard takeoff is already happening?",
+    "options": [
+      "Governments have paused AI safety regulation",
+      "Robotics has replaced all factory workers",
+      "Space manufacturing has reached full automation",
+      "Major AI breakthroughs are arriving at a pace that is difficult to track"
+    ],
+    "answer": "Major AI breakthroughs are arriving at a pace that is difficult to track"
+  },
+  {
+    "question": "How is AI progress characterized in the outline rather than as a single endless exponential curve?",
+    "options": [
+      "As overlapping S-curves with bursts and plateaus",
+      "As a strictly linear trend with no breakthroughs",
+      "As random jumps with no recognizable pattern",
+      "As a one-time discontinuity followed by stagnation"
+    ],
+    "answer": "As overlapping S-curves with bursts and plateaus"
+  },
+  {
+    "question": "Which statement best captures the 10-year macroeconomic forecast presented in the discussion?",
+    "options": [
+      "The economy is expected to shrink due to labor displacement",
+      "A roughly 10x economy is considered plausible absent major geopolitical disruption",
+      "Growth is expected to stay near historical averages only",
+      "Economic output is expected to stop mattering once AGI appears"
+    ],
+    "answer": "A roughly 10x economy is considered plausible absent major geopolitical disruption"
+  },
+  {
+    "question": "What production timeline is described for Optimus 3?",
+    "options": [
+      "Mass production starts immediately with no low-volume phase",
+      "Low-volume start in summer 2026, high-volume around summer 2027",
+      "Prototype only through 2030 with no planned scaling",
+      "Commercial release is canceled in favor of software-only AI"
+    ],
+    "answer": "Low-volume start in summer 2026, high-volume around summer 2027"
+  },
+  {
+    "question": "How does the material describe Tesla's workforce strategy in relation to robotics?",
+    "options": [
+      "Headcount is expected to decline sharply as robots replace humans",
+      "No meaningful change is expected in productivity per worker",
+      "The strategy is to avoid layoffs and increase output per human substantially",
+      "Human labor will be eliminated before Optimus reaches volume production"
+    ],
+    "answer": "The strategy is to avoid layoffs and increase output per human substantially"
+  },
+  {
+    "question": "In the outline's economic argument, what drives persistent deflation?",
+    "options": [
+      "Central banks permanently freezing money supply growth",
+      "Goods and services growing faster than the money supply",
+      "A complete ban on private companies",
+      "Declining energy availability in industrial systems"
+    ],
+    "answer": "Goods and services growing faster than the money supply"
+  },
+  {
+    "question": "What does 'universal high income' mean in the context of the interview?",
+    "options": [
+      "A temporary stimulus policy during recessions",
+      "A minimal guaranteed income designed only for unemployment",
+      "A tax incentive for high-tech companies",
+      "A broad abundance condition where material access rises well beyond subsistence"
+    ],
+    "answer": "A broad abundance condition where material access rises well beyond subsistence"
+  },
+  {
+    "question": "Why does the discussion suggest money may become less relevant in the long run?",
+    "options": [
+      "Because legal systems will ban all digital payment tools",
+      "Because production could eventually exceed aggregate human demand in many domains",
+      "Because inflation will make all currencies unusable within two years",
+      "Because companies will stop producing goods and switch to services only"
+    ],
+    "answer": "Because production could eventually exceed aggregate human demand in many domains"
+  },
+  {
+    "question": "How is the 'singularity' used in the governance discussion?",
+    "options": [
+      "As proof that policy institutions no longer matter",
+      "As a metaphor for why outcomes become harder to predict under rapid change",
+      "As evidence that AI progress will slow to zero",
+      "As a guarantee that all social outcomes will be positive"
+    ],
+    "answer": "As a metaphor for why outcomes become harder to predict under rapid change"
+  },
+  {
+    "question": "What is the strongest healthcare claim associated with advanced AI and robotics in the outline?",
+    "options": [
+      "Medical capability could become broadly accessible at levels exceeding what today's richest individuals receive",
+      "Healthcare quality will remain unchanged while only costs increase",
+      "AI is expected to replace all physicians immediately",
+      "Longevity research is considered unrelated to robotics"
+    ],
+    "answer": "Medical capability could become broadly accessible at levels exceeding what today's richest individuals receive"
+  }
+]
