@@ -20,16 +20,6 @@
     "answer": "Triangles are always guaranteed to be flat"
   },
   {
-    "question": "According to the lecture, what is the typical force range for 3D printing compared to CNC milling?",
-    "options": [
-      "3D printing uses similar forces",
-      "3D printing uses larger forces",
-      "3D printing uses 100 times smaller forces (5N vs 500N)",
-      "Forces are not relevant to the comparison"
-    ],
-    "answer": "3D printing uses 100 times smaller forces (5N vs 500N)"
-  },
-  {
     "question": "What problem does structured light solve in 3D scanning?",
     "options": [
       "The accuracy of measurements",
