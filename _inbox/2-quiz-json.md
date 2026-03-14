@@ -68,7 +68,7 @@ At least half of the questions should require conceptual understanding.
 
 QUANTITY
 
-Generate between **10 and 20 questions total**.
+Generate between **20 and 30 questions total**.
 
 Choose the most important questions necessary to understand the material.
 
