@@ -544,7 +544,9 @@
       index: 0,
       score: 0,
       answers: [],
-      answeredCurrent: false
+      answeredCurrent: false,
+      loadedSourceSignature: "",
+      isLoading: false
     };
 
     const el = {
@@ -657,12 +659,29 @@
     }
 
     /* ── Load state management ── */
-    function setLoadedQuestions(questions) {
+    function getSourceSignature(source) {
+      return String(source || "").trim();
+    }
+
+    function shouldEnableLoadButton() {
+      var currentSourceSignature = getSourceSignature(el.quizSourceInput.value);
+      if (!currentSourceSignature || state.isLoading) return false;
+      if (!state.questions.length) return true;
+      return currentSourceSignature !== state.loadedSourceSignature;
+    }
+
+    function refreshLoadButtonState() {
+      el.loadBtn.disabled = !shouldEnableLoadButton();
+    }
+
+    function setLoadedQuestions(questions, sourceSignature) {
       state.questions = questions;
+      state.loadedSourceSignature = getSourceSignature(sourceSignature);
       el.countPill.textContent = questions.length + " questions ready";
       el.countPill.classList.add("success");
       el.countPill.classList.remove("hide");
       el.loadError.classList.add("hide");
+      refreshLoadButtonState();
     }
 
     function setLoadFailed(message) {
@@ -673,17 +692,19 @@
     }
 
     function setLoadingState(text) {
+      state.isLoading = true;
       el.loadError.classList.add("hide");
       el.countPill.textContent = text;
       el.countPill.classList.remove("success");
       el.countPill.classList.remove("hide");
       el.loadBtn.classList.add("btn-loading");
-      el.loadBtn.disabled = true;
+      refreshLoadButtonState();
     }
 
     function clearLoadingState() {
+      state.isLoading = false;
       el.loadBtn.classList.remove("btn-loading");
-      el.loadBtn.disabled = false;
+      refreshLoadButtonState();
     }
 
     /* ── Load quiz ── */
@@ -701,7 +722,7 @@
         if (parsed !== null) {
           var inlineQuestions = sanitize(parsed);
           if (inlineQuestions.length) {
-            setLoadedQuestions(inlineQuestions);
+            setLoadedQuestions(inlineQuestions, trimmed);
             return;
           }
         }
@@ -722,7 +743,7 @@
             var data = await res.json();
             var questions = sanitize(data);
             if (!questions.length) throw new Error("No valid questions found in this file.");
-            setLoadedQuestions(questions);
+            setLoadedQuestions(questions, trimmed);
             return;
           } catch (err) {
             lastError = err && err.message ? err.message : String(err);
@@ -764,7 +785,10 @@
       el.quizSourceInput.style.height = Math.max(170, el.quizSourceInput.scrollHeight) + "px";
     }
 
-    el.quizSourceInput.addEventListener("input", autoResizeTextarea);
+    el.quizSourceInput.addEventListener("input", function () {
+      autoResizeTextarea();
+      refreshLoadButtonState();
+    });
 
     /* ── Quiz engine ── */
     function resetState(mode) {
@@ -900,6 +924,7 @@
 
     el.quizSourceInput.addEventListener("keydown", function (event) {
       if ((event.ctrlKey || event.metaKey) && event.key === "Enter") {
+        if (el.loadBtn.disabled) return;
         loadQuiz(el.quizSourceInput.value);
       }
     });
@@ -957,6 +982,9 @@
     el.nextBtn.addEventListener("click", nextQuestion);
     el.restartBtn.addEventListener("click", function () { show("start"); });
     el.runAgainBtn.addEventListener("click", function () { show("start"); });
+
+    autoResizeTextarea();
+    refreshLoadButtonState();
     </script>
 </body>
 </html>
