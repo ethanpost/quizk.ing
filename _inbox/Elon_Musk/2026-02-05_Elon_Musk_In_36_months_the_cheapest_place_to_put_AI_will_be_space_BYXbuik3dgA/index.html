@@ -624,20 +624,20 @@
         </ul>
 
         <h3>Question Format</h3>
-        <p>The JSON should be an array of question objects. Each object needs a question string, an array of answer options, and an indicator of the correct answer:</p>
+        <p>The JSON should be an array of question objects. Each object needs a <code>question</code> string, an <code>options</code> array, and an <code>answer</code> that matches one of the options:</p>
 <pre><code>[
   {
     "question": "What is the capital of France?",
     "options": ["Berlin", "Madrid", "Paris", "Rome"],
-    "correct": 2
+    "answer": "Paris"
   },
   {
     "question": "Which planet is closest to the Sun?",
     "options": ["Venus", "Mercury", "Earth", "Mars"],
-    "correct": 1
+    "answer": "Mercury"
   }
 ]</code></pre>
-        <p><code>correct</code> is a zero-based index into the <code>options</code> array. You can also supply a <code>"correct"</code> value as the literal answer string, or provide an <code>"answer"</code> field with the text instead.</p>
+        <p>Alternatively, you can use a <code>"correct"</code> field instead of <code>"answer"</code> &mdash; either as a zero-based index into the <code>options</code> array (e.g. <code>"correct": 2</code>) or as the literal answer string. Both styles work interchangeably.</p>
 
         <h3>Other Details</h3>
         <ul>
