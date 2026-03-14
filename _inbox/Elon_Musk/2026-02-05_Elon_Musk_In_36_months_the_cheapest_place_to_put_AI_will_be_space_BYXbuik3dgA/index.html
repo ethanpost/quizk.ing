@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz Runner</title>
+  <style>
+    :root {
+      --bg-1: #070b16;
+      --bg-2: #111a2f;
+      --card: rgba(20, 28, 49, 0.78);
+      --card-border: rgba(135, 173, 255, 0.28);
+      --text: #e9f0ff;
+      --subtle: #9db1d8;
+      --ok: #2fd38a;
+      --bad: #ff6475;
+      --accent: #5ea5ff;
+      --accent-2: #87f2ff;
+      --shadow: 0 16px 30px rgba(0, 0, 0, 0.35);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 10% 20%, #183463 0%, transparent 40%),
+        radial-gradient(circle at 90% 10%, #133147 0%, transparent 40%),
+        linear-gradient(140deg, var(--bg-1), var(--bg-2));
+      display: grid;
+      place-items: center;
+      padding: 18px;
+    }
+
+    .app {
+      width: min(900px, 100%);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      background: var(--card);
+      backdrop-filter: blur(8px);
+      box-shadow: var(--shadow);
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(1.6rem, 2.4vw, 2rem);
+    }
+
+    .muted {
+      color: var(--subtle);
+      margin: 0 0 14px;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .pill {
+      border: 1px solid rgba(139, 174, 247, 0.35);
+      border-radius: 999px;
+      padding: 6px 10px;
+      color: #bdd2ff;
+      font-size: 0.9rem;
+      background: rgba(87, 117, 178, 0.16);
+    }
+
+    .mode-picker {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      margin-top: 14px;
+    }
+
+    button {
+      border: 0;
+      border-radius: 10px;
+      padding: 10px 14px;
+      color: #f4f8ff;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
+      background: linear-gradient(120deg, #4f8eff, #5f64ff);
+    }
+
+    button:hover {
+      transform: translateY(-1px);
+      filter: brightness(1.05);
+    }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.55;
+      transform: none;
+    }
+
+    .outline {
+      background: transparent;
+      border: 1px solid rgba(127, 160, 230, 0.45);
+      color: #d4e3ff;
+    }
+
+    .question-card {
+      margin-top: 14px;
+      border: 1px solid rgba(136, 172, 247, 0.24);
+      border-radius: 14px;
+      padding: 14px;
+      background: rgba(17, 25, 46, 0.7);
+    }
+
+    .question {
+      font-size: 1.08rem;
+      line-height: 1.45;
+      margin: 0 0 12px;
+    }
+
+    .answers {
+      display: grid;
+      gap: 10px;
+    }
+
+    .answer {
+      border: 1px solid rgba(119, 148, 208, 0.38);
+      border-radius: 10px;
+      background: rgba(32, 45, 78, 0.6);
+      color: var(--text);
+      text-align: left;
+      width: 100%;
+      font-weight: 500;
+      padding: 11px 12px;
+    }
+
+    .answer.correct {
+      border-color: rgba(47, 211, 138, 0.7);
+      background: rgba(47, 211, 138, 0.2);
+      color: #dbffef;
+    }
+
+    .answer.wrong {
+      border-color: rgba(255, 100, 117, 0.75);
+      background: rgba(255, 100, 117, 0.2);
+      color: #ffe8eb;
+    }
+
+    .answer.neutral-dim {
+      opacity: 0.72;
+    }
+
+    .feedback {
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 10px;
+      font-weight: 600;
+    }
+
+    .feedback.ok {
+      background: rgba(47, 211, 138, 0.18);
+      border: 1px solid rgba(47, 211, 138, 0.45);
+      color: #d5ffe9;
+    }
+
+    .feedback.bad {
+      background: rgba(255, 100, 117, 0.18);
+      border: 1px solid rgba(255, 100, 117, 0.45);
+      color: #ffe0e4;
+    }
+
+    .results {
+      margin-top: 14px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .result-item {
+      border: 1px solid rgba(136, 172, 247, 0.24);
+      border-radius: 12px;
+      padding: 10px;
+      background: rgba(19, 30, 58, 0.66);
+    }
+
+    .result-item p {
+      margin: 0 0 8px;
+    }
+
+    .result-item .small {
+      color: #b8c9ef;
+      font-size: 0.93rem;
+      line-height: 1.35;
+    }
+
+    .hide {
+      display: none;
+    }
+
+    .danger {
+      border: 1px solid rgba(255, 120, 120, 0.45);
+      background: rgba(255, 90, 90, 0.16);
+      color: #ffe7ea;
+      border-radius: 10px;
+      padding: 12px;
+      margin-top: 12px;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <h1>AI Quiz Runner</h1>
+    <p class="muted">Loads <code>quiz.json</code> from this folder and runs a randomized multiple-choice quiz.</p>
+
+    <section id="startView">
+      <div class="row">
+        <span class="pill" id="countPill">Loading questions...</span>
+      </div>
+      <div class="mode-picker">
+        <button id="practiceBtn">Practice Mode (instant feedback)</button>
+        <button id="testBtn">Test Mode (results at end)</button>
+      </div>
+      <div id="loadError" class="danger hide"></div>
+    </section>
+
+    <section id="quizView" class="hide">
+      <div class="row">
+        <span class="pill" id="modePill"></span>
+        <span class="pill" id="progressPill"></span>
+        <span class="pill" id="scorePill"></span>
+      </div>
+      <div class="question-card">
+        <p id="questionText" class="question"></p>
+        <div id="answers" class="answers"></div>
+        <div id="feedback" class="feedback hide"></div>
+      </div>
+      <div class="row" style="margin-top: 12px;">
+        <button id="nextBtn">Next</button>
+        <button id="restartBtn" class="outline">Restart</button>
+      </div>
+    </section>
+
+    <section id="resultsView" class="hide">
+      <div class="row">
+        <span class="pill" id="finalScorePill"></span>
+        <button id="runAgainBtn">Run Again</button>
+      </div>
+      <div id="resultsList" class="results"></div>
+    </section>
+  </main>
+
+  <script>
+    "use strict";
+
+    const state = {
+      mode: null,
+      questions: [],
+      index: 0,
+      score: 0,
+      answers: [],
+      answeredCurrent: false
+    };
+
+    const el = {
+      startView: document.getElementById("startView"),
+      quizView: document.getElementById("quizView"),
+      resultsView: document.getElementById("resultsView"),
+      practiceBtn: document.getElementById("practiceBtn"),
+      testBtn: document.getElementById("testBtn"),
+      countPill: document.getElementById("countPill"),
+      loadError: document.getElementById("loadError"),
+      modePill: document.getElementById("modePill"),
+      progressPill: document.getElementById("progressPill"),
+      scorePill: document.getElementById("scorePill"),
+      questionText: document.getElementById("questionText"),
+      answers: document.getElementById("answers"),
+      feedback: document.getElementById("feedback"),
+      nextBtn: document.getElementById("nextBtn"),
+      restartBtn: document.getElementById("restartBtn"),
+      finalScorePill: document.getElementById("finalScorePill"),
+      resultsList: document.getElementById("resultsList"),
+      runAgainBtn: document.getElementById("runAgainBtn")
+    };
+
+    function shuffle(list) {
+      const arr = list.slice();
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        const tmp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = tmp;
+      }
+      return arr;
+    }
+
+    function sanitize(raw) {
+      if (!Array.isArray(raw)) return [];
+      return raw
+        .filter((item) => item && typeof item.question === "string" && Array.isArray(item.options) && typeof item.answer === "string")
+        .map((item) => ({
+          question: item.question.trim(),
+          answer: item.answer.trim(),
+          options: shuffle(item.options.map((x) => String(x).trim()))
+        }))
+        .filter((item) => item.question && item.answer && item.options.length >= 2);
+    }
+
+    async function loadQuiz() {
+      try {
+        const res = await fetch("quiz.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+        state.questions = sanitize(data);
+        if (!state.questions.length) {
+          throw new Error("No valid questions were found in quiz.json.");
+        }
+        el.countPill.textContent = state.questions.length + " questions ready";
+        el.practiceBtn.disabled = false;
+        el.testBtn.disabled = false;
+      } catch (err) {
+        el.countPill.textContent = "Quiz not loaded";
+        el.loadError.classList.remove("hide");
+        el.loadError.textContent =
+          "Could not load quiz.json automatically. If you opened this page with file://, your browser may block fetch. " +
+          "Open this folder in a tiny local server (for example: python -m http.server) and reload.";
+        el.practiceBtn.disabled = true;
+        el.testBtn.disabled = true;
+      }
+    }
+
+    function resetState(mode) {
+      state.mode = mode;
+      state.index = 0;
+      state.score = 0;
+      state.answers = [];
+      state.answeredCurrent = false;
+      // Re-randomize options each run.
+      state.questions = state.questions.map((q) => ({
+        question: q.question,
+        answer: q.answer,
+        options: shuffle(q.options)
+      }));
+    }
+
+    function show(view) {
+      el.startView.classList.toggle("hide", view !== "start");
+      el.quizView.classList.toggle("hide", view !== "quiz");
+      el.resultsView.classList.toggle("hide", view !== "results");
+    }
+
+    function updateHeader() {
+      const total = state.questions.length;
+      el.modePill.textContent = state.mode === "practice" ? "Practice Mode" : "Test Mode";
+      el.progressPill.textContent = "Question " + (state.index + 1) + " / " + total;
+      el.scorePill.textContent = "Score: " + state.score + " / " + total;
+    }
+
+    function setFeedback(text, ok) {
+      el.feedback.textContent = text;
+      el.feedback.className = "feedback " + (ok ? "ok" : "bad");
+    }
+
+    function lockAnswers() {
+      const buttons = el.answers.querySelectorAll("button");
+      buttons.forEach((btn) => {
+        btn.disabled = true;
+      });
+    }
+
+    function renderQuestion() {
+      state.answeredCurrent = false;
+      const q = state.questions[state.index];
+      updateHeader();
+      el.questionText.textContent = q.question;
+      el.answers.innerHTML = "";
+      el.feedback.className = "feedback hide";
+      el.nextBtn.disabled = state.mode === "practice";
+
+      q.options.forEach((option) => {
+        const btn = document.createElement("button");
+        btn.className = "answer";
+        btn.type = "button";
+        btn.textContent = option;
+        btn.addEventListener("click", () => onAnswerSelected(option, btn));
+        el.answers.appendChild(btn);
+      });
+    }
+
+    function onAnswerSelected(selectedOption, selectedButton) {
+      if (state.answeredCurrent) return;
+      state.answeredCurrent = true;
+      const q = state.questions[state.index];
+      const correct = selectedOption === q.answer;
+
+      if (correct) {
+        state.score += 1;
+      }
+
+      state.answers.push({
+        question: q.question,
+        selected: selectedOption,
+        correct: q.answer,
+        isCorrect: correct
+      });
+
+      if (state.mode === "practice") {
+        const buttons = el.answers.querySelectorAll("button");
+        buttons.forEach((btn) => {
+          const value = btn.textContent || "";
+          if (value === q.answer) {
+            btn.classList.add("correct");
+          } else if (btn === selectedButton && !correct) {
+            btn.classList.add("wrong");
+          } else {
+            btn.classList.add("neutral-dim");
+          }
+        });
+        setFeedback(correct ? "Correct. Nice work." : "Not quite. The highlighted answer is correct.", correct);
+        lockAnswers();
+        el.nextBtn.disabled = false;
+      } else {
+        selectedButton.classList.add(correct ? "correct" : "wrong");
+        lockAnswers();
+        el.nextBtn.disabled = false;
+      }
+
+      updateHeader();
+    }
+
+    function nextQuestion() {
+      if (!state.answeredCurrent) return;
+      if (state.index < state.questions.length - 1) {
+        state.index += 1;
+        renderQuestion();
+      } else {
+        renderResults();
+      }
+    }
+
+    function renderResults() {
+      show("results");
+      const total = state.questions.length;
+      const pct = Math.round((state.score / total) * 100);
+      el.finalScorePill.textContent = "Final Score: " + state.score + " / " + total + " (" + pct + "%)";
+      el.resultsList.innerHTML = "";
+
+      state.answers.forEach((item, idx) => {
+        const box = document.createElement("div");
+        box.className = "result-item";
+        box.innerHTML =
+          "<p><strong>Q" + (idx + 1) + ":</strong> " + item.question + "</p>" +
+          "<p class='small'>Your answer: " + item.selected + "</p>" +
+          "<p class='small'>Correct answer: " + item.correct + "</p>" +
+          "<p class='small' style='color:" + (item.isCorrect ? "#9ff5ca" : "#ffb7bf") + ";font-weight:700;'>" +
+          (item.isCorrect ? "Correct" : "Incorrect") + "</p>";
+        el.resultsList.appendChild(box);
+      });
+    }
+
+    function start(mode) {
+      resetState(mode);
+      show("quiz");
+      renderQuestion();
+    }
+
+    el.practiceBtn.addEventListener("click", () => start("practice"));
+    el.testBtn.addEventListener("click", () => start("test"));
+    el.nextBtn.addEventListener("click", nextQuestion);
+    el.restartBtn.addEventListener("click", () => show("start"));
+    el.runAgainBtn.addEventListener("click", () => show("start"));
+
+    el.practiceBtn.disabled = true;
+    el.testBtn.disabled = true;
+    loadQuiz();
+  </script>
+</body>
+</html>
