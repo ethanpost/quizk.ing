@@ -348,12 +348,26 @@
     function normalizePath(path) {
       const cleaned = String(path || "").trim().replace(/\\/g, "/");
       if (!cleaned) return "";
+      if (/^https?:\/\//i.test(cleaned)) return cleaned;
       return cleaned.startsWith("/") ? cleaned.slice(1) : cleaned;
     }
 
+    function getFetchCandidates(path) {
+      const normalized = normalizePath(path);
+      if (!normalized) return [];
+
+      const candidates = [normalized];
+      if (/\/index\.html(\?.*)?$/i.test(normalized)) {
+        candidates.push(normalized.replace(/\/index\.html(\?.*)?$/i, "/quiz.json"));
+      } else if (/\.html(\?.*)?$/i.test(normalized)) {
+        candidates.push(normalized.replace(/\.html(\?.*)?$/i, ".json"));
+      }
+      return [...new Set(candidates)];
+    }
+
     async function loadQuiz(path) {
-      const normalizedPath = normalizePath(path);
-      if (!normalizedPath) {
+      const candidates = getFetchCandidates(path);
+      if (!candidates.length) {
         el.countPill.textContent = "Quiz not loaded";
         el.loadError.classList.remove("hide");
         el.loadError.textContent = "Please enter a JSON file path first.";
@@ -363,29 +377,37 @@
       }
 
       el.loadError.classList.add("hide");
-      el.countPill.textContent = "Loading from " + normalizedPath + "...";
+      el.countPill.textContent = "Loading...";
 
-      try {
-        const res = await fetch(normalizedPath, { cache: "no-store" });
-        if (!res.ok) throw new Error("HTTP " + res.status);
-        const data = await res.json();
-        state.questions = sanitize(data);
-        if (!state.questions.length) {
-          throw new Error("No valid questions were found in this file.");
+      let lastError = "Unknown error";
+      for (const candidate of candidates) {
+        try {
+          el.countPill.textContent = "Loading from " + candidate + "...";
+          const res = await fetch(candidate, { cache: "no-store" });
+          if (!res.ok) throw new Error("HTTP " + res.status);
+          const data = await res.json();
+          state.questions = sanitize(data);
+          if (!state.questions.length) {
+            throw new Error("No valid questions were found in this file.");
+          }
+          el.countPill.textContent = state.questions.length + " questions ready (" + candidate + ")";
+          el.practiceBtn.disabled = false;
+          el.testBtn.disabled = false;
+          return;
+        } catch (err) {
+          lastError = err && err.message ? err.message : String(err);
         }
-        el.countPill.textContent = state.questions.length + " questions ready (" + normalizedPath + ")";
-        el.practiceBtn.disabled = false;
-        el.testBtn.disabled = false;
-      } catch (err) {
-        el.countPill.textContent = "Quiz not loaded";
-        el.loadError.classList.remove("hide");
-        el.loadError.textContent =
-          "Could not load this path: " + normalizedPath + ". " +
-          "If you opened this page with file://, your browser may block fetch. " +
-          "Open the project in a tiny local server (for example: python -m http.server from repo root) and reload.";
-        el.practiceBtn.disabled = true;
-        el.testBtn.disabled = true;
       }
+
+      el.countPill.textContent = "Quiz not loaded";
+      el.loadError.classList.remove("hide");
+      el.loadError.textContent =
+        "Could not load quiz from the provided path. " +
+        "Tried: " + candidates.join(" | ") + ". Last error: " + lastError + ". " +
+        "If you opened this page with file://, your browser may block fetch. " +
+        "Open the project in a tiny local server (for example: python -m http.server from repo root) and reload.";
+      el.practiceBtn.disabled = true;
+      el.testBtn.disabled = true;
     }
 
     function resetState(mode) {
