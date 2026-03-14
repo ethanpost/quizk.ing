@@ -33,6 +33,7 @@
       background: var(--page);
       display: grid;
       place-items: start center;
+      align-content: start;
       padding: 40px 20px;
       line-height: 1.55;
     }
@@ -56,7 +57,7 @@
 
     .subtitle {
       color: var(--muted);
-      margin: 8px 0 0;
+      margin: 8px 0 8px;
       font-size: 1.02rem;
       max-width: 120ch;
     }
@@ -176,8 +177,8 @@
     }
 
     .mode-option.selected {
-      background: #dff5e8;
-      color: #146a38;
+      background: var(--mode-sel-bg, #dff5e8);
+      color: var(--mode-sel-text, #146a38);
     }
 
     .mode-desc {
@@ -192,7 +193,44 @@
       display: flex;
       gap: 10px;
       flex-wrap: wrap;
+      align-items: flex-end;
+    }
+
+    .action-left {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
       align-items: center;
+    }
+
+    .color-picker {
+      display: flex;
+      gap: 5px;
+      align-items: flex-end;
+      margin-left: auto;
+    }
+
+    .color-swatch {
+      width: 26px;
+      height: 30px;
+      border-radius: 6px;
+      border: 2px solid transparent;
+      cursor: pointer;
+      transition: transform 0.12s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+      padding: 0;
+      min-height: 0;
+      background: var(--swatch-color);
+    }
+
+    .color-swatch:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.08);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .color-swatch.active {
+      border-color: var(--text);
+      box-shadow: 0 0 0 2px var(--paper), 0 0 0 4px var(--swatch-color);
     }
 
     button {
@@ -208,7 +246,7 @@
       min-height: 46px;
     }
 
-    button:hover {
+    button:hover:not(:disabled) {
       transform: translateY(-1px);
       filter: brightness(1.03);
       background: var(--brand-hover);
@@ -234,18 +272,18 @@
 
     .pill {
       border: 1px solid var(--line);
-      border-radius: 999px;
+      border-radius: 25px;
       padding: 7px 12px;
       color: #334155;
-      font-size: 0.9rem;
+      font-size: 1rem;
       background: #f8fafc;
       transition: background 0.2s, border-color 0.2s, color 0.2s;
     }
 
     .pill.success {
-      border-color: rgba(31, 122, 70, 0.28);
-      background: #e8f8ee;
-      color: #1f7a46;
+      border-color: var(--focus-ring);
+      background: var(--brand-soft);
+      color: var(--brand);
     }
 
     .row {
@@ -315,16 +353,22 @@
       min-height: 46px;
     }
 
+    .answer:hover:not(:disabled) {
+      background: #f4f5f7;
+      transform: none;
+      filter: none;
+    }
+
     .answer.correct {
-      border-color: rgba(31, 122, 70, 0.5);
-      background: #e8f8ee;
-      color: #155d34;
+      border-color: rgba(74, 222, 128, 0.5);
+      background: #f0fdf4;
+      color: #16a34a;
     }
 
     .answer.wrong {
-      border-color: rgba(185, 28, 28, 0.42);
+      border-color: rgba(252, 165, 165, 0.6);
       background: #fef2f2;
-      color: #991b1b;
+      color: #ef4444;
     }
 
     .answer.neutral-dim { opacity: 0.72; }
@@ -350,7 +394,7 @@
 
     .guide {
       width: min(960px, 100%);
-      margin-top: 0px;
+      margin-top: 14px;
     }
 
     .guide details {
@@ -536,7 +580,7 @@
           aria-label="Quiz source: local path, URL, or raw JSON"></textarea>
 
         <div class="controls-row">
-          <p class="mode-label">Choose mode before loading</p>
+          <p class="mode-label">Choose mode to start</p>
           <div class="mode-toggle">
             <button type="button" class="mode-option selected" data-mode="practice">
               Practice
@@ -550,9 +594,18 @@
         </div>
 
         <div class="action-row">
-          <button id="loadBtn" type="button" title="Ctrl+Enter">Load Quiz</button>
-          <button id="uploadBtn" class="outline" type="button">Upload .json</button>
-          <span id="countPill" class="pill hide"></span>
+          <div class="action-left">
+            <button id="loadBtn" type="button" title="Ctrl+Enter">Load Quiz</button>
+            <button id="uploadBtn" class="outline" type="button">Upload .json</button>
+            <span id="countPill" class="pill hide"></span>
+          </div>
+          <div class="color-picker">
+            <button type="button" class="color-swatch active" data-theme="green"  style="--swatch-color:#00ad45" title="Green"></button>
+            <button type="button" class="color-swatch" data-theme="blue"   style="--swatch-color:#2563eb" title="Blue"></button>
+            <button type="button" class="color-swatch" data-theme="yellow" style="--swatch-color:#eab308" title="Yellow"></button>
+            <button type="button" class="color-swatch" data-theme="orange" style="--swatch-color:#ea580c" title="Orange"></button>
+            <button type="button" class="color-swatch" data-theme="red"    style="--swatch-color:#dc2626" title="Red"></button>
+          </div>
         </div>
 
         <div id="dropOverlay" class="drop-overlay" aria-hidden="true">Drop JSON file here…</div>
@@ -792,7 +845,7 @@
     function setLoadedQuestions(questions, sourceSignature) {
       state.questions = questions;
       state.loadedSourceSignature = getSourceSignature(sourceSignature);
-      el.countPill.textContent = questions.length + " questions ready";
+      el.countPill.textContent = questions.length + " questions loaded";
       el.countPill.classList.add("success");
       el.countPill.classList.remove("hide");
       el.loadError.classList.add("hide");
@@ -885,7 +938,6 @@
         setLoadingState("Reading " + file.name + "\u2026");
         var text = await file.text();
         el.quizSourceInput.value = text;
-        autoResizeTextarea();
         clearLoadingState();
         await loadQuiz(text, "file: " + file.name);
       } catch (err) {
@@ -1094,6 +1146,46 @@
 
     autoResizeTextarea();
     refreshLoadButtonState();
+
+    /* ── Color theme switcher ── */
+    var themes = {
+      green:  { brand: "#00ad45", hover: "#00953b", soft: "rgba(0,173,69,0.08)",   ring: "rgba(0,173,69,0.28)",   sel: "#dff5e8", selText: "#146a38" },
+      blue:   { brand: "#2563eb", hover: "#1d4ed8", soft: "rgba(37,99,235,0.08)",   ring: "rgba(37,99,235,0.28)",  sel: "#dbeafe", selText: "#1e40af" },
+      yellow: { brand: "#eab308", hover: "#ca8a04", soft: "rgba(234,179,8,0.10)",   ring: "rgba(234,179,8,0.30)",  sel: "#fef9c3", selText: "#854d0e" },
+      orange: { brand: "#ea580c", hover: "#c2410c", soft: "rgba(234,88,12,0.08)",   ring: "rgba(234,88,12,0.28)",  sel: "#ffedd5", selText: "#9a3412" },
+      red:    { brand: "#dc2626", hover: "#b91c1c", soft: "rgba(220,38,38,0.08)",   ring: "rgba(220,38,38,0.28)",  sel: "#fee2e2", selText: "#991b1b" }
+    };
+
+    function applyTheme(name, save) {
+      var t = themes[name];
+      if (!t) return;
+      var r = document.documentElement.style;
+      r.setProperty("--brand", t.brand);
+      r.setProperty("--brand-hover", t.hover);
+      r.setProperty("--brand-soft", t.soft);
+      r.setProperty("--focus-ring", t.ring);
+      r.setProperty("--mode-sel-bg", t.sel);
+      r.setProperty("--mode-sel-text", t.selText);
+      document.querySelectorAll(".color-swatch").forEach(function (s) {
+        s.classList.toggle("active", s.dataset.theme === name);
+      });
+      if (save !== false) {
+        try { localStorage.setItem("quizking-theme", name); } catch (e) {}
+      }
+    }
+
+    document.querySelectorAll(".color-swatch").forEach(function (swatch) {
+      swatch.addEventListener("click", function (e) {
+        e.stopPropagation();
+        applyTheme(swatch.dataset.theme);
+      });
+    });
+
+    try {
+      var saved = localStorage.getItem("quizking-theme");
+      if (saved && themes[saved]) applyTheme(saved, false);
+    } catch (e) {}
+
     </script>
 </body>
 </html>
