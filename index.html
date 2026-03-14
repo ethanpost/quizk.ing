@@ -826,6 +826,15 @@
       try { return JSON.parse(source); } catch (err) { return null; }
     }
 
+    function getQuizSourceFromQuery() {
+      try {
+        var params = new URLSearchParams(window.location.search || "");
+        var value = params.get("url");
+        if (value && value.trim()) return value.trim();
+      } catch (err) {}
+      return "";
+    }
+
     /* ── Load state management ── */
     function getSourceSignature(source) {
       return String(source || "").trim();
@@ -1146,6 +1155,15 @@
 
     autoResizeTextarea();
     refreshLoadButtonState();
+
+    (async function bootstrapFromQueryParam() {
+      var sourceFromQuery = getQuizSourceFromQuery();
+      if (!sourceFromQuery) return;
+      el.quizSourceInput.value = sourceFromQuery;
+      autoResizeTextarea();
+      refreshLoadButtonState();
+      await loadQuiz(sourceFromQuery, "query parameter");
+    })();
 
     /* ── Color theme switcher ── */
     var themes = {
