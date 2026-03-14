@@ -78,12 +78,11 @@
 
     .loader {
       display: grid;
-      grid-template-columns: 1fr auto;
       gap: 10px;
       margin-top: 14px;
     }
 
-    .path-input {
+    .source-input {
       width: 100%;
       border: 1px solid #d4d0c4;
       border-radius: 10px;
@@ -91,11 +90,38 @@
       color: #202a31;
       padding: 10px 12px;
       font-size: 0.95rem;
+      min-height: 120px;
+      resize: vertical;
+      line-height: 1.4;
     }
 
-    .path-input:focus {
+    .source-input:focus {
       outline: 2px solid rgba(47, 111, 106, 0.35);
       outline-offset: 1px;
+    }
+
+    .loader-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .drop-zone {
+      border: 1px dashed #bdb8a8;
+      background: #f8f6ee;
+      color: #5c666e;
+      border-radius: 10px;
+      padding: 12px;
+      cursor: pointer;
+      font-size: 0.93rem;
+      transition: background 0.15s ease, border-color 0.15s ease;
+    }
+
+    .drop-zone:hover,
+    .drop-zone.active {
+      background: #f2efe3;
+      border-color: #9b9686;
     }
 
     button {
@@ -232,22 +258,24 @@
 <body>
   <main class="app">
     <h1>AI Quiz Runner</h1>
-    <p class="muted">Enter the path to a quiz JSON file, then run a randomized multiple-choice quiz.</p>
+    <p class="muted">Paste a path/URL, paste raw JSON, or drop a JSON file, then run a randomized multiple-choice quiz.</p>
 
     <section id="startView">
       <div class="loader">
-        <input
-          id="quizPathInput"
-          class="path-input"
-          type="text"
+        <textarea
+          id="quizSourceInput"
+          class="source-input"
           spellcheck="false"
-          placeholder="_inbox/.../quiz.json"
-          value="_inbox/Elon_Musk/2026-02-05_Elon_Musk_In_36_months_the_cheapest_place_to_put_AI_will_be_space_BYXbuik3dgA/quiz.json"
-          aria-label="Path to quiz json file">
-        <button id="loadBtn" type="button">Load Quiz</button>
+          placeholder="Paste path, URL, or raw JSON here"
+          aria-label="Path, url, or raw quiz json">_inbox/Elon_Musk/2026-02-05_Elon_Musk_In_36_months_the_cheapest_place_to_put_AI_will_be_space_BYXbuik3dgA/quiz.json</textarea>
+        <div class="loader-actions">
+          <button id="loadBtn" type="button">Load Quiz</button>
+          <div id="dropZone" class="drop-zone" role="button" tabindex="0">Drop .json file here or click to choose</div>
+          <input id="fileInput" type="file" accept=".json,application/json" class="hide" aria-hidden="true">
+        </div>
       </div>
       <div class="row">
-        <span class="pill" id="countPill">Enter a path and load quiz</span>
+        <span class="pill" id="countPill">Paste source and click Load Quiz</span>
       </div>
       <div class="mode-picker">
         <button id="practiceBtn">Practice Mode (instant feedback)</button>
@@ -300,8 +328,10 @@
       resultsView: document.getElementById("resultsView"),
       practiceBtn: document.getElementById("practiceBtn"),
       testBtn: document.getElementById("testBtn"),
-      quizPathInput: document.getElementById("quizPathInput"),
+      quizSourceInput: document.getElementById("quizSourceInput"),
       loadBtn: document.getElementById("loadBtn"),
+      dropZone: document.getElementById("dropZone"),
+      fileInput: document.getElementById("fileInput"),
       countPill: document.getElementById("countPill"),
       loadError: document.getElementById("loadError"),
       modePill: document.getElementById("modePill"),
@@ -329,8 +359,8 @@
     }
 
     function sanitize(raw) {
-      if (!Array.isArray(raw)) return [];
-      return raw
+      const list = Array.isArray(raw) ? raw : (raw && Array.isArray(raw.questions) ? raw.questions : []);
+      return list
         .filter((item) => item && typeof item.question === "string" && Array.isArray(item.options) && typeof item.answer === "string")
         .map((item) => ({
           question: item.question.trim(),
@@ -360,12 +390,28 @@
       return [...new Set(candidates)];
     }
 
-    async function loadQuiz(path) {
-      const candidates = getFetchCandidates(path);
-      if (!candidates.length) {
+    function setLoadedQuestions(questions, sourceLabel) {
+      state.questions = questions;
+      el.countPill.textContent = questions.length + " questions ready (" + sourceLabel + ")";
+      el.practiceBtn.disabled = false;
+      el.testBtn.disabled = false;
+      el.loadError.classList.add("hide");
+    }
+
+    function parseJsonIfPossible(source) {
+      try {
+        return JSON.parse(source);
+      } catch (err) {
+        return null;
+      }
+    }
+
+    async function loadQuiz(source, sourceLabel) {
+      const trimmed = String(source || "").trim();
+      if (!trimmed) {
         el.countPill.textContent = "Quiz not loaded";
         el.loadError.classList.remove("hide");
-        el.loadError.textContent = "Please enter a JSON file path first.";
+        el.loadError.textContent = "Please paste a path/URL, raw JSON, or drop a file first.";
         el.practiceBtn.disabled = true;
         el.testBtn.disabled = true;
         return;
@@ -373,6 +419,25 @@
 
       el.loadError.classList.add("hide");
       el.countPill.textContent = "Loading...";
+
+      const parsed = parseJsonIfPossible(trimmed);
+      if (parsed !== null) {
+        const inlineQuestions = sanitize(parsed);
+        if (inlineQuestions.length) {
+          setLoadedQuestions(inlineQuestions, sourceLabel || "inline JSON");
+          return;
+        }
+      }
+
+      const candidates = getFetchCandidates(trimmed);
+      if (!candidates.length) {
+        el.countPill.textContent = "Quiz not loaded";
+        el.loadError.classList.remove("hide");
+        el.loadError.textContent = "Could not detect valid JSON or a valid path/URL.";
+        el.practiceBtn.disabled = true;
+        el.testBtn.disabled = true;
+        return;
+      }
 
       let lastError = "Unknown error";
       for (const candidate of candidates) {
@@ -385,9 +450,7 @@
           if (!state.questions.length) {
             throw new Error("No valid questions were found in this file.");
           }
-          el.countPill.textContent = state.questions.length + " questions ready (" + candidate + ")";
-          el.practiceBtn.disabled = false;
-          el.testBtn.disabled = false;
+          setLoadedQuestions(state.questions, candidate);
           return;
         } catch (err) {
           lastError = err && err.message ? err.message : String(err);
@@ -403,6 +466,22 @@
         "Open the project in a tiny local server (for example: python -m http.server from repo root) and reload.";
       el.practiceBtn.disabled = true;
       el.testBtn.disabled = true;
+    }
+
+    async function loadFromFile(file) {
+      if (!file) return;
+      try {
+        el.countPill.textContent = "Reading file " + file.name + "...";
+        const text = await file.text();
+        el.quizSourceInput.value = text;
+        await loadQuiz(text, "file: " + file.name);
+      } catch (err) {
+        el.countPill.textContent = "Quiz not loaded";
+        el.loadError.classList.remove("hide");
+        el.loadError.textContent = "Could not read dropped file.";
+        el.practiceBtn.disabled = true;
+        el.testBtn.disabled = true;
+      }
     }
 
     function resetState(mode) {
@@ -542,11 +621,35 @@
 
     el.practiceBtn.addEventListener("click", () => start("practice"));
     el.testBtn.addEventListener("click", () => start("test"));
-    el.loadBtn.addEventListener("click", () => loadQuiz(el.quizPathInput.value));
-    el.quizPathInput.addEventListener("keydown", (event) => {
-      if (event.key === "Enter") {
-        loadQuiz(el.quizPathInput.value);
+    el.loadBtn.addEventListener("click", () => loadQuiz(el.quizSourceInput.value));
+    el.quizSourceInput.addEventListener("keydown", (event) => {
+      if ((event.ctrlKey || event.metaKey) && event.key === "Enter") {
+        loadQuiz(el.quizSourceInput.value);
       }
+    });
+    el.dropZone.addEventListener("click", () => el.fileInput.click());
+    el.dropZone.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        el.fileInput.click();
+      }
+    });
+    el.fileInput.addEventListener("change", () => {
+      const file = el.fileInput.files && el.fileInput.files[0];
+      loadFromFile(file);
+    });
+    el.dropZone.addEventListener("dragover", (event) => {
+      event.preventDefault();
+      el.dropZone.classList.add("active");
+    });
+    el.dropZone.addEventListener("dragleave", () => {
+      el.dropZone.classList.remove("active");
+    });
+    el.dropZone.addEventListener("drop", (event) => {
+      event.preventDefault();
+      el.dropZone.classList.remove("active");
+      const file = event.dataTransfer && event.dataTransfer.files && event.dataTransfer.files[0];
+      loadFromFile(file);
     });
     el.nextBtn.addEventListener("click", nextQuestion);
     el.restartBtn.addEventListener("click", () => show("start"));
