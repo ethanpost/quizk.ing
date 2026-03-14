@@ -110,6 +110,7 @@ If the subfolder does not exist, create it.
 
 Move the following files into the subfolder:
 
+transcript.txt
 outline.md
 quiz.json
 quiz.md
@@ -118,6 +119,12 @@ summary.md
 Do **NOT rename the files**.
 
 Only move them.
+
+After moving, create a **new blank file** named:
+
+transcript.txt
+
+in the current working directory (`_inbox`) so it is ready for the next transcript.
 
 ---
 
@@ -134,6 +141,8 @@ Moved outline.md
 Moved quiz.json
 Moved quiz.md
 Moved summary.md
+Moved transcript.txt
+Created blank transcript.txt in _inbox
 ```
 
 ---
@@ -142,7 +151,7 @@ Moved summary.md
 
 • Do not rename files
 • Do not modify file contents
-• Only create folders and move files
+• Only create folders, move files, and create a new blank `_inbox/transcript.txt` after moving
 • Use metadata exactly as found in outline.md
 • Replace spaces in titles with underscores
 • Remove punctuation and special characters from folder names
@@ -154,8 +163,12 @@ Moved summary.md
 ```
 Veritasium/
    2026-03-09_The_Obvious_Problem_That_No_One_Can_Agree_On/
+        transcript.txt
         outline.md
         quiz.json
         quiz.md
         summary.md
+
+_inbox/
+   transcript.txt
 ```
