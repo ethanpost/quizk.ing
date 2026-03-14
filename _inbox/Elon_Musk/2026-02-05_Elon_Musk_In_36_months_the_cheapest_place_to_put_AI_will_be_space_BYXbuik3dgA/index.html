@@ -81,6 +81,28 @@
       margin-top: 14px;
     }
 
+    .loader {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .path-input {
+      width: 100%;
+      border: 1px solid rgba(127, 160, 230, 0.45);
+      border-radius: 10px;
+      background: rgba(12, 20, 40, 0.72);
+      color: var(--text);
+      padding: 10px 12px;
+      font-size: 0.95rem;
+    }
+
+    .path-input:focus {
+      outline: 2px solid rgba(94, 165, 255, 0.5);
+      outline-offset: 1px;
+    }
+
     button {
       border: 0;
       border-radius: 10px;
@@ -215,11 +237,22 @@
 <body>
   <main class="app">
     <h1>AI Quiz Runner</h1>
-    <p class="muted">Loads <code>quiz.json</code> from this folder and runs a randomized multiple-choice quiz.</p>
+    <p class="muted">Enter the path to a quiz JSON file, then run a randomized multiple-choice quiz.</p>
 
     <section id="startView">
+      <div class="loader">
+        <input
+          id="quizPathInput"
+          class="path-input"
+          type="text"
+          spellcheck="false"
+          placeholder="_inbox/.../quiz.json"
+          value="_inbox/Elon_Musk/2026-02-05_Elon_Musk_In_36_months_the_cheapest_place_to_put_AI_will_be_space_BYXbuik3dgA/quiz.json"
+          aria-label="Path to quiz json file">
+        <button id="loadBtn" type="button">Load Quiz</button>
+      </div>
       <div class="row">
-        <span class="pill" id="countPill">Loading questions...</span>
+        <span class="pill" id="countPill">Enter a path and load quiz</span>
       </div>
       <div class="mode-picker">
         <button id="practiceBtn">Practice Mode (instant feedback)</button>
@@ -272,6 +305,8 @@
       resultsView: document.getElementById("resultsView"),
       practiceBtn: document.getElementById("practiceBtn"),
       testBtn: document.getElementById("testBtn"),
+      quizPathInput: document.getElementById("quizPathInput"),
+      loadBtn: document.getElementById("loadBtn"),
       countPill: document.getElementById("countPill"),
       loadError: document.getElementById("loadError"),
       modePill: document.getElementById("modePill"),
@@ -310,24 +345,44 @@
         .filter((item) => item.question && item.answer && item.options.length >= 2);
     }
 
-    async function loadQuiz() {
+    function normalizePath(path) {
+      const cleaned = String(path || "").trim().replace(/\\/g, "/");
+      if (!cleaned) return "";
+      return cleaned.startsWith("/") ? cleaned.slice(1) : cleaned;
+    }
+
+    async function loadQuiz(path) {
+      const normalizedPath = normalizePath(path);
+      if (!normalizedPath) {
+        el.countPill.textContent = "Quiz not loaded";
+        el.loadError.classList.remove("hide");
+        el.loadError.textContent = "Please enter a JSON file path first.";
+        el.practiceBtn.disabled = true;
+        el.testBtn.disabled = true;
+        return;
+      }
+
+      el.loadError.classList.add("hide");
+      el.countPill.textContent = "Loading from " + normalizedPath + "...";
+
       try {
-        const res = await fetch("quiz.json", { cache: "no-store" });
+        const res = await fetch(normalizedPath, { cache: "no-store" });
         if (!res.ok) throw new Error("HTTP " + res.status);
         const data = await res.json();
         state.questions = sanitize(data);
         if (!state.questions.length) {
-          throw new Error("No valid questions were found in quiz.json.");
+          throw new Error("No valid questions were found in this file.");
         }
-        el.countPill.textContent = state.questions.length + " questions ready";
+        el.countPill.textContent = state.questions.length + " questions ready (" + normalizedPath + ")";
         el.practiceBtn.disabled = false;
         el.testBtn.disabled = false;
       } catch (err) {
         el.countPill.textContent = "Quiz not loaded";
         el.loadError.classList.remove("hide");
         el.loadError.textContent =
-          "Could not load quiz.json automatically. If you opened this page with file://, your browser may block fetch. " +
-          "Open this folder in a tiny local server (for example: python -m http.server) and reload.";
+          "Could not load this path: " + normalizedPath + ". " +
+          "If you opened this page with file://, your browser may block fetch. " +
+          "Open the project in a tiny local server (for example: python -m http.server from repo root) and reload.";
         el.practiceBtn.disabled = true;
         el.testBtn.disabled = true;
       }
@@ -470,13 +525,18 @@
 
     el.practiceBtn.addEventListener("click", () => start("practice"));
     el.testBtn.addEventListener("click", () => start("test"));
+    el.loadBtn.addEventListener("click", () => loadQuiz(el.quizPathInput.value));
+    el.quizPathInput.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        loadQuiz(el.quizPathInput.value);
+      }
+    });
     el.nextBtn.addEventListener("click", nextQuestion);
     el.restartBtn.addEventListener("click", () => show("start"));
     el.runAgainBtn.addEventListener("click", () => show("start"));
 
     el.practiceBtn.disabled = true;
     el.testBtn.disabled = true;
-    loadQuiz();
   </script>
 </body>
 </html>
