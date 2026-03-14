@@ -1,12 +1,8 @@
-FILE: outline.md
-
----
-
-title: Elon Musk: Optimus 3 Is Coming
-author: Peter H. Diamandis
-source_url: https://www.youtube.com/watch?v=N5KCm_55xeQ
-publish_date: 2026-03-11
-folder: Elon_Musk
+Title: Elon Musk: Optimus 3 Is Coming
+Author: Peter H. Diamandis
+Source: https://www.youtube.com/watch?v=N5KCm_55xeQ
+Date: 2026-03-11
+Folder: Elon_Musk
 -------
 
 # Detailed Outline

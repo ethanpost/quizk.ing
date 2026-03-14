@@ -1,9 +1,8 @@
----
+
 Title: Bret Taylor of Sierra on AI Agents, Outcome-Based Pricing, and the OpenAI Board
-Author: Stripe
-Source: "https://www.youtube.com/watch?v=n4E4xNYCkYM"
-Published: "2026-03-10"
-Folder: "Stripe"
+Source: https://www.youtube.com/watch?v=n4E4xNYCkYM
+Date: 2026-03-10
+Folder: Stripe
 ---
 
 # Detailed Outline

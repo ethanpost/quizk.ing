@@ -1,9 +1,8 @@
----
-title: Elon Musk – "In 36 months, the cheapest place to put AI will be space"
-author: Dwarkesh Podcast
-source_url: https://www.youtube.com/watch?v=BYXbuik3dgA
-publish_date: 2026-02-05
-folder: Elon_Musk
+Title: Elon Musk – "In 36 months, the cheapest place to put AI will be space"
+Author: Dwarkesh Podcast
+Source: https://www.youtube.com/watch?v=BYXbuik3dgA
+Date: 2026-02-05
+Folder: Elon_Musk
 -------
 
 # Detailed Outline

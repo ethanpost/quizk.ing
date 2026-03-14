@@ -1,8 +1,8 @@
-title: Judicial Sex-Leveling & The Decline of VMI  
-author: New Saint Andrews College  
-source_url: https://www.youtube.com/watch?v=fi8aypguw_E  
-publish_date: 2026-02-04  
-folder: New_Saint_Andrews_College  
+Title: Judicial Sex-Leveling & The Decline of VMI  
+Author: New Saint Andrews College  
+Source: https://www.youtube.com/watch?v=fi8aypguw_E  
+Date: 2026-02-04  
+Folder: New_Saint_Andrews_College  
 -------
 
 # Detailed Outline
