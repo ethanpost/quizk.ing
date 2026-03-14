@@ -675,6 +675,9 @@
           <li><strong>URL</strong> &mdash; enter a public URL pointing to a <code>.json</code> file. If you enter an <code>.html</code> URL the loader will also try a matching <code>.json</code> path automatically.</li>
           <li><strong>File upload</strong> &mdash; click <em>Upload .json</em> or drag a file onto the input area.</li>
         </ul>
+        <p>You can also prefill the loader by opening Quiz King with a <code>?url=</code> query parameter in the page URL.</p>
+<pre><code>https://ethanpost.github.io/quizk.ing/index.html?url=https://example.com/quiz.json</code></pre>
+        <p>Use <code>url</code> as the parameter name, and make sure the value points to a publicly accessible JSON file.</p>
 
         <h3>Question Format</h3>
         <p>The JSON should be an array of question objects. Each object needs a <code>question</code> string, an <code>options</code> array, and an <code>answer</code> that matches one of the options:</p>
