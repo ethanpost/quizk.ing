@@ -6,138 +6,237 @@
   <title>Quiz Runner</title>
   <style>
     :root {
-      --bg: #f6f5ef;
-      --card: #ffffff;
-      --card-border: #dbd7cc;
-      --text: #1f2a2e;
-      --subtle: #6d767c;
-      --ok: #2f7d5a;
-      --bad: #b14646;
-      --accent: #2f6f6a;
-      --accent-2: #3f7f77;
-      --shadow: 0 1px 0 rgba(0, 0, 0, 0.02), 0 8px 24px rgba(46, 55, 64, 0.06);
+      --page: #f3f1e9;
+      --paper: #fffdf7;
+      --surface: #fbf8ef;
+      --line: #d8d2c3;
+      --line-strong: #c3bba9;
+      --text: #222b2f;
+      --muted: #687379;
+      --brand: #1d7f76;
+      --brand-press: #186860;
+      --brand-subtle: rgba(29, 127, 118, 0.07);
+      --ok: #2a7a53;
+      --bad: #a94747;
+      --radius: 12px;
+      --shadow: 0 1px 0 rgba(30, 42, 50, 0.03), 0 10px 30px rgba(20, 30, 36, 0.05);
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      min-height: 100vh;
+      min-height: 100dvh;
       font-family: "Avenir Next", "Segoe UI", "Inter", Arial, sans-serif;
       color: var(--text);
-      background: var(--bg);
+      background: var(--page);
       display: grid;
-      place-items: center;
-      padding: 18px;
+      place-items: start center;
+      padding: 40px 20px;
     }
 
     .app {
-      width: min(900px, 100%);
-      border: 1px solid var(--card-border);
-      border-radius: 12px;
-      background: #fffefb;
+      width: min(920px, 100%);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: var(--paper);
       box-shadow: var(--shadow);
-      padding: 20px;
+      padding: 28px;
     }
 
     h1 {
-      margin: 0 0 10px;
-      font-size: clamp(1.6rem, 2.4vw, 2rem);
+      margin: 0;
+      font-size: clamp(2rem, 3vw, 2.5rem);
+      letter-spacing: -0.02em;
+      line-height: 1.1;
     }
 
-    .muted {
-      color: var(--subtle);
-      margin: 0 0 14px;
-    }
-
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .pill {
-      border: 1px solid #d9d5c9;
-      border-radius: 999px;
-      padding: 6px 10px;
-      color: #5b666f;
-      font-size: 0.9rem;
-      background: #f4f2ea;
-    }
-
-    .mode-picker {
-      display: grid;
-      gap: 10px;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      margin-top: 14px;
+    .subtitle {
+      color: var(--muted);
+      margin: 6px 0 0;
+      line-height: 1.45;
     }
 
     .loader {
       display: grid;
-      gap: 10px;
-      margin-top: 14px;
+      gap: 14px;
+      margin-top: 18px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 16px;
+      background: var(--surface);
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #6f7771;
+      font-weight: 700;
     }
 
     .source-input {
       width: 100%;
-      border: 1px solid #d4d0c4;
+      border: 1px solid var(--line);
       border-radius: 10px;
       background: #fffefb;
       color: #202a31;
-      padding: 10px 12px;
+      padding: 14px 16px;
       font-size: 0.95rem;
-      min-height: 120px;
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+      min-height: 110px;
       resize: vertical;
-      line-height: 1.4;
+      line-height: 1.5;
+      transition: border-color 0.15s;
     }
 
     .source-input:focus {
-      outline: 2px solid rgba(47, 111, 106, 0.35);
+      outline: 2px solid rgba(29, 127, 118, 0.28);
       outline-offset: 1px;
+      border-color: var(--brand);
     }
 
-    .loader-actions {
+    .source-input::placeholder { color: #9da5ab; }
+
+    /* ── Divider ── */
+    .divider {
       display: flex;
-      gap: 10px;
+      align-items: center;
+      gap: 14px;
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 600;
+    }
+
+    .divider::before,
+    .divider::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--line);
+    }
+
+    /* ── Drop zone ── */
+    .drop-zone {
+      border: 2px dashed var(--line-strong);
+      border-radius: 10px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      cursor: pointer;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.92rem;
+      background: transparent;
+      transition: border-color 0.2s, background 0.2s, color 0.2s;
+      min-height: 72px;
+    }
+
+    .drop-zone:hover {
+      border-color: #9f9681;
+      background: rgba(0, 0, 0, 0.012);
+    }
+
+    .drop-zone.drag-over {
+      border-color: var(--brand);
+      background: var(--brand-subtle);
+      color: var(--brand);
+    }
+
+    .drop-zone .drop-icon {
+      width: 28px;
+      height: 28px;
+      opacity: 0.45;
+      transition: opacity 0.2s;
+    }
+
+    .drop-zone.drag-over .drop-icon { opacity: 0.8; }
+    .drop-zone code { font-size: 0.88em; }
+
+    /* ── Mode toggle ── */
+    .mode-toggle {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .mode-option {
+      padding: 11px 14px;
+      background: #f9f6ec;
+      color: #4e5961;
+      font-weight: 600;
+      font-size: 0.95rem;
+      cursor: pointer;
+      border: none;
+      border-radius: 0;
+      text-align: left;
+      transition: background 0.15s, color 0.15s;
+      min-height: auto;
+    }
+
+    .mode-option + .mode-option {
+      border-left: 1px solid var(--line);
+    }
+
+    .mode-option:hover {
+      background: #ece7d9;
+      transform: none;
+      filter: none;
+    }
+
+    .mode-option.selected {
+      background: var(--brand);
+      color: #eef8f5;
+    }
+
+    .mode-option.selected:hover {
+      background: var(--brand-press);
+      transform: none;
+      filter: none;
+    }
+
+    .mode-desc {
+      display: block;
+      font-weight: 400;
+      font-size: 0.82rem;
+      margin-top: 2px;
+      opacity: 0.72;
+    }
+
+    /* ── Action row ── */
+    .action-row {
+      display: flex;
+      gap: 12px;
       flex-wrap: wrap;
       align-items: center;
     }
 
-    .drop-zone {
-      border: 1px dashed #bdb8a8;
-      background: #f8f6ee;
-      color: #5c666e;
-      border-radius: 10px;
-      padding: 12px;
-      cursor: pointer;
-      font-size: 0.93rem;
-      transition: background 0.15s ease, border-color 0.15s ease;
-    }
-
-    .drop-zone:hover,
-    .drop-zone.active {
-      background: #f2efe3;
-      border-color: #9b9686;
-    }
-
+    /* ── Buttons ── */
     button {
       border: 0;
       border-radius: 10px;
-      padding: 10px 14px;
-      color: #f9fdfc;
+      padding: 10px 16px;
+      color: #f7fffc;
       font-weight: 600;
+      font-size: 0.98rem;
       cursor: pointer;
-      transition: transform 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
-      background: linear-gradient(120deg, var(--accent), var(--accent-2));
+      transition: transform 0.12s ease, opacity 0.15s ease, filter 0.15s ease, background 0.15s ease;
+      background: var(--brand);
+      min-height: 42px;
     }
 
     button:hover {
       transform: translateY(-1px);
-      filter: brightness(1.05);
+      filter: brightness(1.03);
+      background: var(--brand-press);
     }
 
     button:disabled {
@@ -148,38 +247,129 @@
 
     .outline {
       background: #fffefb;
-      border: 1px solid #cfcabc;
+      border: 1px solid var(--line-strong);
       color: #44515a;
     }
 
+    .start-btn {
+      width: 100%;
+      padding: 13px 16px;
+      font-size: 1.02rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+    }
+
+    /* ── Pill ── */
+    .pill {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px 12px;
+      color: #4e5961;
+      font-size: 0.88rem;
+      background: #f4f0e4;
+      transition: background 0.2s, border-color 0.2s, color 0.2s;
+    }
+
+    .pill.success {
+      border-color: rgba(42, 122, 83, 0.3);
+      background: #ebf6ef;
+      color: #275e45;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    /* ── Format hint ── */
+    .format-hint {
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+
+    .format-hint summary {
+      cursor: pointer;
+      font-weight: 600;
+      padding: 2px 0;
+      user-select: none;
+    }
+
+    .format-hint summary:hover { color: var(--text); }
+
+    .format-hint pre {
+      background: #f4f1e7;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px 14px;
+      font-size: 0.82rem;
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      overflow-x: auto;
+      margin: 8px 0 0;
+      line-height: 1.5;
+    }
+
+    /* ── Loading spinner ── */
+    .btn-loading {
+      pointer-events: none;
+    }
+
+    .btn-loading::after {
+      content: '';
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      margin-left: 8px;
+      vertical-align: middle;
+      animation: spin 0.6s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Error ── */
+    .danger {
+      border: 1px solid rgba(177, 70, 70, 0.38);
+      background: #faeded;
+      color: #7d3030;
+      border-radius: 10px;
+      padding: 12px;
+      margin-top: 12px;
+      line-height: 1.4;
+      font-size: 0.93rem;
+    }
+
+    /* ── Quiz view ── */
     .question-card {
-      margin-top: 14px;
-      border: 1px solid #d8d4c8;
-      border-radius: 12px;
-      padding: 14px;
-      background: #fffdfa;
+      margin-top: 16px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 18px;
+      background: #fffef8;
     }
 
     .question {
-      font-size: 1.08rem;
-      line-height: 1.45;
-      margin: 0 0 12px;
+      font-size: 1.14rem;
+      line-height: 1.5;
+      margin: 0 0 14px;
     }
 
-    .answers {
-      display: grid;
-      gap: 10px;
-    }
+    .answers { display: grid; gap: 12px; }
 
     .answer {
-      border: 1px solid #d6d1c3;
+      border: 1px solid var(--line);
       border-radius: 10px;
-      background: #f8f6ef;
+      background: #f9f6ec;
       color: #243039;
       text-align: left;
       width: 100%;
       font-weight: 500;
-      padding: 11px 12px;
+      padding: 12px 13px;
+      min-height: 46px;
     }
 
     .answer.correct {
@@ -194,13 +384,11 @@
       color: #7d3030;
     }
 
-    .answer.neutral-dim {
-      opacity: 0.72;
-    }
+    .answer.neutral-dim { opacity: 0.72; }
 
     .feedback {
-      margin-top: 10px;
-      padding: 10px;
+      margin-top: 12px;
+      padding: 11px 12px;
       border-radius: 10px;
       font-weight: 600;
     }
@@ -217,22 +405,17 @@
       color: #7d3030;
     }
 
-    .results {
-      margin-top: 14px;
-      display: grid;
-      gap: 10px;
-    }
+    /* ── Results ── */
+    .results { margin-top: 16px; display: grid; gap: 12px; }
 
     .result-item {
-      border: 1px solid #d8d4c8;
+      border: 1px solid var(--line);
       border-radius: 12px;
-      padding: 10px;
+      padding: 12px;
       background: #fdfbf5;
     }
 
-    .result-item p {
-      margin: 0 0 8px;
-    }
+    .result-item p { margin: 0 0 8px; }
 
     .result-item .small {
       color: #64717b;
@@ -240,47 +423,76 @@
       line-height: 1.35;
     }
 
-    .hide {
-      display: none;
-    }
+    .hide { display: none; }
 
-    .danger {
-      border: 1px solid rgba(177, 70, 70, 0.38);
-      background: #faeded;
-      color: #7d3030;
-      border-radius: 10px;
-      padding: 12px;
-      margin-top: 12px;
-      line-height: 1.4;
+    @media (max-width: 720px) {
+      body { padding: 18px 12px; }
+      .app { padding: 18px; }
+      .loader { padding: 12px; }
+      .source-input { min-height: 100px; }
+      .mode-toggle { grid-template-columns: 1fr; }
+      .mode-option + .mode-option { border-left: none; border-top: 1px solid var(--line); }
     }
   </style>
 </head>
 <body>
   <main class="app">
-    <h1>AI Quiz Runner</h1>
-    <p class="muted">Paste a path/URL, paste raw JSON, or drop a JSON file, then run a randomized multiple-choice quiz.</p>
+    <h1>Q U I Z K I N G</h1>
+    <p class="subtitle">Load questions from a link, file, or raw JSON.</p>
 
     <section id="startView">
       <div class="loader">
+        <label for="quizSourceInput" class="section-title">Source</label>
+
         <textarea
           id="quizSourceInput"
           class="source-input"
           spellcheck="false"
-          placeholder="Paste path, URL, or raw JSON here"
-          aria-label="Path, url, or raw quiz json">_inbox/Elon_Musk/2026-02-05_Elon_Musk_In_36_months_the_cheapest_place_to_put_AI_will_be_space_BYXbuik3dgA/quiz.json</textarea>
-        <div class="loader-actions">
-          <button id="loadBtn" type="button">Load Quiz</button>
-          <div id="dropZone" class="drop-zone" role="button" tabindex="0">Drop .json file here or click to choose</div>
-          <input id="fileInput" type="file" accept=".json,application/json" class="hide" aria-hidden="true">
+          placeholder="Paste a URL, file path, or raw JSON&hellip;"
+          aria-label="Quiz source: URL, file path, or raw JSON"></textarea>
+
+        <div class="divider"><span>or</span></div>
+
+        <div id="dropZone" class="drop-zone" role="button" tabindex="0" aria-label="Drop JSON file or click to browse">
+          <svg class="drop-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+            <polyline points="14 2 14 8 20 8"/>
+            <line x1="12" y1="18" x2="12" y2="12"/>
+            <polyline points="9 15 12 12 15 15"/>
+          </svg>
+          <span>Drop a <code>.json</code> file here or <strong>browse</strong></span>
         </div>
+        <input id="fileInput" type="file" accept=".json,application/json" class="hide" aria-hidden="true">
+
+        <div class="action-row">
+          <button id="loadBtn" type="button" title="Ctrl+Enter">Load</button>
+          <span id="countPill" class="pill hide"></span>
+        </div>
+
+        <div>
+          <p class="section-title" style="margin-bottom: 8px;">Mode</p>
+          <div class="mode-toggle">
+            <button type="button" class="mode-option selected" data-mode="practice">
+              Practice
+              <span class="mode-desc">Instant feedback after each question</span>
+            </button>
+            <button type="button" class="mode-option" data-mode="test">
+              Test
+              <span class="mode-desc">See all results at the end</span>
+            </button>
+          </div>
+        </div>
+
+        <details class="format-hint">
+          <summary>Expected JSON format</summary>
+          <pre>[{
+  "question": "Your question text?",
+  "options": ["Option A", "Option B", "Option C", "Option D"],
+  "answer": "Option A"
+}]</pre>
+        </details>
       </div>
-      <div class="row">
-        <span class="pill" id="countPill">Paste source and click Load Quiz</span>
-      </div>
-      <div class="mode-picker">
-        <button id="practiceBtn">Practice Mode (instant feedback)</button>
-        <button id="testBtn">Test Mode (results at end)</button>
-      </div>
+
       <div id="loadError" class="danger hide"></div>
     </section>
 
@@ -314,6 +526,7 @@
     "use strict";
 
     const state = {
+      selectedMode: "practice",
       mode: null,
       questions: [],
       index: 0,
@@ -326,8 +539,6 @@
       startView: document.getElementById("startView"),
       quizView: document.getElementById("quizView"),
       resultsView: document.getElementById("resultsView"),
-      practiceBtn: document.getElementById("practiceBtn"),
-      testBtn: document.getElementById("testBtn"),
       quizSourceInput: document.getElementById("quizSourceInput"),
       loadBtn: document.getElementById("loadBtn"),
       dropZone: document.getElementById("dropZone"),
@@ -344,14 +555,26 @@
       restartBtn: document.getElementById("restartBtn"),
       finalScorePill: document.getElementById("finalScorePill"),
       resultsList: document.getElementById("resultsList"),
-      runAgainBtn: document.getElementById("runAgainBtn")
+      runAgainBtn: document.getElementById("runAgainBtn"),
+      modeOptions: document.querySelectorAll(".mode-option")
     };
 
+    /* ── Mode: selecting Practice or Test starts quiz if loaded ── */
+    el.modeOptions.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        el.modeOptions.forEach(function (b) { b.classList.remove("selected"); });
+        btn.classList.add("selected");
+        state.selectedMode = btn.dataset.mode;
+        if (state.questions.length) start(state.selectedMode);
+      });
+    });
+
+    /* ── Helpers ── */
     function shuffle(list) {
-      const arr = list.slice();
-      for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        const tmp = arr[i];
+      var arr = list.slice();
+      for (var i = arr.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = arr[i];
         arr[i] = arr[j];
         arr[j] = tmp;
       }
@@ -359,143 +582,162 @@
     }
 
     function sanitize(raw) {
-      const list = Array.isArray(raw) ? raw : (raw && Array.isArray(raw.questions) ? raw.questions : []);
+      var list = Array.isArray(raw) ? raw : (raw && Array.isArray(raw.questions) ? raw.questions : []);
       return list
-        .filter((item) => item && typeof item.question === "string" && Array.isArray(item.options) && typeof item.answer === "string")
-        .map((item) => ({
-          question: item.question.trim(),
-          answer: item.answer.trim(),
-          options: shuffle(item.options.map((x) => String(x).trim()))
-        }))
-        .filter((item) => item.question && item.answer && item.options.length >= 2);
+        .filter(function (item) {
+          return item && typeof item.question === "string" && Array.isArray(item.options) && typeof item.answer === "string";
+        })
+        .map(function (item) {
+          return {
+            question: item.question.trim(),
+            answer: item.answer.trim(),
+            options: shuffle(item.options.map(function (x) { return String(x).trim(); }))
+          };
+        })
+        .filter(function (item) {
+          return item.question && item.answer && item.options.length >= 2;
+        });
     }
 
     function normalizePath(path) {
-      const cleaned = String(path || "").trim().replace(/\\/g, "/");
+      var cleaned = String(path || "").trim().replace(/\\/g, "/");
       if (!cleaned) return "";
       if (/^https?:\/\//i.test(cleaned)) return cleaned;
       return cleaned.startsWith("/") ? cleaned.slice(1) : cleaned;
     }
 
     function getFetchCandidates(path) {
-      const normalized = normalizePath(path);
+      var normalized = normalizePath(path);
       if (!normalized) return [];
-
-      const candidates = [normalized];
+      var candidates = [normalized];
       if (/\/index\.html(\?.*)?$/i.test(normalized)) {
         candidates.push(normalized.replace(/\/index\.html(\?.*)?$/i, "/quiz.json"));
       } else if (/\.html(\?.*)?$/i.test(normalized)) {
         candidates.push(normalized.replace(/\.html(\?.*)?$/i, ".json"));
       }
-      return [...new Set(candidates)];
-    }
-
-    function setLoadedQuestions(questions, sourceLabel) {
-      state.questions = questions;
-      el.countPill.textContent = questions.length + " questions ready (" + sourceLabel + ")";
-      el.practiceBtn.disabled = false;
-      el.testBtn.disabled = false;
-      el.loadError.classList.add("hide");
+      return candidates.filter(function (v, i, a) { return a.indexOf(v) === i; });
     }
 
     function parseJsonIfPossible(source) {
-      try {
-        return JSON.parse(source);
-      } catch (err) {
-        return null;
-      }
+      try { return JSON.parse(source); } catch (err) { return null; }
     }
 
-    async function loadQuiz(source, sourceLabel) {
-      const trimmed = String(source || "").trim();
-      if (!trimmed) {
-        el.countPill.textContent = "Quiz not loaded";
-        el.loadError.classList.remove("hide");
-        el.loadError.textContent = "Please paste a path/URL, raw JSON, or drop a file first.";
-        el.practiceBtn.disabled = true;
-        el.testBtn.disabled = true;
-        return;
-      }
-
+    /* ── Load state management ── */
+    function setLoadedQuestions(questions) {
+      state.questions = questions;
+      el.countPill.textContent = questions.length + " questions ready";
+      el.countPill.classList.add("success");
+      el.countPill.classList.remove("hide");
       el.loadError.classList.add("hide");
-      el.countPill.textContent = "Loading...";
+    }
 
-      const parsed = parseJsonIfPossible(trimmed);
-      if (parsed !== null) {
-        const inlineQuestions = sanitize(parsed);
-        if (inlineQuestions.length) {
-          setLoadedQuestions(inlineQuestions, sourceLabel || "inline JSON");
-          return;
-        }
-      }
+    function setLoadFailed(message) {
+      el.countPill.classList.add("hide");
+      el.countPill.classList.remove("success");
+      el.loadError.classList.remove("hide");
+      el.loadError.textContent = message;
+    }
 
-      const candidates = getFetchCandidates(trimmed);
-      if (!candidates.length) {
-        el.countPill.textContent = "Quiz not loaded";
-        el.loadError.classList.remove("hide");
-        el.loadError.textContent = "Could not detect valid JSON or a valid path/URL.";
-        el.practiceBtn.disabled = true;
-        el.testBtn.disabled = true;
+    function setLoadingState(text) {
+      el.loadError.classList.add("hide");
+      el.countPill.textContent = text;
+      el.countPill.classList.remove("success");
+      el.countPill.classList.remove("hide");
+      el.loadBtn.classList.add("btn-loading");
+      el.loadBtn.disabled = true;
+    }
+
+    function clearLoadingState() {
+      el.loadBtn.classList.remove("btn-loading");
+      el.loadBtn.disabled = false;
+    }
+
+    /* ── Load quiz ── */
+    async function loadQuiz(source, sourceLabel) {
+      var trimmed = String(source || "").trim();
+      if (!trimmed) {
+        setLoadFailed("Enter a URL, file path, or paste raw JSON above.");
         return;
       }
 
-      let lastError = "Unknown error";
-      for (const candidate of candidates) {
-        try {
-          el.countPill.textContent = "Loading from " + candidate + "...";
-          const res = await fetch(candidate, { cache: "no-store" });
-          if (!res.ok) throw new Error("HTTP " + res.status);
-          const data = await res.json();
-          state.questions = sanitize(data);
-          if (!state.questions.length) {
-            throw new Error("No valid questions were found in this file.");
-          }
-          setLoadedQuestions(state.questions, candidate);
-          return;
-        } catch (err) {
-          lastError = err && err.message ? err.message : String(err);
-        }
-      }
+      setLoadingState("Loading\u2026");
 
-      el.countPill.textContent = "Quiz not loaded";
-      el.loadError.classList.remove("hide");
-      el.loadError.textContent =
-        "Could not load quiz from the provided path. " +
-        "Tried: " + candidates.join(" | ") + ". Last error: " + lastError + ". " +
-        "If you opened this page with file://, your browser may block fetch. " +
-        "Open the project in a tiny local server (for example: python -m http.server from repo root) and reload.";
-      el.practiceBtn.disabled = true;
-      el.testBtn.disabled = true;
+      try {
+        var parsed = parseJsonIfPossible(trimmed);
+        if (parsed !== null) {
+          var inlineQuestions = sanitize(parsed);
+          if (inlineQuestions.length) {
+            setLoadedQuestions(inlineQuestions);
+            return;
+          }
+        }
+
+        var candidates = getFetchCandidates(trimmed);
+        if (!candidates.length) {
+          setLoadFailed("Could not detect valid JSON or a fetchable URL/path.");
+          return;
+        }
+
+        var lastError = "Unknown error";
+        for (var ci = 0; ci < candidates.length; ci++) {
+          var candidate = candidates[ci];
+          try {
+            el.countPill.textContent = "Fetching " + candidate + "\u2026";
+            var res = await fetch(candidate, { cache: "no-store" });
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            var data = await res.json();
+            var questions = sanitize(data);
+            if (!questions.length) throw new Error("No valid questions found in this file.");
+            setLoadedQuestions(questions);
+            return;
+          } catch (err) {
+            lastError = err && err.message ? err.message : String(err);
+          }
+        }
+
+        setLoadFailed(
+          "Could not load quiz. Tried: " + candidates.join(", ") + ". " +
+          "Error: " + lastError + ". " +
+          "If using file://, try a local server (e.g. python -m http.server)."
+        );
+      } finally {
+        clearLoadingState();
+      }
     }
 
     async function loadFromFile(file) {
       if (!file) return;
       try {
-        el.countPill.textContent = "Reading file " + file.name + "...";
-        const text = await file.text();
+        setLoadingState("Reading " + file.name + "\u2026");
+        var text = await file.text();
         el.quizSourceInput.value = text;
+        autoResizeTextarea();
+        clearLoadingState();
         await loadQuiz(text, "file: " + file.name);
       } catch (err) {
-        el.countPill.textContent = "Quiz not loaded";
-        el.loadError.classList.remove("hide");
-        el.loadError.textContent = "Could not read dropped file.";
-        el.practiceBtn.disabled = true;
-        el.testBtn.disabled = true;
+        clearLoadingState();
+        setLoadFailed("Could not read the dropped file.");
       }
     }
 
+    /* ── Textarea auto-resize ── */
+    function autoResizeTextarea() {
+      el.quizSourceInput.style.height = "auto";
+      el.quizSourceInput.style.height = Math.max(110, el.quizSourceInput.scrollHeight) + "px";
+    }
+
+    el.quizSourceInput.addEventListener("input", autoResizeTextarea);
+
+    /* ── Quiz engine ── */
     function resetState(mode) {
       state.mode = mode;
       state.index = 0;
       state.score = 0;
       state.answers = [];
       state.answeredCurrent = false;
-      // Re-randomize options each run.
-      state.questions = state.questions.map((q) => ({
-        question: q.question,
-        answer: q.answer,
-        options: shuffle(q.options)
-      }));
+      state.questions = state.questions.map(function (q) {
+        return { question: q.question, answer: q.answer, options: shuffle(q.options) };
+      });
     }
 
     function show(view) {
@@ -505,9 +747,9 @@
     }
 
     function updateHeader() {
-      const total = state.questions.length;
-      el.modePill.textContent = state.mode === "practice" ? "Practice Mode" : "Test Mode";
-      el.progressPill.textContent = "Question " + (state.index + 1) + " / " + total;
+      var total = state.questions.length;
+      el.modePill.textContent = state.mode === "practice" ? "Practice" : "Test";
+      el.progressPill.textContent = (state.index + 1) + " / " + total;
       el.scorePill.textContent = "Score: " + state.score + " / " + total;
     }
 
@@ -517,27 +759,24 @@
     }
 
     function lockAnswers() {
-      const buttons = el.answers.querySelectorAll("button");
-      buttons.forEach((btn) => {
-        btn.disabled = true;
-      });
+      el.answers.querySelectorAll("button").forEach(function (btn) { btn.disabled = true; });
     }
 
     function renderQuestion() {
       state.answeredCurrent = false;
-      const q = state.questions[state.index];
+      var q = state.questions[state.index];
       updateHeader();
       el.questionText.textContent = q.question;
       el.answers.innerHTML = "";
       el.feedback.className = "feedback hide";
       el.nextBtn.disabled = state.mode === "practice";
 
-      q.options.forEach((option) => {
-        const btn = document.createElement("button");
+      q.options.forEach(function (option) {
+        var btn = document.createElement("button");
         btn.className = "answer";
         btn.type = "button";
         btn.textContent = option;
-        btn.addEventListener("click", () => onAnswerSelected(option, btn));
+        btn.addEventListener("click", function () { onAnswerSelected(option, btn); });
         el.answers.appendChild(btn);
       });
     }
@@ -545,12 +784,10 @@
     function onAnswerSelected(selectedOption, selectedButton) {
       if (state.answeredCurrent) return;
       state.answeredCurrent = true;
-      const q = state.questions[state.index];
-      const correct = selectedOption === q.answer;
+      var q = state.questions[state.index];
+      var correct = selectedOption === q.answer;
 
-      if (correct) {
-        state.score += 1;
-      }
+      if (correct) state.score += 1;
 
       state.answers.push({
         question: q.question,
@@ -560,9 +797,8 @@
       });
 
       if (state.mode === "practice") {
-        const buttons = el.answers.querySelectorAll("button");
-        buttons.forEach((btn) => {
-          const value = btn.textContent || "";
+        el.answers.querySelectorAll("button").forEach(function (btn) {
+          var value = btn.textContent || "";
           if (value === q.answer) {
             btn.classList.add("correct");
           } else if (btn === selectedButton && !correct) {
@@ -595,19 +831,19 @@
 
     function renderResults() {
       show("results");
-      const total = state.questions.length;
-      const pct = Math.round((state.score / total) * 100);
+      var total = state.questions.length;
+      var pct = Math.round((state.score / total) * 100);
       el.finalScorePill.textContent = "Final Score: " + state.score + " / " + total + " (" + pct + "%)";
       el.resultsList.innerHTML = "";
 
-      state.answers.forEach((item, idx) => {
-        const box = document.createElement("div");
+      state.answers.forEach(function (item, idx) {
+        var box = document.createElement("div");
         box.className = "result-item";
         box.innerHTML =
           "<p><strong>Q" + (idx + 1) + ":</strong> " + item.question + "</p>" +
           "<p class='small'>Your answer: " + item.selected + "</p>" +
           "<p class='small'>Correct answer: " + item.correct + "</p>" +
-          "<p class='small' style='color:" + (item.isCorrect ? "#9ff5ca" : "#ffb7bf") + ";font-weight:700;'>" +
+          "<p class='small' style='color:" + (item.isCorrect ? "#2a7a53" : "#a94747") + ";font-weight:700;'>" +
           (item.isCorrect ? "Correct" : "Incorrect") + "</p>";
         el.resultsList.appendChild(box);
       });
@@ -619,44 +855,55 @@
       renderQuestion();
     }
 
-    el.practiceBtn.addEventListener("click", () => start("practice"));
-    el.testBtn.addEventListener("click", () => start("test"));
-    el.loadBtn.addEventListener("click", () => loadQuiz(el.quizSourceInput.value));
-    el.quizSourceInput.addEventListener("keydown", (event) => {
+    /* ── Event listeners ── */
+    el.loadBtn.addEventListener("click", function () {
+      loadQuiz(el.quizSourceInput.value);
+    });
+
+    el.quizSourceInput.addEventListener("keydown", function (event) {
       if ((event.ctrlKey || event.metaKey) && event.key === "Enter") {
         loadQuiz(el.quizSourceInput.value);
       }
     });
-    el.dropZone.addEventListener("click", () => el.fileInput.click());
-    el.dropZone.addEventListener("keydown", (event) => {
+
+    el.dropZone.addEventListener("click", function () { el.fileInput.click(); });
+    el.dropZone.addEventListener("keydown", function (event) {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
         el.fileInput.click();
       }
     });
-    el.fileInput.addEventListener("change", () => {
-      const file = el.fileInput.files && el.fileInput.files[0];
-      loadFromFile(file);
-    });
-    el.dropZone.addEventListener("dragover", (event) => {
-      event.preventDefault();
-      el.dropZone.classList.add("active");
-    });
-    el.dropZone.addEventListener("dragleave", () => {
-      el.dropZone.classList.remove("active");
-    });
-    el.dropZone.addEventListener("drop", (event) => {
-      event.preventDefault();
-      el.dropZone.classList.remove("active");
-      const file = event.dataTransfer && event.dataTransfer.files && event.dataTransfer.files[0];
-      loadFromFile(file);
-    });
-    el.nextBtn.addEventListener("click", nextQuestion);
-    el.restartBtn.addEventListener("click", () => show("start"));
-    el.runAgainBtn.addEventListener("click", () => show("start"));
 
-    el.practiceBtn.disabled = true;
-    el.testBtn.disabled = true;
+    el.fileInput.addEventListener("change", function () {
+      var file = el.fileInput.files && el.fileInput.files[0];
+      loadFromFile(file);
+    });
+
+    var dragCounter = 0;
+    document.addEventListener("dragenter", function (e) {
+      e.preventDefault();
+      dragCounter++;
+      if (dragCounter === 1) el.dropZone.classList.add("drag-over");
+    });
+    document.addEventListener("dragleave", function () {
+      dragCounter--;
+      if (dragCounter <= 0) {
+        dragCounter = 0;
+        el.dropZone.classList.remove("drag-over");
+      }
+    });
+    document.addEventListener("dragover", function (e) { e.preventDefault(); });
+    document.addEventListener("drop", function (e) {
+      e.preventDefault();
+      dragCounter = 0;
+      el.dropZone.classList.remove("drag-over");
+      var file = e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0];
+      if (file) loadFromFile(file);
+    });
+
+    el.nextBtn.addEventListener("click", nextQuestion);
+    el.restartBtn.addEventListener("click", function () { show("start"); });
+    el.runAgainBtn.addEventListener("click", function () { show("start"); });
   </script>
 </body>
 </html>
