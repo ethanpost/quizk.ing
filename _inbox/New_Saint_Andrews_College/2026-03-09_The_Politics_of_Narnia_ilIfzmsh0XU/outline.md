@@ -1,9 +1,8 @@
-Title: The Politics of Narnia
-Author: New Saint Andrews College
-Source: https://www.youtube.com/watch?v=ilIfzmsh0XU
-Date: 2026-03-09
-Folder: New_Saint_Andrews_College
--------
+# Title: The Politics of Narnia
+### Author: New Saint Andrews College
+### Source: https://www.youtube.com/watch?v=ilIfzmsh0XU
+### Date: 2026-03-09
+###Folder: New_Saint_Andrews_College
 
 # Detailed Outline
 
