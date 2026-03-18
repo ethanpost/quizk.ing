@@ -6,6 +6,18 @@ The result must be stored in a file called:
 
 quiz.json
 
+OUTPUT STRUCTURE
+
+The file must be a single JSON object with two top-level keys:
+
+1. **meta** — Information about the quiz source (fill from the provided material when available):
+   - **title** (string): Title of the source (e.g. video or article).
+   - **author** (string, optional): Author or channel name.
+   - **url** (string, optional): URL of the source (e.g. YouTube link).
+   - **date** (string, optional): Publication date in YYYY-MM-DD format.
+
+2. **questions** — An array of question objects (see below).
+
 
 QUESTION FORMAT
 
@@ -18,7 +30,7 @@ Each question must use this exact structure:
 }
 
 
-Example:
+Example (single question):
 
 {
   "question": "What is the main advantage of solid state relays over mechanical switches?",
@@ -80,13 +92,22 @@ Return the result as a valid JSON array stored inside the file block below.
 
 FILE: quiz.json
 
-[
-  {
-    "question": "...",
-    "options": ["...", "...", "...", "..."],
-    "answer": "..."
-  }
-]
+{
+  "meta": {
+    "title": "Title of the source material",
+    "author": "Author or channel name",
+    "url": "https://example.com/source",
+    "date": "2025-10-22",
+    "generated_at": "2025-03-15T12:00:00Z"
+  },
+  "questions": [
+    {
+      "question": "...",
+      "options": ["...", "...", "...", "..."],
+      "answer": "..."
+    }
+  ]
+}
 
 
 OUTPUT RULES
@@ -94,4 +115,5 @@ OUTPUT RULES
 • Only output the file block.  
 • Do not include explanations.  
 • Do not include markdown code fences.  
-• Ensure the JSON is valid and parseable.
+• Ensure the JSON is valid and parseable.  
+• Include **meta** with whatever source information is available from the provided material; omit optional meta fields if unknown.

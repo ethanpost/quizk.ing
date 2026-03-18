@@ -1,8 +1,8 @@
 ---
 title: Explaining the Pax Americana
 author: History102
-source_url: https://www.youtube.com/watch?v=j9PJPK_jeZg
-publish_date: 2026-03-03
+url: https://www.youtube.com/watch?v=j9PJPK_jeZg
+date: 2026-03-03
 ---
 
 # Summary

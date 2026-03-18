@@ -1,4 +1,11 @@
-[
+{
+  "meta": {
+    "title": "Elon Musk - \"In 36 months, the cheapest place to put AI will be space\"",
+    "author": "Dwarkesh Podcast",
+    "url": "https://www.youtube.com/watch?v=BYXbuik3dgA",
+    "date": "2026-02-05"
+  },
+  "questions": [
   {
     "question": "According to the discussion, why will space become the most economically compelling place for AI within roughly 36 months?",
     "options": [
@@ -169,4 +176,5 @@
     ],
     "answer": "Reusable heat shield that survives ascent and reentry without losing tiles"
   }
-]
+  ]
+}

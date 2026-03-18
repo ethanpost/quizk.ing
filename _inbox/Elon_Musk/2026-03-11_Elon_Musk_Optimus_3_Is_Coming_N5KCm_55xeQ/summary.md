@@ -3,8 +3,8 @@ FILE: summary.md
 ---
 title: Elon Musk: Optimus 3 Is Coming
 author: Peter H. Diamandis
-source_url: https://www.youtube.com/watch?v=N5KCm_55xeQ
-publish_date: 2026-03-11
+url: https://www.youtube.com/watch?v=N5KCm_55xeQ
+date: 2026-03-11
 ---
 
 # Summary

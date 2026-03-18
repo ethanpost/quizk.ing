@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "title": "The Los Angeles Aqueduct is Wild",
+    "author": "Practical Engineering",
+    "url": "https://www.youtube.com/watch?v=PhW2BjFQCZM",
+    "date": "2026-03-17",
+    "generated_at": "2026-03-18T00:00:00Z"
+  },
+  "questions": [
+    {
+      "question": "In engineering usage, an “aqueduct” refers to what?",
+      "options": ["Only a bridge carrying water", "Any long-distance system conveying water to a distribution point", "A reservoir used to store water", "A tunnel exclusively used for sewerage"],
+      "answer": "Any long-distance system conveying water to a distribution point"
+    },
+    {
+      "question": "What was the “official start” of the LA Aqueduct (as described in the video’s tour)?",
+      "options": ["The Los Angeles Reservoir", "The Owens River Diversion Weir", "Fairmont Reservoir", "Elizabeth Tunnel"],
+      "answer": "The Owens River Diversion Weir"
+    },
+    {
+      "question": "How does the LA Aqueduct primarily move water toward Los Angeles?",
+      "options": ["With continuous pumping", "By gravity-driven flow with elevation management", "By wind-powered turbines", "By desalination and chemical treatment"],
+      "answer": "By gravity-driven flow with elevation management"
+    },
+    {
+      "question": "Why is maintaining a relatively constant slope important for the open canal section?",
+      "options": ["It reduces the need for electricity generation", "It improves the efficiency of flow", "It prevents the canal from being vandalized", "It ensures the water arrives in Los Angeles instantly"],
+      "answer": "It improves the efficiency of flow"
+    },
+    {
+      "question": "Roughly how long is the water journey the aqueduct system supports (as stated for the overall trip)?",
+      "options": ["About 30 miles", "About 100 miles", "About 300 miles", "About 1,000 miles"],
+      "answer": "About 300 miles"
+    },
+    {
+      "question": "Which statement best describes the political conflict around the Owens Valley acquisitions?",
+      "options": ["Acquisitions were portrayed as transparent and cooperative", "Acquisitions were carried out in bad faith, straining relationships and disrupting local life", "Local residents had little involvement in opposition", "The conflict was limited to disputes over bridge design"],
+      "answer": "Acquisitions were carried out in bad faith, straining relationships and disrupting local life"
+    },
+    {
+      "question": "What is one example of resistance described by the video from the early 1920s?",
+      "options": ["Residents used paint to mark the aqueduct", "Ranchers used dynamite to blow up a part of the canal", "A court ordered the gates to be permanently welded shut", "The aqueduct was moved underground immediately after construction began"],
+      "answer": "Ranchers used dynamite to blow up a part of the canal"
+    },
+    {
+      "question": "What do the Alabama Gates do in the aqueduct system?",
+      "options": ["They permanently close the canal to stop all flow", "They act as a spillway allowing operators to divert water back to the Owens River", "They filter water before it reaches Los Angeles", "They store water to be released later for irrigation"],
+      "answer": "They act as a spillway allowing operators to divert water back to the Owens River"
+    },
+    {
+      "question": "Why was the Alabama Gates area an important dividing line in design (as explained)?",
+      "options": ["It marked where pumps were introduced to maintain pressure", "It marked a transition from an unlined canal to a concrete-lined channel to reduce seepage losses", "It marked where the system became desalinated", "It marked where the hydropower plants were first installed"],
+      "answer": "It marked a transition from an unlined canal to a concrete-lined channel to reduce seepage losses"
+    },
+    {
+      "question": "What problem emerges later from Owens Lake’s drying (beyond immediate ecological impacts)?",
+      "options": ["The lakebed becomes too cold for wildlife", "Exposed sediment becomes airborne dust that is dangerous to breathe", "Owens Lake turns into a saline ocean", "The water changes color and becomes unusable for drinking"],
+      "answer": "Exposed sediment becomes airborne dust that is dangerous to breathe"
+    },
+    {
+      "question": "According to the video, what did LA spend to address Owens Lake dust pollution?",
+      "options": ["Less than $10 million", "About $100 million", "More than a billion dollars", "About $10 billion"],
+      "answer": "More than a billion dollars"
+    },
+    {
+      "question": "Why was Haiwee Reservoir originally built?",
+      "options": ["To replace the need for diversion structures", "As a buffer so the aqueduct could keep running during upstream disruptions", "To eliminate the need for filtration in Los Angeles", "To increase the aqueduct’s slope using mechanical leveling"],
+      "answer": "As a buffer so the aqueduct could keep running during upstream disruptions"
+    },
+    {
+      "question": "In the 1960s, how was the reservoir configuration changed, and what did that enable conceptually?",
+      "options": ["It was reduced to a single basin, simplifying operations", "It was reconfigured into two basins to add flexibility as the aqueduct became two", "It was moved to a coastal location", "It was converted into underground storage with no surface exposure"],
+      "answer": "It was reconfigured into two basins to add flexibility as the aqueduct became two"
+    },
+    {
+      "question": "What additional infrastructure was built in 1970 (as described) to increase flow capacity?",
+      "options": ["A new diversion weir", "A second aqueduct/conduit", "A replacement tunnel for Elizabeth", "A pumping station for the open canal section"],
+      "answer": "A second aqueduct/conduit"
+    },
+    {
+      "question": "Which set of benefits does the video associate with running aqueduct sections underground in a desert landscape?",
+      "options": ["More evaporation and more contamination risk", "Less evaporation and reduced contamination risk, plus fewer surface ecological disruptions", "More frequent wildlife deaths due to surface barriers", "A requirement for continuous pumping"],
+      "answer": "Less evaporation and reduced contamination risk, plus fewer surface ecological disruptions"
+    },
+    {
+      "question": "What is the trade-off the video emphasizes when comparing underground conduits to surface channels?",
+      "options": ["Underground conduits are cheaper", "Underground conduits eliminate all topographic difficulties", "Underground conduits are more expensive than simple surface channels", "Surface channels eliminate seepage issues completely"],
+      "answer": "Underground conduits are more expensive than simple surface channels"
+    },
+    {
+      "question": "What structure type is used at Jawbone Canyon to handle a major drop without a large detour?",
+      "options": ["A gravity siphon with open exposure", "An inverted siphon with pressurized flow", "A floating pipeline", "A series of pumps mounted aboveground"],
+      "answer": "An inverted siphon with pressurized flow"
+    },
+    {
+      "question": "The video states that 850 feet of water column corresponds to roughly what pressure?",
+      "options": ["About 40 psi", "About 120 psi", "About 370 psi (around 26 bar)", "About 1,000 psi"],
+      "answer": "About 370 psi (around 26 bar)"
+    },
+    {
+      "question": "How were the specially manufactured steel components for large pressurized siphon sections transported (as described)?",
+      "options": ["By rail directly across the continent", "By ship around Cape Horn because the Panama Canal was under construction", "By pipeline through the Sierra tunnel", "By air freight only"],
+      "answer": "By ship around Cape Horn because the Panama Canal was under construction"
+    },
+    {
+      "question": "What is the role of the newly completed transfer facility between the California Aqueduct and the LA Aqueduct (at the crossing)?",
+      "options": ["It permanently disconnects LA from the state system", "It can pump water directly into the first LA aqueduct, enabling flexibility in trades", "It filters the state’s water before it reaches any LA treatment", "It stores water only during earthquakes, not during normal operations"],
+      "answer": "It can pump water directly into the first LA aqueduct, enabling flexibility in trades"
+    },
+    {
+      "question": "Why is the second (later) aqueduct project described as taking a more direct path than the earlier one?",
+      "options": ["Because it avoided using any specialized materials", "Because labor costs rose more than material costs, making pressurized conduit materials more acceptable", "Because the earlier project followed topography only by mistake", "Because later engineers refused to use concrete lining"],
+      "answer": "Because labor costs rose more than material costs, making pressurized conduit materials more acceptable"
+    },
+    {
+      "question": "Where do the two aqueducts come back together (as stated after more than a hundred miles apart)?",
+      "options": ["At Drinkwater Reservoir", "At Fairmont Reservoir", "At Los Angeles Reservoir", "At Owens Lake’s dried lakebed"],
+      "answer": "At Fairmont Reservoir"
+    },
+    {
+      "question": "What did Elizabeth Tunnel primarily enable for the aqueduct system?",
+      "options": ["A detour to avoid hard rock", "Crossing the mountain range without pumps by providing a major tunnel passage", "An open-air canal section across the Sierra Pelona Mountains", "A replacement for hydropower plants"],
+      "answer": "Crossing the mountain range without pumps by providing a major tunnel passage"
+    },
+    {
+      "question": "What is one stated function of the hydroelectric plants along the aqueduct?",
+      "options": ["They only serve as decorative museum sites", "They capture energy from water as it flows downward and help pay for parts of the project", "They replace filtration and disinfection steps", "They are used to desalinate water"],
+      "answer": "They capture energy from water as it flows downward and help pay for parts of the project"
+    },
+    {
+      "question": "Which design element is described as providing “insurance” against simultaneous shortages during a major earthquake risk scenario?",
+      "options": ["A single-use temporary bridge", "Bouquet Canyon reservoir", "The Alabama Gates spillway mechanism", "Plastic shade balls"],
+      "answer": "Bouquet Canyon reservoir"
+    },
+    {
+      "question": "What disaster is described as having famously destroyed a reservoir-related project, affecting parts of the aqueduct system?",
+      "options": ["The St. Francis Dam failure (1928)", "The Mono Lake dust storm of 1932", "The California Aqueduct construction strike of 1945", "The Owens Lake flooding of 1970"],
+      "answer": "The St. Francis Dam failure (1928)"
+    },
+    {
+      "question": "After the St. Francis Dam failure, what does the video claim about restoration time for aqueduct service?",
+      "options": ["It took decades to restore", "It restored to functioning service in about 12 days", "It was never restored", "Restoration took less than a day"],
+      "answer": "It restored to functioning service in about 12 days"
+    },
+    {
+      "question": "What change in the 2000s did drinking-water rules drive regarding open reservoirs holding treated water?",
+      "options": ["They required replacing reservoirs with pumps", "They pushed utilities to add stronger protection using floating plastic shade balls", "They required removing all reservoir covers permanently", "They eliminated the need for disinfection"],
+      "answer": "They pushed utilities to add stronger protection using floating plastic shade balls"
+    },
+    {
+      "question": "How did LA extend its upstream water sourcing beyond the Owens River project (as described in 1940)?",
+      "options": ["By connecting to the Colorado River system in 1940", "By connecting the Mono basin and funneling its water through tunnels to the Owens River basin", "By drilling desalination wells in the Owens Valley", "By building a new gravity canal from the Pacific coast"],
+      "answer": "By connecting the Mono basin and funneling its water through tunnels to the Owens River basin"
+    },
+    {
+      "question": "What lesson does the video emphasize about engineering’s future role at the intersection of forces like geology, climate, culture, politics, and human need?",
+      "options": ["Engineering should avoid considering politics entirely", "Engineering makes a difference by grappling with the messy intersection of multiple constraints", "Engineering should treat landscapes as machines with only one output and ignore downstream effects", "Engineering only matters when climate stays perfectly predictable forever"],
+      "answer": "Engineering makes a difference by grappling with the messy intersection of multiple constraints"
+    }
+  ]
+}

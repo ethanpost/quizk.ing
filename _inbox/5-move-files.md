@@ -36,8 +36,8 @@ Example:
 ---
 title: The Obvious Problem That No One Can Agree On
 author: Veritasium
-source_url: https://www.youtube.com/watch?v=Ol18JoeXlVI
-publish_date: 2026-03-09
+url: https://www.youtube.com/watch?v=Ol18JoeXlVI
+date: 2026-03-09
 folder: Veritasium
 ---
 ```
@@ -45,7 +45,7 @@ folder: Veritasium
 Extract the following values:
 
 title
-publish_date
+date
 folder
 
 ---
@@ -78,14 +78,14 @@ YYYY-MM-DD_Title_With_Underscores_SourceID
 
 Rules:
 
-• Start with publish_date exactly as YYYY-MM-DD  
+• Start with date exactly as YYYY-MM-DD  
 • Add an underscore `_`  
 • Append the title  
 • Replace spaces with `_`  
 • Remove punctuation and special characters  
 • Keep only letters, numbers, and underscores  
 
-If the source_url contains a YouTube video ID:
+If the url contains a YouTube video ID:
 
 Example:
 https://www.youtube.com/watch?v=Ol18JoeXlVI

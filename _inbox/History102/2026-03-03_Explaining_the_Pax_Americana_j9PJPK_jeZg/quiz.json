@@ -1,4 +1,11 @@
-[
+{
+  "meta": {
+    "title": "Explaining the Pax Americana",
+    "author": "History102",
+    "url": "https://www.youtube.com/watch?v=j9PJPK_jeZg",
+    "date": "2026-03-03"
+  },
+  "questions": [
   {
     "question": "According to the outline, what is the core issue of the American Empire?",
     "options": ["Its reliance on European aristocratic models", "Disproportionate use of force due to mass democracy", "Lack of nuclear capability until the Cold War", "Refusal to join the League of Nations"],
@@ -89,4 +96,5 @@
     "options": ["America did not have enough troops", "America should have assessed value and applied calibrated force; instead it encouraged decolonization, left a void, drafted youth, and waffled between conquest and withdrawal", "The Soviet Union had superior technology", "Congress declared war too late"],
     "answer": "America should have assessed value and applied calibrated force; instead it encouraged decolonization, left a void, drafted youth, and waffled between conquest and withdrawal"
   }
-]
+  ]
+}

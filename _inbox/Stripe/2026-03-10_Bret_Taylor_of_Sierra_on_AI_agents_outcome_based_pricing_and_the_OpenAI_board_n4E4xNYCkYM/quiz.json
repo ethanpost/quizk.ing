@@ -1,4 +1,10 @@
-[
+{
+  "meta": {
+    "title": "Bret Taylor of Sierra on AI Agents, Outcome-Based Pricing, and the OpenAI Board",
+    "url": "https://www.youtube.com/watch?v=n4E4xNYCkYM",
+    "date": "2026-03-10"
+  },
+  "questions": [
   {
     "question": "According to the outline, what is an agent harness?",
     "options": ["A protocol for exposing tools to agents, similar to MCP", "The context, skills, documentation, and rules given to an AI agent so it can act effectively", "A type of outcome-based pricing model used by Sierra", "The database that serves as the system of record for a department"],
@@ -89,4 +95,5 @@
     "options": ["Via a custom agent protocol built by Sierra", "Using MCP servers hosted by each company", "English over the public switched telephone network (PSTN)", "Through a shared vector database"],
     "answer": "English over the public switched telephone network (PSTN)"
   }
-]
+  ]
+}

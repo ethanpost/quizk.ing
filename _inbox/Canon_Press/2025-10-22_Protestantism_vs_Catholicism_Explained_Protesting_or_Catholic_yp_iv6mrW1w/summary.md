@@ -1,8 +1,8 @@
 ---
 title: Protestantism vs Catholicism Explained | Protesting or Catholic
 author: Canon Press
-source_url: https://www.youtube.com/watch?v=yp_iv6mrW1w
-publish_date: 2025-10-22
+url: https://www.youtube.com/watch?v=yp_iv6mrW1w
+date: 2025-10-22
 ---
 
 # Summary

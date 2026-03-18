@@ -1,8 +1,8 @@
 ---
 title: Narnia and Politics
 author: Kings and Statesmen (with Joe Rigney & Doug Wilson)
-source_url:
-publish_date:
+url:
+date:
 ---
 
 # Summary

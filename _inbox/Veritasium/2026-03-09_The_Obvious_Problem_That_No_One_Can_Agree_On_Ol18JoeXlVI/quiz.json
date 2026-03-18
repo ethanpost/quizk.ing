@@ -1,4 +1,11 @@
-[
+{
+  "meta": {
+    "title": "The Obvious Problem That No One Can Agree On",
+    "author": "Veritasium",
+    "url": "https://www.youtube.com/watch?v=Ol18JoeXlVI",
+    "date": "2026-03-09"
+  },
+  "questions": [
   {
     "question": "In Newcomb's paradox, when does the supercomputer put $1 million in the mystery box?",
     "options": [
@@ -169,4 +176,5 @@
     ],
     "answer": "The best outcome follows from pre-committing to a seemingly worse option"
   }
-]
+  ]
+}

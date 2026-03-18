@@ -11,7 +11,7 @@ INPUT
 
 You will receive the contents of outline.md, which contains:
 
-- metadata (title, author, source_url, publish_date)
+- metadata (title, author, url, date)
 - a detailed outline
 - core ideas
 - key terms
@@ -30,8 +30,8 @@ Example:
 ---
 title: The Obvious Problem That No One Can Agree On
 author: Veritasium
-source_url: https://www.youtube.com/watch?v=Ol18JoeXlVI
-publish_date: 2026-03-09
+url: https://www.youtube.com/watch?v=Ol18JoeXlVI
+date: 2026-03-09
 ---
 
 Use these values in the summary file.
@@ -73,8 +73,8 @@ FILE: summary.md
 ---
 title:
 author:
-source_url:
-publish_date:
+url:
+date:
 ---
 
 # Summary

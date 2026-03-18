@@ -1,4 +1,8 @@
-[
+{
+  "meta": {
+    "title": "Judicial Sex-Leveling & The Decline of VMI"
+  },
+  "questions": [
   {
     "question": "What was the historical core mission of the Virginia Military Institute (VMI) as described in the lecture?",
     "options": [
@@ -139,4 +143,5 @@
     ],
     "answer": "Establishing new all‑male military schools in friendly jurisdictions and using the factual record of VMI’s transformation to press for reconsideration of United States v. Virginia"
   }
-]
+  ]
+}

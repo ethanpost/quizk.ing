@@ -1,4 +1,11 @@
-[
+{
+  "meta": {
+    "title": "Protestantism vs Catholicism Explained | Protesting or Catholic",
+    "author": "Canon Press",
+    "url": "https://www.youtube.com/watch?v=yp_iv6mrW1w",
+    "date": "2025-10-22"
+  },
+  "questions": [
   {
     "question": "According to the outline, what are the two equally authoritative parts of the Roman Catholic \"deposit of faith\"?",
     "options": ["Scripture and the Pope", "Scripture and tradition", "Tradition and church councils", "The magisterium and canon law"],
@@ -144,4 +151,5 @@
     "options": ["Popular devotion", "Institutional heft and power", "The early church fathers", "The Eastern church"],
     "answer": "Institutional heft and power"
   }
-]
+  ]
+}

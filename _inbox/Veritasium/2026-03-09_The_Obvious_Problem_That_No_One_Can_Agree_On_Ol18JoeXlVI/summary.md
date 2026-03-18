@@ -1,8 +1,8 @@
 ---
 title: The Obvious Problem That No One Can Agree On
 author: Veritasium
-source_url: https://www.youtube.com/watch?v=Ol18JoeXlVI
-publish_date: 2026-03-09
+url: https://www.youtube.com/watch?v=Ol18JoeXlVI
+date: 2026-03-09
 ---
 
 # Summary

@@ -1,4 +1,11 @@
-[
+{
+  "meta": {
+    "title": "Elon Musk: Optimus 3 Is Coming",
+    "author": "Peter H. Diamandis",
+    "url": "https://www.youtube.com/watch?v=N5KCm_55xeQ",
+    "date": "2026-03-11"
+  },
+  "questions": [
   {
     "question": "According to the material, what best describes recursive self-improvement in AI today?",
     "options": [
@@ -119,4 +126,5 @@
     ],
     "answer": "Medical capability could become broadly accessible at levels exceeding what today's richest individuals receive"
   }
-]
+  ]
+}
