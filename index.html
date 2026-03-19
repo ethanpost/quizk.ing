@@ -465,6 +465,7 @@
     .guide summary {
       display: flex;
       align-items: center;
+      margin-left: 16px;
       gap: 10px;
       padding: 16px 16px;
       font-size: 1.3rem;
@@ -712,7 +713,7 @@
         <h3>Quick Start</h3>
         <div class="step-grid">
           <span class="step-num">1</span>
-          <span class="step-text">Provide a quiz &mdash; paste raw JSON into the text area, enter a URL to a <code>.json</code> file, or drag-and-drop / upload a file.</span>
+          <span class="step-text">Provide a quiz &mdash; paste raw JSON (either a bare array or an object with <code>questions</code>) into the text area, enter a URL to a <code>.json</code> file, or drag-and-drop / upload a file.</span>
           <span class="step-num">2</span>
           <span class="step-text">Pick a mode &mdash; <strong>Practice</strong> or <strong>Test</strong> (see below).</span>
           <span class="step-num">3</span>
@@ -734,7 +735,7 @@
         <h3>Loading a Quiz</h3>
         <p>You can load questions in three ways:</p>
         <ul>
-          <li><strong>Raw JSON</strong> &mdash; paste the full JSON array directly into the text area.</li>
+          <li><strong>Raw JSON</strong> &mdash; paste either a bare JSON array of questions or a wrapper object (commonly under <code>questions</code>).</li>
           <li><strong>URL</strong> &mdash; enter a public URL pointing to a <code>.json</code> file. If you enter an <code>.html</code> URL the loader will also try a matching <code>.json</code> path automatically.</li>
           <li><strong>File upload</strong> &mdash; click <em>Upload .json</em> or drag a file onto the input area.</li>
         </ul>
@@ -743,7 +744,7 @@
         <p>Use <code>url</code> as the parameter name, and make sure the value points to a publicly accessible JSON file.</p>
 
         <h3>Question Format</h3>
-        <p>The JSON should be an array of question objects. Each object needs a <code>question</code> string, an <code>options</code> array, and an <code>answer</code> that matches one of the options:</p>
+        <p>Each question object needs a <code>question</code> string, an <code>options</code> array, and an <code>answer</code> that matches one of the options.</p>
 <pre><code>[
   {
     "question": "What is the capital of France?",
@@ -756,6 +757,13 @@
     "answer": "Mercury"
   }
 ]</code></pre>
+        <p>If you prefer a wrapper object, put your question array under <code>questions</code> (and optionally add <code>meta</code> / <code>metadata</code> for the header card):</p>
+<pre><code>{
+  "meta": { "title": "My Quiz", "author": "Me", "date": "2026-03-19", "url": "https://example.com" },
+  "questions": [
+    { "question": "...", "options": ["A", "B", "C"], "answer": "A" }
+  ]
+}</code></pre>
         <p>Alternatively, you can use a <code>"correct"</code> field instead of <code>"answer"</code> &mdash; either as a zero-based index into the <code>options</code> array (e.g. <code>"correct": 2</code>) or as the literal answer string. Both styles work interchangeably.</p>
 
         <h3>Other Details</h3>
@@ -763,7 +771,8 @@
           <li>Answer order is randomized each time you start a quiz.</li>
           <li>Questions with fewer than two options or missing correct answers are silently skipped.</li>
           <li>You can re-load the same quiz to get a fresh shuffle, or switch modes at any time from the start screen.</li>
-          <li>The quiz wraps a <code>{ "questions": [...] }</code> envelope too, so either a bare array or an object with a <code>questions</code> key will work.</li>
+          <li>The question list can be either a bare array or a wrapper object (for example <code>{ "questions": [...] }</code>). The loader is also tolerant of other wrapper keys as long as it can find an array of question objects.</li>
+          <li>If the top-level wrapper includes <code>meta</code> or <code>metadata</code> (with <code>title</code>, <code>author</code>, <code>date</code>, and/or <code>url</code>), those populate the "Loaded Quiz" card.</li>
         </ul>
 
       </div>

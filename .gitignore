@@ -2,3 +2,4 @@
 *.secret
 *.txt
 /_private
+/_inbox
