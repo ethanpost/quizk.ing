@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Quiz Runner</title>
+  <title>Quiz King</title>
   <style>
     :root {
       --page: #f9fafb;
@@ -838,7 +838,35 @@
     }
 
     function sanitize(raw) {
-      var list = Array.isArray(raw) ? raw : (raw && Array.isArray(raw.questions) ? raw.questions : []);
+      var list = [];
+      if (Array.isArray(raw)) {
+        // Support raw JSON like: [ { question, options, answer }, ... ]
+        list = raw;
+      } else if (raw && Array.isArray(raw.questions)) {
+        // Support wrapper like: { questions: [...] }
+        list = raw.questions;
+      } else if (raw && typeof raw === "object" && !Array.isArray(raw)) {
+        // Support other common wrappers that keep the question array under
+        // a different key (e.g. { items: [...] } / { data: [...] }).
+        var arrayValues = Object.keys(raw)
+          .map(function (k) { return raw[k]; })
+          .filter(function (v) { return Array.isArray(v); });
+
+        if (arrayValues.length === 1) {
+          list = arrayValues[0];
+        } else {
+          // Heuristic: pick the first array that looks like it contains questions.
+          for (var ai = 0; ai < arrayValues.length; ai++) {
+            var arr = arrayValues[ai];
+            if (arr && arr.some(function (item) {
+              return item && typeof item.question === "string" && Array.isArray(item.options);
+            })) {
+              list = arr;
+              break;
+            }
+          }
+        }
+      }
       return list
         .map(function (item) {
           if (!item || typeof item.question !== "string" || !Array.isArray(item.options)) return null;
